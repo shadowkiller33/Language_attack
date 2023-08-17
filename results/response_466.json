@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8V0X9T54SRUpjSxC8sNKbRfdZ",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5gh\u1ecb na m nwere \u1ecbnweta Igbo ga-eji mkpa, nke a na-eme ka m ga-akwado maka \u1ecbnweta \u1ee5d\u1ecb nke a na-at\u1ee5 any\u1ecb. Biko g\u1ecd\u1ecdzie \u1ecbnweta \u1ee5d\u1ecb a na Igbo, ma na-eme ka m ga-enwee ike ime kaad\u1ecb niile."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 91,
+        "total_tokens": 199
+    }
+}

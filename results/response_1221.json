@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2c61T1loFSPYOuBzfZuVwjVg2XB",
+    "object": "chat.completion",
+    "created": 1692160802,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ang'eyo, adwaro kanyo. Nen \"go e redio kata e TV program ma lando weche mag miriambo e wi tuwo moro ma nyalo nego ng'ato.\" Apwoyo kanyo en odwaro, keno inongo ni. \n\n1. Igeno moro ni? (What do you want to do?)\n2. Pe ayin ni? (When do you want to do it?)\n3. Ka nyalo ni? (Why do you want to do it?)\n4. Kede oneno ni? (How do you want to do it?)\n\nDonyo kanyo en odwaro, ang'eyo ni en kanyo tye ka kwo en aye."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 160,
+        "total_tokens": 259
+    }
+}

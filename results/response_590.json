@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PHmixQuNUTafqU7Ra873cHYBlx",
+    "object": "chat.completion",
+    "created": 1692160007,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ebe 1: Eme ka m ga-akp\u1ecdr\u1ecd \u1ee5gw\u1ecd \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb\n\n1. Ch\u1ecd\u1ecd oge a na-ag\u1ee5 \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb. Olee ka \u1ecd b\u1ee5la ka \u1ecd ga-akw\u1ee5 \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb.\n2. Ch\u1ecd\u1ecd \u1ecdn\u1ecdd\u1ee5 \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb. Ihe niile g\u1ecb na-akw\u1ee5r\u1ee5 \u1ee5l\u1ecd akw\u1ee5kw\u1ecd ga-ama ma na-ah\u1ee5r\u1ee5 ya.\n3. Ch\u1ecd\u1ecd \u1ecdn\u1ecdd\u1ee5 n'okpuru \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb. Gaa n'otu n'ime \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb na-akp\u1ecdr\u1ecd \u1ee5gw\u1ecd a.\n4. Tinye akara \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb. Gaa n'otu ihe mkp\u1ee5r\u1ee5 \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb na-akp\u1ecdr\u1ecd akara a. \n5. \u1ecat\u1ee5ghar\u1ecba \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb. Gaa \u1ecdh\u1ee5r\u1ee5 \u1ee5l\u1ecd akw\u1ee5kw\u1ecd g\u1ecb na-akp\u1ecdr\u1ecd \u1ee5gw\u1ecd a.\n\nEbe 2: Eme ka m ga-akp\u1ecdr\u1ecd g\u1ecb \u1ecbb\u1ee5\u1ecd\n\n1. Ch\u1ecd\u1ecd ihe g\u1ecb na-akp\u1ecdr\u1ecd. H\u1ee5r\u1ee5 ihe g\u1ecb na-akp\u1ecdr\u1ecd.\n2. Ch\u1ecd\u1ecd otu ihe g\u1ecb na-akp\u1ecdr\u1ecd. H\u1ee5r\u1ee5 otu ihe g\u1ecb na-akp\u1ecdr\u1ecd.\n3. Ch\u1ecd\u1ecd \u1ecdn\u1ecdd\u1ee5 g\u1ecb na-akp\u1ecdr\u1ecd. H\u1ee5r\u1ee5 \u1ecdn\u1ecdd\u1ee5 g\u1ecb na-akp\u1ecdr\u1ecd.\n4. Tinye akara \u1ecbb\u1ee5\u1ecd g\u1ecb. Gaa n'otu ihe mkp\u1ee5r\u1ee5 \u1ecbb\u1ee5\u1ecd g\u1ecb na-akp\u1ecdr\u1ecd akara a.\n5. \u1ecat\u1ee5ghar\u1ecba \u1ecbb"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 126,
+        "completion_tokens": 500,
+        "total_tokens": 626
+    }
+}

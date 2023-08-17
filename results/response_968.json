@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Zd4HYIVp658PXW5qHK97RIa76L",
+    "object": "chat.completion",
+    "created": 1692160649,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129wehe, ngunjiri yaku k\u0169tuma \u0169kumb\u0169kire cia k\u0169r\u0129a cia wendo n\u0129 th\u0129in\u0129. Nd\u0129k\u0169honete k\u0169menya ng\u0169cio \u0169cio na k\u0169hongwo ciothe cia k\u0169r\u0129a cia wendo cia kamba. Nd\u0129k\u0169r\u0129ra na k\u0169kuhe r\u0129u r\u0129a k\u0169r\u0129a cia wendo ciothe cia kamba waku, na nginya nd\u0129k\u0169r\u0129ra k\u0169hongwo ciothe cia k\u0169r\u0129a cia wendo cia kamba waku."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 154,
+        "completion_tokens": 182,
+        "total_tokens": 336
+    }
+}

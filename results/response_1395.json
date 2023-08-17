@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Io0oBxEU3Bcf8R57ZuN1L9bDe3",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ket en mana, Intanet ma piny ne nyaka. Gin maneno ni, Intanet ma en kendo giwegi kendo odonj e timbe mag nindruok."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 44,
+        "total_tokens": 143
+    }
+}

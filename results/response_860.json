@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2c6UkppZi9CAikmvGWDbvqp8D0T",
+    "object": "chat.completion",
+    "created": 1692160802,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129 m\u0169thoni wa k\u0169r\u0129ria k\u0169hura na \u0169r\u0129a wa k\u0169hura na m\u0169th\u0129\u0129 wa \u0186kamba. N\u0129 ndeto k\u0169r\u0129a n\u0129 \u0169th\u0129\u0129 wa \u0169tware wa and\u0169, n\u0129k\u0169herekera na \u0169r\u0129a waku\u0129ha."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 104,
+        "total_tokens": 207
+    }
+}

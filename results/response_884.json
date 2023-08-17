@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZNqV6Zts45uiXVLErBKwvQsN7a",
+    "object": "chat.completion",
+    "created": 1692160633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, nd\u0129 m\u0169kamb\u0129 wa k\u0169cokera, nd\u0129k\u0169r\u0129r\u0129ra k\u0169thera k\u0169g\u0169nda \u0169th\u0129omi m\u0169no. N\u0129ng\u0129k\u0169r\u0129r\u0129ra \u0169m\u0129\u0129ka \u0169th\u0129omi \u0169r\u0129a \u0169thekagwo \u0169t\u0169mb\u0129ri wa k\u0169cokera?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 116,
+        "total_tokens": 228
+    }
+}

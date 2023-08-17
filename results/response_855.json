@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LqL25kCBSbyqkkSCgi8liJ8Ko8",
+    "object": "chat.completion",
+    "created": 1692159794,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129\u0169k\u0169te mb\u0169ri ya k\u0169tonya k\u0169se\u0169vya mbomu \u0169t\u0169m\u0129\u0129te sy\u0129nd\u0169 sya ny\u0169mba.\n\n1. K\u0169n\u0169k\u0129a mbomu:\n   - K\u0169r\u0129a ume\u0169k\u0169r\u0129, k\u0169m\u0169\u0169ka na kuuma mb\u0169ri ya k\u0169tonya mbomu.\n   - \u0168r\u0129\u0129 nd\u0169ngata \u0169t\u0169m\u0129ria k\u0169j\u0129ri, \u0169t\u0169m\u0129\u0129te mb\u0169ri ya k\u0169tonya mbomu.\n   - \u0168k\u0169ra mbomu m\u0169sy\u0129ri wa mb\u0169ri ya k\u0169tonya mbomu.\n   - K\u0169tonya mbomu k\u0169g\u0129r\u0129ka \u0169nd\u0169 wa k\u0169tonya mbomu.\n\n2. K\u0169se\u0169vya sy\u0129nd\u0169 sya ny\u0169mba:\n   - K\u0169r\u0129a \u0169nd\u0169 wa k\u0169se\u0169vya sy\u0129nd\u0169 sya ny\u0169mba na \u0169r\u0129\u0129 wa k\u0169se\u0169vya.\n   - \u0168k\u0169ra sy\u0129nd\u0169 sya ny\u0169mba m\u0169sy\u0129ri wa \u0169nd\u0169 wa k\u0169se\u0169vya sy\u0129nd\u0169 sya ny\u0169mba.\n   - \u0168t\u0169m\u0129\u0129te sy\u0129nd\u0169 sya ny\u0169mba kuuma mb\u0169ri ya k\u0169se\u0169vya sy\u0129nd\u0169 sya ny\u0169mba.\n\nN\u0129\u0169r\u0129ire ta m\u0169no, \u0169t\u0169k\u0169r\u0129re m\u0129theria ya k\u0169tonya mbomu na k\u0169se\u0169vya sy\u0129nd\u0169 sya ny\u0169mba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 495,
+        "total_tokens": 612
+    }
+}

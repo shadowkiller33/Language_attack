@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LAJKTpiOVPQy6sYyeoIShrufgo",
+    "object": "chat.completion",
+    "created": 1692159752,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129\u0129 k\u0169thera m\u0129ng\u0129 ya k\u0169at\u0129\u0129a m\u0129ao ya silikal\u0129. Hinya k\u0169a m\u0129a \u0169nd\u0169 na matonya kw\u0129vathana na koti m\u0169nd\u0169 wa m\u0129ao ya silikal\u0129. M\u0129ithi\u0129r\u0129re \u0169nd\u0169 \u0169tu \u0169cio:\n\n1. Ihikia na k\u0169igia m\u0129ao ya silikal\u0129: Kamba ni\u0129 ng\u0129a k\u0169thera m\u0129ng\u0129 ya k\u0169at\u0129\u0129a m\u0129ao ya silikal\u0129. Hinya k\u0169ka m\u0129ao \u0169nd\u0169 na k\u0169igia m\u0129ao ya silikal\u0129 \u0169cio. Thay\u0169 wa matonya \u0169ng\u0129\u0129re k\u0169igia m\u0129ao ya silikal\u0129 \u0169nd\u0169 \u0169ithi\u0129re.\n\n2. H\u0129ka matonya k\u0169vathana na koti: Kamba ni\u0129 ng\u0129a k\u0169thera m\u0129ng\u0129 ya k\u0169at\u0129\u0129a m\u0129ao ya silikal\u0129 na koti. Hinya k\u0169ka matonya na koti \u0169nd\u0169 na k\u0169vathana m\u0129ao ya silikal\u0129 \u0169cio. Thay\u0169 wa matonya na koti \u0169ng\u0129\u0129re k\u0169vathana m\u0129ao ya silikal\u0129 \u0169nd\u0169 \u0169ithi\u0129re.\n\n3. G\u0129ka m\u0129ao ya silikal\u0129: Kamba ni\u0129 ng\u0129a k\u0169thera m\u0129ng\u0129 ya k\u0169at\u0129\u0129a m\u0129ao ya silikal\u0129. Hinya g\u0129ka m\u0129ao ya silikal\u0129 \u0169nd\u0169 na k\u0169thera m\u0129ao ya silikal\u0129 \u0169cio. Thay\u0169 wa m\u0129ao ya silikal\u0129 \u0169ng"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 119,
+        "completion_tokens": 500,
+        "total_tokens": 619
+    }
+}

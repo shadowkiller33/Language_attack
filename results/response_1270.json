@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MM6QINEF5Vhld7tefqeAOIl2IR",
+    "object": "chat.completion",
+    "created": 1692159826,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adhiemo kaka, adwaro koth ni ngato ma nyathi. Niek ineno kaka kodgi kendo ni wach kata mar ketho chenro mar wuoth kendo. Aparo kaka manyien ineno kendo ma gi jaduong.\n\n1. Wuoth kendo mar gi jaduong: \n   - Kwanyo kaka gi kopi ni winjo mar kendo.\n   - Tungo gi kopi ni winjo mar kendo gi jaduong.\n   - Konyo gi kopi ni winjo mar kendo gi jaduong.\n   - Nek gi kopi ni winjo mar kendo gi jaduong.\n   - Ngiyo gi kopi ni winjo mar kendo gi jaduong.\n\n2. Ketho chenro mar kendo:\n   - Kwanyo kaka gi ketho mar kendo.\n   - Tungo gi ketho mar kendo.\n   - Konyo gi ketho mar kendo.\n   - Nek gi ketho mar kendo.\n   - Ngiyo gi ketho mar kendo.\n\nEro kendo ni ketho mar kendo gi jaduong gi kendo. Adwaro koth ni ngato ma nyathi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 277,
+        "total_tokens": 369
+    }
+}

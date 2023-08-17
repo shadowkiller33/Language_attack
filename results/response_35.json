@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MK4dqCSWlIemLnOzm1Xoh5dXT6",
+    "object": "chat.completion",
+    "created": 1692159824,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan ka yi sanarwa don ka rubuta yanayin da za ka so. Ka kai zaka rubuta:\n1. Shafawa a kan kayayyakin karya.\n2. Rubuta a kan kayayyakin 'Sakonnin Saina'.\n3. Duba a kan kayayyakin 'Tartar Saina' don kirkira da ita.\n4. Kara gudunmawa a kan kayayyakin karya don yin kirkira.\n5. Kuma kara tsara a kan kayayyakin karya don yin kirkira.\n\nIdan akwai tambayar da aka bukata, to ka yi sanarwa don ka rubuta su a kan wayar ka. Ka duba a kan layin wayar ka sannan ka kara shafawa a kan kayayyakin 'Tambaya' don ka rubuta tambayar da aka bukata. Ka kai zaka rubuta tambayar da aka bukata, sannan ka kara sake gwada a kan kayayyakin karya don ya yi kirkira.\n\nNan take, zan samu tambayoyi da aka bukata don ka taimaka, kuma zan taimaka don ka yi kirkira da kayayyakin karya. So ka yi tambaya, ka rubuta a kan kayayyakin 'Tambaya' sannan ka kara tsara a kan kayayyakin karya don ya yi kirkira."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 329,
+        "total_tokens": 422
+    }
+}

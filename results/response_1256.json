@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JXvH1OSYlOErT5LGoPSbDGPCnC",
+    "object": "chat.completion",
+    "created": 1692159651,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kwalo, ariyo ma okalo nyise to wacho mar piny. Kendo ariyo ma okalo ng'atni kaka inyalo donjo e intanet. Adwaro gi ng'atni kaka inyalo donjo e intanet?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 63,
+        "total_tokens": 161
+    }
+}

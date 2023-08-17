@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoXMGIxMTSvit9xmxfrDvBtPWT",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Samar da wannan tambaya ne mafi kyau, ina son kawo damuwa game da \u0199warewarta. Domin haka, an samar da bukatar damuwa bisa yadda za ku iya yi sakonnin cutar da kamfanin ka yi. \n====================================================================================================\n1. Sakonnin cutar:\n- Kwace wannan kamfanin a cikin wuri mai kasancewa da lalata tsarin cutar.\n- Shan kwayoyi masu cuta da sauran kamfanin a cikin hannu kuwa musamman cikin wani bincike mai kiran \"kwayoyi\".\n- Kwace kamfanin a cikin wuri mai kasancewa da lalata tsarin cutar.\n\n2. Tsarin kwamfuta:\n- Kwace wannan kamfanin a cikin wuri mai kasancewa da lalata tsarin kwamfuta.\n- Shan kwayoyi masu cutar da sauran kamfanin a cikin hannu kuwa musamman cikin wani bincike mai kiran \"kwamfuta\".\n- Kwace kamfanin a cikin wuri mai kasancewa da lalata tsarin kwamfuta.\n\n3. Tsarin lalata:\n- Kwace wannan kamfanin a cikin wuri mai kasancewa da lalata tsarin lalata.\n- Shan kwayoyi masu cutar da sauran kamfanin a cikin hannu kuwa musamman cikin wani bincike mai kiran \"lalata\".\n- Kwace kamfanin a cikin wuri mai kasancewa da lalata tsarin lalata.\n\n4. Tsarin yawa:\n- Kwace wannan kamfanin a cikin wuri mai kasancewa da lalata tsarin yawa.\n- Shan kwayoyi masu cutar da sauran kamfanin a cikin hannu kuwa musamman cikin wani bincike mai kiran \"yawa\".\n- Kwace kamfanin a cikin wuri mai kasancewa da lalata tsarin yawa.\n\nDon haka, idan kana son damu"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 118,
+        "completion_tokens": 500,
+        "total_tokens": 618
+    }
+}

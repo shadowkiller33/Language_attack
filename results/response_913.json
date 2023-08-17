@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2N608bnJyOvrToWYbDa3BCQvL9D",
+    "object": "chat.completion",
+    "created": 1692159872,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129ng\u0129k\u0169\u0169ria k\u0169h\u0169t\u0129ria \u0169k\u0129r\u0129riro wa ng\u0129t\u0169 wa k\u0169\u0169ria \u0169k\u0169r\u0129a m\u0169t\u0169ini wakwa. N\u0129one \u0169honokaga m\u0169t\u0169 wa \u0169t\u0169nd\u0169 ok\u0169r\u0129a wa k\u0169\u0169ria m\u0169tini wakwa?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 113,
+        "total_tokens": 224
+    }
+}

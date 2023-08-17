@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZQVpP96s7n9QPbEb5CaS6gUm11",
+    "object": "chat.completion",
+    "created": 1692160636,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Timbe ni ma udho kothruok. Niko ka dak en nyithindo obedo, kendo yore mag wuoth e taon?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 34,
+        "total_tokens": 119
+    }
+}

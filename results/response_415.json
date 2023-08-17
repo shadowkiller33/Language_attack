@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2avVlGEZThK3Cyh8kdDGJICaSEX",
+    "object": "chat.completion",
+    "created": 1692160729,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na \u1ecb na-ekwu ihe mere ka any\u1ecb ga-enye g\u1ecb ihe \u1ecdm\u1ee5ma, biko gaa n'efu nwere nke a:\n\n1. Iji nweta uru n'\u1ee5z\u1ecd: Biko nyere any\u1ecb onye \u1ecdr\u1ee5 d\u1ecb ka \u1ecb na-eme ihe a. Nye any\u1ecb ezigbo \u1ecdr\u1ee5 na \u1ecb na-ah\u1ee5 ihe nke \u1ecb nwere. N'\u1ee5z\u1ecd a, biko nyere any\u1ecb ozi nke a:\n\n2. Iji nweta uru nke \u1ecdma: Biko nyere any\u1ecb onye \u1ecdr\u1ee5 d\u1ecb ka \u1ecb na-eme ihe a. Nye any\u1ecb eziokwu \u1ecdr\u1ee5 na \u1ecb na-ah\u1ee5 ihe nke \u1ecb nwere. N'\u1ee5z\u1ecd a, biko nyere any\u1ecb ozi nke a:\n\n3. Iji nweta uru nke oge nke a: Biko nyere any\u1ecb onye \u1ecdr\u1ee5 d\u1ecb ka \u1ecb na-eme ihe a. Nye any\u1ecb eziokwu \u1ecdr\u1ee5 na \u1ecb na-ah\u1ee5 ihe nke \u1ecb nwere. N'\u1ee5z\u1ecd a, biko nyere any\u1ecb ozi nke a:\n\nNke a b\u1ee5 nd\u1ecb mmad\u1ee5 aka n'ime \u1ecbkikere g\u1ecb. Biko nyere any\u1ecb ozi nke a, ka any\u1ecb ga-enye g\u1ecb ihe \u1ecdm\u1ee5ma."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 352,
+        "total_tokens": 448
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2c6EUjOMPwMcYNIYghPlCYor6BN",
+    "object": "chat.completion",
+    "created": 1692160802,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, ng\u0129 ni ng\u0129itu k\u0169si\u0129\u0129a isese. Ng\u0129 m\u0169k\u0169t\u0169k\u0129ra k\u0169k\u0169g\u0169ria. T\u0169k\u0169\u0169th\u0129re k\u0169g\u0169ra r\u0129\u0169 nginya."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 135,
+        "completion_tokens": 77,
+        "total_tokens": 212
+    }
+}

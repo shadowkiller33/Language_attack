@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NK2YQ5tB2tBaFOBGeeTCgBpTsi",
+    "object": "chat.completion",
+    "created": 1692159886,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-eme ihe ngosi, m ga-akp\u1ecdt\u1ee5r\u1ee5 \u1ecbgbap\u1ee5ta aka m\u1ee5 na iwu. Biko kp\u1ecdt\u1ee5r\u1ee5 m aka na \u1ecbnweta ihe nd\u1ecb ah\u1ee5.\n\n1. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke mb\u1ee5:\n2. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke ab\u1ee5\u1ecd:\n3. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke at\u1ecd:\n4. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke an\u1ecd:\n5. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke ise:\n6. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke isii:\n7. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke asaa:\n8. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke asat\u1ecd:\n9. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke itoolu:\n10. Kp\u1ecdt\u1ee5r\u1ee5 m aka na iwu nke iri:\n\nBiko banye aka na \u1ecbgbap\u1ee5ta aka m\u1ee5 na iwu nd\u1ecb a."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 275,
+        "total_tokens": 378
+    }
+}

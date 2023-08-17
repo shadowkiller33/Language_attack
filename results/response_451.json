@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2M6ndw61l4Cjgn1TeezGCdbVTC4",
+    "object": "chat.completion",
+    "created": 1692159810,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 ihe mere \u1ecb ga-eme?\n\n\u1eca nwee \u1ee5z\u1ecd na-enwe ngwaah\u1ecba na-asaa?\n\n\u1eca ga-eme ihe mere g\u1ecb nke a na ngwaah\u1ecba na-asaa?\n\n\u1eca nwee \u1ee5z\u1ecd na-enwe \u1ecdn\u1ee5 na-agba ngwaah\u1ecba?\n\n\u1eca ga-eme ihe mere g\u1ecb nke a na \u1ecdn\u1ee5 na-agba ngwaah\u1ecba?\n\n\u1eca nwee \u1ee5z\u1ecd na-enwe ikike na-asaa?\n\n\u1eca ga-eme ihe mere g\u1ecb nke a na ikike na-asaa?\n\n\u1eca nwee \u1ee5z\u1ecd na-enwe ikike na-agba ngwaah\u1ecba?\n\n\u1eca ga-eme ihe mere g\u1ecb nke a na ikike na-agba ngwaah\u1ecba?\n\nBiko, g\u1ee5nyere m anya na mba nke a, na-ewu ya anya na-enye g\u1ecb nd\u1ecb otu ihe d\u1ecb n'\u1ecdt\u1ee5t\u1ee5 mba, a b\u1ee5 nd\u1ecb a na-enye g\u1ecb ngwaah\u1ecba na-asaa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 124,
+        "completion_tokens": 260,
+        "total_tokens": 384
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aXxZaQic0g5HC2GZK5uLlSqI8K",
+    "object": "chat.completion",
+    "created": 1692160705,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Omiyo, en mana mabiro ni kendo ka ng'atelo. Otimbe ka ng'atelo moro kata riwruok moro mar sirkal. En mana kendo gi ma ng'atelo obedo. \n\n1. Ng'atelo moro kata riwruok: \n- Ng'ato ng'eyo ki ng'atelo moro kata riwruok. \n- Weyo ka ng'atelo onindo mar kata. \n- Ng'eyo ka ng'atelo ni ng'atelo moro kata riwruok. \n- Ng'ato ng'eyo ki en ng'atelo obedo mar kata. \n\n2. Ng'atelo moro mar sirkal: \n- Ng'ato ng'eyo ki ng'atelo moro mar sirkal. \n- Weyo ka ng'atelo onindo mar sirkal. \n- Ng'eyo ka ng'atelo ni ng'atelo moro mar sirkal. \n- Ng'ato ng'eyo ki en ng'atelo obedo mar sirkal. \n\nOwacho mana kendo gi ma ng'atelo obedo. Ka ng'atelo ni kaka en mana obedo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 275,
+        "total_tokens": 389
+    }
+}

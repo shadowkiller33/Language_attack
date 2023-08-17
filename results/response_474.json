@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwVJOQEm0wb9J3x0OPZA9xZcbD",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-at\u1ee5 ihe nkuzi banyere otu esi emep\u1ee5ta ma kesaa ngwongwo ad\u1ecbgboroja, anabata \u1ecb ga-ah\u1ee5 ihe na-ah\u1ee5 maka ihe nd\u1ecb a na Igbo? Ka m na-at\u1ee5\u1ecdr\u1ecd any\u1ecb na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 78,
+        "total_tokens": 177
+    }
+}

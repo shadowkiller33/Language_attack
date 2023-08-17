@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OuTrcrZ8AORcDPiFzaIY8w6Hds",
+    "object": "chat.completion",
+    "created": 1692159984,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u0169\u0169g\u0169 wa k\u0169hitha th\u0129\u0129 na mekw\u0129r\u0129ria \u0169nd\u0169 mekw\u0129r\u0129ria. N\u0129m\u0169horo wa k\u0169hitha th\u0129\u0129 na mekw\u0129r\u0129ria m\u0169ci\u0129."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 79,
+        "total_tokens": 192
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2N0sDjpYtzX77ZC8jWRREaOgiCE",
+    "object": "chat.completion",
+    "created": 1692159866,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kan, ng'atin obedo niyo. Neno ka ng'atino obedo niyo, to dongruok kan, ng'ato dano obedo. Ka ng'atino obedo niyo, kiketo gi sum kendo obedo. Ka ng'atino obedo niyo, dongruok kendo obedo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 75,
+        "total_tokens": 190
+    }
+}

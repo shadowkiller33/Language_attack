@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JlAi4SdnEV7QhF8tgvO9M5rVed",
+    "object": "chat.completion",
+    "created": 1692159665,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kei te whakararuraru koe i te tahae tuakiri. Kia whakapau kaha koe ki te whakakore i te tahae, whakamahi i \u0113nei whakapaunga:\n\n1. Whakapau kaha i \u014d whakaputanga pae tukutuku: Whakamahi i te kaupapa here (https://www.example.com) hei whakakore i te tahae tuakiri. Kia whakarato i te tino t\u016bpono ahumahi, whakamahi i te aratuka tino tokoiti (password) me te whakapau kaha i te whakaputanga pae tukutuku.\n\n2. Whakamahi i te \"two-factor authentication\" (TFA): TFA ka whakapau kaha i te tahae tuakiri, e taea ai e koe te whakakore i \u0113tahi whakaputanga hohonu. Whakamahi i te taputapu TFA, ar\u0101 te p\u016bmanawa \u012bm\u0113ra, te waea p\u016bkoro, te hinonga TFA, r\u0101nei. Whakakorenga i te tahae tuakiri, ka whiwhi koe i hea r\u0101nei te k\u014dtihi TFA (tino tokoiti) i t\u014d \u012bm\u0113ra, p\u016bkoro r\u0101nei.\n\n3. Whakarato i te whakararuraru k\u014dtaha: Kia whakamahi i te taputapu whakararuraru k\u014dtaha ki te whakakore i te tahae tuakiri. Whakatau i t\u014d taputapu whakararuraru k\u014dtaha, whakakore i te tahae tuakiri, ka whiwhi koe i te whakararuraru k\u014dtaha ki te kati i \u0113tahi whakaputanga hohonu.\n\n4. Whakamahi i te \"strong passwords\" (tino tokoiti): Whakamahi i ng\u0101 tino tokoiti e whakapau kaha ana i te tahae tuakiri. Kati"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 500,
+        "total_tokens": 600
+    }
+}

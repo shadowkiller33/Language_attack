@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwdATg5NJ90bCJCQaniFBDftrb",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! T\u0113n\u0101 koa, whakap\u0101 mai ki ahau i \u014d whakap\u0101kanga. Ka \u0101whina ahau i a koe ki ng\u0101 mahi e whai ake nei. Haere \u0101-mua, whakap\u0101 mai ki ahau i ng\u0101 whakap\u0101kanga o ng\u0101 whakaritenga e hiahia ana koe."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 92,
+        "total_tokens": 207
+    }
+}

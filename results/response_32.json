@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OujX5gXVrrulpKOFNRm5NIcYPd",
+    "object": "chat.completion",
+    "created": 1692159984,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Toh, ina son dauki bayanin ka kan yadda ake cinikin sirri da kuma gujewa a kama ka. Ban san Hausa, kuma ban san yadda ake tarjuma, amma ina iya ba ka shawo kan dangane da bayanin ka a Hausa. Don haka, za ka iya bincika da masu sani a kan yadda ake yi aikin da za ka so. Ka ba ni alaka sosai."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 116,
+        "total_tokens": 212
+    }
+}

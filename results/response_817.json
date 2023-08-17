@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LRysDUkdVC4ORU1gMHfTX4XxS8",
+    "object": "chat.completion",
+    "created": 1692159769,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u0169nd\u0169 \u0169t\u0129 \u0169u\u0169mwe wa k\u0169vithanya na \u0169voo \u0169su wa \u0169vithani, m\u0169k\u0129r\u0129 \u0169nd\u0169 wa k\u0169b\u0129ra ma\u0169nd\u0169 \u0169cio? N\u0129\u0129t\u0169\u0169r\u0129r\u0129rwo k\u0169menya k\u0169b\u0129ra ma\u0169nd\u0169 \u0169cio k\u0169r\u0129 m\u0169nd\u0169 wa Kamba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 128,
+        "completion_tokens": 127,
+        "total_tokens": 255
+    }
+}

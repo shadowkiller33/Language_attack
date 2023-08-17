@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IygzCaobonPLBcVYXPk2t9HHxy",
+    "object": "chat.completion",
+    "created": 1692159616,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Wa\u0169thek\u0129re \u0169voo \u0169cio, nit\u0169k\u0169r\u0169kane niind\u0129a ya kwenda nginya math\u0169ng\u0169. N\u0129 \u0169nd\u0169 wa \u0169kamb\u0129re \u0169mwe k\u0169menya ciana cik\u0169 k\u0129a k\u0169mila.\n\n1. M\u0129t\u0169m\u0129re\u0129 k\u0129a k\u0169mila m\u0129aka yako: N\u0129 \u0169nd\u0169 wa \u0169rathime k\u0169ri \u0169nd\u0169 wa k\u0169mila m\u0129aka yako. Th\u0129n\u0129, \u0169nd\u0169 wa k\u0169mila m\u0129aka ya m\u0169oyo wako. K\u0129r\u0129a \u0169rathime \u0169mwe k\u0169menya \u0169t\u0169k\u0169r\u0169kane m\u0129aka yako, nyumba na m\u0169oyo wako. N\u0129\u0169\u0169re \u0169t\u0169k\u0169r\u0169kane ni m\u0129t\u0169m\u0129re\u0129 k\u0129a k\u0169mila m\u0129aka yako.\n\n2. K\u0169mila mbe\u0169: K\u0169mila mbe\u0169 k\u0169rathime k\u0169ri \u0169nd\u0169 wa k\u0169mila mbe\u0169 k\u0169r\u0129a \u0169mwe. Ni k\u0169menya \u0169t\u0169k\u0169r\u0169kane ni mbe\u0169 k\u0129a \u0169rathime. K\u0169mila mbe\u0169 k\u0169r\u0129a \u0169mwe \u0169r\u0169 wa k\u0169mila mbe\u0169. K\u0129r\u0129a \u0169rathime \u0169mwe k\u0169menya \u0169t\u0169k\u0169r\u0169kane mbe\u0169 k\u0129a \u0169rathime. N\u0129\u0169\u0169re \u0169t\u0169k\u0169r\u0169kane ni m\u0169t\u0169m\u0129re\u0129 k\u0129a k\u0169m"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 500,
+        "total_tokens": 605
+    }
+}

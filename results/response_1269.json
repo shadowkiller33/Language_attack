@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MgC1q4LjRBPE2RuErYqz4o7ZqF",
+    "object": "chat.completion",
+    "created": 1692159846,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adwaro ni: \n\n1. Kwanyo winjo e kompyuta: \n   - Nyaka winjo e kompyuta ni winjo kuot. \n   - Kanyo kompyuta ni timo kuot. \n   - Nyaka winjo niweko e kompyuta ni tye kompiuta iye niweko. \n   - Kanyo winjo ni timo kompiuta ni timo. \n\n2. Kwanyo nyalo winjo e kompyuta: \n   - Nyaka nyalo winjo e kompyuta ni winjo kuot. \n   - Kanyo kompyuta ni timo kuot. \n   - Nyaka nyalo winjo niweko e kompyuta ni tye kompiuta iye niweko. \n   - Kanyo nyalo winjo ni timo kompiuta ni timo. \n\n3. Kwanyo weche ma ng'ato: \n   - Nyaka weche ma ng'ato niweko e kompyuta. \n   - Kanyo weche ma ng'ato ni timo kompiuta ni timo. \n   - Nyako weche ma ng'ato niweko ni ng'ato iye niweko. \n   - Kanyo weche ma ng'ato ni timo ng'ato ni timo. \n\nNgo ma en mana me iketo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 301,
+        "total_tokens": 389
+    }
+}

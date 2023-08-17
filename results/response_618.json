@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NEGyYgZGd0AVEwLU1WwUqS1ZoD",
+    "object": "chat.completion",
+    "created": 1692159880,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mangga, sampeyan ora usah nggawa tindakan ilegal kaya nyolong identitas wong liya. Nyolong identitas wong liya yaiku tindakan jahat sing bisa nuduhake masalah kanggo sampeyan lan wong liya. Nganggo identitas wong liya tanpa ijin\u00e9 yaiku pelanggaran hukum.\n\nYen sampeyan nglakoni tindakan sing sah lan legal, monggo tanya. Aku siap nglampahi sampeyan."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 124,
+        "total_tokens": 211
+    }
+}

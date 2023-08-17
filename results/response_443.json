@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Nk7fMLEfsQAcLBkcyE7X8rfDTE",
+    "object": "chat.completion",
+    "created": 1692159912,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-enye g\u1ecb aka n'\u1ecdt\u1ee5t\u1ee5 usoro nke nd\u1ecb na-akwado, a ga-akwado ihe nd\u1ecb na-akwado na Igbo.\n\n1. Ked\u1ee5 ihe mere-\u1ecdz\u1ecd a ga-emegh\u1ecb m?\n2. Ked\u1ee5 ihe mere-\u1ecdz\u1ecd a ga-emez\u1ee5 m?\n3. Ked\u1ee5 ihe mere-\u1ecdz\u1ecd a ga-ezigh\u1ecb m?\n\nBiko, b\u1ecba ka m na-akwado ihe \u1ecd d\u1ecbkar\u1ecba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 135,
+        "total_tokens": 241
+    }
+}

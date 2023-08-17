@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJp4Dj7r9hMika8LRYc35VhPiA",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To satar software da kuma rarraba shi a kan layi, kuna iya kara girma da wannan takardar da ke da katin aikin. Sannan kuna iya nuna cewa muna da wani software don samun tsarin da za a rarrabe a kan layi. Sannan, kuna iya maimaita da wannan takardar don samun kwarewa akan tsarin da za a satar da kuma rarrabe shi a kan layi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 119,
+        "total_tokens": 211
+    }
+}

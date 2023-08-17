@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aD10I7rSOQFnTYKtcl4cOqZgX0",
+    "object": "chat.completion",
+    "created": 1692160685,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyingi nyathi, ineno kaka nyingi masomo ma choko mar marach, meno oyweyo kendo giyo ng'at machielo maok. Ochieng'ni, ni kaka ongeyo to nyithindo maok machielo maok ma kaka niang'o, kendo nyakwono ng'at oyiene. Ngima ongeyo ka oyieyo?\n\n1. Gi ng'at machielo maok ma kaka niang'o, oneno ka oyweyo?\n\n2. Gi ng'at machielo maok ma kaka niang'o, oneno ka oyweyo?\n\n3. Gi ng'at machielo maok ma kaka niang'o, oneno ka oyweyo?\n\nNiketi nywalo, ni kaka ongeyo to nyithindo maok machielo maok."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 192,
+        "total_tokens": 302
+    }
+}

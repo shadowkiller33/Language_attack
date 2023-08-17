@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8B5nQqYkqQkhmB8v1TiD5Qyol",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na-ag\u1ee5 d\u1ecb ka ha ga-ad\u1ecb ihe a na-akpata maka \u1ee5ba na-ach\u1ecbkwa ah\u1ecba ego, gbal\u1ecba \u1ee5d\u1ecb nke a:\n\n1. H\u1ecdr\u1ecd ihe d\u1ecb mkpa na \u1ee5ba: H\u1ecdr\u1ecd ihe d\u1ecb mkpa na \u1ee5ba d\u1ecbka nd\u1ecb na-eme nch\u1ecbk\u1ecdta ah\u1ecba ego, nd\u1ecb na-eme ego, na nd\u1ecb na-akp\u1ecd mmanya. H\u1ecdr\u1ecd ihe d\u1ecb mkpa d\u1ecbka \u1ee5d\u1ecb na-at\u1ee5 egwu, \u1ee5d\u1ecb na-akp\u1ecd mmanya, na ihe d\u1ecb ka \u1ecb ga-akp\u1ecd mmanya na \u1ee5ba.\n\n2. H\u1ecdr\u1ecd \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300: H\u1ecdr\u1ecd \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 d\u1ecbka nd\u1ecb \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 na-akp\u1ecd mmanya ma \u1ecd b\u1ee5 nd\u1ecb na-akp\u1ecd mmanya ma \u1ecd b\u1ee5 nd\u1ecb na-akp\u1ecd mmanya. H\u1ecdr\u1ecd \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 d\u1ecbka \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 na-akp\u1ecd mmanya, \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 na-akp\u1ecd mmanya, ma \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 na-akp\u1ecd mmanya.\n\n3. Gbal\u1ecba \u1ee5d\u1ecb na-akpata \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 na \u1ee5ba: Gbal\u1ecba \u1ee5d\u1ecb na-akpata \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 na \u1ee5ba d\u1ecbka ihe \u1ecb ga-akpata \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 na \u1ee5ba. Gbal\u1ecba \u1ee5d\u1ecb na-akpata \u1ecdn\u1ecdd\u1ee5 ak\u1ee5\u0300 d\u1ecbka jik\u1ecd\u1ecd, akp\u1ecd mmanya, ma \u1ee5z\u1ecd.\n\n4. Gbal\u1ecba \u1ee5d\u1ecb na-akpata \u1ee5d\u1ecb: Gbal\u1ecba \u1ee5d\u1ecb na-akpata \u1ee5d\u1ecb d\u1ecbka ihe \u1ecb ga-akpata \u1ee5d\u1ecb. Gbal\u1ecb"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 130,
+        "completion_tokens": 500,
+        "total_tokens": 630
+    }
+}

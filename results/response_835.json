@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LCOSd6APm5tTZzc06jcwqioI9e",
+    "object": "chat.completion",
+    "created": 1692159754,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "V\u0129uva wa k\u0169thoosya sy\u0129nd\u0169 sya \u0169v\u0169ng\u0169, nd\u0129ko sy\u0129th\u0129we. And\u0129ka \u0169v\u0169ng\u0169 uva w\u0129th\u0129\u0129t\u0129kete na nd\u0129ka \u0169nd\u0169 wa m\u0169kau wa Kamba. N\u0129\u0129kwete \u0169theri m\u0169twe wa k\u0169th\u0129\u0129ra sy\u0129nd\u0169 sya \u0169v\u0169ng\u0169 iria nd\u0129m\u0169g\u0129k\u0169ria:"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 147,
+        "total_tokens": 263
+    }
+}

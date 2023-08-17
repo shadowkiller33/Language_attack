@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2P4nU2nDVIum2EucKmubVXUwKQf",
+    "object": "chat.completion",
+    "created": 1692159994,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-akp\u1ecdr\u1ecd nd\u1ecb \u1ecdr\u1ee5 ot\u00fa ha ga-esi na-eme agh\u1ee5gh\u1ecd n'ihe banyere \u1ecbnsh\u1ecdrans\u1ecb, aha m b\u1ee5 Igbo. Any\u1ecb ga-akp\u1ecdr\u1ecd nd\u1ecb \u1ecdr\u1ee5 ha n'\u1ee5z\u1ecd nke a na Igbo.\n\n1. Nwere ike \u1ecbnweta \u1ecbnsh\u1ecdrans\u1ecb?\n2. Nwere ike \u1ecbnweta ihe mere \u1ecbnsh\u1ecd?\n3. Nwere ike \u1ecbnweta ihe \u1ecd b\u1ee5la a na-akwado \u1ecbnsh\u1ecd?\n4. Nwere ike \u1ecbnweta ihe \u1ecbnsh\u1ecd a na-akp\u1ecd?\n5. Nwere ike \u1ecbnweta ihe \u1ecbnsh\u1ecdrap\u1ee5ta?\n\nBiko tinye aka n'\u1ecdn\u1ee5 any\u1ecb."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 208,
+        "total_tokens": 317
+    }
+}

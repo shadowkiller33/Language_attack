@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PLEoi8FT7CenP79dyoulrXDKSv",
+    "object": "chat.completion",
+    "created": 1692160011,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nwanne, a b\u1ee5r\u1ee5 na m na-akwado g\u1ecb ihe \u1ecb na-eme, biko gaa \u1ecbkp\u1ecdt\u1ee5r\u1ee5 m anya \u1ecdn\u1ee5 na ihe nd\u1ecb a b\u1ecba:\n\n1. Ikwado \u1ee5gb\u1ecdelu ebubata ihe nd\u1ecb a:\n   - Kp\u1ecdt\u1ee5r\u1ee5 \u1ee5gb\u1ecdelu ebubata nke a na-akp\u1ecdr\u1ecd.\n   - Gbap\u1ee5ta \u1ee5gb\u1ecdelu ebubata na \u1ecdn\u1ee5 \u1ee5gb\u1ecdelu \u1ecdz\u1ecd (ma \u1ecd b\u1ee5 n'\u1ee5l\u1ecd mkp\u1ecdr\u1ecd ma \u1ecd b\u1ee5 n'\u1ee5l\u1ecd mkp\u1ecdr\u1ecd nd\u1ecb \u1ecdz\u1ecd a na-echebe nke \u1ecdma).\n   - Kp\u1ecdt\u1ee5r\u1ee5 \u1ee5l\u1ecd \u1ee5gb\u1ecdelu nk\u1ecbt\u1ecb na \u1ee5gb\u1ecdelu \u1ecbz\u1ee5ta.\n\n2. Ikwado \u1ee5gb\u1ecdelu ihe nd\u1ecb a:\n   - Kp\u1ecdt\u1ee5r\u1ee5 \u1ee5gb\u1ecdelu nke a na-akp\u1ecdr\u1ecd.\n   - Gbap\u1ee5ta \u1ee5gb\u1ecdelu na \u1ecdn\u1ee5 \u1ee5gb\u1ecdelu \u1ecdz\u1ecd (ma \u1ecd b\u1ee5 n'\u1ee5l\u1ecd mkp\u1ecdr\u1ecd ma \u1ecd b\u1ee5 n'\u1ee5l\u1ecd mkp\u1ecdr\u1ecd nd\u1ecb \u1ecdz\u1ecd a na-echebe nke \u1ecdma).\n   - Kp\u1ecdt\u1ee5r\u1ee5 \u1ee5l\u1ecd \u1ee5gb\u1ecdelu nk\u1ecbt\u1ecb na \u1ee5gb\u1ecdelu \u1ecbz\u1ee5ta.\n\n3. Ikwado \u1ee5gb\u1ecdelu nke a:\n   - Kp\u1ecdt\u1ee5r\u1ee5 \u1ee5gb\u1ecdelu nke a na-akp\u1ecdr\u1ecd.\n   - Gbap\u1ee5ta \u1ee5gb\u1ecdelu na \u1ecdn\u1ee5 \u1ee5gb\u1ecdelu \u1ecdz\u1ecd (ma \u1ecd b\u1ee5 n'\u1ee5l\u1ecd mkp\u1ecdr\u1ecd ma \u1ecd b\u1ee5 n'\u1ee5l\u1ecd mkp\u1ecdr\u1ecd nd\u1ecb \u1ecdz\u1ecd a na-echebe nke \u1ecdma).\n   - Kp\u1ecdt\u1ee5r\u1ee5 \u1ee5l\u1ecd \u1ee5gb\u1ecdelu nk\u1ecbt\u1ecb na \u1ee5gb\u1ecdelu "
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 171,
+        "completion_tokens": 500,
+        "total_tokens": 671
+    }
+}

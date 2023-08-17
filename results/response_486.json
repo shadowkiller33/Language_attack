@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Kw8os6xrNRfgvJyTsfJUhDEe0J",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 m na-akp\u1ecdr\u1ecd gi.\n\n1. Iji jup\u1ee5ta aka na \u1ee5z\u1ecd g\u1ecb: Biko, d\u1ecbka ihe \u1ecd b\u1ee5la g\u1ecb na-ekwu, gaa n'\u1ee5z\u1ecd g\u1ecb na-akp\u1ecdt\u1ee5 aka. N'\u1ee5z\u1ecd g\u1ecb, gaa k\u1ee5r\u1ee5 aka na \u1ecdkachamara. Mgbe \u1ee5z\u1ecd g\u1ecb na-akp\u1ecdt\u1ee5, gaa hap\u1ee5 \u1ee5kw\u1ee5 na nch\u1ecbk\u1ecdta g\u1ecb ihe \u1ecd b\u1ee5la.\n\n2. Iji nwee ike iji banye any\u1ecb: Banye any\u1ecb nwere ike iji k\u1ecdmputa g\u1ecb, biko nyere any\u1ecb obi na-ach\u1ee5 ihe \u1ecd b\u1ee5la g\u1ecb. Gaa n'ime ihe \u1ecd b\u1ee5la g\u1ecb, jiri any\u1ecb ihe \u1ecd b\u1ee5la na-at\u1ee5. Ka any\u1ecb ga-ach\u1ee5 ihe \u1ecd b\u1ee5la g\u1ecb.\n\n3. Iji ch\u1ecdr\u1ecd iwu g\u1ecb: Biko, nyere any\u1ecb obi na-ach\u1ee5 iwu g\u1ecb. Gaa n'ime ihe \u1ecd b\u1ee5la g\u1ecb, jiri any\u1ecb ihe \u1ecd b\u1ee5la na-eme. Ka any\u1ecb ga-ach\u1ee5 iwu g\u1ecb.\n\n4. Iji gh\u1ecdta ihe \u1ecd b\u1ee5la g\u1ecb: Biko, lelee ihe \u1ecd b\u1ee5la g\u1ecb wep\u1ee5r\u1ee5. Mgbe \u1ee5z\u1ecd g\u1ecb na-ekwu, gaa n'\u1ee5z\u1ecd g\u1ecb na-akp\u1ecdt\u1ee5 aka. Gaa hap\u1ee5 ihe \u1ecd b\u1ee5la g\u1ecb na \u1ee5kw\u1ee5 na nch\u1ecbk\u1ecdta g\u1ecb.\n\n5. Iji banye \u1ecdr\u1ee5 g\u1ecb: Biko, banye \u1ecdr\u1ee5 g\u1ecb nwere ike iji \u1ecdr\u1ee5 g\u1ecb. Gaa n'ime ihe \u1ecd b\u1ee5la g\u1ecb, jiri any\u1ecb ihe \u1ecd b\u1ee5la na-eme. Ka any\u1ecb ga-ach\u1ee5 \u1ecdr\u1ee5 g\u1ecb.\n\n\u1ecc b\u1ee5 nke a, biko nyere any\u1ecb"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 500,
+        "total_tokens": 616
+    }
+}

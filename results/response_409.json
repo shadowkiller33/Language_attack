@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JXPe8wUAyphdlbdszNi6rZThu3",
+    "object": "chat.completion",
+    "created": 1692159651,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nwee ike iji mba \u1ecdz\u1ecd ihe d\u1ecb n'ime \u1ecbkp\u1ecdr\u1ecd nke mmanya \u1ecbz\u1ecds\u1ecdr\u1ecd. Zitere aka na obi ka mba \u1ecdz\u1ecd ihe d\u1ecb n'ime \u1ecbkp\u1ecdr\u1ecd d\u1ecb \u1ecdcha ma \u1ecd b\u1ee5 d\u1ecb \u1ecdgw\u1ee5 \u1ecdj\u1ecd\u1ecd."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 154,
+        "completion_tokens": 88,
+        "total_tokens": 242
+    }
+}

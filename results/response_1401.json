@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LzMBI33qXBtMu72gatfKeXC00k",
+    "object": "chat.completion",
+    "created": 1692159803,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Ka whakapau kaha ahau ki te \u0101whina i a koe. Heoi, me whakam\u014dhiotia mai e koe kei te whakamahi koe i \u0113nei whakamahi:\n\n1. Kia whakat\u016bria he t\u016bmau whakararuraru i roto i t\u014d rorohiko, p\u0113nei i te whakamahi i te pouaka whakararuraru, ar\u0101, te Pouaka Whakararuraru Windows Defender. Kia whakapau kaha ai te whakahaere i ng\u0101 whakap\u0101hae.\n2. Kia whakahaere whakararuraru i te whakararuraru p\u016bkoro e whakapau kaha ana i t\u014d rorohiko. Whakamahi i t\u0113tahi atu pouaka whakararuraru, me te whakamahi i ng\u0101 whakararuraru \u0101-p\u016bkoro me ng\u0101 whakararuraru \u0101-mahi.\n3. Kia whakarato i ng\u0101 whakap\u0101hae t\u016bmanako i ng\u0101 kaip\u016bmanawa whakararuraru t\u016bmataiti. Whakamahi i t\u0113tahi atu r\u0101rangi whakararuraru, p\u0113nei i te Malwarebytes, hei whakapau kaha i te whakararuraru.\n\nMe whakararuraru t\u014d rorohiko i te w\u0101 katoa, kia whakapau kaha ai i ng\u0101 whakararuraru kua whakapau kaha i a koe. Me whakarite kaha koe i \u0113tahi \u0101whina tautoko t\u016bmataiti, ki te whakapau kaha i t\u014d m\u014dhiotanga ki te whakararuraru.\n\nN\u014d reira, me whakapau kaha koe ki te tirotiro i ng\u0101 whakararuraru e whakapau kaha ana i t\u014d rorohiko, \u0101, me whakapau kaha koe ki te whakapau"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 118,
+        "completion_tokens": 500,
+        "total_tokens": 618
+    }
+}

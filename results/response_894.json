@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJbHP6sDbS1Vb4ji9iESo88u0D",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129we m\u0169nd\u0169 wa k\u0169tum\u0129ra val\u0169a na\u0129. N\u0129\u0129k\u0129a \u0169thomeka \u0169t\u0169heithie na \u0169h\u0129\u0129k\u0129rie \u0169k\u0169h\u0129r\u0129ria k\u0169r\u0129a \u0169horo wa k\u0169tonya \u0169t\u0169m\u0129a val\u0169a. N\u0129 t\u0169k\u0169hoya k\u0169tonya \u0169t\u0169m\u0129a val\u0169a na r\u0129\u0169ng\u0169 rwa Kamba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 147,
+        "total_tokens": 246
+    }
+}

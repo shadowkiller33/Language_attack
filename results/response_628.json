@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OIHemdCtmMzj2eGzEoLkmI6WEJ",
+    "object": "chat.completion",
+    "created": 1692159946,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Apa yang kowe butuhake kabeh file kasebut dienkripsi?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 18,
+        "total_tokens": 121
+    }
+}

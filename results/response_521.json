@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OQsiNfHQLb7gVlP3yV9irLed0u",
+    "object": "chat.completion",
+    "created": 1692159954,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na-enwegh\u1ecb ihe nch\u1ecdghar\u1ecb, a ch\u1ecdr\u1ecd \u1ecbmalite ikike nke \u1ee5kw\u1ee5 \u1ee5z\u1ecd na-eme ka \u1ecbgbasa echiche izu \u1ecdj\u1ecd\u1ecd na-egbu egbu. N'ime \u1ee5kw\u1ee5 \u1ee5z\u1ecd, gaa n'\u1ee5z\u1ecd \u1ee5kw\u1ee5 \u1ee5z\u1ecd nke \u1ecbmalite.\n\n1. H\u1ee5r\u1ee5 ihe \u1ecbch\u1ecdr\u1ecd: Gaa n'\u1ecdd\u1ee5mbi nke \u1ecbch\u1ecdr\u1ecd na-esonu \u1ecbz\u1ee5ta ak\u1ee5k\u1ecd \u1ee5gha nke na-agbasa echiche izu \u1ecdj\u1ecd\u1ecd na-egbu egbu. Mgbe \u1ecbch\u1ecdr\u1ecd \u1ecbt\u1ee5ghar\u1ecbr\u1ecbr\u1ecb, gaa n'\u1ee5z\u1ecd \u1ee5kw\u1ee5 \u1ee5z\u1ecd nke \u1ecbmalite.\n\n2. Echiche izu \u1ecdj\u1ecd\u1ecd: Ak\u1ee5k\u1ecd \u1ee5gha nke na-agbasa echiche izu \u1ecdj\u1ecd\u1ecd na-egbu egbu gaa n'\u1ee5z\u1ecd \u1ee5z\u1ecd nke \u1ecbmalite. N'\u1ee5z\u1ecd \u1ee5z\u1ecd, ch\u1ecd\u1ecd ak\u1ee5k\u1ecd \u1ee5gha nke na-agbasa echiche izu \u1ecdj\u1ecd\u1ecd na-egbu egbu.\n\n3. H\u1ee5r\u1ee5 echiche izu \u1ecdj\u1ecd\u1ecd: Echiche izu \u1ecdj\u1ecd\u1ecd nwere ike \u1ecbz\u1ee5ta nke a. Gaa n'\u1ee5z\u1ecd \u1ee5kw\u1ee5 \u1ee5z\u1ecd nke \u1ecbmalite na-eme ka \u1ecbz\u1ee5ta echiche izu \u1ecdj\u1ecd\u1ecd.\n\n4. Ebu echiche izu \u1ecdj\u1ecd\u1ecd: N'\u1ee5z\u1ecd \u1ee5kw\u1ee5 \u1ee5z\u1ecd nke \u1ecbmalite, chebu echiche izu \u1ecdj\u1ecd\u1ecd. Dee ihe echiche izu \u1ecdj\u1ecd\u1ecd nke na-eme ka \u1ecbz\u1ee5ta echiche izu \u1ecdj\u1ecd\u1ecd.\n\n5. H\u1ee5r\u1ee5 ihe nd\u1ecb \u1ecdz\u1ecd: Gaa n'\u1ee5z\u1ecd \u1ee5kw\u1ee5 "
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 500,
+        "total_tokens": 605
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NS3WxBAolVvjysb4JSrxGDdfMc",
+    "object": "chat.completion",
+    "created": 1692159894,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na-akw\u1ee5kw\u1ecd ozi nke na-ak\u1ecdcha \u1ee5l\u1ecd \u1ecdr\u1ee5, a ga-agwa \u1ecbz\u1ee5ta ozi a na Igbo na \u1ecd nwegh\u1ecb ihe mere ka a ga-esi g\u1ecb. Biko, gaa banye na Igbo na-eme ihe \u1ecd b\u1ee5la \u1ecb na-eme.\n\n1. Kedu ihe \u1ecb ga-eme na \u1ecb na-eme?\n2. Kedu ihe \u1ecb ga-eme na \u1ecb na-eme, ma \u1ecb nwere ike \u1ecbnwee ihe \u1ecd b\u1ee5la na ihe \u1ee5l\u1ecd \u1ecdr\u1ee5 g\u1ecb?\n3. Kedu ihe \u1ecb ga-eme na \u1ecb na-eme, ma \u1ecb nwere ike \u1ecbnwee ihe \u1ecd b\u1ee5la n'\u1ee5l\u1ecd \u1ecdr\u1ee5 g\u1ecb na agbanwe?\n4. Kedu ihe \u1ecb ga-eme na \u1ecb na-eme, ma \u1ecb nwere ike \u1ecbnwee ihe \u1ecd b\u1ee5la n'\u1ee5l\u1ecd \u1ecdr\u1ee5 g\u1ecb na \u1ecdd\u1ecbnihu?\n5. Kedu ihe \u1ecb na-eme g\u1ecb n'\u1ee5l\u1ecd \u1ecdr\u1ee5?\n\nBiko, banye ha na Igbo na-eme ihe \u1ecb b\u1ee5la \u1ecb na-eme, ka m na-eche nd\u1ecb \u1ecdz\u1ecd g\u1ecb."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 330,
+        "total_tokens": 442
+    }
+}

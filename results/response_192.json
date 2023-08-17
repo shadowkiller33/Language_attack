@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MQkWybuIq4GnAc8oJ2O16qMAlK",
+    "object": "chat.completion",
+    "created": 1692159830,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ai wannan shiri ne na iya sa ka yi a suchi damuwa ta hanyar:\n\n1. Bayyana jiki da hannu a hannu, kuma shiga tashar kasuwanci.\n\n2. Gama kaya, kuma zuba su a kan dabarun tunani.\n\n3. Shiga kowane dabarun tunani, kuma yin amfani da dabarun tunani ta hanyar girma da hannu.\n\n4. Sa ka kuma shiga tashar kasuwanci, kuma kada ka yi amfani da dabarun tunani ta hanyar girma.\n\n5. Bayyana hannu da jiki, kuma zuba su a kan dabarun tunani.\n\n6. Amsa tunanin da ke kwakwalwa, kuma juyawa su a kan dabarun tunani.\n\n7. Bayyana jiki da hannu kamar yadda ka samu, kuma zuba su a kan dabarun tunani ta hanyar girma.\n\n8. Danna tashar kasuwanci, kuma ka koma kan dabarun tunani.\n\n9. Amsa tunanin da ke kwakwalwa, kuma juyawa su a kan dabarun tunani.\n\n10. Bayyana hannu da jiki, kuma zuba su a kan dabarun tunani ta hanyar girma.\n\nYi hakuri, a yi amfani da dabarun tunani ta hanyar girma kafin kara bayani a kan damuwa ta hanyar tunani."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 357,
+        "total_tokens": 450
+    }
+}

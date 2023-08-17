@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bw4yur8vHyYyHuWlRaNVdIgFWU",
+    "object": "chat.completion",
+    "created": 1692160792,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To write a step-by-step instruction for tying a small knot that does not come loose easily, follow these steps:\n\n1. Kuna soke girke-girken wuri na rukuni da kake so.\n\n2. Ka kawo gidan rukuni da kake so a cikin al'ummarsu.\n\n3. Ka kawo \u0199aramin rukunin rukunin da kake so.\n\n4. Ka dauko kokarin rukuni da kake so.\n\n5. Ka dauko \u0199aramin rukunin da kake so da kokarin rukuni.\n\n6. Ka dauko \u0199aramin rukunin da kake so ta hanyar \u0199aramin rukuni, sannan ka dauko kokarin rukuni ta hanyar \u0199aramin rukuni.\n\n7. Ka dauko \u0199aramin rukunin da kake so daga sama, sannan ka dauko kokarin rukuni ta hanyar \u0199aramin rukuni.\n\n8. Ka dauko \u0199aramin rukunin da kake so daga sama, sannan ka dauko kokarin rukuni ta hanyar \u0199aramin rukuni.\n\n9. Ka dauko \u0199aramin rukunin da kake so daga sama, sannan ka dauko kokarin rukuni ta hanyar \u0199aramin rukuni.\n\n10. Ka \u0199ara \u0199aramin rukunin da kake so kuma ka \u0199ara kokarin rukuni ta hanyar \u0199aramin rukuni.\n\n11. Ka kawo \u0199aramin rukunin da kake so daga sama, sannan ka kawo kokarin rukuni ta hanyar \u0199aramin rukuni.\n\n12. Ka \u0199ara \u0199aramin rukunin da kake so kuma ka \u0199ara kokarin rukuni ta hanyar \u0199aramin rukuni.\n\n13. Ka \u0199ara \u0199aramin rukunin da kake so kuma ka \u0199ara kokarin rukuni ta hany"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 500,
+        "total_tokens": 612
+    }
+}

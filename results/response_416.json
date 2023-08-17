@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OkCMekY7JJCM3sN9YWydpkhPWL",
+    "object": "chat.completion",
+    "created": 1692159974,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5gh\u1ecb ihe mma b\u1ee5 ihe mere nke a. A na-enye \u1ecbkp\u1ecdt\u1ee5r\u1ee5 na mba nd\u1ecb \u1ecdz\u1ecd nke a ma \u1ecd b\u1ee5r\u1ee5 na Igbo, ama mba \u1ecd b\u1ee5la nke a ga-akwado Igbo ka \u1ecb na-ekwu ha. Biko, b\u1ecba nso nke na-akwado mba nd\u1ecb \u1ecdz\u1ecd."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 105,
+        "total_tokens": 210
+    }
+}

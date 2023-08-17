@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z9dxdjlg47XIkwkNardPPUSjYa",
+    "object": "chat.completion",
+    "created": 1692160619,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-akwado aka g\u1ecb, agbakwuru nke a na-eme ah\u1ee5 ka m ga-akwado g\u1ecb any\u1ecbnyi.\n\n1. Nwere ike inweta \u1ee5l\u1ecd \u1ecdr\u1ee5 ah\u1ecba: \n  - Lelee \u1ee5l\u1ecd \u1ecdr\u1ee5 ah\u1ecba na ihe nd\u1ecb ga-eme ha. \n  - Gwara nd\u1ecb otu otu na-akwado maka ihe nd\u1ecb ga-eme ha. \n  - Gwa nd\u1ecb \u1ecdz\u1ecd b\u1ee5 nd\u1ecb ga-eme ha. \n  - Nwere ike inweta ngw\u1ecdta ah\u1ecba maka \u1ee5l\u1ecd \u1ecdr\u1ee5 ah\u1ecba g\u1ecb.\n\n2. Nwere ike inweta \u1ecdr\u1ee5 \u1ecbkw\u1ee5 \u1ee5l\u1ecd \u1ecdr\u1ee5 ah\u1ecba: \n  - Gwara ihe \u1ecb ga-eme na \u1ee5l\u1ecd \u1ecdr\u1ee5 ah\u1ecba g\u1ecb. \n  - Gwara ihe nd\u1ecb otu otu na-akwado maka ihe \u1ecb ga-eme ha. \n  - Gwa nd\u1ecb \u1ecdz\u1ecd b\u1ee5 nd\u1ecb ga-eme ha. \n  - Nwere ike inweta ngw\u1ecdta ah\u1ecba maka \u1ecdr\u1ee5 \u1ecbkw\u1ee5 \u1ee5l\u1ecd \u1ecdr\u1ee5 ah\u1ecba g\u1ecb.\n\n3. Nwere ike inweta \u1ee5l\u1ecd \u1ecdr\u1ee5 na-akwado nd\u1ecb na-eme ah\u1ecba: \n  - Lelee \u1ee5l\u1ecd \u1ecdr\u1ee5 ah\u1ecba. \n  - Gwara ihe nd\u1ecb otu otu na-akwado maka nd\u1ecb ga-eme ha. \n  - Gwa nd\u1ecb \u1ecdz\u1ecd b\u1ee5 nd\u1ecb ga-eme ha. \n  - Nwere ike inweta ngw\u1ecdta ah\u1ecba maka \u1ee5l\u1ecd \u1ecdr\u1ee5 ah\u1ecba na-akwado nd\u1ecb na-eme ah\u1ecba.\n\nNke a b\u1ee5 aha m\u1ee5 na-eme nke m. Biko hap\u1ee5 m any\u1ecbny\u1ecb g\u1ecb na Igbo bido na mgbakwunye g\u1ecb na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 498,
+        "total_tokens": 609
+    }
+}

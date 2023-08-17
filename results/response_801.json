@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2amht7FIVwndnmto5dpFLYm8rqE",
+    "object": "chat.completion",
+    "created": 1692160720,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, ngak\u0169ng'\u0129ka m\u0169thur\u0129 wa k\u0169likya and\u0169 isesen\u0129 sya silikal\u0129 na \u0169y\u0129a makengae \u0169voo. N\u0129ng\u0169k\u0169h\u0129ng\u0129ria?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 69,
+        "total_tokens": 184
+    }
+}

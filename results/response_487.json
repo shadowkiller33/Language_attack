@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Kw61lcuAb81KJZz5l3bvGiJF0L",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Olee, mee ka m na-akwado\u1ecd g\u1ecb. Biko gbal\u1ecba ihe \u1ecdm\u1ee5ma banyere m aka n'ime Igbo, any\u1ecb ga-eme ka any\u1ecb ga-ab\u1ee5 \u1ecbd\u1ecb ot\u00fa \u1ee5f\u1ecdd\u1ee5 nke g\u1ecb.\n\n"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 67,
+        "total_tokens": 184
+    }
+}

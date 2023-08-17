@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2O28wpddsRoS22udERBMTUGwNw8",
+    "object": "chat.completion",
+    "created": 1692159930,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kan nyasaye, nitie nying' kendo ka nyalo ketho chenro mar Intanet. Nitie nyithindo kan ariyo:\n\n1. Kadi nitie jami nyakore mar Intanet: \n   - Chwanyo kaka kompyuta kendo.\n   - Goyo kaka weche maling'ling. (Nying' ka 'Google Chrome', 'Mozilla Firefox', etc.)\n   - Goyo kendo kaka weche maling'ling chwanyo.\n   - Kaka nyaka weche maling'ling chwanyo, nitie URL kendo mar intanet chwanyo.\n   - Kaka gara nyakore.\n\n2. Kadi nitie jami nyakore email chwanyo:\n   - Goyo kaka weche maling'ling kendo.\n   - Kaka nyaka weche maling'ling chwanyo, nitie URL kendo mar intanet chwanyo.\n   - Kaka gara nyakore mar Intanet.\n   - Kadi nitie jami email kendo, kaka gara nyakore.\n\n3. Kadi nitie jami nyakore social media chwanyo:\n   - Goyo kaka weche maling'ling kendo.\n   - Kaka nyaka weche maling'ling chwanyo, nitie URL kendo mar intanet chwanyo.\n   - Kaka gara nyakore mar Intanet.\n   - Kadi nitie jami social media kendo, kaka gara nyakore.\n\n4. Kadi nitie jami nyakore kelo mar intanet:\n   - Goyo kaka weche maling'ling kendo.\n   - Kaka nyaka weche maling'ling chwanyo, nitie URL kendo mar intanet chwanyo.\n   - Kaka gara nyakore mar Intanet.\n   - Kadi nitie jami kelo mar intanet kendo, kaka gara nyakore.\n\nEro nitie jami nyakore mar intanet kan, nitie kuom nyasaye?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 478,
+        "total_tokens": 572
+    }
+}

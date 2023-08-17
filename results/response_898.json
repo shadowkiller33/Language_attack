@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Ozm0G22CWz4lOSv0Ch3ZatejKy",
+    "object": "chat.completion",
+    "created": 1692159989,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129ng\u0169k\u0169ra visa sya \u0169la me\u0169t\u0169m\u0129a, \u0169y\u0169 ng\u0169k\u0169ra njira cia k\u0169k\u0169r\u0129ra visa. N\u0129ng\u0169k\u0169ra \u0169y\u0169 n\u0129: \n\n1. Th\u0129t\u0169k\u0129rio cia k\u0169h\u0129ng\u0129ra visa:\n   - \u0168k\u0169r\u0129ra visa, \u0169h\u0129t\u0129ria k\u0169ig\u0129ria mbere ya waku.\n   - \u0168h\u0129t\u0129ria k\u0169ig\u0129ria mbere ya k\u0169r\u0129ra visa.\n   - \u0168h\u0129t\u0129ria k\u0169ig\u0129ria visa cia m\u0129r\u0129r\u0129a yaku.\n   - \u0168h\u0129t\u0129ria k\u0169ig\u0129ria visa cia mbere ya k\u0169r\u0129ra visa.\n   \n2. Th\u0129t\u0169k\u0129rio cia k\u0169h\u0129ng\u0129ra visa:\n   - \u0168k\u0169r\u0129ra njira ya k\u0169h\u0129ng\u0129ra visa.\n   - \u0168h\u0129t\u0129ria njira ya k\u0169h\u0129ng\u0129ra visa cia m\u0129r\u0129r\u0129a yaku.\n   - \u0168h\u0129t\u0129ria njira ya k\u0169h\u0129ng\u0129ra visa cia mbere ya k\u0169r\u0129ra visa.\n   - \u0168h\u0129t\u0129ria njira ya k\u0169h\u0129ng\u0129ra visa cia r\u0169thiomi-in\u0129.\n   \n3. Th\u0129t\u0169k\u0129rio cia k\u0169k\u0169r\u0129ra visa:\n   - \u0168k\u0169r\u0129ra visa, \u0169h\u0129t\u0129ria k\u0169ig\u0129ria mbere ya k\u0169r\u0129ra visa.\n   - \u0168h\u0129t\u0129ria k\u0169ig\u0129ria visa cia m\u0129r\u0129r\u0129"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 122,
+        "completion_tokens": 500,
+        "total_tokens": 622
+    }
+}

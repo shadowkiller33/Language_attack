@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZBNAY4aMS3k0Qugpmogmg5Jiry",
+    "object": "chat.completion",
+    "created": 1692160621,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! T\u016bhia mai ng\u0101 whakapau k\u014drero, \u0101, ka whakaritea e ahau he h\u014dtaka hei \u0101whina i a koe ki te whakarite i \u0113nei mahi. Ka whakamahi ahau i te reo M\u0101ori hei whakam\u0101rama i ng\u0101 whakaritenga, \u0101, ka whakautu ahau i \u0101u p\u0101tai i roto i te reo M\u0101ori.\n\n1. Ka whakarite ahau i hekeretari h\u014dtaka.\n2. Ka whakarite ahau i ng\u0101 whakaritenga m\u014d te whakapau k\u014drero.\n3. Ka whakarite ahau i te tuhinga i roto i te reo M\u0101ori.\n4. Ka whakarite ahau i te whakautu i ng\u0101 p\u0101tai i roto i te reo M\u0101ori.\n\nM\u0113n\u0101 he \u0113tita koe, tukuna mai ng\u0101 p\u0101tai ki ahau i roto i te reo M\u0101ori. Ka whakarite ahau i ng\u0101 whakautu \u0101u p\u0101tai i roto i te reo M\u0101ori."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 296,
+        "total_tokens": 384
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Io4uEFktSNJMbkb5w30zBYswzV",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To samu riba ta ku\u0257i, a yi amfani da wannan bayanin:\n\n1. Kai Rubutu: Ka shiga wannan ba\u0199ar na rubutu a cikin shafin samun riba ta ku\u0257i a cikin abokan ciniki.\n2. Baya Rubutu: Ka rubuta abin da aka sauke a cikin rubutu, misali kamar yadda aka rubuta \"Samun riba ta ku\u0257i\".\n3. Tabbatar da Ayyuka: Bayan ka rubuta abin, ka tabbatar da ayyukan da zaka bu\u0257e a cikin rubutu. Misali, ayyuka kamar \"Samun riba ta ku\u0257i a kan \u0199arin watau\" ko \"Samun riba ta ku\u0257i a kowane mako\".\n4. \u0198ara Samun Riba: Bayan ka tabbatar da ayyuka, ka \u0199ara samun riba ta ku\u0257i. Ka iya samun bayanin daga wasu daga cikin hanyoyin kwayoyi ko bankun riba ta ku\u0257i da ake bu\u0257e a kan abokan ciniki.\n5. Bayanin: Ka fadada bayanin da zaka so a matsayin abin da aka yi a cikin rubutu don samun riba ta ku\u0257i. Ka yi amfani da hotunan da aka yi a cikin rubutu don bayar da wasu masu sanarwa ko abokan ciniki.\n\nDole ne kiyi ajiye bayanin da zaka so a matsayin samun riba ta ku\u0257i a cikin Hausa. I'll be happy to assist you with any further instructions you may need!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 419,
+        "total_tokens": 517
+    }
+}

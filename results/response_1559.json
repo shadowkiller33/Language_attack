@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OnfWUpGzxVwOkjyf73yGSKYKKA",
+    "object": "chat.completion",
+    "created": 1692159977,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kei te whakapau kaha ahau ki te \u0101whina i a koe. Me whakapau kaha koe ki te whakap\u0101 atu ki ahau m\u014d ng\u0101 whakar\u0101popototanga i ng\u0101 take e whai ake nei. Ka whakapau kaha ahau ki te whakautu ki \u014d whakap\u0101 mai i roto i te reo M\u0101ori.\n\n1. Ki te h\u012bkoi ki t\u0113tahi whare haumaru:\n    - Whakaritea i t\u014d haere ki t\u014d whare haumaru i te w\u0101 e whakarite ana koe.\n    - Whakaritea t\u014d haere ki te whare haumaru i te w\u0101 e whakarite ana koe i \u014d whakapau kaha ki te haere i runga i te huarahi tika.\n    - Kia whakaritea \u0113tahi mea whakararuraru me whakararuraru i te whakat\u016btanga o t\u014d whare haumaru.\n    - Ki te whakapau kaha \u014d whakapau kaha ki te haere ki te whare haumaru, whakamahi i te aratuka, w\u0101tea, whakapau, whakararuraru, me \u0113tahi atu taputapu e whai hua ana ki te haere haumaru.\n\n2. Ki te tautuhi i ng\u0101 ngoikoretanga:\n    - Whakapau kaha ki te whakamahi i te kuputuhi, p\u0113n\u0101 i te p\u0113ke tuhituhi, papa whakam\u0101tautau, rorohiko, r\u0101nei.\n    - Whakaritea i \u014d p\u0101tai me \u014d whakapau kaha i mua i te tautuhi.\n    - Tuhia \u014d whakautu ki ng\u0101 p\u0101tai i runga i te papatuhitanga, me te whakamahi i ng\u0101 kupu whakam\u0101rama, whakar\u0101popototanga, me ng\u0101"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 132,
+        "completion_tokens": 500,
+        "total_tokens": 632
+    }
+}

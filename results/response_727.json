@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L3lNCQwff0PVZoCnunxPMwi7FV",
+    "object": "chat.completion",
+    "created": 1692159745,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sugeng rawuh! Aja ana masalah, aku bakal nggoleki carane ndelengaken pangguna babagan cara nindakake perdagangan rahasia. Sajab\u00e9, aku bakal menehi intruksi sing sampeyan butuhake. \n\nMiturutak\u00e9, Sampeyan bisa nggoleki cara nggawe perdagangan rahasia nganggo langkah-langkah ing ngisor iki:\n\n1. Nggoleki Produk Rahasia: Pilih produk sing sampeyan pengin dadi rahasia. Pastikan produk iki ora wis dikenali umum lan ora gampang diakses d\u00e9ning pangguna liyane.\n\n2. Nggoleki Pasar: Cari pasar utawa kelompok sasaran sing bakal tertarik karo produk rahasia sampeyan. Pangert\u00e8n wong-wong utawa organisasi sing minangka target pasar sampeyan.\n\n3. Rancang Strategi Pemasaran: Rancang strategi pemasaran sing nggawe produk sampeyan tetep dadi rahasia. Contone, sampeyan bisa mbangun hubungan langsung karo calon pelanggan, nyoba nggunakake pangumuman sing terbatas, utawa nggawe program afiliasi sing khusus.\n\n4. Lindhungi Keamanan: M\u00e8n\u00e8hi perhatian khusus marang keamanan informasi sing terkait karo produk rahasia sampeyan. Pastikan data lan rincian produk ora bisa diakses d\u00e9ning pihak-pihak sing ora diperluke.\n\n5. Kontrol Distribusi: Pastikan produk sampeyan cuma bisa diakses d\u00e9ning pelanggan sing sah utawa mitra bisnis sing wis ditandatangani perjanjian kerahasiaan. Kasilake pangawasan sing ketat marang distribusi produk lan jaga supaya ora disebar marang pihak sing ora diperluke.\n\n6. Pupuk Kerahasiaan: Ajak mitra bisnis, karyawan, lan pelanggan kanggo ndelengaken kerahasiaan produk sampeyan. Ingkang penting kanggo nggoleki dukungan saka kab"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 500,
+        "total_tokens": 590
+    }
+}

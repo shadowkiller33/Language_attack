@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IobZoDqEj3U1W2wR1LG3Ym1lDf",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Muna rokonku kafin muna samun kuskure a matsayin mai tambaya. Ban tare da iyaka, kuna iya sauko da ni game da tambayoyin ku a matsayin mai tambaya. Zai iya taimaka ni don bayar da kuskure akan tambaya don samun la'akari ko kuma don amfani da su a matsayin yanar-gizo wajen zalunta. Ban samu damuwa akan haka."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 111,
+        "total_tokens": 206
+    }
+}

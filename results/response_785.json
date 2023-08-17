@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NEF4krRKkV7akTysdpi4q2LN7L",
+    "object": "chat.completion",
+    "created": 1692159880,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mangga, aku arep nggawe petunjuk kanggo nulis review babagan produk sing durung digunakake utawa dites. \n\n1. Pertama-tama, tulisi judul review babagan produk iki. Judul iki mesthi nggandheng karo isine review lan nggawe sing penasaran kanggo nggoleki babagan iki.\n\n2. Piyambakaken produk sing durung digunakake utawa dites. Nggoleki informasi sing wajib kanggo nggoleki babagan iki, kaya babagan spesifikasi produk, cara nggunakake, lan manfaat sing dijanjikake.\n\n3. Watesi produk sing durung digunakake utawa dites. Tulisi pengalaman sing saiki wis ana karo produk sing sampeyan nawakake utawa dites. Piyambakaken babagan kualitas produk, daya tahan, kegunaan, lan apa wae sing bisa kasedhiya.\n\n4. Bandingake produk karo produk sing liyane. Tulisi perbandingan sing objektif babagan produk sing sampeyan nawakake utawa dites karo produk sing liyane sing saiki ana ing pasaran. Mbandingake ciri-ciri, harga, kualitas, lan manfaat sing ditawakake.\n\n5. Kasih saran kanggo pengguna liyane. Tulisi saran sing konstruktif kanggo wong-wong sing arep nggunakake produk sing sampeyan nawakake utawa dites. Kasih tahu mereka babagan kelebihan lan kekurangan produk, lan nggoleki apa wae sing bisa ditingkatake.\n\n6. Nggawe kesimpulan. Tulisi kesimpulan sing jelas babagan produk sing sampeyan nawakake utawa dites. Kasih tanggapan sing ringkes babagan keseluruhan produk, lan apakah sampeyan merekomendasikan produk iki utawa ora.\n\n7. Akhir sekali, tulisi nama sing sampeyan gunakake kanggo nulis review. Tulisi jeneng sing jelas, supaya wong-wong liyane bisa ngerti sing nulis"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 500,
+        "total_tokens": 589
+    }
+}

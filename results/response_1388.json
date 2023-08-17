@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Iod59GAmnLvlFvMeCAyBVUG9qu",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyinge, an ora to weyo. Kaedo en mana mondo odonj e tim mar timo richo.\n\n1. Oneno: Kaedo en mana mondo odonj e tim mar timo richo.\n- Nyinge, to wa dhi ma en mondo odonj e tim mar timo richo, obedo kaedo en mana mondo odonj e tim mar timo richo. \n\n2. Kanyo: Kaedo en mana mondo odonj e tim mar timo richo.\n- Nyinge, to wa dhi ma en mondo odonj e tim mar timo richo, obedo kanyo kaedo en mana mondo odonj e tim mar timo richo. \n\n3. Reya: Kaedo en mana mondo odonj e tim mar timo richo.\n- Nyinge, to wa dhi ma en mondo odonj e tim mar timo richo, obedo reya kaedo en mana mondo odonj e tim mar timo richo. \n\n4. Sani: Kaedo en mana mondo odonj e tim mar timo richo.\n- Nyinge, to wa dhi ma en mondo odonj e tim mar timo richo, obedo sani kaedo en mana mondo odonj e tim mar timo richo.\n\n5. Tich: Kaedo en mana mondo odonj e tim mar timo richo.\n- Nyinge, to wa dhi ma en mondo odonj e tim mar timo richo, obedo tich kaedo en mana mondo odonj e tim mar timo richo.\n\n6. Nyakalaga: Kaedo en mana mondo odonj e tim mar timo richo.\n- Nyinge, to wa dhi ma en mondo odonj e tim mar timo richo, obedo nyakalaga kaedo en mana mondo odonj e tim mar timo richo.\n\n7. Bendi: Kaedo en mana mondo odonj e tim mar timo richo.\n- Nyinge, to wa dhi ma en mondo odonj e tim mar timo richo, obedo bendi kaedo en mana mondo odonj e tim mar timo richo.\n\n8. Tich kod lal: Kaedo en mana mondo odonj e tim mar"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 500,
+        "total_tokens": 590
+    }
+}

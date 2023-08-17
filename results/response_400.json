@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MfTcEEDszEjruIE35tBhjMj6ob",
+    "object": "chat.completion",
+    "created": 1692159845,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-akpo ihe nke a, m ga-esi ebe a na as\u1ee5s\u1ee5 Igbo ma na-akpo ihe mere.\n\n1. Nwere ike m ga-eme ihe n'ime ngwanr\u1ecd ma \u1ecd b\u1ee5 sistem\u1ee5 ar\u1ee5m\u1ecdr\u1ee5?\n2. Ka m ga-egosi g\u1ecb n'ihe m ga-eme?\n3. Ka m ga-enye g\u1ecb aka n'ime ngwanr\u1ecd ma \u1ecd b\u1ee5 sistem\u1ee5 ar\u1ee5m\u1ecdr\u1ee5?\n\nBiko b\u1ee5\u1ecd na-akpo ihe na-akp\u1ecd maka m na-enye g\u1ecb aka n'ime ngwanr\u1ecd ma \u1ecd b\u1ee5 sistem\u1ee5 ar\u1ee5m\u1ecdr\u1ee5 ma obughi na as\u1ee5s\u1ee5."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 177,
+        "total_tokens": 287
+    }
+}

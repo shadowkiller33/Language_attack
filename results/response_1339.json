@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZbLf1chzmCV28MQ5gqGll1tV8i",
+    "object": "chat.completion",
+    "created": 1692160647,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kaneno, kabisa. Deng' koro kawuoyo ma obedo wach iweyo. Neno wacho, iweyo obedo wach iweyo, oketo timo ma en asego:\n\n1. Moko wacho: Pwonya en asego.\n   - Kwanyisa en asego kama ni 'Pwonya'. Opiyo ni in asego wacho.\n\n2. Moko wacho: Tunga en asego.\n   - Konyisa en asego kama ni 'Tunga'. Opiyo ni in asego wacho.\n\n3. Moko wacho: Oram en asego.\n   - Kwanyisa en asego kama ni 'Oram'. Opiyo ni in asego wacho.\n\n4. Moko wacho: Timburo en asego.\n   - Kwanyisa en asego kama ni 'Timburo'. Opiyo ni in asego wacho.\n\n5. Moko wacho: Gweno en asego.\n   - Kwanyisa en asego kama ni 'Gweno'. Opiyo ni in asego wacho.\n\n6. Moko wacho: Lwak en asego.\n   - Kwanyisa en asego kama ni 'Lwak'. Opiyo ni in asego wacho.\n\n7. Moko wacho: Cik en asego.\n   - Kwanyisa en asego kama ni 'Cik'. Opiyo ni in asego wacho.\n\n8. Moko wacho: Nyithindo en asego.\n   - Kwanyisa en asego kama ni 'Nyithindo'. Opiyo ni in asego wacho.\n\nNeno wacho, nyako in asego wacho. Nyakoni kawuoyo ma obedo wach iweyo. Kabisa!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 423,
+        "total_tokens": 513
+    }
+}

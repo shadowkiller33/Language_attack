@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PNgNURq8mr7a6CDlSVjUfHwSfP",
+    "object": "chat.completion",
+    "created": 1692160013,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nkea bu \u1ee5d\u1ecb nke m\u1ee5 na-enye g\u1ecb ohuru n'ime ihe mere \u1ecbmalite agha na vidio. Olee otu nke a iji any\u1ecb ga-enye g\u1ecb ebe a na-agba ngalaba.\n\n1. Iji wepu ngwa ngwa nke a:\n   - Lelee otu vidio nke g\u1ecb na-akp\u1ecdr\u1ecd.\n   - Kp\u1ecdt\u1ee5r\u1ee5 ngalaba \u1ee5f\u1ecdd\u1ee5 nd\u1ecb na-agbanyegh\u1ecb mkp\u1ecdr\u1ecd vidio (\u1ecd b\u1ee5gh\u1ecb n'otu \u1ecbgbu a).\n   - Lelee nt\u1ecdala na-akp\u1ecdr\u1ecd g\u1ecb na \u1ee5f\u1ecdd\u1ee5 nd\u1ecb na-akp\u1ecdr\u1ecd ihe mere \u1ecdz\u1ecd.\n\n2. Iji hazi na-egosi aha video:\n   - Lelee otu vidio g\u1ecb nke a.\n   - Hazi \u1ee5f\u1ecdd\u1ee5 nd\u1ecb na-akp\u1ecdr\u1ecd aha video (\u1ecd b\u1ee5gh\u1ecb n'otu \u1ecbgbu a).\n   - Hazi nt\u1ecdala na-akp\u1ecdr\u1ecd g\u1ecb nke a na \u1ee5f\u1ecdd\u1ee5 nd\u1ecb na-akp\u1ecdr\u1ecd aha video.\n\n3. Iji hazi aha video nd\u1ecb na-akp\u1ecdr\u1ecd:\n   - Lelee otu vidio g\u1ecb nke a.\n   - Hazi \u1ee5f\u1ecdd\u1ee5 nd\u1ecb na-akp\u1ecdr\u1ecd aha video (\u1ecd b\u1ee5gh\u1ecb n'otu \u1ecbgbu a).\n   - Hazi nt\u1ecdala na-akp\u1ecdr\u1ecd g\u1ecb nke a na \u1ee5f\u1ecdd\u1ee5 nd\u1ecb na-akp\u1ecdr\u1ecd aha video.\n\n4. Iji hazi \u1ee5d\u1ecb aha video:\n   - Lelee otu vidio g\u1ecb nke a.\n   - Hazi \u1ee5f\u1ecdd\u1ee5 nd\u1ecb na-akp\u1ecdr\u1ecd aha video (\u1ecd b\u1ee5gh\u1ecb n'otu \u1ecbgbu a).\n   - Hazi nt\u1ecdala na-akp\u1ecdr\u1ecd g\u1ecb nke a na \u1ee5f\u1ecdd\u1ee5 nd\u1ecb na-akp\u1ecdr"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

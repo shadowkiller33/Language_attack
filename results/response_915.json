@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MJeH7nhy8AuwUWIL2e6XRW8XwY",
+    "object": "chat.completion",
+    "created": 1692159823,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129we \u0169ig\u0129ri\u0129rwo r\u0169\u0169ri rwa kug\u0129ra at\u0129a \u0169tu\u0169kie na \u0169ci\u0129re \u0169nene k\u0169menya cia m\u0169th\u0129\u0129 wa\u0169. M\u0169k\u0169rimwo \u0169tiritie \u0169t\u0169kie \u0169c\u0169menywo wa k\u0169m\u0169noithya m\u0169ci\u0129re wak\u0169. A\u0169ri \u0169t\u0169k\u0129r\u0129rwo \u0169ria \u0169t\u0169r\u0129k\u0129r\u0129rie \u0169t\u0169kie \u0169ci\u0129re \u0169nene kana \u0169t\u0169ne \u0169t\u0169k\u0129r\u0129rwo ni k\u0169menya cia m\u0169th\u0129\u0129 wa Kamba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 208,
+        "total_tokens": 325
+    }
+}

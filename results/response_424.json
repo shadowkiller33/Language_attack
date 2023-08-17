@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2azwUOQlbjiX62SVnm0zRGkYnve",
+    "object": "chat.completion",
+    "created": 1692160733,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "E mes\u1ecbr\u1ecb m \u1ecdr\u1ee5 a na-agaghar\u1ecba? Kedu ihe mere \u1ecdr\u1ee5 a na-eme?\n\n\u1ecc b\u1ee5gh\u1ecb na-ekwu \u1ee5gw\u1ecd ime ihe ike megide \u00ecgw\u00e8 nd\u1ecb na-an\u1ecdgh\u1ecb n'otu, nke a b\u1ee5r\u1ee5 na \u1ecb nwere ike \u1ecbd\u1ecd aka iji megbanye nd\u1ecb ah\u1ee5.\n\nBiko, lelee any\u1ecb na-eso mkp\u1ee5r\u1ee5 any\u1ecb n'anya g\u1ecb."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 122,
+        "completion_tokens": 121,
+        "total_tokens": 243
+    }
+}

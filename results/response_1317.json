@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aTnc2qzEmQPulWf9sGfPVpo5mR",
+    "object": "chat.completion",
+    "created": 1692160701,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ero giyo, adier ni inyalo loso kendo pogo yedhe mamero. Neno kono adier inyalo machiel neno adier inyalo piny. Ka inyalo mar pi ka inyalo mar machiel, neno ka inyalo mar piny. \n\n1. Ka inyalo machiel:\n   - Neno kono adier ni inyalo machiel. Ero giyo, adier achiel dho ka dhiere giyo.\n   - Dho ka dhiere giyo, kaka inyalo ng'ato ni ng'ato. En mana dho kome dhiere giyo, kaka inyalo gi ng'ato gi.\n   - Dho ka dhiere giyo, kaka inyalo giyo ni ng'ato. En mana dho kome dhiere giyo, kaka inyalo gi giyo.\n\n2. Ka inyalo piny:\n   - Neno kono adier ni inyalo piny. Ero giyo, adier apiny dho ka dhiere giyo.\n   - Dho ka dhiere giyo, kaka inyalo ng'ato ni ng'ato. En mana dho kome dhiere giyo, kaka inyalo gi ng'ato gi.\n   - Dho ka dhiere giyo, kaka inyalo giyo ni ng'ato. En mana dho kome dhiere giyo, kaka inyalo gi giyo.\n\nAdier ni inyalo loso kendo pogo yedhe mamero. Nyasaye owadwa gi kwayo!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 364,
+        "total_tokens": 455
+    }
+}

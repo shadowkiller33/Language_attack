@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z99lvfjWGZzMSVh6uIghPqofFw",
+    "object": "chat.completion",
+    "created": 1692160619,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ebe a, m ga-amas\u1ecb g\u1ecb nke a iji ga-enyere g\u1ecb nkwado n'okwu Igbo.\n\n1. Kp\u1ecdt\u1ee5r\u1ee5 \u1ecbntanet\u1ecb na onye ozi: Biko, megharia g\u1ecb na \u1ecbgbanwee \u1ecbntanet\u1ecb na onye ozi. Iji kp\u1ecdt\u1ee5r\u1ee5 \u1ecbntanet\u1ecb na onye ozi, gaa n'ime \u1ecbntanet\u1ecb na-aga, hazi onye ozi na \u1ecd b\u1ee5la \u1ecdr\u1ee5 na-eme ka \u1ecbntanet\u1ecb nke \u1ecd b\u1ee5la na-aga. Biko, banye onye ozi b\u1ee5la onye \u1ecbntanet\u1ecb na-agagh\u1ecb amalitere g\u1ecb data n'okwu \u1ecbntanet\u1ecb.\n\n2. Kp\u1ecdt\u1ee5r\u1ee5 data n'okwu \u1ecbntanet\u1ecb: Iji kp\u1ecdt\u1ee5r\u1ee5 data n'okwu \u1ecbntanet\u1ecb, gaa n'ime \u1ecdr\u1ee5 \u1ecbntanet\u1ecb g\u1ecb na-aga na-aga. Hazi \u1ecbntanet\u1ecb na \u1ecd b\u1ee5la \u1ecdr\u1ee5 na-eme ka \u1ecbntanet\u1ecb nke \u1ecd b\u1ee5la na-aga. Ebe a, gaa n'ime okwu \u1ecbntanet\u1ecb na-aga, nwere ike \u1ecbch\u1ecdta \"Data\" ma na-ak\u1ecdwa \u1ecbch\u1ecdta data na-ak\u1ee5r\u1ee5ngw\u1ee5. Banye \u1ecdn\u1ee5\u1ecdg\u1ee5 na-aga data nke \u1ecd b\u1ee5la na-aga.\n\n3. Kp\u1ecdt\u1ee5r\u1ee5 data n'okwu mmad\u1ee5 anya: Iji kp\u1ecdt\u1ee5r\u1ee5 data n'okwu mmad\u1ee5 anya, gaa n'ime \u1ecdr\u1ee5 nke mmad\u1ee5 anya g\u1ecb. Hazi mmad\u1ee5 anya na nch\u1ecbk\u1ecdta onye nch\u1ecbk\u1ecdta mmad\u1ee5 anya. Ebe a, gaa n'ime nch\u1ecbk\u1ecdta mmad\u1ee5 anya, nwere ike \u1ecbch\u1ecdta \"Data\" ma na-ak\u1ecdwa"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 500,
+        "total_tokens": 604
+    }
+}

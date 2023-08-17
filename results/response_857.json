@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ObPGXES5rKqOiOMHskQxY1JVQD",
+    "object": "chat.completion",
+    "created": 1692159965,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129 nginya, m\u0169nd\u0169 ndakone vala \u0169\u0129 ate o e\u0129nengane. N\u0129 nginya k\u0169h\u0129\u0129ra k\u0169g\u0129koma m\u0169nd\u0169 \u0169\u0129 ate o e\u0129nengane. N\u0129 nginya k\u0169r\u0129a \u0129ther\u0169 r\u0129a k\u0169h\u0129\u0129ra."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 102,
+        "total_tokens": 217
+    }
+}

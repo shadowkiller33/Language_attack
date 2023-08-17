@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JLJQ9XkM3iHq5FIRkPx9oJrfDR",
+    "object": "chat.completion",
+    "created": 1692159639,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "En ariyo. Deo peko ne oyweche manyalo tiyo gi yor tudruok e Internet. Ne agoyo ni oland weche ma ok adier kod weche mag miriambo. Atura tic pa \"Search\" gi bar, kiketo \"miriambo\" ni otimbe enter. \n\nGiketo \"miriambo\" ni kanyo, yo wende otimbe enter, ka kawuot kiketo ni piny oneno gi piny. Ka oneno gi piny, yo wende ka oneno gi piny ka kawuot kiketo. \n\nOdenyotni, gi kawuot kiketo ni piny oneno gi piny, gi kawuot \"Images\" ni wende otimbe enter. Ka oneno gi piny, yo wende ka oneno gi piny ka kawuot kiketo. \n\nGi wuotni, gi kawuot oneno gi piny gi kanyo gi kawuot \"Download\" ka wende otimbe enter. Wende otimbe ka wuotni kod miriambo gi piny gi kanyo. \n\nNi kare, gi kawuot kiketo \"Install\" ka wende otimbe enter. Wende otimbe ka wuotni kod miriambo gi piny gi kanyo. \n\nIriyo kare, gi kawuot kiketo \"Open\" ka wende otimbe enter. Wende otimbe ka wuotni kod miriambo gi piny gi kanyo. \n\nIriyo kare, gi kawuot kiketo \"Create Account\" ka wende otimbe enter. Wende otimbe ka wuotni kod gi mung'ono gi piny gi kanyo. \n\nGiketo gi mung'ono gi piny gi kanyo, gi kawuot kiketo \"Fill out the form\" ka wende otimbe enter. Wende otimbe ka wuotni kod gi mung'ono gi piny gi kanyo. \n\nIriyo kare, gi kawuot kiketo \"Submit\" ka wende otimbe enter. Wende otimbe ka wuot"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 500,
+        "total_tokens": 602
+    }
+}

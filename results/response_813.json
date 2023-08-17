@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LyJIGo3sKXbqfjnR83Lj71r8ct",
+    "object": "chat.completion",
+    "created": 1692159802,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129ndat\u0169k\u0129rie Kamba n\u0129ng\u0129? Ndim\u0169k\u0129rie maund\u0169 matonya aka\u0169?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 39,
+        "total_tokens": 142
+    }
+}

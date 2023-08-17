@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JppRXsv3nZNeB6B1mZYszy3OWt",
+    "object": "chat.completion",
+    "created": 1692159669,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129wa m\u0169tumia wa Kamba \u0169t\u0169k\u0169sy\u0129syia. N\u0129nth\u0129, nd\u0129k\u0169\u0169sy\u0129syia mitu\u0169 ya k\u0169v\u0129nd\u0169a thooa wa sy\u0129nd\u0169 na makwate mbesa. Ni uk\u0169sy\u0129syia nd\u0129k\u0169\u0169sy\u0129syia?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 103,
+        "total_tokens": 220
+    }
+}

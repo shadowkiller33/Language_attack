@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJMImKnDesTDnB54YLpYr5sdAc",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tindogi kende wino miyo kawa gi kod wach. Tindo giketo ni ndok kod timbe mahundu. \n\n1. Ochakowu wach koro: \n  - Lelo timbe wach koro kende wino.\n  - Ochakowu wach koro ni ndok wach, adieri gi timoro.\n  - Ojwach koro ni ndok wach kod timbe mahundu.\n  - Timbe koro kende wino ni okoro to.\n  \n2. Ochakowu wach gero:\n  - Lelo timbe wach gero kende wino.\n  - Ochakowu wach gero ni ndok wach, adieri gi timoro.\n  - Ojwach gero ni ndok wach kod timbe mahundu.\n  - Timbe gero kende wino ni ogur to.\n  \n3. Ochakowu wach manyiso:\n  - Lelo timbe wach manyiso kende wino.\n  - Ochakowu wach manyiso ni ndok wach, adieri gi timoro.\n  - Ojwach manyiso ni ndok wach kod timbe mahundu.\n  - Timbe manyiso kende wino ni ogur to.\n\nNinino dhi to. Nyakwara!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 84,
+        "completion_tokens": 302,
+        "total_tokens": 386
+    }
+}

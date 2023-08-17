@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8p7tCqmcL5hIhwC0wOBO8KjS0",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nke a bu n'\u1ecbh\u1ee5nanya, ag\u1ee5nye ya ka \u1ecbkp\u1ecdt\u1ee5r\u1ee5 any\u1ecb ngwa ngwa na Igbo. Nwere ike \u1ecbt\u1ee5ghar\u1ecba ihe \u1ecdm\u1ee5ma kaad\u1ecb akw\u1ee5m\u1ee5gw\u1ecd n'ebe nchekwa data nke \u1ee5l\u1ecd ah\u1ecba na ebe a. Nke a, a ga-enyere g\u1ecb \u1ecbd\u1ecb iru aha na Igbo na-enyere g\u1ecb \u1ecbch\u1ecdr\u1ecd ihe mere g\u1ecb.\n\n1. Ihe nchekwa data nke \u1ee5l\u1ecd ah\u1ecba: Biko kwes\u1ecbr\u1ecb ihe d\u1ecb ka enyemaka nke g\u1ecb na \u1ecbch\u1ecdta ihe nchekwa data nke \u1ee5l\u1ecd ah\u1ecba. Biko nweta ihe \u1ecbga-ah\u1ee5 maka \u1ecbch\u1ecdr\u1ecd data nke \u1ee5l\u1ecd ah\u1ecba, d\u1ecbka ihe aka\u1ee5nt\u1ee5 ah\u1ecba, ohere ah\u1ecba, na nd\u1ecb \u1ecdh\u1ee5r\u1ee5.\n\n2. Nchekwa ebe nchekwa data nke \u1ee5l\u1ecd ah\u1ecba: Biko ch\u1ecd\u1ecd ebe \u1ecbch\u1ecdr\u1ecd data nke \u1ee5l\u1ecd ah\u1ecba. Nchekwa nke \u1ee5l\u1ecd ah\u1ecba ah\u1ee5, \u1ecb ga-ah\u1ee5 ihe nchekwa data, d\u1ecbka ihe \u1ecbn\u1ecdd\u1ee5, aka\u1ee5nt\u1ee5 ah\u1ecba, ohere ah\u1ecba, na nd\u1ecb \u1ecdh\u1ee5r\u1ee5.\n\n3. Nwee ihe \u1ecbmep\u1ee5ta data nke \u1ee5l\u1ecd ah\u1ecba: Biko nweta ihe \u1ecbmep\u1ee5ta data nke \u1ee5l\u1ecd ah\u1ecba. Gaa n'\u1ee5l\u1ecd ah\u1ecba ah\u1ee5 na-akwado ihe \u1ecbmep\u1ee5ta data, d\u1ecbka computers, printers, na \u1ecdt\u1ee5t\u1ee5.\n\n4. Nwee ihe \u1ecbgbanwe data nke \u1ee5l\u1ecd ah\u1ecba: Biko ch\u1ecd\u1ecd ihe \u1ecbgbanwe data nke \u1ee5l\u1ecd ah\u1ecba. Nwee i"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 500,
+        "total_tokens": 615
+    }
+}

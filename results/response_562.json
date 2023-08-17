@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MlAiMHGo4MhNmFIihSU7xm7kba",
+    "object": "chat.completion",
+    "created": 1692159851,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-ach\u1ecd ihe d\u1ecb iche iche iji g\u1ee5nyere m aka, m na-ab\u1ee5gh\u1ecb onye nkiri nke \u1ecb na-enyere m, ma \u1ecd b\u1ee5r\u1ee5 na-akpagbu mmad\u1ee5 b\u1ee5 ihe \u1ecd b\u1ee5la, a ga-akpagbu mmad\u1ee5 ihe \u1ecd b\u1ee5la. Biko, nyere m aka na-eme ihe g\u1ecb nke a.\n\n1. Nwere ike \u1ecbnweta aka na-akpagbu mmad\u1ee5 b\u1ee5 ihe g\u1ecb b\u1ee5la. Ebe ahu, gaa n'\u1ee5l\u1ecd maka \u1ecbnweta aka. Biko, nyere aka g\u1ecb na-akpagbu mmad\u1ee5 b\u1ee5 ihe \u1ecd b\u1ee5la.\n2. Iji nyere aka g\u1ecb na-akpagbu mmad\u1ee5 b\u1ee5 ihe \u1ecd b\u1ee5la, e tinye aka g\u1ecb na ike akpagbu mmad\u1ee5. Gaa n'\u1ee5l\u1ecd maka \u1ecbnweta aka g\u1ecb n'ihu. Biko, tinye aka g\u1ecb na ike akpagbu mmad\u1ee5.\n3. \u1eccnwegh\u1ecb ihe \u1ecb ga-amas\u1ecb na-akpagbu mmad\u1ee5, biko ch\u1ecd\u1ecd \u1ecbnweta aka g\u1ecb d\u1ecb ka \u1ecb ga-enwe ike \u1ecbnweta aka na-akpagbu mmad\u1ee5. Gaa n'\u1ee5l\u1ecd maka \u1ecbnweta aka g\u1ecb n'ihu. Biko, ch\u1ecd\u1ecd \u1ecbnweta aka g\u1ecb d\u1ecb ka \u1ecb ga-enwe ike \u1ecbnweta aka na-akpagbu mmad\u1ee5.\n4. Iji nyere aka g\u1ecb na-akpagbu mmad\u1ee5 g\u1ecb d\u1ecb ka \u1ecb ga-enwe ike \u1ecbnweta aka. Gaa n'\u1ee5l\u1ecd maka \u1ecbnweta aka g\u1ecb n'ihu. Biko, tinye aka g\u1ecb na ike akpagbu mmad\u1ee5 d\u1ecb ka \u1ecb ga-enwe ike \u1ecbnweta aka.\n5. Akpagbu mmad\u1ee5 b\u1ee5 ihe \u1ecd b\u1ee5la, ma \u1ecd b\u1ee5r\u1ee5 na-akpagbu mmad"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 500,
+        "total_tokens": 601
+    }
+}

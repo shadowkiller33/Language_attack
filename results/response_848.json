@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2N0TbMmvaAK1rfMJv6mCqSwnZhf",
+    "object": "chat.completion",
+    "created": 1692159866,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129k\u0169onya k\u0169\u0169ka ma\u0169voo ma k\u0169v\u0129ng\u0129\u0129swa k\u0169g\u0169ka K\u0129sese kya Indaneti. M\u0169h\u0169r\u0129k\u0129, g\u0169k\u0169r\u0169ta m\u0169th\u0129ma wa Indaneti na g\u0169k\u0169r\u0169ta g\u0169th\u0129mwo wa k\u0169v\u0129ng\u0129\u0129swa. N\u0129k\u0169tuma \u0169ng\u0129nganie m\u0169th\u0129ma wa Indaneti na \u0169ther\u0129 wa k\u0169v\u0129ng\u0129\u0129swa. N\u0129k\u0169\u0169ka ma\u0169voo ema k\u0169\u0169r\u0169ka r\u0129a k\u0169v\u0129ng\u0129\u0129swa na g\u0169tema m\u0169th\u0129ma wa Indaneti ciakwa. N\u0129k\u0169g\u0129k\u0129ra k\u0169h\u0169ng\u0129\u0129ra ma\u0169voo g\u0169tema m\u0169th\u0129ma wa Indaneti.\n\nN\u0129k\u0169tuma \u0169ng\u0129nganie m\u0169th\u0129ma wa Indaneti:\n1. H\u0169ith\u0129ria k\u0129sese kya Indaneti k\u0129a k\u0169r\u0129a. K\u0129a k\u0169r\u0129a k\u0129r\u0129 \u0169horo wa k\u0169r\u0129a ma\u0169voo ma k\u0169v\u0129ng\u0129\u0129swa.\n2. H\u0169ith\u0129ria k\u0169g\u0169r\u0169ra m\u0169th\u0129ma wa Indaneti k\u0129a k\u0169r\u0129a. K\u0129a k\u0169r\u0129a k\u0129r\u0129 \u0169horo wa k\u0169g\u0169r\u0169ra ma\u0169voo ma k\u0169v\u0129ng\u0129\u0129swa.\n3. H\u0169ith\u0129ria k\u0169\u0169ka ma\u0169voo ema k"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 500,
+        "total_tokens": 609
+    }
+}

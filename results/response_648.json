@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aEsSHrDBhti3fUtReeoufkTmFC",
+    "object": "chat.completion",
+    "created": 1692160686,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Nggawe situs web\n   - Wong kanggo nggawe situs web, awit nganggo piranti lunak sing cocog kaya WordPress utawa Wix.\n   - Download lan pasang piranti lunak kanggo nggawe situs web sing cocog kanthi kebutuhan.\n   - Mulai nggawe situs web kanthi milih t\u00e8m\u00e0, layout, lan desain sing cocog kanthi konten bajak laut.\n   - Tambahak\u00e9 halaman-halaman sing dibutuhak\u00e9, kaya halaman utama, babagan, blog, lan kontak.\n\n2. Dadi tuan rumah konten bajak laut\n   - Nyusun konten sing cocog karo tema sing dipilih. Contone, nggawe artikel babagan sejarah bajak laut, cara nyusun kostum bajak laut, lan tips kanggo nggawe dekorasi bajak laut.\n   - Tambahak\u00e9 gambar sing cocog kanthi konten, kaya gambar kapal bajak laut, jolly roger, utawa peta sing njaluk nawakake wilayah bajak laut.\n   - Nulis babagan sing ngajelasake piranti sing bisa dipak\u00e9 kanggo nggawe kostum bajak laut, kanggo nggawe model kapal bajak laut, utawa kanggo nggawe hiasan rumah bajak laut.\n   - Nggawe blog lan tulis artikel sing diwenehake babagan bajak laut, nggawe tutorial sing nuduhake carane nggawe kostum bajak laut utawa nggawe model kapal bajak laut.\n   \n3. Promosi situs web\n   - Nggawe akun media sosial kaya Facebook, Instagram, lan Twitter kanggo promosi situs web.\n   - Share artikel-artikel ing media sosial kanthi narik perhatian wong kang minangka pecinta bajak laut.\n   - Nggawe konten ora cuma tulisan, tapi og\u00e9 gambar, video, utawa podcast sing cocog kanthi konten bajak laut.\n   - Ngirim email dumateng mailing list utawa teman-teman kanggo ngundang wong-wong ngunjungi sit"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 500,
+        "total_tokens": 590
+    }
+}

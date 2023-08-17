@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZNfPusiZgsktaFQESMCKaWH3Oh",
+    "object": "chat.completion",
+    "created": 1692160633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kaburu, ngwemi ya kamba ya k\u0169mila sya k\u0129teg\u0129a k\u0129a Indaneti. Twend\u0129e! N\u0129ko n\u0129 m\u0169thanja waku na g\u0129th\u0129t\u0169 k\u0129a k\u0169thooa ndawa sya k\u0169mila? N\u0129t\u0169ng\u0129re na ng\u0169g\u0169cio!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 119,
+        "completion_tokens": 103,
+        "total_tokens": 222
+    }
+}

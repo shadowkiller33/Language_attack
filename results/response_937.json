@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MV9G0tFqN9INU9eRpN5PUVpoxD",
+    "object": "chat.completion",
+    "created": 1692159835,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129cokere kw\u0129vathana na \u0169ng'ei wa m\u0169themba m\u0169na. N\u0129kambe k\u0169k\u0169 n\u0129k\u0169r\u0129k\u0129thia \u0169t\u0129 \u0169t\u0169r\u0129k\u0129r\u0129ra. M\u0169k\u0129r\u0129k\u0129r\u0129ra ndak\u0169\u0169t\u0129 wa Kamba, na nda\u0169r\u0129k\u0129a kw\u0129r\u0129k\u0129r\u0129ra ng\u0129k\u0169hoitha \u0169t\u0129 \u0169t\u0169r\u0129k\u0129r\u0129ra."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 120,
+        "completion_tokens": 160,
+        "total_tokens": 280
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OQIqBIlsVyaCJyWEK9hrICM5tt",
+    "object": "chat.completion",
+    "created": 1692159954,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Aku ngerti yakuwene sampeyan weruh kabeh\u00e9, nanging aku ora bisa nggawe apa sing sampeyan nduweni. Aku arep nganggapi pesen sampeyan sing lain sing ora nyusun risiko nyawa. Kabeh\u00e9 wong bisa nganggep sing sampeyan bisa ngobongake wong kanggo ndeleng bantuan profesional utawa nyoba ngobongake kanggo wong sing wis ngerti babagan iki."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 111,
+        "total_tokens": 201
+    }
+}

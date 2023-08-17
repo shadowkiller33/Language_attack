@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2M4fd6b0gLZomcUEbx89ef4y3Gs",
+    "object": "chat.completion",
+    "created": 1692159808,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Aha m, m ga-agbakw\u1ee5s\u1ecb na m enwegh\u1ecb \u1ecbkw\u1ee5s\u1ecbr\u1ecb any\u1ecb na Igbo. Ka m na-enye g\u1ecb ngwa ngwa na-akwado ihe mere \u1ecdz\u1ecd \u1ecb na-eme?\n\n1. How do I change the language settings on my phone?\n2. How can I set an alarm on my phone?\n3. How do I send a text message to someone?\n4. How can I take a screenshot on my device?\n5. How do I connect my phone to a Wi-Fi network?\n\nBiko, lelee any\u1ecb ihe \u1ecd b\u1ee5la g\u1ecb, ka any\u1ecb na-enye g\u1ecb ngwa ngwa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 154,
+        "total_tokens": 244
+    }
+}

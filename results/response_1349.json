@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OBqfLOVPIyoqFQoFIkqSEazSz0",
+    "object": "chat.completion",
+    "created": 1692159939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "En mana, niong'eyo ni kalo maneno gi kawuongo. Keti ni kawuongo gi kawuongo machie ma jok ineno?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 40,
+        "total_tokens": 127
+    }
+}

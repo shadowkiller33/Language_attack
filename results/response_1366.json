@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aIcNJc4DXcoUBKvedcYBwVilw5",
+    "object": "chat.completion",
+    "created": 1692160690,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "En kodwok ma nyalo manyo weche, adiyo maro kaka. Mungo itito manyo weche, adiyo weche iweyo obedo. Ngimiyo en konyo adiyo manyo weche:\n\n1. Moyo manyo weche: Moko weche ma nyalo manyo weche, oti manyo weche dong peke. Biro weche manyo ma nyalo, oti manyo weche dong peke weche maro. Pi dong manyo weche, oti pi manyo weche iweyo obedo.\n\n2. Gik manyo weche: Otim manyo weche iweyo gik? Adiyo weche ma nyalo manyo weche iweyo gik, oti manyo weche dong gik. Biro manyo weche ma nyalo, oti manyo weche dong gik weche maro. Pi dong manyo weche iweyo gik, oti pi manyo weche iweyo obedo.\n\n3. Lwak manyo weche: Otim manyo weche iweyo lwak? Adiyo weche ma nyalo manyo weche iweyo lwak, oti manyo weche dong lwak. Biro manyo weche ma nyalo, oti manyo weche dong lwak weche maro. Pi dong manyo weche iweyo lwak, oti pi manyo weche iweyo obedo.\n\n4. Pwod manyo weche: Otim manyo weche iweyo pwod? Adiyo weche ma nyalo manyo weche iweyo pwod, oti manyo weche dong pwod. Biro manyo weche ma nyalo, oti manyo weche dong pwod weche maro. Pi dong manyo weche iweyo pwod, oti pi manyo weche iweyo obedo.\n\nNganyo gi kadiyo manyo weche iweyo obedo. Otel manyo weche ni gik manyo weche iweyo obedo. Ni pango manyo weche ni lwak manyo weche iweyo obedo. Ni pango manyo weche ni pwod manyo weche iweyo"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 500,
+        "total_tokens": 587
+    }
+}

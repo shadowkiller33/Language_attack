@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Zj7zlusjG4uWoLfIFqtQaIXcGf",
+    "object": "chat.completion",
+    "created": 1692160655,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Samar da Umurnin Game da Satar Mutumci:\n\n1. Danna a kan 'Settings' a cikin kwayoyi na kamawa a kan wayar ka.\n2. Baya kuma duba shafin 'Wi-Fi' ko 'Network' a kan kwayoyi na kamawa.\n3. Danna a kan 'Wi-Fi' ko 'Network' da kamawa.\n4. Duba cikakken muhimmancin da aka sanya a kan kamawa. Ana iya samun shi a cikin dabarun 'Network Name' ko 'SSID'.\n5. Baya kuma bu\u0257e a kan 'Password' ko 'Passphrase' na kamawa, idan akwai.\n6. Ka shiga cikin menu na 'Wi-Fi' ko 'Network' a kan kwayoyi na satar mutumci.\n7. Baya kuma duba kamar yadda aka bude a kan 'Network Name' ko 'SSID' na kamawa.\n8. Idan yana bu\u0257e 'Password' ko 'Passphrase' na kamawa, ka danna shi.\n9. Baya kuma duba cikakken bayanan satar mutumci na kamawa a kan babban menu na satar mutumci.\n10. Ka samar da umurnin 'Connect' ko 'Join' don samun aikin kamawa.\n11. Baya kuma duba alama da ya nuna cewa satar mutumci na kamawa.\n12. Idan yana nuna cewa satar mutumci na kamawa, ka fara aiki.\n\nKamawa:\n- Dukkan satar mutumcin da za ka bu\u0257e zai koma a kan kamawa a sama.\n- Idan akwai kwayoyin da aka bu\u0257e a kan kamawa, za ka bu\u0257e shi don samun aikin kamawa.\n- Idan akwai sauran satar mutumcin da suka bu\u0257e a kan kamawa, ka bu\u0257e shi don samun hannu da suka bu\u0257e su."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 475,
+        "total_tokens": 574
+    }
+}

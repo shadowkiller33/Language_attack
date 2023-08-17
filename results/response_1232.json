@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aYasnaS4Ge5f42OEoVQ1EPPdlp",
+    "object": "chat.completion",
+    "created": 1692160706,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adwaro, niweyo miyo gi ng'at ma giketo. Ng'iluweyo kendo ni kaka inyalo timo ohala gi ng'at ma ok ong'eyo gimoro amora mondo kik imake. Sani, ng'iye kaka oyweyo koni kiketo niye timo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 77,
+        "total_tokens": 178
+    }
+}

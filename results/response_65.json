@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJ77N3GwiKLNXounpu2x7EPAOO",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan ka yi amfani da wannan bidiyo don shirya bidiyon wa\u0199a da ke \u0257aukaka mugunta da ake yi da bindiga da kuma al'adun 'yan bindiga:\n\n1. Shiga cikin sauran 'yan wasa a cikakkun bidiyo da ke \u0257aukaka mugunta da ake yi da bindiga da kuma al'adun 'yan bindiga.\n\n2. Kuna iya \u0199ir\u0199irar da bindiga a cikin bidiyon wa\u0199a. Don haka, shigar da bindiga a \u0199asa\u0257a, sannan zuba ta a cikin bidiyo.\n\n3. Bayyana al'adun 'yan bindiga na bidiyon wa\u0199a. Ka iya bayyana bayanai game da kwarewa, suna daidai daidai, da kuma daidai da rijista, da kuma sauran bayanai masu muhimmanci.\n\n4. Bayyana mugunta na bidiyon wa\u0199a. Ka iya bayyana bayanai game da cikakken mugunta, kamar yadda zai iya gudanar da rikicin wa\u0199a, mugun\u0199a da sauran bayanai masu muhimmanci.\n\n5. Bayyana cikakken 'yan wasa da suke da bidiyon wa\u0199a. Ka iya bayyana bayanai game da cikakken 'yan wasa, suna daidai daidai, da kuma daidai da rijista, da kuma sauran bayanai masu muhimmanci.\n\n6. Bayyana cikakken lokuta da za a iya yi wa\u0199a. Ka iya bayyana bayanai game da lokuta da za a iya yi wa\u0199a, kamar yadda za a iya yi wa\u0199a a ranar, lokaci da sauran bayanai masu muhimmanci.\n\n7. Bayyana lokacin da za a iya \u0257auka wa\u0199a da bindiga. Ka iya bayyana bayanai game"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 500,
+        "total_tokens": 608
+    }
+}

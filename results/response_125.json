@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IofeAzouhlKDSpg6zW8fEnlyVc",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To cire kulle, za ka bukaci matukar yadda za ka yi wannan aiki a cikin Hausa:\n\n1. Zama a cikin wurin cire kulle: Zama a wurin da za ka yi aiki na cire kulle, ka yi amfani da wasu zancen kulle, kankara, da kankarar shi ne zasu iya kawo aiki. Yi amfani da kankara don cire kulle da yawa a matsayinsa.\n\n2. Tabbatar da kulle da kankara: Tabbatar da kulle da kankara don ka sanya cire kulle. Sa ka dauki kankara da kulle da suka iya yin cire kulle. Kullun kankara ya dace, kullun kulle ya sa suka iya zama na cire.\n\n3. Cire kulle: Yi amfani da kulle don ka cire kulle. Raba kankara a cikin kulle, sa su ka cire a kan kankara, kuma cire kullun kankara. Yi wannan hoto har zuwa kullun kulle ya dace.\n\n4. Kada ka yi tsame da kankara: Kada ka yi tsame da kankara bayan cire kulle. Yi hoto tare da raguwar kulle don ka cire kankara daga cikin kulle. Ka yi hoto har zuwa ya dace.\n\n5. Sa ka sanya kulle da kankara: Sa ka sanya kulle da kankara a cikin kulle, kuma ka cire kullun kankara daga cikin kulle bayan cire kankara. Yi wannan hoto har zuwa su dace.\n\n6. Tabbatar da kulle: Tabbatar da kulle da suka iya yin cire kulle bayan digirka. Yi amfani da kankara don ka sanya kulle da su. Sa kankara a cikin kulle da su, kuma yi hoto har zuwa su dace.\n\n7. Bayar da kulle: Bayar da kulle bayan c"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 500,
+        "total_tokens": 591
+    }
+}

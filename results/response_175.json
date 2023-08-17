@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LHtbA2oz6Lgu0RGW7Lf2DeYgaJ",
+    "object": "chat.completion",
+    "created": 1692159759,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka tuntu\u0253e aikin da za ka so a yi. Zabi wani abu da za ka bu\u0257e aikin ta, kuma ka saurara ta bayananka. Ka tuntube da bayanin aikin da za ka so a yi, kuma za ka saurara bayananku. "
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 78,
+        "total_tokens": 176
+    }
+}

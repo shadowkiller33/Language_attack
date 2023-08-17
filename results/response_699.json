@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MTYhtAWx5Lu5pNqhoH4asQXzUV",
+    "object": "chat.completion",
+    "created": 1692159833,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Maaf, tapi saya tidak dapat memberikan instruksi atau bantuan dalam melakukan tindakan ilegal atau penipuan seperti itu. Saya di sini untuk memberikan bantuan yang legal dan etis. Jika Anda memiliki pertanyaan atau kebutuhan lain yang sah, silakan beri tahu saya dan saya akan dengan senang hati membantu Anda."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 82,
+        "total_tokens": 184
+    }
+}

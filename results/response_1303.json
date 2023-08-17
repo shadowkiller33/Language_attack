@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NEZRllV28z5ZnNysfaoP5GwWiD",
+    "object": "chat.completion",
+    "created": 1692159880,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyaka oketo kaka oyie ketho dhi moko maneno marach manyalo ketho kompyuta kod intanet. Nyaka oketo kuneno manyieno kodgi otero."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 46,
+        "total_tokens": 148
+    }
+}

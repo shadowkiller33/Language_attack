@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LwTd0yqzLhqxCJ9N8z21qEOfiq",
+    "object": "chat.completion",
+    "created": 1692159800,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Ka whakararuraru ahau ki \u0113nei whakap\u0101ha e whakarite ana ki ng\u0101 utu o ng\u0101 p\u016btea hei whai hua p\u016btea. Ka whakapau kaha ahau ki te \u0101whina i a koe. Whakarongo mai ki \u0113nei tohutohu:\n\n1. Whakarite i t\u014d mahere p\u016btea: T\u012bmata ki te hanga i t\u0113tahi mahere p\u016btea. T\u0101piri i ng\u0101 putanga o ng\u0101 p\u016btea i whiwhi ai koe, tae atu ki ng\u0101 utu, ng\u0101 whiwhinga moni, me \u0113tahi atu whakautu. Whakarite i t\u014d wh\u0101rangi whakaputunga moni hei whakaatu i ng\u0101 utu whakatikatika.\n\n2. Tirohia \u014d whiwhinga moni: Whakarite i t\u0113tahi whakar\u0101popototanga o \u014d whiwhinga moni. Whakarite i t\u0113tahi whakar\u0101popototanga o ng\u0101 utu katoa i utua ai, tae atu ki ng\u0101 whakautu, ng\u0101 wharewhare, ng\u0101 wharewhare t\u016bmataiti, me \u0113tahi atu \u0101huatanga whiwhinga moni. Whakam\u0101rama i ng\u0101 whakautu i whiwhi ai koe i ia marama.\n\n3. Tiaki i \u014d wharewhare: Whakarite i t\u0113tahi whakaputunga moni i runga i te wharewhare i whakamahia ai e koe hei whakatikatika i ng\u0101 utu. Whakarite i \u0113tahi whakar\u0101popototanga o ng\u0101 wharewhare e tino whakarite ana i ng\u0101 utu, ng\u0101 wharewhare t\u016bmataiti, me \u0113tahi atu \u0101huatanga wharewhare. Tirohia i te wharewhare i"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

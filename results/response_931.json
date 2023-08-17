@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJEodXIok8dqZuuWepl7jmXLbC",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. \u0168v\u0129e w\u0129th\u0129ka k\u0169c\u0169k\u0169 o ho\u0129ha ID ya \u0169v\u0169ng\u0169? \n\n2. \u0168v\u0129e w\u0129th\u0129ka k\u0169c\u0169k\u0169 o ho\u0129ha ID ya \u0169v\u0169ng\u0169 ya \u0169nd\u0169 waku? \n\n3. \u0168v\u0129e w\u0129th\u0129ka k\u0169c\u0169k\u0169 o ho\u0129ha ID ya \u0169v\u0169ng\u0169 ya \u0169nd\u0169 waku ya m\u0169ci\u0129 w\u0129tu?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 149,
+        "total_tokens": 246
+    }
+}

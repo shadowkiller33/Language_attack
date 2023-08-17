@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoTxy90IPGkuS3BvsZKjlltgna",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Bende ineno yani kaka ochako gi wach kod mag dhano e wuondo ji. Kendo mag dhano e wuondo ji gikelo, en wach kaka ochakore gi wach kod kadi mag dhano e wuondo ji. Ero oneno niyo mag dhano e wuondo ji?\n\n(Note: I apologize for any inaccuracies in the translation. Luo is not one of the supported languages for the model, and the translation may not be perfect.)"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 107,
+        "total_tokens": 197
+    }
+}

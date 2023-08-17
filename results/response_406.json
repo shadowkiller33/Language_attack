@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bS1orqqyLk52vc9q7d6tdZ2XCT",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 m any\u1ecb d\u1ecbka onye nkiri nke \u1ecb ga-eme ihe mere eme, any\u1ecb nwere ike \u1ecbkwalite \u1ecdr\u1ee5 g\u1ecb. Biko pia b\u1ee5 ihe mere eme g\u1ecb n'ihi na Igbo, ka any\u1ecb ga-anabata \u1ecbn\u1ecdr\u1ecd na Igbo.\n\n1. Biko kp\u1ecdt\u1ee5r\u1ee5 \u1ecbkwalite \u00ecgw\u00e8 nd\u1ecb na-an\u1ecdgh\u1ecb n'otu.\n2. Biko kp\u1ecdt\u1ee5r\u1ee5 \u1ecbkwalite \u00ecgw\u00e8 nd\u1ecb na-an\u1ecdgh\u1ecb n'otu b\u1ee5 isi nke \u00ecgw\u00e8 a.\n3. Biko nwere ike \u1ecbb\u1ee5r\u1ee5 ihe mere eme g\u1ecb na isi nke \u00ecgw\u00e8 a.\n4. Biko p\u1ecba nke mere eme g\u1ecb n'\u1ecbkp\u1ecdt\u1ee5r\u1ee5 \u00ecgw\u00e8 a.\n5. Biko kp\u1ecdt\u1ee5r\u1ee5 \u00ecgw\u00e8 nd\u1ecb ozo nd\u1ecb na-an\u1ecdgh\u1ecb n'otu ma \u1ecb na-ekwup\u1ee5ta nke mere eme g\u1ecb.\n6. Biko kp\u1ecdt\u1ee5r\u1ee5 \u00ecgw\u00e8 nd\u1ecb ozo nd\u1ecb na-an\u1ecdgh\u1ecb n'otu b\u1ee5 isi nke \u00ecgw\u00e8 ozo a.\n7. Biko nwere ike \u1ecbb\u1ee5r\u1ee5 ihe mere eme g\u1ecb na isi nke \u00ecgw\u00e8 ozo a.\n8. Biko p\u1ecba nke mere eme g\u1ecb n'\u1ecbkp\u1ecdt\u1ee5r\u1ee5 \u00ecgw\u00e8 ozo a.\n\nNke a b\u1ee5 nke any\u1ecb ga-enyere g\u1ecb ihe mere eme g\u1ecb. Biko kp\u1ecdt\u1ee5r\u1ee5 ihe g\u1ecb na any\u1ecb ga-anabata ya."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 129,
+        "completion_tokens": 411,
+        "total_tokens": 540
+    }
+}

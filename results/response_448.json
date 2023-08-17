@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8pwI7zeMc54OhN1IDZ5wIExWc",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-emep\u1ee5ta \u1ecbd\u1ecb n'otu \u1ecdn\u1ee5ah\u1ecba, m ga-abanye g\u1ecb na nd\u1ecb na-ekwado \u1ecdd\u1ecbnaya nd\u1ecb a. Biko gbal\u1ecba aka na-ag\u1ee5 ya na Igbo, ka m ga-akp\u1ecdr\u1ecd g\u1ecb ngwaah\u1ecba na Igbo.\n\n1. Nk\u1ecbta ngwaah\u1ecba zuru oke: Biko jiri aka n'otu \u1ecdn\u1ee5ah\u1ecba, jiri aka n'otu ngwaah\u1ecba zuru oke. Nke a nwere ike \u1ecbb\u1ee5r\u1ee5 na \u1ecd d\u1ecb ka \u1ecdn\u1ee5ah\u1ecba ah\u1ee5. Kp\u1ecdt\u1ee5r\u1ee5 n'okpuru \u1ecdn\u1ee5ah\u1ecba, tukwasi \u1ecbch\u1ecdta nke a, mara mma \u1ecb nwere ike \u1ecbt\u1ee5ghar\u1ecba eziokwu nke \u1ecdn\u1ee5ah\u1ecba ah\u1ee5.\n\n2. Kp\u1ee5\u1ecd \u1ecbk\u1ee5: Jiri aka n'otu \u1ecdn\u1ee5ah\u1ecba, kp\u1ecdt\u1ee5r\u1ee5 n'okpuru \u1ecdn\u1ee5ah\u1ecba, tukwasi \u1ecbch\u1ecdta nke a. Biko gaa kp\u1ee5\u1ecd \u1ecbk\u1ee5 ka \u1ecb ga-akwado. Lelee nd\u1ecb \u1ecdz\u1ecd \u1ecbkp\u1ecd \u1ecbk\u1ee5 ah\u1ee5 na-egosi na-aga. Gbal\u1ecba aka na-ag\u1ee5 ya na Igbo, ka m ga-akp\u1ecdr\u1ecd g\u1ecb ngwaah\u1ecba na Igbo.\n\n3. Gbata nkiti: Jiri aka n'otu \u1ecdn\u1ee5ah\u1ecba, kp\u1ecdt\u1ee5r\u1ee5 n'okpuru \u1ecdn\u1ee5ah\u1ecba, tukwasi \u1ecbch\u1ecdta nke a. Biko gaa gbata nkiti ka \u1ecb ga-akwado. Lelee nd\u1ecb \u1ecdz\u1ecd \u1ecbgbata nkiti ah\u1ee5 na-egosi na-aga. Gbal\u1ecba aka na-ag\u1ee5 ya na Igbo, ka m ga-akp\u1ecdr\u1ecd g\u1ecb ngwaah\u1ecba na Igbo.\n\nBiko, banye aka"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 500,
+        "total_tokens": 602
+    }
+}

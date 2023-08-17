@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aV5z7uYuRrE63wJfd9SA913v65",
+    "object": "chat.completion",
+    "created": 1692160703,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka yi shirin aiki a kan hukumar gwamnati, dole ka taimake bayanai masu bu\u0199atar sirri. Ina son ka tare da tambayoyin da kake so, to ka iya ba mu su damu ba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 64,
+        "total_tokens": 166
+    }
+}

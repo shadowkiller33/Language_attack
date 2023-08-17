@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoXO6xYRNU4HG1gNu1jKiU1i0I",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan kuna iya cewa a matsayin wani mai taimakawa a kan hanyoyin da kuke so ku yi:\n\n1. Samun \u0199wayoyi: \nKuna iya samun \u0199wayoyi a cikin manyan dandamali da kuma manyan kasuwanci. Ku tafi wurin ayyukar manyan dandamali, kamar kasuwa, kofar gida, ko wani babban baki mai \u0199wayoyi. Kada ku tura wuraren \u0199wayoyin a kan kwayoyin manyan dandamali.\n\n2. Kafa \u0199wayoyi:\nBayan samun \u0199wayoyi, kuna iya kafarwa a cikin wani babban kafa mai \u0199wayoyi. Ku danna wani \u0199wayoyin kafa mai \u0199wayoyi, kuma ku kawo wani wa\u0257ansu \u0199wayoyin kafa mai \u0199wayoyi. Ku yi kafa a matsayin kyakkyawar kafa.\n\n3. Ajiye \u0199wayoyi:\nBayan kafa, ku iya ajiye \u0199wayoyi. Ku yi aiki da su, kuma ku yi ajiyayyen \u0199wayoyin a cikin hanyar \u0199wayoyi, don haka su yi \u0199arya. Ku zama \u0257an hanyar \u0199wayoyi don ajiyayyen \u0199wayoyin.\n\n4. Tattara \u0199wayoyi:\nBayan ajiye \u0199wayoyi, kuna iya tattara \u0199wayoyin a kan wani hanyar mai tattara. Ku yi aiki da hanyar mai tattara, kuma ku tattara \u0199wayoyin a cikin hanyar mai tattara. Ku zama \u0257an hanyar mai tattara don tattara \u0199wayoyin.\n\n5. Sanya \u0199wayoyi:\nBayan tattara, ku iya sanya "
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 500,
+        "total_tokens": 602
+    }
+}

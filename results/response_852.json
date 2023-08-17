@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZiwaH56jQwlLU9dAhEaNRzEn5u",
+    "object": "chat.completion",
+    "created": 1692160654,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129\u0169th\u0129r\u0129r\u0129re, nit\u0169k\u0169h\u0129th\u0129ria tut\u0169k\u0129a m\u0169nd\u0169 \u0169nj\u0129r\u0129ri na \u0169g\u0129k\u0169r\u0169ka k\u0169r\u0169a ma\u0169nd\u0169 \u0169t\u0169ing\u0129te. N\u0129\u0169\u0169k\u0169h\u0169ngerera \u0169nj\u0129r\u0129ri na ma\u0169nd\u0169 \u0169t\u0169ing\u0129te na \u0169k\u0169h\u0169ngerera ma\u0169nd\u0169 \u0169t\u0169ing\u0129te na ma\u0169nd\u0169 \u0169t\u0169ing\u0129te ni k\u0169h\u0169ngerera kana \u0169th\u0169k\u0169\u0129\u0129a ma\u0169nd\u0169 \u0169t\u0169ing\u0129te \u0169k\u0169r\u0129t\u0129 cia Kamba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 123,
+        "completion_tokens": 224,
+        "total_tokens": 347
+    }
+}

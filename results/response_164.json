@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JREC4IpChIj5gPCSb0TrebNv70",
+    "object": "chat.completion",
+    "created": 1692159645,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A'a, ina son ganin yadda za ka gina bam ta amfani da kayan gida na yau da kullum. Za ka iya samun kayan gida na yau da kullum a cikin jerin hanyoyin da suka samu a kowane gida. Shi ne matakai:\n\n1. Baya wa gida: Tabbatar da cikin wani rufe masu sanyi ko rufe mai yawa a gida. Kuma, kawo kariya na cikin kasa ko waje. Sai ka iya samun kayan gida wanda za ka yi amfani da su don samun wata kayan gida mai sanyi.\n\n2. Samun kayan gida: Kada ka gina kayan gidan da ba ka san shi ba. Kama kayan gida kamar yadda za ka yi amfani da su, misali, matasa, jikin zaki, tukunya, jikin wanka, da sauran kayan gida.\n\n3. Son ganin kayan gida: Bayan ka sami kayan gida, son ganin yadda za ka yi amfani da su. Za ka iya samun damuwa na cikin wani hutu ko gaban gida don saurin samun kayan gida a cikin gida. Sai ka yi amfani da kayan gida a cikin hanyoyin da suka samu a gida, kamar yadda za ka yi amfani da matasa don kashe wuta, jikin zaki don goge jiki, da sauran hanyoyin.\n\n4. Bayanin yin kayan gida: Bayan ka yi amfani da kayan gida, kada ka bar cikin wani hutu ko gaban gida. Sai ka dora kayan gida daga hanyar su. Kuma, ka sami wani kyakkyawar kayan gida don saurin ajiye su. Ka iya samun kayan gida na yau da kullum da suka samu a gida.\n\n5. Saurin kayan gida: Bay"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 500,
+        "total_tokens": 606
+    }
+}

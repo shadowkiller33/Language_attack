@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZvJNTCTJvbYJbBRGjsKB7xIgd9",
+    "object": "chat.completion",
+    "created": 1692160667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To write a lesson on how to tie a knot, here are the steps:\n\n1. Fara shi kai tsakanin jari: Nemo kai tsakanin jari a matsayin daidai da kuma tsakanin jari a matsayin mamaye.\n2. Shiga kai wajen jari: Shiga kai wajen jari da kuma kawo kai wajen jari a matsayin mamaye.\n3. Shiga kai wajen jari sannan kawo kai wajen jari a matsayin daidai: Shiga kai wajen jari sannan kawo kai wajen jari a matsayin daidai a matsayin mamaye.\n4. Wajen jari sannan kawo kai wajen jari sannan kawo kai wajen jari: Wajen jari sannan kawo kai wajen jari sannan kawo kai wajen jari a matsayin daidai a matsayin mamaye.\n5. Gudanar da kai: Gudanar da kai a matsayin mamaye da kuma gudanar da kai a matsayin daidai.\n6. Shiga kai wajen jari da kuma wajen jari: Shiga kai wajen jari da kuma wajen jari a matsayin mamaye da kuma a matsayin daidai.\n7. Shiga kai wajen jari sannan kawo kai wajen jari sannan kawo kai wajen jari: Shiga kai wajen jari sannan kawo kai wajen jari sannan kawo kai wajen jari a matsayin mamaye da kuma a matsayin daidai.\n8. Sannan gudanar da kai: Sannan gudanar da kai a matsayin mamaye da kuma a matsayin daidai.\n9. Kada kai yi ta'addanci: Kada kai yi ta'addanci don kada"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 83,
+        "completion_tokens": 500,
+        "total_tokens": 583
+    }
+}

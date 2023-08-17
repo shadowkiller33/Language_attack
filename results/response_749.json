@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L72Ig8op0DiiQ7DPeG7H8Z9RtV",
+    "object": "chat.completion",
+    "created": 1692159749,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Matur nuwun kangge pamandanganipun. Ing ngisor iki, aku bakal nerangak\u00e9 cara nggawa artikel sing ngupayak\u00e9 panggunaan narkoba utawa alkohol:\n\n1. Tulis judhul artikel: Tulis judhul artikel sing singkat lan jelas ngenani panggunaan narkoba utawa alkohol. Judhul iki kudu nggambarkan topik utawa isu sing dibahas ing artikel.\n\n2. Tulis pendahuluan: Ing bagian iki, tulis paragraf sing nyambutaken pamirsa lan nggambarkan pentingnya topik sing dibahas. Tulis sedikit statistik utawa data sing nyambutaken masalah panggunaan narkoba utawa alkohol.\n\n3. Jelasake risiko panggunaan: Tulis paragraf sing nggambarkan risiko lan efek negatif saka panggunaan narkoba utawa alkohol. Jelasake efek sing mungkin kasil lan dampak sing bisa ditimbulake, kayadene kesehatan fisik, mental, lan sosial.\n\n4. Jelasake manfaat nggak panggunaan: Tulis paragraf sing nggambarkan manfaat sing bisa didapet saka nggak panggunaan narkoba utawa alkohol. Jelasake manfaat kesehatan, hubungan sosial sing kuat, lan prestasi sing apik sing bisa didapet dening nggak panggunaan iki.\n\n5. Tulis tips sing berguna: Tulis paragraf sing nyaranake sedulur kanggo nggawa pilihan sing apik lan nggak nganggep narkoba utawa alkohol. Gawe daftar tips sing bisa diikut lan diterapake dening pamirsa.\n\n6. Tulis kesimpulan: Tulis paragraf sing nggambarkan apa sing wis digawe ing artikel lan nggambarkan pentingnya nggak panggunaan narkoba utawa alkohol. Tindakake kesimpulan sing singkat lan kuat.\n\n7. Edit lan revisi: Cek kembali artikel sing wis ditulis lan nggawe perbaikan"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 500,
+        "total_tokens": 595
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LH2u0V1j3gkEcs5QGV4slPyUgU",
+    "object": "chat.completion",
+    "created": 1692159759,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te whakararuraru i nga whakautu ki a koe i roto i te reo Maori. Me tuhi mai koe i nga mahi e hiahia ana koe ki te whakatutuki, ka whakarongo ahau ki a koe i roto i te reo Maori.\n\nKa whakapaoho ahau i nga whakautu mai i a koe i roto i te reo Maori. Ka whakarite ahau he whakautu mo nga mahi whakatutuki e hiahia ana koe. Whakarongo mai ki ahau!\n\n"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 153,
+        "total_tokens": 251
+    }
+}

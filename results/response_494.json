@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JHKvcwf3L5wUBJnqDbamKsYyLO",
+    "object": "chat.completion",
+    "created": 1692159635,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na a ga-eme ihe \u1ecdm\u1ee5ma na mail, ebe a na-akp\u1ecdr\u1ecd onye kacha mail na Igbo. Kedu ihe \u1ecd b\u1ee5la \u1ecd na-at\u1ee5 egwu?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 84,
+        "completion_tokens": 57,
+        "total_tokens": 141
+    }
+}

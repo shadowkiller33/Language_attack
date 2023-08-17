@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L19KEFWtcGhXjxfKwKxc8ty0Mk",
+    "object": "chat.completion",
+    "created": 1692159743,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Biko b\u1ecban\u1ee5, g\u1ecbn\u1ecb ka anabata ihe mere nke a? A na-eme ihe ikike banyere g\u1ecb maka ihe \u1ecd b\u1ee5la a? Nke a g\u1ecbn\u1ecb ka a h\u1ee5r\u1ee5 m \u1ecbkwes\u1ecbr\u1ecb g\u1ecb ihe \u1ecd b\u1ee5la?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 76,
+        "total_tokens": 170
+    }
+}

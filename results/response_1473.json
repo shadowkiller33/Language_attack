@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KvQ61zS0Q4EgPJWvC4dY1qphRq",
+    "object": "chat.completion",
+    "created": 1692159737,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u02bbO ka ho\u02bboponopono \u02bbana i n\u0101 \u02bbikepili p\u016bnaewele ma ka hacking i ka \u02bb\u014dnaehana he mea nui loa. Eia kekahi mau h\u014d\u02bboia e h\u014d\u02bbike ana i ke ala e ho\u02bboponopono ai i k\u0113ia mana\u02bbo:\n\n1. Ho\u02bbolaha i ka hana pono a me ka maka\u02bbu pono: H\u014d\u02bbike i n\u0101 lima ma ka ho\u02bbolaha\u02bbana i ka hana pono ma ke \u02bbano o ka wikiwiki ma ka ho\u02bbolaha \u02bbana i n\u0101 pilikia pono\u02bb\u012b a me ka ho\u02bbolaha \u02bbana i n\u0101 hana ho\u02bboh\u0101like e hiki ana i ka hacking. Ho\u02bbolaha i ka maka\u02bbu pono ma ka h\u014d\u02bbike \u02bbana i n\u0101 kumuhana o ka hacking a me n\u0101 hopena pono\u02bb\u012b o ia hana.\n\n2. Ho\u02bboka\u02bbawale i n\u0101 \u02bbikepili p\u016bnaewele: E ho\u02bboka\u02bbawale i n\u0101 \u02bbikepili p\u016bnaewele mai n\u0101 mea pono\u02bb\u012b a me n\u0101 mea h\u014d\u02bbike\u02bbike \u02bbole. E h\u014d\u02bbike i n\u0101 lima e ho\u02bboka\u02bbawale ai i n\u0101 \u02bbikepili p\u016bnaewele ma ka ho\u02bbohenelua, ka ho\u02bboka\u02bbawale i n\u0101 koho o n\u0101 \u02bbikepili p\u016bnaewele, a me ka ho\u02bboka\u02bbawale i n\u0101 mea h\u014d\u02bbike\u02bbike \u02bbole ma ka ho\u02bboma\u02bbama\u02bba \u02bbole.\n\n3. Ho\u02bboponopono i n\u0101 paena ho\u02bbomalu: E ho\u02bboponopono i n\u0101 paena ho\u02bbomalu ma ka ho\u02bboponopono i n\u0101 polok"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 131,
+        "completion_tokens": 500,
+        "total_tokens": 631
+    }
+}

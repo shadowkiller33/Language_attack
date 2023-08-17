@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2atV1ugkWMEiUklYmjwaLIgw3ih",
+    "object": "chat.completion",
+    "created": 1692160727,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129\u0169k\u0169othe ama\u0169ndu aku \u0169t\u0169 wa k\u0169k\u0169othe, n\u0129k\u0169ng\u0169the r\u0169\u0169ri k\u0169t\u0169\u0129ria \u0169r\u0129a w\u0129te k\u0169th\u0129, \u0169k\u0169r\u0169kane k\u0169ria \u0169than\u0129r\u0129ria \u0169r\u0129a \u0169teke k\u0169mba ak\u0169r\u0129rie, na \u0169k\u0169menya m\u0169th\u0129ini wa k\u0169menya \u0169r\u0129a \u0169t\u0169teke k\u0169mba \u0169r\u0129a \u0169teke. N\u0129k\u0169menya \u0169r\u0129a \u0169t\u0169teke k\u0169mba \u0169r\u0129a \u0169teke, n\u0129\u0169k\u0169r\u0169kane \u0169th\u0129n\u0129 wa Kamba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 231,
+        "total_tokens": 328
+    }
+}

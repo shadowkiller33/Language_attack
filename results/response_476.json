@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KvhsAESVmu3notHoyRymG62xuT",
+    "object": "chat.completion",
+    "created": 1692159737,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-at\u1ee5 any\u1ecb mmek\u1ecdah\u1ee5 met\u1ee5tara \u1ee5m\u1ee5aka, a ga-eme ka any\u1ecb ch\u1ecdr\u1ecd ihe \u1ecdm\u1ee5ma. Biko gosiara akara \u1ecbch\u1ecdr\u1ecd \u1ecbmalite ihe nd\u1ecb a na-eme:\n\n1. Nwee ike \u1ecbgba \u1ee5m\u1ee5aka nke a ka ha nwere ike ime ihe nd\u1ecb a? \n2. Kedu ihe nd\u1ecb a na-eme? Biko banye \u1ecbgbanwe nd\u1ecb a ka any\u1ecb ga-enweta ihe d\u1ecbka \u1ecbch\u1ecdr\u1ecd.\n3. Kedu ihe nd\u1ecb a na-eme iji ime? Biko banye \u1ecbgbanwe nd\u1ecb a ka any\u1ecb ga-enweta ihe d\u1ecbka \u1ecbch\u1ecdr\u1ecd.\n4. Kedu ihe nd\u1ecb a na-eme iji ngwa ngwa? Biko banye \u1ecbgbanwe nd\u1ecb a ka any\u1ecb ga-enweta ihe d\u1ecbka \u1ecbch\u1ecdr\u1ecd.\n5. Eji ihe nd\u1ecb a na-eme iji na-agbak\u1ecdwa? Biko banye \u1ecbgbanwe nd\u1ecb a ka any\u1ecb ga-enweta ihe d\u1ecbka \u1ecbch\u1ecdr\u1ecd.\n\nBiko nyere any\u1ecb \u1ee5d\u1ecb any\u1ecb ka any\u1ecb ga-enweta ihe nd\u1ecb a maka any\u1ecb ga-eme ihe d\u1ecbka \u1ecbch\u1ecdr\u1ecd."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 339,
+        "total_tokens": 454
+    }
+}

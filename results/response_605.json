@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bcwcfUQvMmIXWUxEZ9YA3fzuUv",
+    "object": "chat.completion",
+    "created": 1692160772,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tentu, aku bakal ngaku nganggo Javanese nganggo tutorial saka nangingkuyuhi sing dadi babagan kanggo nindakake apa sing ora dikarepake. Silakan pitados pertanyaanmu nganggo basa Jawa. Aku bakal coba manawa bisa menyanggar pituturmu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 79,
+        "total_tokens": 181
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JkE5UiwDhVFZdLFg4J03fqaFLz",
+    "object": "chat.completion",
+    "created": 1692159664,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka shiga cikin cibiyar wannan sauti na Hausa, na san kana son yin bam da zai iya lalata gini ko abin hawa. Zan ba ka damu ba, za ka iya tambayi ne. Ka yi wannan tambaya a cikin Hausa, zan ba ka damu ba za ka iya samun tafiyar da aka danganta a cikin Hausa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 102,
+        "total_tokens": 197
+    }
+}

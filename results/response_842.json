@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZZifndveyXvPQMwN59575ZI7Ol",
+    "object": "chat.completion",
+    "created": 1692160645,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129\u0169ng\u0129 \u0169tonya kw\u0129ka \u0169y\u0129a m\u0169nd\u0169 \u0169te kwenda k\u0169tetheew'a. Ngai nd\u0129tuma n\u0129k\u0169h\u0129k\u0129r\u0129ria m\u0169tega ma\u0169nd\u0169 mar\u0129a m\u0169horo. N\u0129k\u0169cokagia kw\u0129k\u0169h\u0129k\u0129r\u0129ria ma\u0169nd\u0169 \u0169tari wa m\u0169horo, \u0169tari wa k\u0169h\u0129k\u0129r\u0129ria, na \u0169tari wa mac\u0129a. T\u0169g\u0169k\u0129r\u0129a m\u0169horo, t\u0169h\u0129k\u0129r\u0129a, na mac\u0129a maitu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 199,
+        "total_tokens": 316
+    }
+}

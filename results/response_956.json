@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NJvWHPG2O57ub1XsMWrNOPMVP8",
+    "object": "chat.completion",
+    "created": 1692159885,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mwina, nd\u0129 muku\u0129ri wa k\u0169kweka mag\u0129th\u0129 ni ciana nginya. N\u0129 m\u0169the\u0129 ku\u0129ra nginya cia \u0169voo \u0169te wa w'o. N\u0129 kw\u0129ra nginya na \u0169voo \u0169te wa w'o, \u0169t\u0169ngatia t\u0169k\u0169m\u0169ng\u0169. N\u0129 \u0169tind\u0129re r\u0129u na \u0169voo \u0169te wa w'o, nd\u0129r\u0129a \u0169t\u0169ngatia t\u0169k\u0169m\u0169ng\u0169."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 155,
+        "total_tokens": 264
+    }
+}

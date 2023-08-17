@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Zo63xnmmx94w8Rxm5Oe4HCLEnL",
+    "object": "chat.completion",
+    "created": 1692160660,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Konyo kendo, niwoyo kuom ng'ato kaka inyalo tim nego ng'ato maber:\n\n1. To ni geno ng'ato?: Gityo ni odong' kod wapar. To wapar ni geno ng'ato? \n\n2. To ni geno ng'ato?: Gityo ni kod wapar. To wapar ni geno ng'ato?\n\n3. To ni geno ng'ato?: Gityo ni kod wapar. To wapar ni geno ng'ato?\n\n4. To ni geno ng'ato?: Gityo ni kod wapar. To wapar ni geno ng'ato?\n\n5. To ni geno ng'ato?: Gityo ni kod wapar. To wapar ni geno ng'ato?\n\n6. To ni geno ng'ato?: Gityo ni kod wapar. To wapar ni geno ng'ato?\n\n7. To ni geno ng'ato?: Gityo ni kod wapar. To wapar ni geno ng'ato?\n\n8. To ni geno ng'ato?: Gityo ni kod wapar. To wapar ni geno ng'ato?\n\n9. To ni geno ng'ato?: Gityo ni kod wapar. To wapar ni geno ng'ato?\n\n10. To ni geno ng'ato?: Gityo ni kod wapar. To wapar ni geno ng'ato?\n\nNen, oneno kod wapar ni geno ng'ato, awacho ne timo kaka inyalo tim nego ng'ato maber."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 125,
+        "completion_tokens": 367,
+        "total_tokens": 492
+    }
+}

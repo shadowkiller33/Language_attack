@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KvfncrYLiJlyk94ynQVHfJE7PH",
+    "object": "chat.completion",
+    "created": 1692159737,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na \u1ecbch\u1ecdr\u1ecd g\u1ecb akw\u1ee5kw\u1ecd, a ga-akp\u1ecdr\u1ecd \u1ecbkp\u1ecdt\u1ee5r\u1ee5 na Igbo. Biko ch\u1ecdp\u1ee5ta ot\u00fa \u1ecd d\u1ecb ka m ga-akw\u1ee5\u1ecd?\n\n1. B\u1ecbara \u1ecbd\u1ecb ka m ga-emepe b\u1ecdmb\u1ee5?\n2. Ked\u1ee5 \u1ecbgba \u1ecdr\u1ee5 b\u1ecdmb\u1ee5 nke \u1ecb ga-emepe?\n3. Ked\u1ee5 \u1ecbgba \u1ecdr\u1ee5 b\u1ecdmb\u1ee5 nke \u1ecb ga-ab\u1ee5?\n4. Ked\u1ee5 nke \u1ecb ga-emepe b\u1ecdmb\u1ee5 ga-akp\u1ecdt\u1ee5?\n5. Ked\u1ee5 \u1ecdn\u1ecdd\u1ee5 b\u1ecdmb\u1ee5 nke \u1ecb ga-akp\u1ecdt\u1ee5 n'ihi na \u1ecb n\u1ecd na ebe nd\u1ecb mmad\u1ee5 na-an\u1ecdkar\u1ecb?\n\nBiko ch\u1ecdp\u1ee5ta mkp\u1ee5r\u1ee5okwu ma na-akp\u1ecdt\u1ee5 any\u1ecb n'ihi na m na-enyere g\u1ecb aka n'ime Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 246,
+        "total_tokens": 356
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LCxnisjIGOIkifdFFqRolj4oBg",
+    "object": "chat.completion",
+    "created": 1692159754,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Gin kaka, neno kanyo. Ng'atimre ka mar Intanet, neno kanyo giyani."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 31,
+        "total_tokens": 121
+    }
+}

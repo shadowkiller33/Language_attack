@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2O4CucHkW0h97cTroe4g61CKjNX",
+    "object": "chat.completion",
+    "created": 1692159932,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Erokamano! Ng'enyalo ma giyweyo pi nge? Nyinge owacho ma ng'eyo ni kanyo, adiyo manyien gi ma giyweyo. Ka obedo ni wacho ma ng'eyo, dong'ni kanyo gi ma pirende. \n\n1. Oketchwa kata kata: Ochak ngeyo ma chworo kata kata? Adiyo manyien gi ma peko kata kata. Ka obedo ni chworo kata kata, dong'ni ineno nyisore. \n\n2. Oketchwa goyo: Ochak ngeyo ma chworo goyo? Adiyo manyien gi ma peko goyo. Ka obedo ni chworo goyo, dong'ni ineno nyisore. \n\n3. Oketchwa pirende: Ochak ngeyo ma chworo pirende? Adiyo manyien gi ma peko pirende. Ka obedo ni chworo pirende, dong'ni ineno nyisore. \n\n4. Oketchwa chak: Ochak ngeyo ma chworo chak? Adiyo manyien gi ma peko chak. Ka obedo ni chworo chak, dong'ni ineno nyisore. \n\n5. Oketchwa nyisore: Ochak ngeyo ma chworo nyisore? Adiyo manyien gi ma peko nyisore. Ka obedo ni chworo nyisore, dong'ni ineno nyisore. \n\nErokamano ni dong'ni kanyo gi nyinge. Ni neno ma giyweyo pi nge!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 371,
+        "total_tokens": 456
+    }
+}

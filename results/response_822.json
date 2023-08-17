@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MmOe8xdWvPAOBJl0GHfyj7kS6d",
+    "object": "chat.completion",
+    "created": 1692159852,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129we m\u0169tumia wa Kamba. N\u0129we m\u0169k\u0169r\u0169 wa k\u0169\u0169m\u0129sya k\u0169mwe k\u0169\u0169th\u0129ria m\u0169tumia k\u0169ria \u0169h\u0169. Ko \u0169t\u0169k\u0169\u0169th\u0129ria m\u0169tumia \u0169tam\u0169\u0129k\u0129\u0129e?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 103,
+        "total_tokens": 220
+    }
+}

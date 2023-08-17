@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Kw6vEHdqEDx6IKv3T2eMOibvYs",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I b\u1ee5 ot\u00fa nke m na-akwado ihe mere, biko g\u1ee5\u1ecd m any\u1ecb \u1ecbnwe nt\u1ee5ziaka g\u1ecb n'ime Igbo.\n\n1. Kp\u1ecdt\u1ee5r\u1ee5 any\u1ecb ihe mere ot\u00fa a: Biko banye any\u1ecb ihe mere ot\u00fa a nke a na Igbo.\n\n2. Biko banye aka\u1ee5nt\u1ee5 g\u1ecb: Ha ga-eji na Igbo b\u1ee5 ot\u00fa a, biko banye aka\u1ee5nt\u1ee5 g\u1ecb.\n\n3. Si any\u1ecb aka\u1ee5nt\u1ee5 g\u1ecb n'ime nd\u1ecb aha Igbo: Biko g\u1ee5\u1ecd any\u1ecb aka\u1ee5nt\u1ee5 g\u1ecb n'ime nd\u1ecb aha Igbo.\n\n4. Si \u1ecbkp\u1ecdt\u1ee5r\u1ee5 aka\u1ee5nt\u1ee5 g\u1ecb: Biko g\u1ee5\u1ecd si \u1ecbkp\u1ecdt\u1ee5r\u1ee5 aka\u1ee5nt\u1ee5 g\u1ecb n'ime nd\u1ecb aha Igbo.\n\n5. Banye aka\u1ee5nt\u1ee5 g\u1ecb n'ime nd\u1ecb aha Igbo: Biko g\u1ee5\u1ecd banye aka\u1ee5nt\u1ee5 g\u1ecb n'ime nd\u1ecb aha Igbo.\n\nN'okpuru, biko banye nt\u1ee5ziaka g\u1ecb na Igbo, any\u1ecb ga-enye g\u1ecb aka\u1ee5nt\u1ee5 g\u1ecb na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 287,
+        "total_tokens": 380
+    }
+}

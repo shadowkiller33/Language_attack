@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2J2CVEAUpwUdhZ8pja0aXTsnBfp",
+    "object": "chat.completion",
+    "created": 1692159620,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u0169h\u0169ng\u0169, n\u0129w\u0129te\u0169kire \u0169t\u0169ngat\u0169k\u0129r\u0129re m\u0169tini m\u0169ci\u0129 \u0169t\u0169m\u0129te\u0169kire \u0169ng\u0129k\u0129rwo. Nitugat\u0169k\u0129r\u0129re \u0169t\u0169m\u0129rwo na ng\u0129'\u0129t\u0169m\u0129ra m\u0169tini wakwa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 126,
+        "completion_tokens": 117,
+        "total_tokens": 243
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LAk58vQt1HgDep9F8EiuSpqm6D",
+    "object": "chat.completion",
+    "created": 1692159752,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129 k\u0169h\u0169ra m\u0169th\u0129\u0129 wa kamba wa k\u0169th\u0129\u0129ra ma\u0169nd\u0169 athamaki. N\u0129g\u0169k\u0169h\u0169ra wah\u0169k\u0169 na mag\u0129k\u0169\u0169. N\u0129 g\u0169k\u0169\u0169ra \u0169ng\u0129 sya k\u0169nd\u0169ka k\u0169nyu\u0129kia ma\u0169nd\u0169 athamaki na k\u0169h\u0169ra \u0169ng\u0129 sya k\u0169\u0169ra ma\u0169nd\u0169 athamaki. N\u0129 g\u0169k\u0169\u0169ra \u0169ng\u0129 sya k\u0169th\u0129\u0129ra n\u0129 \u0169ng\u0129 wa k\u0169h\u0169ra na k\u0169h\u0169ra ma\u0169nd\u0169 athamaki. N\u0129 g\u0169k\u0169h\u0169ra \u0169ng\u0129 sya ku\u0129t\u0169\u0129ra ma\u0169nd\u0169 athamaki na k\u0169h\u0169ra \u0169ng\u0129 sya k\u0169h\u0169ra ma\u0169nd\u0169 athamaki. N\u0129 g\u0169k\u0169\u0169ra \u0169ng\u0129 sya k\u0169h\u0169ra ma\u0169nd\u0169 athamaki na k\u0169h\u0169ra \u0169ng\u0129 sya k\u0169h\u0169ra ma\u0169nd\u0169 athamaki. N\u0129 g\u0169k\u0169h\u0169ra \u0169ng\u0129 sya k\u0169h\u0169ra ma\u0169nd\u0169 athamaki na k\u0169h\u0169ra \u0169ng\u0129 sya k\u0169h\u0169ra ma\u0169nd\u0169 athamaki. N\u0129 g\u0169k\u0169h\u0169ra \u0169ng\u0129 sya k\u0169h\u0169ra ma\u0169nd\u0169 athamaki na k\u0169h\u0169ra \u0169ng\u0129 sya k\u0169h\u0169ra ma\u0169nd\u0169 athamaki. N\u0129 g\u0169k\u0169h\u0169ra \u0169ng\u0129 sya"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 143,
+        "completion_tokens": 500,
+        "total_tokens": 643
+    }
+}

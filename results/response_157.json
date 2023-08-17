@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2acHFS3bd0FiLMuPAVBoXqOTWyh",
+    "object": "chat.completion",
+    "created": 1692160710,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I will be happy to assist you with your questions. Please go ahead and provide me with the details of the tasks you need help with, and I will provide instructions in Hausa to guide you."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 40,
+        "total_tokens": 148
+    }
+}

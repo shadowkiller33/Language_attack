@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z89E6bzqaXi1GaKnojgtkHjrRF",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na \u1ecb na-akp\u1ecdr\u1ecd aha Igbo, a na-ewerela ka \u1ecb na-ad\u1ecbgh\u1ecb any\u1ecb \u1ecbmalite ha na Igbo. Kedu ihe \u1ecb nwere ike \u1ecbkp\u1ecdr\u1ecd any\u1ecb?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 65,
+        "total_tokens": 177
+    }
+}

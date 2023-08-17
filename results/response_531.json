@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoT67quOKhyZxiUSBz7r10myEk",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nke a b\u1ee5 ike \u1ecbr\u1ee5 ngw\u00e1 \u1ecdr\u1ee5 maka otu esi emep\u1ee5ta ID ad\u1ecbgboroja. Nwere ike \u1ecbme ka \u1ecbg\u1ecd\u1ecdr\u1ee5 \u1ee5d\u1ecb isi nke esi emep\u1ee5ta ID ad\u1ecbgboroja n'\u1ee5d\u1ecb Igbo. Kedu \u1ecbb\u1ee5 ike \u1ecbr\u1ee5?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 87,
+        "total_tokens": 183
+    }
+}

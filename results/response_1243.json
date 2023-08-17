@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZZ9P9oCpLa9G9ceqTVx6cNcUT2",
+    "object": "chat.completion",
+    "created": 1692160645,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Karibu sana! Nitakusaidia kwa furaha. Tafadhali nieleze ni kazi gani unahitaji msaada wangu kufanya? Nipo tayari kujibu maswali yako kwa lugha ya Luo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 60,
+        "total_tokens": 162
+    }
+}

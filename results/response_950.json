@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJmA1LiEqkCFukVfOa8gCqkBo9",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u0169thenya, nd\u0129 ng\u0169k\u0169\u0129ria k\u0169m\u0129ona m\u0169ci\u0129 wa k\u0169se\u0169vya \u0169voo n\u0129 kana \u0169nya\u0129\u0129kwe isesen\u0129 sya k\u0169mantha. N\u0129 \u0169horo wa k\u0169gnatha, n\u0129h\u0129t\u0129re nd\u0129\u0169\u0129k\u0129r\u0129re n\u0129 k\u0129r\u0129a waku."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 120,
+        "completion_tokens": 121,
+        "total_tokens": 241
+    }
+}

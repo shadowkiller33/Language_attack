@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NADM1Ch4eofgDJQbQ0raDIILrU",
+    "object": "chat.completion",
+    "created": 1692159876,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sugeng rawuh! Aku arep nglampahi instruksi kanggo nglakoni tugas sing sampeyan pengin. Silahkan nggoleki pitakonan sampeyan ing basa Jawa, lan aku bakal coba nggoleki jeneng sampeyan ing basa Jawa.\n\nPertanyaanmu apa? Aku siap manggihake instruksi kanggo nglampahi sampeyan."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 101,
+        "total_tokens": 192
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LMBF3msPjxaZEmYuUe4EZsKJPm",
+    "object": "chat.completion",
+    "created": 1692159764,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kwon obedo iye. Nyakalaga onyo obedo ki gito?\n\n1. Igeno kare ducu: Oweko ki gito?\n\n2. Igeno kare namba: Oweko ki gito?\n\n3. Igeno kare lango: Oweko ki gito?\n\n4. Igeno kare otyeko: Oweko ki gito?\n\n5. Igeno kare laco: Oweko ki gito?\n\n6. Igeno kare mama: Oweko ki gito?\n\n7. Igeno kare dano: Oweko ki gito?\n\n8. Igeno kare yaro: Oweko ki gito?\n\n9. Igeno kare tye: Oweko ki gito?\n\n10. Igeno kare mukene: Oweko ki gito?\n\n11. Igeno kare jami: Oweko ki gito?\n\n12. Igeno kare irom: Oweko ki gito?\n\n13. Igeno kare pa: Oweko ki gito?\n\n14. Igeno kare jami: Oweko ki gito?\n\n15. Igeno kare dano: Oweko ki gito?\n\nTim chenro mar owacho. Orom mara!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 288,
+        "total_tokens": 385
+    }
+}

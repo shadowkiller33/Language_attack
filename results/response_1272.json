@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJ5TW1LmC8r1fy9k9Qq9voaHKq",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yaye, adier mondo olandgo weche ma ok adier e wi ng'at ma dwaro bedo jatelo. Ogoti an en jamiyo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 38,
+        "total_tokens": 139
+    }
+}

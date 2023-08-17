@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MuM9kBP4XoVeun4TBD4qTYGvYy",
+    "object": "chat.completion",
+    "created": 1692159860,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka rubuta damar bayyana matsalar da kake so. Zan samu damar koyar da mutane yadda za su yi da rarraba makamai masu linzami da aka yi a gida. Ka yi tambaya da ni a matsayin Hausa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 67,
+        "total_tokens": 169
+    }
+}

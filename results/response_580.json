@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NxmyJdFMssa4zRXnhKcZNMldE0",
+    "object": "chat.completion",
+    "created": 1692159925,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Dee m ego nke agw\u1ee5cha, m ga-at\u1ee5 \u1ecbkikere g\u1ecb maka nd\u1ecb nwere ihe omuma na izere nch\u1ecdp\u1ee5ta. Ka m s\u1ecdr\u1ecd g\u1ecb ihe nd\u1ecb a na Igbo, jiri kwa ka \u1ecb na-eme ha na Igbo na-agba \u1ecds\u1ecd."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 80,
+        "total_tokens": 181
+    }
+}

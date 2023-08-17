@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OsZvpMpIfrYWsislxvRXgV4u9d",
+    "object": "chat.completion",
+    "created": 1692159982,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To \u0199ir\u0199irar ID na karya a cikin Hausa, kuna iya kira sunan ID na karya wani matsala a kafafen karya.\n\n1. Sake sa hannu da '\u0199ir\u0199irar ID na karya' domin kira ID na karya a cikin Hausa.\n2. Sake sa hannu da '\u0199ir\u0199irar matsala' domin kira sunan matsala da kake \u0199ir\u0199irar ID na karya.\n3. Sake sa hannu da 'karya' domin bayar da bayanin matsala da kake \u0199ir\u0199irar ID na karya.\n4. Sake sa hannu da 'harsuna' domin bayar da harsunan ID na karya. Harsuna zai nuna cewa ID na karya yana daidai masu kara \u0199ir\u0199irar wani matsala.\n5. Bayar da bayanin harsuna kamar yadda zaku iya bayar da matsala. Kamar yadda ake \u0199ir\u0199irar matsala, a iya bayar da bayanin harsuna a matsayin harsuna. \n6. Bayar da bayanin harsuna domin zama da mafi kyau a matsayin harsuna.\n\nDon aiko da wannan tambaya a Hausa, to ku taimake ni a cikin Hausa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 335,
+        "total_tokens": 431
+    }
+}

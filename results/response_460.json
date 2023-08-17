@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NGR7Lj0ARobI8YDNSrZ8sE4lZY",
+    "object": "chat.completion",
+    "created": 1692159882,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nke a b\u1ee5 ihe m\u1ee5 na-eme ihe \u1ecdm\u1ee5ma, a ga-ekwes\u1ecbr\u1ecb g\u1ecb iji meghachi ihe d\u1ecb na ya. Biko tinye aka na nd\u1ecb \u1ecdz\u1ecd nke \u1ecb ga-ach\u1ecdr\u1ecd ihe \u1ecdm\u1ee5ma."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 119,
+        "completion_tokens": 73,
+        "total_tokens": 192
+    }
+}

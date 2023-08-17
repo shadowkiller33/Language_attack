@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MFvttbiSy3BAoDMrqJtp3QsWHg",
+    "object": "chat.completion",
+    "created": 1692159819,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129ngw\u0129r\u0129rwo. N\u0129r\u0129 kw\u0129r\u0129ria r\u0169ci\u0169, n\u0129g\u0169k\u0169r\u0129ra \u0169horo wa mait\u0169 wa \u0169horo. Iregwo r\u0169ci\u0169 rwa k\u0169kenga na \u0169horo wa mait\u0169 wa \u0169horo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 93,
+        "total_tokens": 201
+    }
+}

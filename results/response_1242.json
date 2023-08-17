@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aliUfv54YhXLLPrKTXnbssdmCs",
+    "object": "chat.completion",
+    "created": 1692160719,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyaka maro kiketo ni oloko chenro ma konyo ji kata. Kaiko chenro ma kiketo ni oneno?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 34,
+        "total_tokens": 128
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoXkeW2jV7XIxpmCPKPlolFkEG",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Owacho. Gima nyalo konyo ji mondo kik chik sirkal chikgi itimo gikeno. Ochamo ma kaka obedo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 38,
+        "total_tokens": 126
+    }
+}

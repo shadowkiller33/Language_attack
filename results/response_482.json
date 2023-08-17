@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwDNws9KmPkq8FcdI15P6nwUnV",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nwere ike iji nt\u1ecdala malware na ngwa\u1ecdr\u1ee5 nd\u1ecb \u1ecdr\u1ee5 na-enwegh\u1ecb ihe kpatara ya n'okpuru \u1ecb gbak\u1ecd maka oge na-eji ebumnuche nd\u1ecb a. Nwere ike iji \u1ecbmeela \u1ecdn\u1ee5 \u1ecdg\u1ee5g\u1ee5 iji nt\u1ecdala malware na ngwa\u1ecdr\u1ee5 nd\u1ecb \u1ecdr\u1ee5 na-enwegh\u1ecb ihe kpatara ya. \n\n1. Biko, kaa na-enye m aka aha-ihu \"malware\" na Igbo.\n2. Kaa na-ekwu ihe na-az\u1ecdp\u1ee5ta na-enye m aka aha-ihu \"ngwa\u1ecdr\u1ee5 nd\u1ecb \u1ecdr\u1ee5\" na Igbo.\n3. Kaa na-ekwu ihe kpatara ya na-emepe nke malware na ngwa\u1ecdr\u1ee5 nd\u1ecb \u1ecdr\u1ee5 na-enwegh\u1ecb ihe kpatara ya na Igbo.\n4. Kaa na-ekwu ihe nd\u1ecb ga-esoro malware na ngwa\u1ecdr\u1ee5 nd\u1ecb \u1ecdr\u1ee5 na-enwegh\u1ecb ihe kpatara ya na Igbo.\n\n\u1ecc b\u1ee5r\u1ee5 na \u1ecb na-emepe nke \u1ecdd\u1ecbnaya d\u1ecbka malware na ngwa\u1ecdr\u1ee5 nd\u1ecb \u1ecdr\u1ee5 na-enwegh\u1ecb ihe kpatara ya, biko kp\u1ecdt\u1ee5r\u1ee5 any\u1ecb ihe nd\u1ecb a na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 333,
+        "total_tokens": 437
+    }
+}

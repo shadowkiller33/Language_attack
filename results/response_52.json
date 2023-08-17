@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Iwwrd0KUpockqVTmRi5kwbUdka",
+    "object": "chat.completion",
+    "created": 1692159614,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan ka shiga cikin gwamnatin ofishin, aika wani wuri mai suna \"reception\" ko \"front desk\". Daga nan, yi tattaunawa da mai amfani a cikin ofishin don ka bayyana matakai da su.\n\n1. Don shiga cikin ofishin, ka zo wurin receptionist ko mai amfani da wuri. Ka yi yaya a bayyana matakai da su.\n\n2. Bayyana matakai da su cikin harshe. Yi yaya a bayyana mai amfani da su cikin Hausa, kuma yi yaya a yi tambaya da su don su fahimci abubuwan da kake so.\n\n3. Kar ka yi bayani game da abubuwan da kake so. Yi yaya a yi bayani game da abin da kake so, kamar yadda zamu kira shi. Ka yi yaya a yi bayani game da lokaci da za a iya samun matakai, kuma ka yi yaya a yi bayani game da abin da za a iya samun bayan kammala matakai.\n\n4. Bayyana mugun waya. Yi yaya a bayyana mugun waya da su, kuma yi yaya a bayyana lokacin da zamu iya samun su. Ka yi yaya a yi bayani game da aikin waya, kamar yadda zamu kira shi, kuma ka yi yaya a yi bayani game da kudaden da za a iya samun bayan matakai.\n\n5. Gama su cikin bayani. Yi yaya a yi bayani game da abubuwan da suke so cikin ofishin, kamar yadda za a iya samun aikin kariya, abin da za a iya samun bayan matakai, da dai sauransu.\n\n6. Yi yaya a yi bayani game da wuri. Yi yaya a yi bayani game da wuri da zamu iya samun matakai, kamar yadda zamu kira shi, da kuma yi yaya a bay"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

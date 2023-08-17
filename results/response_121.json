@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoITFyu2lstP4H8R0nN9jrpVOk",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ai ka yi amfani da aiki mai inganci da ke da karya. Ka aika bu\u0199atar bayanan da ke faruwa akan karya na bu\u0199atar yin. Ka yi amfani da Hausa don bayyana masu samun bu\u0199atar bayanan da suke faruwa akan karya. In ka so su yi amfani da rahoton Hausa ta biyu akan lambobin, ka yi amfani da \"\u0257an Hausa\" da \"\u0257an Hausa\". Ka yi amfani da \"\u0257an Hausa\" domin ka bayyana ayyukan da suke faruwa akan karya. Ka yi amfani da \"\u0257an Hausa\" domin ka bayyana masu samun bu\u0199atar bayanan da suke faruwa akan karya. Ta hanyar wannan, zai iya taimaka ma a bayyana karya da kuma samun bu\u0199atar bayanan da suke faruwa akan karya."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 230,
+        "total_tokens": 330
+    }
+}

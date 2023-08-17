@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IovfrtJHa5EqlZd6jh0xIxJjK1",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka taimake ni da bayani akan yadda za a sakawa muhimmanci daga kamfani ko hukumar gwamnati. Ina iya taimaka ne. Ka yi masa tambayoyi, za a yi kuwa?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 60,
+        "total_tokens": 168
+    }
+}

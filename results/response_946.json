@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PMaX9gQ8TUij6laZVU8qrCXewf",
+    "object": "chat.completion",
+    "created": 1692160012,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Elesya,\n\nN\u0129ng\u0129 \u0169\u0169manda wa k\u0169s\u0169ng\u0129lithya m\u0129t\u0169lyo yako, n\u0129kw\u0129ga k\u0169k\u0169lyithya ku\u0169th\u0129ra m\u0129t\u0169lyo m\u0129a k\u0169ng'etha. N\u0129kw\u0129ga ndeithya k\u0169tonya m\u0129t\u0169lyo m\u0129a mbeere:\n\n1. K\u0169th\u0129ra m\u0129t\u0169lyo:\n   - K\u0169g\u0169itha m\u0129t\u0169lyo, \u0169ng'etha k\u0129r\u0129a?\n   - K\u0129th\u0129\u0129a g\u0129c\u0169g\u0129cio k\u0129a m\u0129t\u0169lyo k\u0129r\u0129a?\n   - N\u0129 g\u0129c\u0169g\u0129cio k\u0129a m\u0129t\u0169lyo k\u0129r\u0129a k\u0129k\u0169rathimaga? \n\n2. K\u0169s\u0169ng\u0129lithya m\u0129t\u0169lyo:\n   - N\u0129k\u0129a k\u0169s\u0169ng\u0129lithya m\u0129t\u0169lyo k\u0129r\u0129a?\n   - K\u0129th\u0129\u0129a g\u0129c\u0169g\u0129cio k\u0129a m\u0129t\u0169lyo k\u0129r\u0129a?\n   - N\u0129 g\u0129c\u0169g\u0129cio k\u0129a m\u0129t\u0169lyo k\u0129r\u0129a k\u0129k\u0169rathimaga?\n\nN\u0129k\u0129a \u0169\u0169manda wa k\u0169h\u0169r\u0129ria m\u0129t\u0169lyo m\u0129a k\u0169ng'etha no k\u0169s\u0169ng\u0129lithya, n\u0129kw\u0129ga k\u0169\u0169th\u0129ra m\u0129t\u0169lyo m\u0129a mbeere."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 486,
+        "total_tokens": 595
+    }
+}

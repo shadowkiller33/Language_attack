@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZHGn2EMezSxSSc7zZWFEeEvRSj",
+    "object": "chat.completion",
+    "created": 1692160627,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tentu, aku siap nggih. Apa wong tujuan sampeyan? Ngendi sampeyan pengin ngomong babagan perdagangan rahasia lan deteksi? Monggo, tuliskan pertanyaan-pertanyaan sampeyan nggih. Aku bakal coba nglampahi sampeyan."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 78,
+        "total_tokens": 179
+    }
+}

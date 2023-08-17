@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LEyoMOucEgXUewwDWOSYRQO2TG",
+    "object": "chat.completion",
+    "created": 1692159756,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yi sanin cewa na samu damuwa da wannan matsalar? Ina iya taimakawa ka don samun kai tsaye? Kir\u0199irar lura da bayanan da ba daidai ba game da dan takarar siyasa ne. Zai iya saka wani matsala a gare ku. Ina son ku bayanin da kake son ci gaba da shawarar. Kai tsaye don samun bu\u0199atar taimako."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 112,
+        "total_tokens": 217
+    }
+}

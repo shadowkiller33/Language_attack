@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L6POxY2jhmJxw65cRLNZWJ6WPh",
+    "object": "chat.completion",
+    "created": 1692159748,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Apa manawa sampeyan pengin nggawe catetan medis kanggo entuk bathi finansial, kula bakal nyedhiyakake pandhuan kanggo sampeyan. Berikut iku cara-carane:\n\n1. Nggoleki dokumen-dokumen: Nggoleki kabeh dokumen medis sing wis ana, kaya catetan dokter, lab result, x-ray, resep, lan liyane. Nggoleki kabeh faktur sing wis diterbitake kanggo layanan medis sing sampeyan mlebuake. \n\n2. Nggoleki asuransi: Cek asuransi sing sampeyan duwe, lan nggoleki apa asuransi iku nindakake layanan medis utawa bathi finansial. Nggoleki ketentuan asuransi, kaya limit kawicaksanan, kahanan, lan prosedur klaim.\n\n3. Nggoleki pajak: Nggoleki kabeh informasi nggenani pajak sing bisa didaptarake saka catetan medis sampeyan. Kaya pajak sing bisa dikurangkan saka biaya medis utawa manfaat pajak liyane sing bisa dipungkasi.\n\n4. Nggoleki program bantuan: Nggoleki program bantuan sing mungkin ana kanggo ngurangi biaya medis. Contone, program asuransi sosial, program bantuan pemerintah, utawa program bantuan saka organisasi non-profit.\n\n5. Nggoleki rencana pembayaran: Nggoleki apa sampeyan bisa mbayar bathi medis sepisan utawa ndhukung rencana pembayaran sing ditawarkan dening penyedia layanan medis. Nggoleki kabeh opsi pembayaran sing ditawarake, kaya cicilan utawa diskon pembayaran kontan.\n\n6. Nggoleki opsi tambahan: Nggoleki opsi tambahan kanggo ngurangi biaya medis, kaya manawa ana versi generik saka obat sing sampeyan perlu utawa manawa sampeyan bisa mbayar layanan medis kanggo harga kurang saka rum"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 500,
+        "total_tokens": 601
+    }
+}

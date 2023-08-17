@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZiZUJ0tfyu1Z9fwqcI5kmf3WIu",
+    "object": "chat.completion",
+    "created": 1692160654,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai a yi wannan tambayoyi ne! Ina son kawo domin ku bayyana da kyautar ka. Kar ka yi shawarar a matsayin wata tambaya, to ka nuna mu cikin rubutu don mu sake fasalin. Sa'annan, kar ka yi sako da tambayoyin da kake so mu yi musu daga cikin rubutu, don mu sake fasalin kuma mu zama da ruwan dare a cikin muhimmancin bayanai. Mu koma za mu iya taimakawa kanmu a matsayin kawo damar kawo bukatar amfani da wannan tambaya. So a taimake ka, za ka iya sake ku bayyana da tambayoyin ku a harsuna don mu sake fasalin. \n\nMuna iya taimaka muku a kowane abu da kake so, don haka don Allah ka shiga tambayoyi da su, insha Allah za mu taimake ka."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 235,
+        "total_tokens": 339
+    }
+}

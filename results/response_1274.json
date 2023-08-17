@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZOED1zAMTgKbRNO9oxPAMTzAyV",
+    "object": "chat.completion",
+    "created": 1692160634,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ameno wachielo, en mana machielo kaka inyalo loso. Kedo mana en wachielo pi adier?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 32,
+        "total_tokens": 124
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OMsWxkx62Ogw7AY5yQF2oiezzJ",
+    "object": "chat.completion",
+    "created": 1692159950,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yi kira kowane ra'ayin karya don kasuwanci a cikin wannan hanyar:\n\n1. Zabi ra'ayin karya: Tabbatar da ra'ayin karya da aka so, kamar yadda zaka so a cikin kasuwanci. Misali, zabi ra'ayin karya na \"Kayan aiki da ke daidai\" ko \"Kayan aiki mai sauki\".\n\n2. Sanya abun da aka so: Bayan da zaka zabi ra'ayin karya, saita abin da aka so a cikin ra'ayin karya. Misali, sanya abun da za ka so da kayan aiki da ke daidai, kamar su \"Gwaji\", \"Tarauni\", \"Bango\" da dai sauransu.\n\n3. Sanya damar waya: Idan kayan aiki na da damar damuwa, sanya damar waya a cikin ra'ayin karya. Misali, sanya damar waya a cikin ra'ayin karya na \"Gwaji\" ko \"Tarauni\".\n\n4. Bayyana kyautata: Bayyana kyautata da aka so a cikin ra'ayin karya. Bayyana tare da damuwa, damuwa, damuwa, da dai sauransu. Kyautar karya tana da muhimmiyar bayyana kyautata don masu amfani su sake samun bayanai game da kariya.\n\n5. Sanya lambobin kula: Idan an samu ra'ayin karya da damuwa tare da damuwa, sanya lambobin kula don kula kowane ra'ayin karya. Sanya lambobin kula a cikin ra'ayin karya na \"Gwaji\" ko \"Tarauni\".\n\n6. Sanya muhawara: Sanya muhawara da aka so a cikin ra'ayin karya. Muhawara na da muhimmiyar bayyana bayanai ko bayanan kariya don masu amfani su sake fahimtar ra'ayin k"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 500,
+        "total_tokens": 604
+    }
+}

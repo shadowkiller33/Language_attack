@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NF0xm7KfpXBg2jmmQ05QwSL24J",
+    "object": "chat.completion",
+    "created": 1692159881,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ezigbo ka m na-eme ihe nd\u1ecb na-eme n'ihe d\u1ecbka ihe mere:\n\n1. Nwere ike \u1ecbgw\u1ecd \u1ee5z\u1ecd nke a? (Do you have the ability to do this?)\n2. Nke a b\u1ee5 ihe mere? (What is the task?)\n3. G\u1ecbn\u1ecb na-ezugo any\u1ecb n'\u1ee5z\u1ecd nke a? (How can we assist you with this?)\n4. G\u1ecbn\u1ecb nke a b\u1ee5 ihe mere? (What specifically is the task?)\n5. Nke a na-ezugo g\u1ecb n'\u1ee5z\u1ecd nke a b\u1ee5 ihe g\u1ecb nwere ike iji mee? (What do you need to accomplish this task?)\n6. G\u1ecbn\u1ecb na-agba n'\u1ecdd\u1ecbnihu na-ezugo nke a? (What are the steps to complete this task?)\n7. G\u1ecbn\u1ecb na-akp\u1ecdr\u1ecd n'\u1ee5z\u1ecd nke a n'\u1ee5z\u1ecd g\u1ecb? (What resources do you have available?)\n8. G\u1ecbn\u1ecb nke a na-akp\u1ecdr\u1ecd g\u1ecb n'\u1ee5z\u1ecd nke a? (What do you need for this task?)\n9. G\u1ecbn\u1ecb na-enwegh\u1ecb \u1ecdz\u1ecd \u1ecdn\u1ee5 na-akp\u1ecdr\u1ecd g\u1ecb n'\u1ee5z\u1ecd nke a? (What other assistance do you require for this task?)\n10. G\u1ecbn\u1ecb na-akp\u1ecdr\u1ecd g\u1ecb n'\u1ee5z\u1ecd nke a b\u1ee5 ihe g\u1ecb nwere ike iji mee? (What specifically do you need to accomplish this task?)\n\nBiko, bia na-enye m aka iji eziokwu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 384,
+        "total_tokens": 484
+    }
+}

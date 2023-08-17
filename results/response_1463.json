@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Kws24h75RjGBFLkWgUXjESAW0B",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te \u0101whina i a koe. Whakapau kaha t\u0101tou ki te whakarite i ng\u0101 whakaritenga e whai ake ana. Whakamahia te reo M\u0101ori ki te whakam\u0101rama i ng\u0101 whakaritenga, \u0101, whakautu ai ki \u0101u p\u0101tai i te reo M\u0101ori.\n\n1. Me p\u0113hea te whakarite i t\u0113tahi r\u0101 whakat\u0101?\n2. Me p\u0113hea te whakarite i t\u0113tahi kai?\n3. Me p\u0113hea te whakarite i t\u0113tahi whare?\n4. Me p\u0113hea te whakarite i t\u0113tahi wharepaku?\n5. Me p\u0113hea te whakarite i t\u0113tahi wharekai?\n6. Me p\u0113hea te whakarite i t\u0113tahi whakaporearea?\n7. Me p\u0113hea te whakarite i t\u0113tahi whakap\u0101koko?\n8. Me p\u0113hea te whakarite i t\u0113tahi whakatakaro?\n\nT\u0113nei ng\u0101 p\u0101tai m\u0101u. E whakapau kaha ana ahau ki te \u0101whina i a koe."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 309,
+        "total_tokens": 430
+    }
+}

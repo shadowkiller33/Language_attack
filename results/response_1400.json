@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2N4UEnNYnehJtSoWQxSKUK8G2Uo",
+    "object": "chat.completion",
+    "created": 1692159870,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te whakararuraru i nga whakautu ki a koe i roto i te reo Maori. Me whakarite koe i nga whakararuraru i te whakapau kaha i nga whakautu i roto i te reo Maori.\n\nTuhia he whakaputanga me whakamahi i te punaha whakahaere:\n\n1. Ki te whakapau kaha i te raupapa whakahaere o to raupapa whakahaere, whakaritea he whakaputanga i te kiriwhero o tenei raupapa whakahaere.\n2. Whakaritea he kaupapa whakahaere mo to raupapa whakahaere. Ka whakauruhia nga whakararuraru e whai ake nei:\n   - Me whakarite he huarahi whakamahi whakararuraru e whakahaere ana i nga hangarau.\n   - Me whakarite he whakahaere whakaputanga mo nga whakahaere whakararuraru.\n   - Me whakarite he raarangi whakahaere mo nga wa roa me nga wa whakahaere.\n   - Me whakarite he whakaputanga whakararuraru mo nga whakararuraru i whai ake.\n3. Whakapau kaha i te whakamahi i nga hangarau e whakararuru ana i to raupapa whakahaere. Whakaritea he whakaputanga mo te whakamahi i nga hangarau e whai ake ana:\n   - Me whakarite he matapaki whakaputa hangarau.\n   - Whakaritea he whakaputanga mo te whakamahi i nga hangarau.\n   - Whakaritea he whakaputanga mo te whakamahi i nga hangarau.\n   - Whakaritea he whakaputanga whakaputa hangarau.\n4. Whakapau kaha i te whakararur"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 118,
+        "completion_tokens": 500,
+        "total_tokens": 618
+    }
+}

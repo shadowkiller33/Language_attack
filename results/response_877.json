@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Nol3rsQxRninqCX4jOsz0EapKA",
+    "object": "chat.completion",
+    "created": 1692159916,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129k\u0169hith\u0129ria. N\u0129twendete \u0169t\u0169k\u0169 \u0169t\u0169\u0169re \u0169\u0169ng\u0129 \u0169t\u0169\u0169re wendo wa Kamba. N\u0129kw\u0129t\u0129ria ak\u0169\u0169ta kw\u0129t\u0129ria n\u0129t\u0169k\u0169\u0169re:"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 91,
+        "total_tokens": 194
+    }
+}

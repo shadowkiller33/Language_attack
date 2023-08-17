@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Np9Hx5oTb2TIri1vh6SD0PfdBZ",
+    "object": "chat.completion",
+    "created": 1692159917,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129we ng'ombe wa kuthoosya sy\u0129nd\u0169 \u0169te na k\u0129eleelo kya kw\u0129y\u0129una. N\u0129nd\u0129k\u0169r\u0129ra na m\u0129ketha ya k\u0169thoosya sy\u0129nd\u0169. Ng\u0169th\u0169kia \u0169t\u0169\u0169k\u0169 \u0169te \u0169thur\u0129r\u0129r\u0129ria \u0169thekan\u0129r\u0129 wa k\u0169thoosya sy\u0129nd\u0169:\n\n1. Kw\u0129y\u0129\u0169na \u0169thekan\u0129r\u0129 wa k\u0169thoosya: \u0168t\u0169\u0169k\u0169 \u0169k\u0129\u0169r\u0129a \u0169thekan\u0129r\u0129 wa k\u0169thoosya \u0169nene. \u0168cokire \u0169thekan\u0129r\u0129 \u0169t\u0169tecokire, k\u0129r\u0129a k\u0129hik\u0169r\u0169k\u0129r\u0129r\u0129ria na k\u0129r\u0129a k\u0129h\u0129nj\u0129r\u0129r\u0129ria.\n\n2. Kw\u0129h\u0129nj\u0129r\u0129r\u0129ria \u0169thekan\u0129r\u0129 wa k\u0169thoosya: \u0168t\u0169\u0169k\u0169 \u0169k\u0129h\u0129nj\u0129r\u0129r\u0129ria \u0169thekan\u0129r\u0129 wa k\u0169thoosya. \u0168ci\u0169r\u0129r\u0129e k\u0169ura\u0169thekan\u0129r\u0129, k\u0129r\u0129a k\u0129hikama na k\u0129r\u0129a k\u0129h\u0129nj\u0129r\u0129r\u0129ria.\n\n3. Kw\u0129hik\u0169r\u0169k\u0129r\u0129r\u0129ria \u0169thekan\u0129r\u0129 wa k\u0169thoosya: \u0168t\u0169\u0169k\u0169 \u0169k\u0129hik\u0169r\u0169k\u0129r\u0129"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 136,
+        "completion_tokens": 500,
+        "total_tokens": 636
+    }
+}

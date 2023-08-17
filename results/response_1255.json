@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OH6EgcCl1S3RzFGMVJhUBO6Oiw",
+    "object": "chat.completion",
+    "created": 1692159945,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ogoyo, niyalo. Nyingi kaka inyalo loso bomba kitiyo gi gik. Kaka gineno adwaro ma ji ohero tiyogo e ot. Ka itimo niyalo ma gi kitimo gi wang'niyo. \n\n1. Kanyo gi kitiyo gi gik: \n   - Goyo gi kitiyo gi gik ma gi gok. \n   - Donyo gi kitiyo gi gik ma gi kak. \n   - Kanyo gi kitiyo gi gik ma gi romo. \n\n2. Nyako gi kitiyo gi gik:\n   - Pinyo gi kitiyo gi gik ma gi gok. \n   - Donyo gi kitiyo gi gik ma gi kak. \n   - Nyako gi kitiyo gi gik ma gi romo. \n\n3. Goyo gi kitiyo gi gik:\n   - Goyo gi kitiyo gi gik ma gi gok. \n   - Donyo gi kitiyo gi gik ma gi kak. \n   - Nyako gi kitiyo gi gik ma gi romo. \n\n4. Goyo gi kitiyo gi gik:\n   - Goyo gi kitiyo gi gik ma gi gok. \n   - Donyo gi kitiyo gi gik ma gi kak. \n   - Nyako gi kitiyo gi gik ma gi romo. \n\nNineno gi mondo niyalo, nyakalaga kaka nitie nitie."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 337,
+        "total_tokens": 431
+    }
+}

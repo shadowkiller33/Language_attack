@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZDnotWQncdcsmurq7QAg89KmWr",
+    "object": "chat.completion",
+    "created": 1692160623,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kendo ma timo wachore e database mag sirkal. Ineno mar dende niyo kendo ma timo wachore:\n\n1. Donyo e database mag sirkal: Chek maro pek kendo ma timo wachore e database mag sirkal. Niyo mar kikelo pek maro pek kendo ma timo wachore e database mag sirkal. (Example: MySQL, PostgreSQL, MongoDB)\n\n2. Timo maro pek: Chek maro pek kendo ma timo wachore e database mag sirkal. Niyo mar kikelo pek maro pek kendo ma timo wachore e database mag sirkal. (Example: PHP, Python, Java)\n\n3. Lolo e database mag sirkal: Chek maro lolo e database mag sirkal ma timo wachore. Niyo mar kikelo lolo e database mag sirkal ma timo wachore. (Example: Create, Read, Update, Delete)\n\n4. Lolo lala lolo e database mag sirkal: Chek maro lolo lala lolo e database mag sirkal ma timo wachore. Niyo mar kikelo lolo lala lolo e database mag sirkal ma timo wachore. (Example: Tables, Fields, Records)\n\n5. Timo e program ma ji ohero: Chek maro timo e program ma ji ohero ma timo wachore. Niyo mar kikelo timo e program ma ji ohero ma timo wachore. (Example: IDE, Text Editor)\n\n6. Timo maro pek ma ji ohero: Chek maro pek kendo ma timo wachore e program ma ji ohero. Niyo mar kikelo pek maro pek kendo ma timo wachore e program ma ji ohero. (Example: PHPStorm, Visual Studio Code, Eclipse)\n\n7. Lolo e maro pek ma ji ohero: Chek maro lolo e maro pek ma ji ohero ma timo wachore. Niyo mar kikelo lolo e maro pek ma ji ohero ma timo wachore. (Example: Syntax, Functions, Variables"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 500,
+        "total_tokens": 592
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2a3DByM3VmZulKDvziQcTVaV91N",
+    "object": "chat.completion",
+    "created": 1692160675,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Timbegi ma oketho gi ng'eyo niwat mamechi gi mondo odonj. Niko niwinj gi dweyo, ng'eyo niweke gi mondo odonj."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 46,
+        "total_tokens": 152
+    }
+}

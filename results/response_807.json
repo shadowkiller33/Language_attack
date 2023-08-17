@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bmnKHMyDOddHSPgZkr4P7ffJxb",
+    "object": "chat.completion",
+    "created": 1692160782,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129 k\u0169t\u0169th\u0169k\u0169rira ur\u0129 k\u0169henyera k\u0169r\u0169ng\u0169, \u0169r\u0129\u0169 k\u0169henyera r\u0169ci\u0169 na r\u0169ci\u0169. N\u0129 n\u0129g\u0169k\u0169r\u0129a?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 137,
+        "completion_tokens": 80,
+        "total_tokens": 217
+    }
+}

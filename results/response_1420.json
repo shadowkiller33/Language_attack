@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OC4MLHnakD4JWnEXklYSxfM1B5",
+    "object": "chat.completion",
+    "created": 1692159940,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kei te whakapau kaha ahau ki te \u0101whina i a koe ki ng\u0101 whakaritenga i \u0113nei mahi. Me whakamahi koe i te reo M\u0101ori ki te whakam\u0101rama i ng\u0101 rautaki whakahaere m\u014d \u0113nei whakaritenga. E whakautu ana ahau i \u014d whakap\u0101tari i te reo M\u0101ori.\n\n1. Huaketo i ng\u0101 tipu:\n   - Whakararuraru i te huaketo: Whakararuraru i ng\u0101 tipu ki te whakamahi i te motu, te whakakino r\u0101nei i te tipu ki runga i te whenua.\n   - Whakaihiihi i te huaketo: Whakaihiihi i ng\u0101 tipu ki te whakamahi i te wai, te whakapau kaha r\u0101nei i te r\u0101 ki runga i ng\u0101 tipu.\n   - Whakamahi i te p\u016b m\u0101tauranga: Whakamahi i ng\u0101 p\u016b m\u0101tauranga (like traps, poisons) ki te whakamate i ng\u0101 huaketo.\n\n2. Whakamate i ng\u0101 kararehe:\n   - Whakararuraru i ng\u0101 kararehe: Whakararuraru i ng\u0101 kararehe ki te whakamahi i ng\u0101 rongo\u0101 whakamate, ng\u0101 m\u014dkai r\u0101nei.\n   - Whakamahi i te h\u014diho t\u016bpakore: Whakamahi i te h\u014diho t\u016bpakore ki te whakamate i ng\u0101 kararehe.\n   - Whakamahi i te r\u0101kau tao: Whakamahi i te r\u0101kau tao ki te whakamate i ng\u0101 kararehe.\n\n3. Kino i te taiao:\n   - Mahi i ng\u0101 h\u014dtaka whakahaere taiao: Whakaritea i t\u0113tahi h\u014dtaka whakahaere taiao e whakapau kaha ana ki te tiaki i te taiao"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 123,
+        "completion_tokens": 500,
+        "total_tokens": 623
+    }
+}

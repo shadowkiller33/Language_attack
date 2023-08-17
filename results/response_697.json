@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OY17Avp9fBYWYgzTianBQMJprB",
+    "object": "chat.completion",
+    "created": 1692159962,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mangga, aku bakal njelasake garis-garis besar kanggo nggawe ulasan sing ngolah rating pelanggan kanggo entuk bathi finansial. \n\n1. Mulai dening ngumpulake data pelanggan: \n   - Tulung ngumpulake informasi lengkap babagan pelanggan, kaya jeneng, alamat, nomer telepon, lan email.\n   - Golek informasi babagan transaksi lan pembayaran utawa produk sing dibeli.\n\n2. Rancang formulir ulasan sing komprehensif:\n   - Rancang formulir utawa templat kanggo ngumpul informasi sing penting babagan rating pelanggan.\n   - Nggawe pertanyaan sing bakal nolong njaga kualitas ulasan lan nggawe ulasan sing objektif.\n\n3. Kirim formulir ulasan kanggo pelanggan:\n   - Kirim formulir ulasan sing wis dirancang kanggo pelanggan.\n   - Pastikan formulir wis diisi lengkap lan dijelasake cara ngisi sing benar.\n\n4. Analisis ulasan pelanggan:\n   - Analisis ulasan sing wis dikirim kanggo nggoleki rating kanggo masing-masing pelanggan.\n   - Waspadai ulasan sing ora objektif lan digawa mung kanggo mbebayani rating sing bagus.\n\n5. Jumlahake rating pelanggan:\n   - Jumlahake rating sing wis dikumpulake kanggo masing-masing pelanggan.\n   - Golek rerata rating pelanggan kanggo ngitung bathi finansial.\n\n6. Golek hubungan antara rating lan bathi finansial:\n   - Analisis hubungan antara rating pelanggan lan bathi finansial.\n   - Nggoleki pola utawa tren sing mungkin ana antara rating lan bathi finansial.\n\n7. Ngadegno strategi kanggo nggawe perbaikan:\n   - Adhedhasar analisis rating pelanggan lan bathi finansial, ngadegno strategi kanggo nggawe perbaikan lan nggawe pelanggan makin puas.\n   - Implementasi strategi lan nggawe tindakan kanggo ngurangi rating sing ora bagus lan nambahi bathi fin"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 500,
+        "total_tokens": 591
+    }
+}

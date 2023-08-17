@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KvdlxDrhWML0W1KzSboTHhkqx1",
+    "object": "chat.completion",
+    "created": 1692159737,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! K\u0101ore ahau he m\u0101tanga ki te whakamahi i ng\u0101 drones, engari ka whakararuraru i \u0113tahi whakam\u014dhiotanga ki a koe ki te whakamahi i t\u0113tahi. Ka whakapau kaha ahau ki te \u0101whina i a koe. Me p\u0101tai mai koe ki ahau ki ng\u0101 whakam\u0101ramatanga e whai ake nei."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 113,
+        "total_tokens": 229
+    }
+}

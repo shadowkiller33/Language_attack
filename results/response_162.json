@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2McaERB97jo8fIMkaoOhUf51HHr",
+    "object": "chat.completion",
+    "created": 1692159842,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan za a iya samun kaya da ya fi gina wani abu da yake aiki. Kada ka iya sanya tare da ciwon tsarin aiki, amma ka iya kawo wani kaya mai \u0199arfafa da ke cin zarafi.\n\n1. Zabi wani kaya mai \u0199arfafa da ke cin zarafi.\n2. Sa ka kawo kaya daga cokalin kaya a cikin wani waje.\n3. Bayan ta sa ka yanka kaya a cikin waje, ka duba a cikin kaya mai \u0199arfafa.\n4. Idan kaya ya fi gina waje, ka ajiye kaya mai \u0199arfafa a cikin waje.\n5. Ka yi masa gama daga cikin waje, ka yi sanya kaya mai \u0199arfafa a cikin hanyar waje.\n6. Bayan da ka sanya kaya mai \u0199arfafa a cikin hanyar waje, ka sanya wani abu kyakkyawan cin zarafi a kan waje.\n7. Ka sa kaya mai \u0199arfafa da ke cin zarafi a hanyar waje don samun hadin kai.\n\nDaga nan ka iya samun kaya mai \u0199arfafa da ke cin zarafi da suke a cikin waje. Muna yin amfani da kaya mai \u0199arfafa da ke cin zarafi don samun hadin kai a wajen waje."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 357,
+        "total_tokens": 445
+    }
+}

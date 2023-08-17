@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwchHzWXUJwGl9dLahlVqMALcm",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ezigbo obi gi! Achoro m\u1ee5 n'\u1ee5wa m aka, ka m ga-esoro ihe \u1ecdm\u1ee5ma g\u1ecb. Biko gwa m aka n'etiti \u1ecb na-ach\u1ecd, ka m ga-ab\u1ee5r\u1ecb ihe \u1ecd b\u1ee5la na edemede Igbo.\n\n1. Kp\u1ecdt\u1ee5r\u1ee5 akw\u1ee5kw\u1ecd \u1ecdr\u1ee5 a na Igbo: Biko kw\u1ee5s\u1ecbr\u1ecb m aka n'etiti m ga-akwado akw\u1ee5kw\u1ecd a na Igbo.\n\n2. Nwere ike \u1ecbmep\u1ee5ta aka\u1ee5nt\u1ee5 email: Biko kw\u1ee5s\u1ecbr\u1ecb m aka n'etiti \u1ecb na-akp\u1ecd aka\u1ee5nt\u1ee5 email, ka m ga-emepe aka\u1ee5nt\u1ee5 email a na Igbo.\n\n3. Kp\u1ecdt\u1ee5r\u1ee5 \u1ecdt\u1ee5t\u1ee5 akara: Biko kw\u1ee5s\u1ecbr\u1ecb m aka n'etiti m ga-akwado \u1ecdt\u1ee5t\u1ee5 akara, ka m ga-emepe \u1ecdt\u1ee5t\u1ee5 akara a na Igbo.\n\n4. Nwere ike \u1ecbgawanye na Nkwado: Biko kw\u1ee5s\u1ecbr\u1ecb m aka n'etiti \u1ecb na-ag\u1ee5nye na Nkwado, ka m ga-akwado \u1ecbgawanye na Nkwado a na Igbo.\n\n5. Kp\u1ecdt\u1ee5r\u1ee5 \u1ee5l\u1ecd ak\u1ee5: Biko kw\u1ee5s\u1ecbr\u1ecb m aka n'etiti m ga-akwado \u1ee5l\u1ecd ak\u1ee5, ka m ga-emepe \u1ee5l\u1ecd ak\u1ee5 a na Igbo.\n\nBiko banye m aka \u1ecbkwalite ihe na-eme ka m ga-akwado, na m na-eji aka m \u1ecbl\u1ecdz\u1ecb \u1ecdr\u1ee5 g\u1ecb."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 86,
+        "completion_tokens": 419,
+        "total_tokens": 505
+    }
+}

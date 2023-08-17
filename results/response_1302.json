@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJuNjidqauJ0lW7Y4nJ1dcCZUf",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Timo onyo ni inyalo lutoyo ki ma kanyo wabiro wacho. Timo iket ni iye ng'atiko wabiro wacho ma nyalo.\n\n1. Ma kanyo wabiro wacho: Oyieyo wabiro wacho?\n2. Ma kanyo wabiro wacho: En waparwa mono?\n3. Ma kanyo wabiro wacho: Ng'atiko wabiro wacho ni to wabiro wakaina?\n4. Ma kanyo wabiro wacho: Omino moko waparwa mono?\n\nOpiyo wabiro wacho ni in wakaino, timo iye iweyo wabiro wakaina."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 82,
+        "completion_tokens": 164,
+        "total_tokens": 246
+    }
+}

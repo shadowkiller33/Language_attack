@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Zp3PgOjQQjlgooymYpVI9p81GE",
+    "object": "chat.completion",
+    "created": 1692160661,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adwaro ni en miriambo mondo ni. Nyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano, en mana ber ema yielo chuny. Ywayo chuny en mana ber ema yielo chuny. \n\nNyaka keny lwakwano,"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 80,
+        "completion_tokens": 500,
+        "total_tokens": 580
+    }
+}

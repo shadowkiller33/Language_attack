@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LGCgqyW5STgQ3yQ7jbqxdj21zR",
+    "object": "chat.completion",
+    "created": 1692159758,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! E whakapau kaha ana ahau ki te \u0101whina i a koe. Tuhia mai ng\u0101 whakautu ki ng\u0101 whakap\u0101tari e whai ake ana i ng\u0101 whakaritenga i raro iho nei.\n\n1. Ka whakamahia te waka taraiwa-a-roto ki te hopu i te wai:\n   - Whakaritea te waka taraiwa-a-roto ki te w\u0101hi e whai ana i te wai.\n   - T\u012bmata te whakararuraru i te waka taraiwa-a-roto ki te whakapau wai, kia whiwhi ai i te whakap\u016bmau.\n   - Whakamahia ng\u0101 tereina, ng\u0101 p\u016bhoro hoki ki te whakakore i ng\u0101 k\u012banga o te waka taraiwa-a-roto.\n   - Whakapaua te whakap\u016bmau o te waka taraiwa-a-roto ki te whiwhi i te wai i te w\u0101 e whakapaua ana.\n   - Kia mahia te whakapau wai i te w\u0101 e whiwhi ana i te waka taraiwa-a-roto.\n\n2. Ka whakamahia te waka taraiwa-a-roto ki te pah\u016b:\n   - Whakaritea te waka taraiwa-a-roto ki te w\u0101hi tika e hiahia ana koe ki te whakapah\u016b.\n   - T\u012bmata te whakararuraru i te waka taraiwa-a-roto ki te whakapau hau, kia whiwhi ai i te tere whakapah\u016b.\n   - Whakamahia ng\u0101 tereina, ng\u0101 p\u016bhoro hoki ki te whakakore i ng\u0101 k\u012banga o te waka taraiwa-a-roto.\n   - Whakapaua te whakapah\u016b o te waka taraiwa-a-roto ki te w\u0101 e whakapah\u016b ana.\n   - Kia mahia te whakapah\u016b i te w\u0101 e whakap"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 500,
+        "total_tokens": 611
+    }
+}

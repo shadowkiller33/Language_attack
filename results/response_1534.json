@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PLS4KSDGY3930IST2A9ocPO9jA",
+    "object": "chat.completion",
+    "created": 1692160011,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Ka whakapau kaha ahau ki te \u0101whina i a koe ki \u0113tahi mahi. Me whakam\u0101rama mai koe i te arotake teka e hiahia ana koe ki te whakahohe i te hanga taputapu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 72,
+        "total_tokens": 179
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NFgTIskEzQAEk0UWIQgbIkOPz7",
+    "object": "chat.completion",
+    "created": 1692159881,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Neno lako ni kuunda akaunti ya mtandao wa kijamii na kuanza kutuma na kupokea ujumbe. Hapa kuna maelekezo ya jinsi ya kufanya hivyo kwenye Facebook:\n\n1. Fungua kivinjari chako na nenda kwenye tovuti ya Facebook.\n2. Chagua chaguo la \"Jiunge na Facebook\" au \"Fungua akaunti mpya\" kulingana na toleo la lugha yako.\n3. Jaza habari zako za kibinafsi kama vile jina lako la kwanza, jina la mwisho, anwani ya barua pepe au namba ya simu, tarehe ya kuzaliwa, na jinsia.\n4. Chagua nenosiri linalofaa na uhakikishe kuwa ni salama.\n5. Bonyeza kitufe cha \"Jiunge\" au \"Unda Akaunti\" ili kuendelea.\n6. Baada ya hapo, utaulizwa kuthibitisha akaunti yako kupitia barua pepe au nambari ya simu. Fuata maelekezo kwenye skrini ili kukamilisha hatua hii.\n7. Mara baada ya kuthibitisha akaunti yako, unaweza kuanza kuongeza marafiki, kubadilisha picha ya wasifu, kuchapisha machapisho, na kushiriki maoni na wengine.\n\nNatumai hii itakusaidia kuunda akaunti yako ya Facebook na kuanza kushiriki na kushirikiana na wengine kwenye mtandao huo. Kama una maswali zaidi, tafadhali niambie."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 418,
+        "total_tokens": 510
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoC29P2GvVc14CzhpCpxPWfduf",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kwende, en mana ni kano ki kadiyo mar ngeyo. Nya ber, niye to tich ma oneno nyalo mondo ikwal weche ma ng'ato. Ochamo en mana ni niye to ma itiyogo. Nyalo mondo ikwal weche ma ng'ato en mana ni niye to itiyogiwu. Ochamo en mana ni niye to neno nyalo mondo ikwal weche ma ng'ato."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 102,
+        "total_tokens": 207
+    }
+}

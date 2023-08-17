@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Mv4d3xbTnVSVeFN9HvUaltQ95l",
+    "object": "chat.completion",
+    "created": 1692159861,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Ka whakapau kaha au ki te \u0101whina i a koe. Me whakararuraru koe i ng\u0101 patu ki a koutou tamariki, ka whakararuraru ahau i ng\u0101 whakamahi. Haere mai, whakarongo mai ki \u0113nei whakam\u0101rama:\n\n1. Whakam\u0101ramatia i \u0113tahi tino tikanga whakamahi o ng\u0101 patu ki \u0101u tamariki. Kia m\u014dhio r\u0101tou ki te whakamahi i \u0113tahi tikanga whakamahi tino whakahirahira me te whakararuraru.\n\n2. Whakatau i te w\u0101 e whakamahi ai i ng\u0101 patu ki \u0101u tamariki. Kati te whakamahi i ng\u0101 patu ki w\u0101hi e whakararuraru ai r\u0101tou, p\u0113r\u0101 i te whare, i te karere, i te huarahi, me \u0113tahi atu w\u0101hi whakararuraru.\n\n3. Whakapau kaha ki te whakam\u0101tau i ng\u0101 patu i te taha tika o te tinana. Whakararuraru ana i ng\u0101 patu ki t\u014d tamariki ka whakapau kaha i ng\u0101 tino whakararuraru. Whakararuraru i te taha tino whakararuraru o ng\u0101 patu, me te whakamahi i te whakamahi tika o ng\u0101 patu.\n\n4. Whakararuraru i te ipurangi me te whakamahi i ng\u0101 rauemi whakararuraru i atu i te patu. E whakamahi ana i te patu ki te whakararuraru i ng\u0101 rauemi tika ka whiwhi koe i \u0113tahi rauemi whakararuraru e whakararuraru ana i t\u014d tamariki i te whakamahi patu.\n\n5. Whakapau kaha ki te whakarongo ki t\u014d tamariki."
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 500,
+        "total_tokens": 590
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OWjoVvYRstHPkV9VgB15kBxmKz",
+    "object": "chat.completion",
+    "created": 1692159960,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mogo. Polo i kare kaka inyalo donjo e intanet ma ok okethore. Nyingi iweko kiketo kuom ng'eyo ka inyalo donjo e intanet ma ok okethore. Ka ineno, gi kawuwo kiketo kuom ng'eyo ka inyalo donjo e intanet ma ok okethore?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 89,
+        "total_tokens": 181
+    }
+}

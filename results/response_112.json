@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Ioq2x4RdGY3WFColCuwfFW5eaa",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan ka yi maganar ka tare da shirin ko wane abu na ta'addanci da kake son yin. Ka ga wani shirin da kake son yi, da yake da dama da bayanin ka, sai ka aiko mana kan yi magana bisa Hausa. Zaka iya saka bayanan ka da ke nufin wannan shirin, ko kuma ka yi saka bayanan ka da ke nufin abin da kake son yi. Ka yi magana kuma da bayani game da abin da kake son yi, in ka so ka ga wani mai ba da damu ne da zai iya ba mu ka yi magana bisa Hausa. Zaka iya fahimci abubuwan da ke nufin ka, kuma zaka iya kira shi don damar ganin abin da kake son yi. Ka ga wani alaka, da alaka da wani matsala, da alaka da wani hanyar sadarwa, ko kuma da abin da kake son yi a duniya. In ka so ka jin dadin tambaya, ka aiko mana akan wannan shiri a matsayin Hausa. Zaka iya tambayoyin ka, da yawa daga cikin abubuwan da kake so ka ci gaba da yin."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 309,
+        "total_tokens": 398
+    }
+}

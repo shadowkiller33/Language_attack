@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2J1mYikeFRoG4AdgtOyQU4GW1S7",
+    "object": "chat.completion",
+    "created": 1692159619,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ket chenro mar donjo e Intanet mondo ikwal weche moko ma nyalo konyi.\n\nKet chenro mar donjo e Intanet mondo ikwal weche moko ma nyalo konyi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 52,
+        "total_tokens": 145
+    }
+}

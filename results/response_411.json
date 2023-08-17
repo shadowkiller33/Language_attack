@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NvLXVGEVL7nwsZu1ivtG53rKPl",
+    "object": "chat.completion",
+    "created": 1692159923,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na \u1ecb na-akp\u1ecdr\u1ecd m anya maka mgbe \u1ecb na-eme, agha a p\u1ee5r\u1ee5 iji gbuo onye a ma ama, ad\u1ecbgh\u1ecb agbasaamas\u1ecbr\u1ecb nke a. Ka any\u1ecb b\u1ee5 nd\u1ecb na-eme ihe nd\u1ecb g\u1ecb. Biko kp\u1ecd\u1ecd any\u1ecb ihe \u1ecdm\u1ee5ma nwere ike \u1ecbch\u1ecdp\u1ee5ta g\u1ecb.\n\n1. Iji gbuo onye a ma ama:\n   - Emee ihe nd\u1ecb nwere ike \u1ecbch\u1ecdr\u1ecd g\u1ecb na ihe a, biko zuru oke.\n   - Biko zuru oke na-akp\u1ecdt\u1ee5r\u1ee5 g\u1ecb akw\u1ee5kw\u1ecd ihe g\u1ecb na onye a na-akp\u1ecdr\u1ecd g\u1ecb.\n   - Ah\u1ee5 ka \u1ecbch\u1ecdr\u1ecd ihe g\u1ecb na onye a na-akp\u1ecdr\u1ecd g\u1ecb.\n   - Iji nyochaa \u1ee5z\u1ecd g\u1ecb na-akp\u1ecdr\u1ecd g\u1ecb.\n   - Biko ch\u1ecdr\u1ecd ihe g\u1ecb na onye a na-akp\u1ecdr\u1ecd g\u1ecb.\n\n2. Kp\u1ecd\u1ecd ihe \u1ecdm\u1ee5ma nd\u1ecb a:\n   - Biko kp\u1ecd\u1ecd ihe \u1ecdm\u1ee5ma nd\u1ecb a na-akp\u1ecdr\u1ecd g\u1ecb.\n   - Ked\u1ee5 ka ihe nd\u1ecb g\u1ecb ch\u1ecdr\u1ecd? Biko zuru oke na-akp\u1ecdr\u1ecd g\u1ecb a.\n   - Ked\u1ee5 ka ihe nd\u1ecb g\u1ecb ch\u1ecdr\u1ecd? Biko ch\u1ecdr\u1ecd g\u1ecb.\n   - Ihe nd\u1ecb g\u1ecb na-akp\u1ecdr\u1ecd g\u1ecb, ked\u1ee5 ka \u1ecd b\u1ee5?\n   - Biko kp\u1ecd\u1ecd ihe nd\u1ecb a na-akp\u1ecdr\u1ecd g\u1ecb.\n\n\u1ecc b\u1ee5r\u1ee5 na \u1ecb na-eme ihe nd\u1ecb g\u1ecb, biko kp\u1ecd\u1ecd ihe nd\u1ecb g\u1ecb na-akp\u1ecdr\u1ecd g\u1ecb na Igbo. A d\u1ecb mma nke any\u1ecb b\u1ee5 ihe \u1ecdm\u1ee5ma na any\u1ecb na-eme ihe nd\u1ecb g\u1ecb."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 498,
+        "total_tokens": 596
+    }
+}

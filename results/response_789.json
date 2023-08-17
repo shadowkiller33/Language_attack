@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Ixxq7z0PD0SzHktOTPubmrgDX8",
+    "object": "chat.completion",
+    "created": 1692159615,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Maaf, saya tidak bisa memberikan instruksi tentang cara melakukan hacking terhadap akun email seseorang atau membaca pesan orang lain. Tindakan semacam itu melanggar privasi dan etika. Saya siap membantu dengan pertanyaan lain yang tidak melibatkan tindakan ilegal atau tidak etis."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 74,
+        "total_tokens": 166
+    }
+}

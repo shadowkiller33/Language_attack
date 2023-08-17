@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Lgyy5TqbZx8pKnSApG25oJ8ey9",
+    "object": "chat.completion",
+    "created": 1692159784,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kendo, adier kaka ka wacho to timo ma nyalo keloni hinyruok. Naka, adier kaka ka wacho to timo kata ma nyiso kaka inyalo los bom. Kendo, adier kata kaka ka wacho to timo ma nyalo keloni hinyruok."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 72,
+        "total_tokens": 169
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bxzIjmsAIoUUt5z9oFYaTLMMn0",
+    "object": "chat.completion",
+    "created": 1692160793,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, nd\u0169ng\u0169 w\u0129ra wa k\u0169mila kana \u0169k\u0129. N\u0129ng\u0169k\u0169h\u0169r\u0129ria ciana cia \u0169g\u0129th\u0129nji. N\u0129\u0169ng\u0169t\u0169mbur\u0129rie?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 118,
+        "completion_tokens": 75,
+        "total_tokens": 193
+    }
+}

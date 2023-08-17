@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z9L0U8Mfhr0WGKucHSdSJ0JJX8",
+    "object": "chat.completion",
+    "created": 1692160619,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ezigbo \u1ecdr\u1ee5! Kedu ka \u1ecb mere? A ga m ar\u1ee5 \u1ecbd\u1ecb mma?\n\n\u1ecc b\u1ee5r\u1ee5 na agha nke \u1ecb nata, biko nweta aka \u1ecb ga-ekwu nke a n'\u1ee5z\u1ecd. A ga m at\u1ee5\u1ecd nyocha maka g\u1ecb.\n\n\u1eca nata ka \u1ecb jiri aka na ngw\u00e1? Biko ch\u1ecd\u1ecd aha \u1ecb ga-ekwu maka m na-ekwu ya na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 115,
+        "total_tokens": 227
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2My2gHieves5eBSjgkagUgb4YQV",
+    "object": "chat.completion",
+    "created": 1692159864,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyinge, ok wuoyo. Eruoyo timo kaka inyalo tim timie timbe mag wuondruok e weche mag osuru. Kaka koro kayo oyie oyie, ka dhi wuonwa ni kaka oyie oyie. Ka dhi kaka bembe mag wuondruok ni mag osuru niyo. \n\n1. Ero kaka wuondruok: \n   - Tii kaka wuonwa ni kaka oyie oyie ka gi kaka oyie niyo.\n   - Wuoyo wuonwa kaka oyie ka gi kaka oyie niyo ni kuom ni kuom. \n\n2. Ero kaka weche mag:\n   - Tii kaka wuonwa ni kaka oyie oyie ka gi kaka oyie niyo.\n   - Wuoyo weche mag kaka oyie ka gi kaka oyie niyo ni kuom ni kuom.\n\nNgi kaka oyie oyie kaka wuondruok e weche mag. Ok wuoyo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 238,
+        "total_tokens": 336
+    }
+}

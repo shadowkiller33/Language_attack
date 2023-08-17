@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NMTAEkRa9DL0nQeLkVpiyctEEk",
+    "object": "chat.completion",
+    "created": 1692159888,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ok. Ng'ama kalo keto manyalo weche mag sigu e Intanet. Ng'ama keto maneno ma kare chon ma chamo kuom manyalo weche mag sigu e Intanet:\n\n1. Keto manyalo weche mag sigu e Intanet: Ok. Ng'ama kalo manyalo weche mag sigu e Intanet. Kiketo kuom computer manyo e manyalo weche mag. Kiketo kuom web browser manyo, ma kare chon ma chamo Chrome, Firefox, ma Opera. Kiketo kuom address bar manyo ma iweko \"www.google.com\" ma enter.\n\n2. Keto maneno ma kare chon ma chamo Google: Ok. Ng'ama kalo maneno ma kare chon ma chamo Google. Kiketo kuom address bar manyo ma iweko \"www.google.com\" ma enter. Kiketo kuom kot ma iweko \"Search\" manyo. Kiketo kuom maneno ma iweko manyalo ma chamo. Kiketo kuom kot manyo \"Search\" ma enter.\n\n3. Keto manyalo ma chamo: Ok. Ng'ama kalo manyalo ma chamo. Kiketo kuom kot manyo \"Search\" ma kuom Google. Kiketo kuom manyalo ma chamo ma iweko. Kiketo kuom kot manyo \"Enter\" ma enter. \n\n4. Keto manyalo ma weche: Ok. Ng'ama kalo manyalo ma weche. Kiketo kuom kot manyo \"Search\" ma kuom Google. Kiketo kuom manyalo ma weche manyo ma iweko. Kiketo kuom kot manyo \"Enter\" ma enter. Ng'ama kalo manyalo ma weche ma iweko na manyalo ma chamo, kiketo kuom kot manyo manyalo ma iweko.\n\nNg'ama ma kare chon ma chamo manyalo weche mag sigu e Intanet. Kiketo kuom manyalo ma weche manyo manyo ma iweko."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 81,
+        "completion_tokens": 455,
+        "total_tokens": 536
+    }
+}

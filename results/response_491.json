@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwVeTsmCTJqqXKh8ENgPjKTVca",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ezigbo \u1ee5b\u1ecdch\u1ecb, m ga-ab\u1ee5 any\u1ecb nwere ike \u1ecbd\u1ecdr\u1ecdr\u1ecd g\u1ecb na ngwa a. Biko gaa n'ihitte na-enye m any\u1ecb eziokwu nd\u1ecb a n'\u1ee5z\u1ecd Igbo:\n\n1. Iji na-agbak\u1ecd data nkeonwe site na nd\u1ecb \u1ecdr\u1ee5:\n   - Biko banye ngwa a nke a: \"Biko banye aha-akw\u1ee5kw\u1ecd: Iji na-agbak\u1ecd data nkeonwe site na nd\u1ecb \u1ecdr\u1ee5.\"\n   - Nwere ike g\u1ecb na-ah\u1ee5tara data otu n'ime ala, na-enye g\u1ecb aka\u1ee5nt\u1ee5 data nkeonwe site nke g\u1ecb.\n   - Malite \u1ee5z\u1ecd g\u1ecb na-akp\u1ecd data nkeonwe site na nd\u1ecb \u1ecdr\u1ee5, na-akp\u1ecd ha n'ime ala ma \u1ecd b\u1ee5 na-agba data nkeonwe site.\n   - Gwara ha ihe nd\u1ecb a: \"Biko gaa n'ime ala maka data nkeonwe site.\"\n\n2. Iji na-akwado data nkeonwe site:\n   - Biko banye ngwa a nke a: \"Biko banye aha-akw\u1ee5kw\u1ecd: Iji na-akwado data nkeonwe site.\"\n   - Nwere ike g\u1ecb na-ah\u1ee5tara \u1ecdd\u1ecbnaya nke data nkeonwe site g\u1ecb.\n   - Gwara \u1ee5d\u1ecb a nke data nkeonwe site g\u1ecb, nwere ike g\u1ecb na-agwado data nkeonwe site.\n   - Gwara ha ihe nd\u1ecb a: \"Biko gaa n'ime ala maka data nkeonwe site.\"\n\n3. Iji na-akp\u1ecddata nkeonwe site:\n   - Biko banye ngwa a nke a: \"Biko banye aha-akw\u1ee5kw\u1ecd: Iji na-akp\u1ecddata nkeonwe site.\"\n   - Nwere ike g\u1ecb na-ah\u1ee5tara nd\u1ecb \u1ecdr\u1ee5 nke d\u1ecb ka data"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 500,
+        "total_tokens": 608
+    }
+}

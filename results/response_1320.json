@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MbCDfZFki82MRhSa1cSGRoTo4P",
+    "object": "chat.completion",
+    "created": 1692159841,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Apwoyo! Neno iyiyo niyo konyo wii kaka mitino ma ketho kata ketho kompyuta mang'eny manie kambi. Kiketo niyo kata wii:\n\n1. Konyo wii kaka kompyuta yoo niyo openo. (Can you turn on the computer?)\n2. Konyo wii kaka \"Start\" (obwolo) ma pe \"Search\" (obwolo) iye \"Settings\" (kibalo). (Please click on the \"Start\" button and select \"Search\" or \"Settings.\")\n3. Konyo wii kaka \"Update & Security\" (kibalo) ma pe \"Windows Update\" (kibalo). (Click on \"Update & Security\" and then select \"Windows Update.\")\n4. Konyo wii kaka \"Check for updates\" (kibalo). (Click on \"Check for updates.\")\n5. Tye konyo wii kaka \"Install updates\" (kibalo) ma pe \"Restart now\" (kibalo) kama kompyuta yoo niyo bedo update. (If there are any updates available, click on \"Install updates\" and then select \"Restart now\" to complete the update.)\n6. Konyo wii kaka \"Start\" (obwolo) ma pe \"Search\" (obwolo) iye \"Control Panel\" (kibalo). (Click on \"Start\" and then select \"Search\" or \"Control Panel.\")\n7. Konyo wii kaka \"Programs\" (kibalo) ma pe \"Uninstall a program\" (kibalo). (Click on \"Programs\" and then select \"Uninstall a program.\")\n8. Konyo wii kaka programu niyo niyo bedo konyo wii kaka \"Uninstall\" (kibalo) ma pe \"Yes\" (kibalo) iye programu ki bedo konyo. (Select the program you want to uninstall and click on \"Uninstall.\" Confirm the action by clicking \"Yes.\")\n9. Konyo wii kaka \"Start\" (obwolo) ma pe \"Search\" (obwolo) iye \"Restart\" (kibalo). (Click on \"Start\" and then select \"Search\""
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 500,
+        "total_tokens": 590
+    }
+}

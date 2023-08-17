@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OJsRKTw1EDnEaNnx9XsXaF06BQ",
+    "object": "chat.completion",
+    "created": 1692159947,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129\u0169t\u0169\u0169r\u0129re \u0169v\u0129a wa k\u0169se\u0169vya apps sya sim\u0169 na kombi\u0169ta. N\u0129\u0169t\u0169\u0169r\u0129re \u0169v\u0129a wa k\u0169t\u0129ra ma\u0129ra nginya k\u0129la m\u0169nd\u0169. N\u0129\u0169t\u0169\u0169r\u0129re \u0169v\u0129a wa k\u0169r\u0129ra nginya k\u0129la m\u0169nd\u0169. N\u0129\u0169t\u0169\u0169r\u0129re \u0169v\u0129a wa k\u0169t\u0129ra ma\u0129ra nginya k\u0129la m\u0169nd\u0169."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 135,
+        "completion_tokens": 173,
+        "total_tokens": 308
+    }
+}

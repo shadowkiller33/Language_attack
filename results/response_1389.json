@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IonZ3pzfVZBK19yMTjJjgLWNAs",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Bende kaka inyalo donjo e email mar ng'ato kendo somo weche ma ondiko. Donyo nyasaye, en kiketo kendo ki bwot en itinje. Piny ng'ato onge email mar, nyakano email mar ng'ato en yieyo donjo. En ng'atwa ma ondiko e somo weche, nyakano kiketo ki bwot en kaka ma en wacho. \n\n1. Ka en ng'ato email mar, onge \"Inbox\" ki bwot en. \n2. Ongo \"Compose\" kendo ki bwot en. \n3. Ka en ng'ato donjo, onge email mar ng'ato en yieyo donjo. \n4. Ongo \"Subject\" kendo ki bwot en nyasaye en ayieyo somo weche ma en wacho. \n5. Ongo \"Body\" kendo ki bwot en nyasaye en ayieyo ma ondiko e somo weche. \n6. Ka en ng'atwa ma ondiko e somo weche, onge \"Attach File\" kendo ki bwot en. Ongo \"Browse\" kendo ki bwot en, nyakano en ng'atwa ma ondiko e somo weche. \n7. Ongo \"Send\" kendo ki bwot en nyasaye en ayieyo email mar ng'ato en yieyo donjo ne somo weche ma en wacho. \n\nNyasaye, onge email mar ng'ato en yieyo donjo en odhi. Ongo \"Sent\" kendo ki bwot en nyasaye en ayieyo email mar ng'ato en yieyo donjo en odhi. \n\nNyasaye, en kiketo kendo ki bwot en."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 402,
+        "total_tokens": 500
+    }
+}

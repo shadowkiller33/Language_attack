@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NHeFr4tYlP9kIExYP4hCEyNMr5",
+    "object": "chat.completion",
+    "created": 1692159883,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kaneno, niyakworo katak me yaka kiketo niyakworo an wacho gi websait. Nirogo moma gi websait ma meyo kiko. Kedni paro wacho kod gero e wi oganda moro sie pe. Oweko niowacho gineno ni kare kod gi wi oganda moro sie?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 82,
+        "total_tokens": 175
+    }
+}

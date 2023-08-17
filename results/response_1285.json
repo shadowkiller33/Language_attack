@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJXOW7VaWLyQJLRShgVoN0DRWV",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kwena, aneno nyakalaga. Adwaro kodgi ki ng'ato neno achakore kong'eyo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 31,
+        "total_tokens": 118
+    }
+}

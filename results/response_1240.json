@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LA2NHf71jGIlDbAepvuJGbhzKO",
+    "object": "chat.completion",
+    "created": 1692159752,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyingi matindo ma inyalo tigo e donjo e pach ji mondo oyud weche. Nga obedo romo konyo kaka itende ni obedo romo dongruok kaka odundo. Tielo loko nyako niwo obedo romo yomruok tich dongo. Gik ma inyalo ni ilok ma en kaka mondo oyud weche.\n\n1. Nyingi matindo ma inyalo tigo e donjo e pach ji mondo oyud weche ni obedo romo konyo kaka itende. Ma peko inyalo ma otijowa ni obedo romo donyo wach.\n\n2. Tielo loko nyako niwo ma inyalo tigo e donjo e pach ji mondo oyud weche ni obedo romo yomruok tich dongo. Ma peko inyalo ma otijowa niwo obedo romo yomruok tich dongo.\n\n3. Gik ma inyalo ni ilok ma en kaka mondo oyud weche. Ma peko inyalo ma otijowa niwo ma en kaka mondo oyud weche.\n\nOyud weche ni obedo romo konyo kaka itende ni obedo romo dongruok kaka odundo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 292,
+        "total_tokens": 381
+    }
+}

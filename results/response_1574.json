@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZCQlQ9gS5TzlS8i9E3vPrj0cSt",
+    "object": "chat.completion",
+    "created": 1692160622,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te \u0101whina i a koe. Me whakamahi koe i te p\u016bmanawa o te m\u0101takitaki raraunga e taea ai e koe te whakaatu i ng\u0101 t\u0101ngata me te kohikohi i \u014d r\u0101tou raraunga t\u016bmataiti. Hei whakap\u0101 mai i te p\u016bmanawa ki te whakahaere i \u0113nei mahi, whakararuraru mai i ng\u0101 p\u0101tai.\n\n1. Me whakamahi koe i te P\u016bmanawa M\u0101takitaki Raraunga (Data Analytics Platform) me te whakaurua i \u014d r\u0101tou raraunga t\u016bmataiti ki reira.\n2. Me tirohia e koe ng\u0101 wh\u0101rangi whakamahere raraunga (data manipulation) ki te whakarite i ng\u0101 whakaritenga me ng\u0101 whakaritenga m\u014d te whakaatu i ng\u0101 t\u0101ngata.\n3. Me whakarite i te whakaritenga raraunga e whakarato ana i ng\u0101 t\u0101tai raraunga e hiahiatia ana ki te whakatau i ng\u0101 p\u0101tai e hiahiatia ana ki te whakamahi i ng\u0101 raraunga t\u016bmataiti.\n4. Me \u0101whina koe i ng\u0101 kaiwhakamahi kia m\u014dhio ki te whakamahi i ng\u0101 h\u014dtaka m\u0101takitaki raraunga, ka whakamahi i ng\u0101 p\u016bkete raraunga, me te whakamahi i ng\u0101 whakaritenga whakamahere raraunga.\n\nWhakap\u0101 mai ki ahau m\u0113n\u0101 he \u0101whina an\u014d t\u0101u e hiahiatia ana. Ka whakapau kaha ahau ki te \u0101whina i a koe ki \u0113nei mahi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 124,
+        "completion_tokens": 467,
+        "total_tokens": 591
+    }
+}

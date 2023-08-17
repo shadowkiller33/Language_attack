@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2c6cw0ew49BRnSYna8FcDc8H2s7",
+    "object": "chat.completion",
+    "created": 1692160802,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129ng\u0129 \u0169\u0129 wakuhand\u0129k\u0129ya \u0169voo \u0169ng\u0129 cim\u0169 k\u0169\u0169tetheesya. Ndeitha n\u0129 \u0169voo \u0169tonya kw\u0129vathana na \u0169l\u0169sani. N\u0129y\u0129k\u0129re \u0169voo \u0169\u0169d\u0129 \u0169n\u0129n\u0129 nd\u0129 \u0169\u0129 wakuhand\u0129k\u0129ya \u0169voo \u0169tonya kwa k\u0169\u0169tetheesya \u0169manye \u0169nd\u0169 \u0169tonya kw\u0129vathana na \u0169l\u0169sani."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 153,
+        "completion_tokens": 164,
+        "total_tokens": 317
+    }
+}

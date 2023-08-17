@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L4BjMobh28hYNeYE9FOIU1CVfd",
+    "object": "chat.completion",
+    "created": 1692159746,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Aku ngerti sing eling babagan pentingnya ngamot pencurian identitas. Aku arep njaluk instruksi kanggo nggawe tugas-tugas sing kowe arepake. Aku bakal nyoba ngerti lan nggawe instruksi sing kowe arepake nganggo bahasa Jawa.\n\n1. Cara Njaga Informasi Pribadi:\n- Gawe akun media sosial pribadi: Nggawe akun media sosial kang khusus kanggo keluarga lan teman dekat, ora kaya kang umum.\n- Ganti sandi kasebut: Ganti sandi akun media sosial, email, lan akun online liyane kowe setiap siji-kali sawetara wulan.\n- Ora nyimpen informasi pribadi: Ora nyimpen nomer kartu kredit, nomer identitas, utawa informasi pribadi liyane ing komputer utawa handphonemu.\n- Berhati-hati ing media sosial: Ora nggawe kabeh informasi pribadi publik, kaya tanggal lair, alamat, utawa nomer telepon.\n- Awas ing email phishing: Awas karo email sing ora kasedhiya utawa sing arep nggawe kowe ngisep informasi pribadi. Ora klik link utawa nggawe lampiran saka email sing ora kasedhiya.\n\n2. Cara Nggawe Sandi Kuat:\n- Gawe sandi sing unik: Gawe sandi sing ora gampang ditebak, ora nganggo kata-kata umum utawa tanggal lair.\n- Sandi kang kuat: Gawe sandi kang setidaknya ngandung angka, huruf kapital, huruf kecil, lan simbol.\n- Panjang sandi: Gawe sandi sing paling ora kurang saka 8 karakter.\n- Ganti sandi: Ganti sandi akun-akunmu setiap siji-kali sawetara wulan.\n\n3. Cara Nggawe Pembayaran Online Aman:\n- Gawe akun aman: Gawe akun sing khusus kanggo pembayaran online, kaya PayPal, lan ganti sandi setiap siji"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 500,
+        "total_tokens": 599
+    }
+}

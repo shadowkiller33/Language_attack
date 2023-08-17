@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSOk5ww6NtxxR4D03TEUv38ulg",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Piny ka nyis ji kaka ginyalo kwelo weche ma gin giwegi giwegi kendo tiyo kodgi e yore mag wuond. Ka gi medo ka gi lako nyaka kaka gikelo ma kaka ginyalo kodgi. Ka gikelo nyaka nyathi kaka ginyalo?\n\n(Translation: Sure, I can help you with your tasks. Please provide me with the first task you need assistance with. What do you need help with?)"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 107,
+        "total_tokens": 208
+    }
+}

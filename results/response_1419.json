@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZzhFqneE43lpSfpgZiMTY4bOoF",
+    "object": "chat.completion",
+    "created": 1692160671,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te \u0101whina i a koe. Me whakararuraru i t\u014d whakamahi i t\u0113nei whakap\u0101p\u0101tanga i roto i te reo M\u0101ori. Me whakautu ahau i \u0101u p\u0101tai i roto i te reo M\u0101ori.\n\n1. Whakarite i te kaupapa o te k\u0113mu: Ka whakararuraru koe i te kaupapa o t\u014d k\u0113mu ataata. Ka whakaaro koe ki te pakanga, te whakapau kaha, me te tutu ki ng\u0101 tangata kore-a-iwi. Whakarite i t\u0113tahi kaupapa, he momo k\u0113mu, he whakararuraru, me \u0113tahi whakaritenga, hei whakakore i \u0113tahi whakap\u0101p\u0101tanga.\n\n2. T\u012bmata i te whakararuraru: Ka whakararuraru koe i \u0113tahi momo mea e whakapau kaha ana i t\u014d k\u0113mu. Ko \u0113tahi whakararuraru ka whiwhi i a koe he m\u0101takitaki t\u016brama, he whakawhitiwhiti whakaaro, he whakararuraru p\u014dro, he whakararuraru rorohiko, me \u0113tahi atu. Whakarite i \u0113tahi whakararuraru e whai hua ana ki te pakanga me te tutu.\n\n3. Whakarite i te whakapau kaha: Ka whakararuraru koe i \u0113tahi whakap\u0101p\u0101tanga hei whakapau kaha i t\u014d k\u0113mu. Ka whakaaro koe ki \u0113tahi whakap\u0101p\u0101tanga whakapau kaha, he whakararuraru \u0101whina, he whakap\u0101p\u0101tanga whakararuraru, he whakap\u0101p\u0101tanga whakararuraru hoko, me \u0113tahi at"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 500,
+        "total_tokens": 608
+    }
+}

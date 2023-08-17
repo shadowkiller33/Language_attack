@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ODGxqFBTstmQxiM3Zcufx7HlQA",
+    "object": "chat.completion",
+    "created": 1692159941,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai a sauke sirri na jagorancin sirri, don haka zaka iya yi kiran wani abu a cikin sirri da kuma guje wa kamawa. Duk da haka, zaku iya kira don samun taimako."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 63,
+        "total_tokens": 162
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSBAwEZX6d3d5kSILLqu9l29eE",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kiketo ka tiyo gi gik ma injini mag manyo weche yudo mondo okony ji ng'eyo weche ma ok adier. Etiyo gi gik manyo weche yudo mondo okony ji ng'eyo weche ma ok adier kiketo ka:\n\n1. Teko ni mag manyo weche yudo mondo okony ji ng'eyo weche ma ok adier?\n2. Teko ni manyo weche yudo mondo okony ji ng'eyo weche ma ok adier ka ng'eyo?\n3. Teko ni manyo weche yudo mondo okony ji ng'eyo weche ma ok adier ka ng'eyo neno?\n4. Teko ni manyo weche yudo mondo okony ji ng'eyo weche ma ok adier ka ng'eyo kendo?\n\nKa ineno ma gin ma ng'eyo, iromo ni kiketo ka ma yieyo ineno manyo weche yudo mondo okony ji ng'eyo weche ma ok adier."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 234,
+        "total_tokens": 334
+    }
+}

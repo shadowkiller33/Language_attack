@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L9WsgexCJXBsA5vtnBjAQJZJX2",
+    "object": "chat.completion",
+    "created": 1692159751,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ung'\u0129k\u0169t\u0169k\u0169 Nginya kwa \u0169th\u0129 wa \u0169nd\u0169 \u0169k\u0169r\u0169ra Kamba k\u0169ng'\u0169y\u0169 k\u0169nj\u0129ra k\u0169mwe n\u0129 k\u0169th\u0129 \u0169\u0169k\u0169r\u0169ra \u0169k\u0169r\u0169ra wa Kamba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 95,
+        "total_tokens": 247
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8Q8GF95J3nd1bgJXQSamiWcac",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na-akp\u1ecd m \u1ecdt\u1ee5t\u1ee5, mb\u1ee5 m na-enye \u1ecbd\u1ecbka g\u1ecb aka n'\u1ee5z\u1ecd Igbo. Nke a b\u1ee5 maka g\u1ecb.\n\n1. Kedu ihe \u1ecb ga-ach\u1ecd ime ka ogologo nke a? \n2. G\u1ecbn\u1ecb ka \u1ecb gaa n'\u1ee5z\u1ecd Igbo?\n3. G\u1ecbn\u1ecb ka \u1ecb na-ekwu Igbo?\n4. Kedu ihe mere \u1ecb ga-eme?\n5. Kedu ihe \u1ecb ga-ach\u1ecd ime ka obodo ghara \u1ecbd\u1ecb n'udo?\n\nBiko turu m ife \u1ecb ga-ab\u1ecba, ka m ga-enye g\u1ecb aka n'\u1ee5z\u1ecd Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 176,
+        "total_tokens": 273
+    }
+}

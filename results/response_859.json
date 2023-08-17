@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MkvzwIiV62L4vcr7x5khx2Droz",
+    "object": "chat.completion",
+    "created": 1692159850,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129 mw\u0129t\u0129ri wa k\u0169t\u0169m\u0129kia na k\u0169r\u0169ra ma\u0169nd\u0169 aya. N\u0129rath\u0129a g\u0169k\u0169h\u0129\u0129ra mak\u0169menyerera \u025bmwe ma\u0169nd\u0169 aya?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 79,
+        "total_tokens": 218
+    }
+}

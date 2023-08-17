@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z9BinrpIf2tGySnHoziWXXWb29",
+    "object": "chat.completion",
+    "created": 1692160619,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Kei te whakapau kaha ahau ki te \u0101whina i a koe. Me tirohia ng\u0101 rauemi whare e whakamahi ai i te whakawhanake i t\u0113tahi p\u016brere pupuhi. Ka whakamahia ng\u0101 matapihi, ng\u0101 k\u014dhatu whakapau, ng\u0101 p\u016brere pupuhi me \u0113tahi atu rauemi.\n\n1. Whakaritea te w\u0101hi m\u014d te p\u016brere pupuhi:\n   - T\u012bmata ki te tiro i t\u0113tahi w\u0101hi haumaru, p\u0113r\u0101 i t\u0113tahi ruma whare r\u0101nei.\n   - Whakaritea i te w\u0101hi m\u014d te p\u016brere pupuhi i te taha o te t\u016bnga r\u0101nei, ki te whakararuraru ana i te hau.\n\n2. T\u012bmata te whakamahi i ng\u0101 rauemi:\n   - Whakaritea te matapihi i runga i te taha o te whare e hiahia ana koe ki te whakapau pupuhi.\n   - Whakaritea t\u0113tahi k\u014dhatu whakapau ki te taha o te matapihi, \u0101, t\u012bmata te whakapau pupuhi.\n\n3. Whakamahi i te p\u016brere pupuhi:\n   - Aroturuki te whakapau pupuhi ki te whakatau i te ritenga me te \u0101hua o te hau. Whakawhiti whakarunga, whakararo, whakatika atu hoki e whai ake ana i te ritenga hau.\n   - Whakapau pupuhi i te h\u014dputu o te p\u016brere pupuhi ki te matapihi, \u0101, t\u0101piri i te hau ki te whare.\n   - Whakarongo ki ng\u0101 tino tohu o te hononga o te pupuhi ki te matapihi. Ki te kitea he whakararuraru, whakatika i te h"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 500,
+        "total_tokens": 616
+    }
+}

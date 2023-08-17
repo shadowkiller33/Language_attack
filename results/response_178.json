@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NzyFgUU2IZdl8mIB6a00e1lDbp",
+    "object": "chat.completion",
+    "created": 1692159927,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ai wani abu da za ka iya yi shine, sa ka shiga cikin kasuwan ku\u0257i da kuma tattaunawa da masu amfani da ita. Kuna iya samun kasuwan ku\u0257i a cikin kasuwa, kamar yadda hukumar aiki ta yiwuwa. Kuma kuna iya samun tattaunawa da masu amfani da kasuwar ku\u0257i ta hanyar su yi maganar da kuma su gudanar da shawarwari da kuma bukatun ayyukan arziki.\n\nDon samun kasuwar ku\u0257i a cikin kasuwa, za ka iya yi kamar yadda aka yi a cikin kaya. Zaka iya samun kasuwar ku\u0257i a cikin kasuwan da suka shafi, kamar su ku\u0257in kudi, ku\u0257in kudi na intanet, ku\u0257in kudi na tabbatar da ita, da dai sauransu. Za ka iya samun tafiyar da aka yi a cikin kasuwar ku\u0257i, kamar yadda aka yi a cikin yankin, da kuma gida. \n\nDon samun tattaunawa da masu amfani da kasuwar ku\u0257i, za ka iya yi hakan kamar yadda aka yi a cikin hanyar bayani. Zaka iya samun tattaunawa da masu amfani da kasuwar ku\u0257i a cikin kasuwa, ta hanyar su yi maganar da kuma su gudanar da shawarwari. Kuna iya tambayoyi masu amfani da kasuwar ku\u0257i game da abubuwa da suke kawo tattunwa, kamar yadda suke bayyana damuwa a cikin kasuwan ku\u0257i. Kuna iya kula da masu amfani da kasuwar ku\u0257i don samun bukatun ayyukan arziki, kamar yadda suke"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 124,
+        "completion_tokens": 500,
+        "total_tokens": 624
+    }
+}

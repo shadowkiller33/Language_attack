@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JghO4FNOH2cczPssDfmIxy1Wdo",
+    "object": "chat.completion",
+    "created": 1692159660,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129o, n\u0129n\u0129 \u0169t\u0169m\u0129 wa k\u0169se\u0169vya nz\u0129a \u0129su. N\u0129k\u0169\u0169t\u0169mb\u0129re \u0169voo \u0169tonya k\u0169eleeka na\u0129. N\u0129ng\u0129ko nd\u0129k\u0169youka k\u0169se\u0169vya nz\u0129a \u0169tonya k\u0169eleeka na\u0129?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 108,
+        "total_tokens": 216
+    }
+}

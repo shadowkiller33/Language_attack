@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NG1w1pdcTyw8mICcmj7lQk25vB",
+    "object": "chat.completion",
+    "created": 1692159882,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A'a, ina son masu amfani da yanar gizon mu ta taimaka musu. Ko kuma ina son amfani da wasu ba tare da sunansa ba. So, za ku iya bayyana su a lokacin da ku tambayi su. Ni zai iya taimakawa?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 122,
+        "completion_tokens": 74,
+        "total_tokens": 196
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NLV7pgCkgrhKk0wlhK4Mh7iDZ5",
+    "object": "chat.completion",
+    "created": 1692159887,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka fara yin wannan takun:\n\n1. Ka tafasa gidan ka don tuntube kayan fashewar a cikin gida.\n2. Ka samu wani gaba da aka yi ajiyar daidaita sosai, kamar haka ka iya samun wani kayan fashewa da kake so.\n3. Ka dauki kayan fashewar daga cikin gida, kamar kayan fashewa na doya, kayan fashewa na gasa, kayan fashewa na ruwa, da dai sauran su.\n4. Ka samu wani kwale-kwale da aka yi ajiyar daidaita, ka fasa shi a cikin kayan fashewa don yin sauke su.\n5. Ka tafasa gidan ka don yin sauran kayan fashewar, kamar kayan fashewa na tuwo, kayan fashewa na abinci, ko kayan fashewa na yanayi.\n6. Ka dauki kayan fashewar daga cikin gidan, ka fasa su a cikin wani kwale-kwale don yin sauke su.\n7. Ka tafasa gidan ka don yi wani tsafi daga kayan fashewar, kamar tsafi daga kayan fashewa na doya, tsafi daga kayan fashewa na gasa, tsafi daga kayan fashewa na ruwa, da dai sauran su.\n8. Bayan yin tsafi, ka dauki kayan fashewar daga kwale-kwale, ka fasa su a cikin gidan.\n\nNasa ma ka iya kira\u0199\u0199en wannan takun a cikin Hausa don ku sani mafi kyau."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 423,
+        "total_tokens": 512
+    }
+}

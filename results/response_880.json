@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZNyDKoGcoVW8vOjpXbaSspPybq",
+    "object": "chat.completion",
+    "created": 1692160633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ni m\u0169t\u0129 we, nd\u0129r\u0129 \u0169s\u0169v\u0129o wa k\u0169hika \u0169thi\u0129 waku. N\u0129t\u0169kar\u0129r\u0129e \u0169tind\u0129 m\u0169ci\u0129 wa Kamba k\u0169t\u0169ng'\u0129k\u0129ria \u0169thi\u0129 \u0169cio. Nd\u0129m\u0169g\u0129t\u0169ria \u0169tind\u0129 m\u0169ci\u0129 wa Kamba k\u0169hikia \u0169thi\u0129 \u0169cio."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 135,
+        "total_tokens": 246
+    }
+}

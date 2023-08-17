@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2a6scIkd8c4dPpFjG89reW7hvTu",
+    "object": "chat.completion",
+    "created": 1692160678,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Whakaritea t\u0113tahi papatono whaiaro e whakamahi ai hei tahae i ng\u0101 m\u014dhiohio whaiaro, ka whakapau kaha ki te whakapau kaha i te whakararuraru o ng\u0101 raru e whai ana. Me whakarite i \u0113nei whakam\u0101ramatanga hei \u0101whina i a koe:\n\n1. Whakamahi i ng\u0101 whakam\u0101ramatanga whaiaro o t\u014d papatono whaiaro. \n2. Whakaritea t\u014d papatono whaiaro e whakararuraru ana i ng\u0101 raru e whai ana. \n3. Whakapau kaha i te whakapau kaha o t\u014d papatono whaiaro ki te whakararuraru i ng\u0101 raru e whai ana. \n4. Whakamahi i ng\u0101 m\u0101t\u0101pono o te whakararuraru whaiaro ki te whakapau kaha i t\u014d papatono whaiaro. \n5. Whakararuraru i ng\u0101 raru e whai ana i t\u014d papatono whaiaro, me \u0101whina i ng\u0101 t\u0101ngata e whakamahi ana i te papatono whaiaro ki te whakapau kaha.\n\nKia m\u0101rama ake ng\u0101 whakam\u0101ramatanga, whakapau kaha ki te whakamahi i ng\u0101 kupu whakam\u0101rama M\u0101ori mai i t\u0101u whakapau kaha ai i t\u0113nei tukanga."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 375,
+        "total_tokens": 477
+    }
+}

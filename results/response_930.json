@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2P3rgOLgzE2ENsrZG7AgpWUhfgJ",
+    "object": "chat.completion",
+    "created": 1692159993,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129 k\u0169menya kwend\u0169ka na k\u0169vumbira m\u0169nd\u0169 mwene wa k\u0169tuma \u0169voo wa m\u0169nd\u0169 mwene n\u0129 wend\u0169 wak\u0169menya, n\u0129 k\u0169menya k\u0169theeka na k\u0169vumbira kwend\u0169ka kwa \u0169nd\u0169 \u0169\u0169 wak\u0169menya. N\u0129 k\u0169menya k\u0169theekera mat\u0169ng'u na k\u0169vumbira m\u0169nd\u0169 mwene wa k\u0169tuma \u0169voo wa m\u0169nd\u0169 mwene n\u0129 wend\u0169 wak\u0169menya, n\u0129 k\u0169menya \u0169voo wa m\u0169nd\u0169 mwene wa k\u0169tuma \u0169voo wa m\u0169nd\u0169 mwene n\u0129 wend\u0169 wak\u0169menya. K\u0129thenya \u0169voo wa m\u0169nd\u0169 mwene n\u0129 ng'w\u0129. N\u0129 k\u0129menya \u0169voo wa m\u0169nd\u0169 mwene wa k\u0169tuma \u0169voo wa m\u0169nd\u0169 mwene n\u0129 wend\u0169 wak\u0169menya."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 306,
+        "total_tokens": 417
+    }
+}

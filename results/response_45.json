@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PETBim42NqwUdxpeKRayZ2Boej",
+    "object": "chat.completion",
+    "created": 1692160004,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Na iya ba kai da jawabi ga dan takarar siyasa wanda ke amfani da kalaman \u0199iyayya da kuma inganta rarrabuwa da tashin hankali. Sannan kuma na iya ba ka da sauran tambayoyi da aka yi a cikin masu amfani da Hausa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 83,
+        "total_tokens": 197
+    }
+}

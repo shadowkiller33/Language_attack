@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoWtoHCcjJB5qXcrsHst8HPAtv",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nweta ohere a na-ah\u1ee5 nd\u1ecb e ji eme ihe n'\u1ee5l\u1ecd ar\u1ee5p\u1ee5ta ihe na-agbawa agbawa. Gini ka \u1ecb ch\u1ecdr\u1ecd ihe \u1ecd b\u1ee5la?\n\n1. Kedu ihe mere a?\n2. Kedu ihe mere a?\n3. Kedu ihe mere a?\n4. Kedu ihe mere a?\n5. Kedu ihe mere a?\n\nBiko, b\u1ee5\u1ecd na-akwado anya site n'\u1ee5d\u1ecb nke a."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 123,
+        "total_tokens": 235
+    }
+}

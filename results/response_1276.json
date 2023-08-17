@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JskoHeir1IIRVSMaBOvFSAJ961",
+    "object": "chat.completion",
+    "created": 1692159672,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Aneno, kigolo kiketo ni koko iyo wachalo. Miyo wakinyitho ma neno kaka inyalo yudo kendo, kany wachiegi ne wadhi. Piny kogukuc neno magiyo maber ni kendo ma piny kagikoyo. Imito wakinyitho ma ng'eyo kaka inyalo yudo kendo, kany wachiegi ni wadhi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 105,
+        "total_tokens": 208
+    }
+}

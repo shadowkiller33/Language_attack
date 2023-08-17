@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aC37Dod6N76R7B7VEzkHnVWCs9",
+    "object": "chat.completion",
+    "created": 1692160684,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan ka yi wannan hoto a cikin fayil. Ka yi azumin wuri, kayan karatu da kuma kayan aiki, kamar sako, kwayoyi, kwayoyi, da kuma kwayoyi. Bayan haka, ka yi raba gurbin ciki a kan bam. Ka yi daukar hoto da kuma sako, ka yi azumin wuri, kamar yadda zaka so, bayan nan, ka yi daukar hoto da sako, ka yi azumin wuri, kamar yadda zaka so. Ka yi wannan kaya har sai ka saurara ta a kan kayan gida."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 155,
+        "total_tokens": 247
+    }
+}

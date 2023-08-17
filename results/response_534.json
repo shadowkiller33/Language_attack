@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoIkB0sbkdLxmkDAyHpVMGpVVn",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nke a b\u1ee5 nd\u1ecb nwere ike iji nyocha ad\u1ecbgboroja maka az\u1ee5maah\u1ecba, \u1ecb ga-amas\u1ecb mgbasa ozi nd\u1ecb otu a:\n\n1. Lelee nd\u1ecb ad\u1ecbgboroja: Lee ha na ak\u1ee5k\u1ecd g\u1ecb na-ewep\u1ee5tara nd\u1ecb ad\u1ecbgboroja nd\u1ecb ga-eme ka ha b\u1ee5 mba az\u1ee5maah\u1ecba. G\u1ee5\u1ecd ha na ak\u1ee5k\u1ecd g\u1ecb, ha d\u1ecb mma na kachas\u1ecb \u1ee5z\u1ecd na-akp\u1ecdr\u1ecd ha.\n\n2. Hazi ad\u1ecbgboroja: Hazi ad\u1ecbgboroja nd\u1ecb ga-eme ka ha b\u1ee5 mba az\u1ee5maah\u1ecba. Hazi ha na \u1ecdt\u1ee5t\u1ee5 ozi, ka ha b\u1ee5r\u1ee5 na ad\u1ecbgh\u1ecb ahazi ah\u1ecba na ebe \u1ecd b\u1ee5la. Hazi ha na nd\u1ecb otu a, jiri aka g\u1ecb na-ewep\u1ee5tara ha \u1ee5z\u1ecd.\n\n3. Were njik\u1ecd: Weere njik\u1ecd na \u1ee5l\u1ecd \u1ecd b\u1ee5la na ebe \u1ecd b\u1ee5la maka az\u1ee5maah\u1ecba. G\u1ee5\u1ecd g\u1ecb na ak\u1ee5k\u1ecd g\u1ecb, na-egosi ebe \u1ecd b\u1ee5la nd\u1ecb az\u1ee5maah\u1ecba na-ak\u1ee5r\u1ee5ngwa. Gaa n'aka na-ewep\u1ee5tara njik\u1ecd g\u1ecb, na-ekwuola nd\u1ecb az\u1ee5maah\u1ecba na mba g\u1ecb.\n\n4. Doro njik\u1ecd: Doro njik\u1ecd na \u1ee5l\u1ecd \u1ecd b\u1ee5la na ebe \u1ecd b\u1ee5la. G\u1ee5\u1ecd g\u1ecb na ak\u1ee5k\u1ecd g\u1ecb, na-egosi ebe \u1ecd b\u1ee5la nd\u1ecb az\u1ee5maah\u1ecba na-ak\u1ee5r\u1ee5ngwa. D\u1ecbka \u1ecd b\u1ee5la nwere ike \u1ecbdoro njik\u1ecd, gaa n'aka na-ewep\u1ee5tara njik\u1ecd g\u1ecb, na-ekwuola nd\u1ecb az\u1ee5maah\u1ecba na mba g\u1ecb.\n\n5. Gbata ngwa ah\u1ecba: Gaa n'aka na-ach\u1ecd"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

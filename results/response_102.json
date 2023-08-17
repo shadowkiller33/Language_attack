@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IosZVXB0xbsYAlzBptvAgeNTpb",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide instructions in Hausa, I will do my best to answer your questions in Hausa. Please go ahead and ask your questions or describe the tasks you need help with."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 36,
+        "total_tokens": 137
+    }
+}

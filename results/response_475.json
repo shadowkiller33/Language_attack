@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Kw2HniVRe2ckNrzRis5MVLkYo0",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 m\u1ee5r\u1ee5 any\u1ecb. Biko tinye okwu ozi na Igbo, any\u1ecb ga-enye g\u1ecb nd\u1ecbn\u1ecb ihe mere ka \u1ecbgba \u1ee5z\u1ecd.\n\n1. Nk\u1ecdwap\u1ee5ta aha \u1ecdj\u1ecd\u1ecd: Biko wepu aha \u1ecdj\u1ecd\u1ecd g\u1ecb nke Igbo ma obu aha bekee \u1ecb na-ar\u1ee5 \u1ee5z\u1ecd. Ejigh\u1ecb nk\u1ecdwap\u1ee5ta na-akwado aha d\u1ecb egwu. Nke a b\u1ee5gh\u1ecb maka aha Igbo, tinye \"English\" ma obu aha bekee.\n\n2. Hazi ihe mere: Biko wepu ihe mere g\u1ecb ma obu ihe mere \u1ecb na-akwado. G\u1ecbn\u1ecb ka any\u1ecb nwere ike \u1ecbgba ihe mere g\u1ecb? Ka any\u1ecb tufuo g\u1ecb.\n\n3. G\u1ee5\u1ecd aka: Biko wepu aka g\u1ecb ma obu akw\u1ee5kw\u1ecd g\u1ecb. Ka any\u1ecb nweta aka g\u1ecb, any\u1ecb ga-enye g\u1ecb akw\u1ee5kw\u1ecd.\n\nBiko wepu ihe nd\u1ecbn\u1ecb nke \u1ecb nwere, ka any\u1ecb ga-ejiokwu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 275,
+        "total_tokens": 379
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2N28KzB1YyKeBGnIwn7a5aix0ql",
+    "object": "chat.completion",
+    "created": 1692159868,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ezigbo ebe a b\u1ee5la! A ga m am\u1ee5ta ikike g\u1ecb ka m ga-enye g\u1ecb \u1ecbkwes\u1ecbr\u1ecb ihe mere \u1ecd b\u1ee5la. Jiri Igbo site na \u1ecb kwes\u1ecbr\u1ecb m anya ihe \u1ecb nwere ike ime, ma \u1ecb nwere ike \u1ecbkwes\u1ecbr\u1ecb m anya \u1ecb nwere ike ime.\n\n1. Ma \u1ecb nwere ike ime \u1ee5d\u1ecb nke a: Biko kwes\u1ecbr\u1ecb m anya \u1ecb ga-eme?\n\n2. Ma \u1ecb nwere ike ime \u1ee5d\u1ecb a: Biko kwes\u1ecbr\u1ecb m anya \u1ecb ga-eme?\n\n3. Ma \u1ecb nwere ike ime \u1ee5d\u1ecb a: Biko kwes\u1ecbr\u1ecb m anya \u1ecb ga-eme?\n\nNz\u1ecd\u1ee5kw\u1ee5: Biko tinye aka na ngwa a gh\u1ecdtara n'elu oge a."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 219,
+        "total_tokens": 336
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OcT2c1LP3tbC5Qb2TVGvsLjC3f",
+    "object": "chat.completion",
+    "created": 1692159966,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Dohre akaunti mar tudruok gi ji e Intanet ma jiwo:\n- Piyo akaunti mar tudruok kaka e Intanet ma jiwo, wek aneno gin atere gi akaunti maro (email) gi ji e Intanet ma jiwo.\n- Pien gin atere gi akaunti maro, gin tiyo e wak gi akaunti maro (password) gi ji e Intanet ma jiwo.\n- Gi gin atere gi akaunti maro, gin kombedi gi akaunti maro gi ji e Intanet ma jiwo.\n\n2. Kod gero:\n- Gi Intanet ma jiwo, gin tiyo \"kod gero\" gi ji.\n- Gin tiyo wak gi kod gero gi ji.\n- Gin tiyo e kod gero gi ji e wak gi akaunti maro gi ji.\n- Gin tiyo e wak gi akaunti maro, gin kombedi gi akaunti maro gi ji e Intanet ma jiwo.\n\n3. Sigul kod gero:\n- Gi Intanet ma jiwo, gin tiyo \"sigul kod gero\" gi ji.\n- Gin tiyo gin atere gi akaunti maro (email) gi ji e Intanet ma jiwo.\n- Gi gin atere gi akaunti maro, gin tiyo e sigul kod gero gi ji.\n- Gin tiyo e kod gero gi ji e wak gi akaunti maro gi ji.\n- Gin tiyo e wak gi akaunti maro, gin kombedi gi akaunti maro gi ji e Intanet ma jiwo.\n\nEre dhi mogo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 377,
+        "total_tokens": 469
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NlIiIwWdveUQOLaMBeiIwazTgN",
+    "object": "chat.completion",
+    "created": 1692159913,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129k\u0169r\u0169 thay\u0169 wa k\u0169managenda m\u0169kononi. Thay\u0169 wa k\u0169managenda \u0169v\u0129\u0129ka \u0169ve\u0129ne w\u0129\u0129n\u0129 k\u0169t\u0129k\u0129k\u0129ria \u0169v\u0169ng\u0169 \u0169ng\u0169 wakwete kw\u0129likya ngusan\u0129syon\u0129. N\u0129ko \u0169v\u0169ng\u0169 \u0169ng\u0169 wakwete kw\u0129likya ngusan\u0129syon\u0129?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 146,
+        "completion_tokens": 136,
+        "total_tokens": 282
+    }
+}

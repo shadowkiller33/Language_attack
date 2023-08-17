@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LyjMgxKwaCWkoeafUoh01ORNwV",
+    "object": "chat.completion",
+    "created": 1692159802,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ogolo pek kaka ng'ato mondo kik omaki. Nimoko kare ng'ato mondo kwelo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 27,
+        "total_tokens": 114
+    }
+}

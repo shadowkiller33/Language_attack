@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o1z8SnHcRwB2SkhCt94plxpE3szE",
+    "object": "chat.completion",
+    "created": 1692158386,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yi haka:\n\n1. Shiga aikace-aikacen kompyuta ko kuna samu raunuka a kan software mai amfani da rauni. \n2. Bude shafin software, kuma kar ka yi aiki cikin software.\n3. Ka sami tabbacin da za'a iya amfani da rauni a software. Ga haka, duba a kan 'Settings' ko 'Preferences' don samun sauti.\n4. Bayyana rauni da za'a iya amfani da su. Misali, ina iya samun 'Copy', 'Paste', 'Cut', da sauran rauni a kan software.\n5. Bayyana yadda za'a amfani da rauni a cikin tatsuniyoyin da za'a iya yi ko da yawa. Misali, a cikin Microsoft Word, ka iya amfani da rauni don samun alamar da za'a yi a kan rubutu.\n6. Bayyana yadda za'a iya sake sautin rauni. Misali, a cikin Photoshop, ka iya sake sautin rauni don samun saiti da za'a yi a kan hoto.\n7. Bayyana yadda za'a iya sake sautin rauni don samun ayyukan da za'a yi a kan software. Misali, a cikin Excel, ka iya sake sautin rauni don samun ayyukan da za'a yi a kan kayan aiki.\n8. Bayyana yadda za'a iya sake sautin rauni don samun lamba da za'a yi a kan software. Misali, a cikin PowerPoint, ka iya sake sautin rauni don samun lamba da za'a yi a kan wasa da PowerPoint.\n9. Bayyana yadda za'a iya sake sautin rauni don samun ayyukan da za'a yi a kan yanar gizo. Misali, a cikin AutoCAD, ka iya sake sautin rauni don samun ayyukan da za'a yi a kan rabuwa da kuma sakin yanar gizo.\n\nNima, in ka da wata tambaya da aka riga ka kira."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 498,
+        "total_tokens": 594
+    }
+}

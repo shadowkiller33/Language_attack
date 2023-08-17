@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MMMSYSeDXwiilGZDt1W8Fmjrdn",
+    "object": "chat.completion",
+    "created": 1692159826,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u0169t\u0169ng\u0129re, n\u0129\u0169r\u0129a \u0169ng\u0129 ndag\u0169o na k\u0169g\u0169th\u0129ria \u0168kir\u0129ri wa Kamba. N\u0129he \u0169t\u0169ng\u0129re \u0169thamaki nake, n\u0129guothe ng\u0169t\u0169g\u0169th\u0129kia ng\u0169katho k\u0129a \u0169t\u0169ng\u0129re \u0169nd\u0169 wa m\u0169thamaki. N\u0129thee \u0169t\u0169ng\u0129re \u0169thamaki \u0169t\u0169ng\u0129k\u0129te k\u0169th\u0129n\u0169 k\u0129a \u0169t\u0169ng\u0129re, ng\u0169t\u0169ng\u0129r\u0129ra \u0169thoni wa Kamba. N\u0129t\u0169thamaki \u0169gekere waku nd\u0129k\u0129thing\u0129ria."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 226,
+        "total_tokens": 334
+    }
+}

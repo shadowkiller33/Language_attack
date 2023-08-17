@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IovwlwJJPFAL5lQSorUzea41QN",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 ihe \u1ecdm\u1ee5ma d\u1ecb ka m \u1ecd b\u1ee5r\u1ee5 na m ga-enwe ike \u1ecbd\u1ecdr\u1ecd anya na Igbo. Biko h\u1ee5r\u1ee5 m any\u1ecbr\u1ecb g\u1ecb ihe \u1ecdm\u1ee5ma na \u1ecb ga-eme ihe \u1ecd b\u1ee5la.\n\n1. Ndebanye aka: Biko nyocha aka g\u1ecb na nt\u1ee5kwasiobi g\u1ecb. Gaa na \u1ecbkwunye aka g\u1ecb aka, na otu n'ime ngwa. Gaa na \u1ecbch\u1ecdta ihe \u1ecd b\u1ee5la ka \u1ecb ga-eme aka g\u1ecb.\n\n2. Nyocha aka g\u1ecb: Biko gaa na \u1ecbch\u1ecdta ihe \u1ecd b\u1ee5la ka \u1ecb ga-eme aka g\u1ecb. Gaa na \u1ecbkwunye aka g\u1ecb aka, na otu n'ime ngwa. Gaa na \u1ecbch\u1ecdta ihe \u1ecd b\u1ee5la ka \u1ecb ga-eme aka g\u1ecb.\n\n3. Nyocha ihe \u1ecd b\u1ee5la: Biko gaa na \u1ecbch\u1ecdta ihe \u1ecd b\u1ee5la ka \u1ecb ga-eme. Gaa na \u1ecbn\u1ee5\u1ecdg\u1ee5 nke \u1ecbch\u1ecdta, na otu n'ime ngwa. Gaa na \u1ecbch\u1ecdta ihe \u1ecd b\u1ee5la ka \u1ecb ga-eme.\n\n4. Ch\u1ecd\u1ecd \u1ecdn\u1ee5: Biko gaa na \u1ecbch\u1ecdta ihe \u1ecd b\u1ee5la ka \u1ecb ga-eme. Gaa na \u1ecbn\u1ee5\u1ecdg\u1ee5 nke \u1ecbch\u1ecdta, na otu n'ime ngwa. Gaa na \u1ecbch\u1ecdta ihe \u1ecd b\u1ee5la ka \u1ecb ga-eme.\n\n5. Tinye aka: Biko tinye aka g\u1ecb na usoro. Gaa na \u1ecbch\u1ecdta ihe \u1ecd b\u1ee5la ka \u1ecb ga-eme aka g\u1ecb. Gaa na \u1ecbtinye aka g\u1ecb na usoro ka \u1ecb ga-eme aka g\u1ecb.\n\nNke a b\u1ee5 nd\u1ecb otu nke m ga-abanye. Biko h\u1ee5r\u1ee5 m any\u1ecbr\u1ecb g\u1ecb \u1ecbnweta aka g\u1ecb na \u1ecbga-eme"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 500,
+        "total_tokens": 611
+    }
+}

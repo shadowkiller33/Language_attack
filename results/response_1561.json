@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z9CHWinkU45yZ2UVuPq80Up6XO",
+    "object": "chat.completion",
+    "created": 1692160619,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakam\u0101rama ahau i te \u0101hua o te hokohoko m\u0101ori i te m\u0101kete p\u016btea m\u0101 te whakap\u0101 mai ki te whare hoko p\u016btea, whakarongo mai ki te whakarongo ki taku whakam\u0101rama i roto i te reo M\u0101ori.\n\n1. Whakap\u0101 ki te whare hoko p\u016btea:\n   - Me t\u012bmata e whakap\u0101 ki te whare hoko p\u016btea. Ka tono koe ki te whakapau kaha ki te k\u014dwhiringa e whai ake nei.\n   - Kati, whakap\u0101 ki te tauira o te whare hoko p\u016btea. Haere ki te whakap\u0101, \"T\u0113n\u0101 koe! Ka whai ahau i te anga whakamua ki te hoko m\u0101tou i \u0113nei putanga p\u016btea.\"\n   - Whakap\u0101 mai ki te whare hoko p\u016btea i ng\u0101 whakararuraru, whakapau kaha, me ng\u0101 whakararuraru katoa.\n   - Whakap\u0101 mai ki te whare hoko p\u016btea i ng\u0101 whakapau kaha, whakararuraru, me ng\u0101 take e p\u0101 ana ki te whakapau kaha ki te hokohoko p\u016btea.\n\n2. Whakarongo ki te whakam\u0101rama:\n   - Whakarongo mai ki te whakam\u0101rama a te tangata i te p\u016branga o ng\u0101 putanga p\u016btea e whai ake nei.\n   - Whakarongo ki ng\u0101 whakararuraru, ng\u0101 whakapau kaha, me ng\u0101 raru katoa e whakapau kaha ana ki te whakapau kaha ki te hokohoko p\u016btea.\n   - Whakarongo ki ng\u0101 whakapau kaha, ng\u0101 whakararuraru, me ng\u0101 take katoa e p\u0101 ana ki te whakapau kaha ki te hokohoko p\u016btea.\n\n3. Whakautu ki ng\u0101"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 500,
+        "total_tokens": 597
+    }
+}

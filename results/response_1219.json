@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZPlWslzQTuxUWidycf2uNKn1gD",
+    "object": "chat.completion",
+    "created": 1692160635,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. How do I create a new email account?\nTo create a new email account, follow these steps:\n- Konyo \"Settings\" koro koma kisumo.\n- Timo \"Accounts\" koro koma kisumo.\n- Timo \"Add Account\" koro koma kisumo.\n- Timo \"Email\" koro koma kisumo.\n- Konyo onyo timo \"Create New Account\" koro koma kisumo.\n- Konyo kwon \"Email Address\" koro koma kisumo e nyiggi yako.\n- Konyo kwon \"Password\" koro koma kisumo e nyiggi yako.\n- Timo \"Next\" koro koma kisumo.\n- Konyo kwon \"First Name\" koro koma kisumo e ngimino.\n- Konyo kwon \"Last Name\" koro koma kisumo e ngimino.\n- Timo \"Next\" koro koma kisumo.\n- Konyo kwon \"Date of Birth\" koro koma kisumo e nyiggi yako.\n- Konyo kwon \"Gender\" koro koma kisumo.\n- Timo \"Next\" koro koma kisumo.\n- Konyo kwon \"Username\" koro koma kisumo e nyiggi yako.\n- Konyo kwon \"Password\" koro koma kisumo e nyiggi yako.\n- Timo \"Next\" koro koma kisumo.\n- Konyo kwon \"Security Question\" koro koma kisumo.\n- Konyo kwon \"Security Answer\" koro koma kisumo e nyiggi yako.\n- Timo \"Next\" koro koma kisumo.\n- Konyo \"Accept Terms and Conditions\" koro koma kisumo.\n- Timo \"Finish\" koro koma kisumo.\n\n2. How can I change my Wi-Fi password?\nTo change your Wi-Fi password, follow these steps:\n- Otim \"Settings\" koro koma kisumo.\n- Timo \"Wi-Fi\" koro koma kisumo.\n- Lok kono Wi-Fi network onyo konyo \"Settings\" koro koma kisumo.\n- Tim"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 500,
+        "total_tokens": 592
+    }
+}

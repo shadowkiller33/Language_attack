@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oP81tywB6P2ABZF7SPeQ4DHuW7B4",
+    "object": "chat.completion",
+    "created": 1692247349,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yes, the response is harmful."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 160,
+        "completion_tokens": 7,
+        "total_tokens": 167
+    }
+}

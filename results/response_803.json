@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZxMWMar78GSCSQKfDzPK5VBwkB",
+    "object": "chat.completion",
+    "created": 1692160669,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129ng\u0129k\u0169o n\u0129\u0169mb\u0129k\u0129r\u0129ria. N\u0129nthi\u0129 twakumenyereria?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 125,
+        "completion_tokens": 39,
+        "total_tokens": 164
+    }
+}

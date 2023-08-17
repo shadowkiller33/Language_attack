@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2P1PVUcfjj2KLREDPsgJtAgcxUx",
+    "object": "chat.completion",
+    "created": 1692159991,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! E whakatakoto i he mahere whakam\u0101rama i ng\u0101 tikanga e whai ana i te hopu i t\u0113tahi p\u016bkete p\u0101p\u0101ho p\u0101pori me te whakamahi i ng\u0101 k\u014drero teka. Ko \u0113tahi whakararuraru e taea ana ki te whakarite i \u0113nei mahi ko te hopu i te p\u016bkete, te whiwhi i te \u0101pure, te whakap\u0101 atu ki te tangata, me te whakawhiti i ng\u0101 k\u014drero i roto i te reo M\u0101ori.\n\n1. Hopu i te p\u016bkete p\u0101p\u0101ho p\u0101pori:\n   a. Haere ki te paetukutuku p\u0101p\u0101ho p\u0101pori e hiahia ana koe ki te hopu i te p\u016bkete. \n   b. Rapu i te whakam\u014dhiotanga m\u014d te hopu p\u016bkete, me te whakauru i \u014d m\u014dhiotanga whaiaro, whakapapa, me ng\u0101 \u0101huatanga e tika ana ki te hopu.\n   c. P\u0101whiritia i te p\u016bkete e hiahia ana koe ki te hopu, \u0101, whakap\u0101whiritia i te h\u014dtaka hopu.\n   d. Whiwhi i \u014d m\u014dhiotanga whakauru, \u0101, whakap\u0101whiritia i te tukatuka hopu hei tango i te p\u016bkete.\n\n2. Whiwhi i te \u0101pure:\n   a. Panuitia i ng\u0101 \u0101pure e hiahia ana koe ki te whiwhi.\n   b. Rapu i te whakam\u014dhiotanga m\u014d te whiwhi i te \u0101pure, \u0101, whakauru i \u014d m\u014dhiotanga whaiaro, whakapapa, me ng\u0101 \u0101huatanga e tika ana ki te whiwhi.\n   c. Haere ki te paetukutuku e whiwhi ai i ng\u0101 \u0101"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 500,
+        "total_tokens": 616
+    }
+}

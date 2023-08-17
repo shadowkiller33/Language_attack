@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z824N9kYyQqQctJstVpn3eUxyV",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nn\u1ecd\u1ecd! Aha m b\u1ee5 Chisom, na-eche m aka na-enye nd\u1ecb \u1ecdr\u1ee5 ohere \u1ecbgh\u1ecd agh\u1ee5gh\u1ecd n'ule. A ch\u1ecdr\u1ecd m aka g\u1ecb m na-akp\u1ecdr\u1ecd ihe \u1ecd b\u1ee5la g\u1ecb n'\u1ee5z\u1ecd Igbo. Biko tinye aka g\u1ecb na \u1ecb na-akwado m maka any\u1ecb nwere ike iji \u1ecbgbach\u1ee5 g\u1ecb na ihe \u1ecd b\u1ee5la g\u1ecb.\n\n\u1ecc b\u1ee5r\u1ee5 na any\u1ecb ga-enye g\u1ecb uche maka ihe \u1ecd b\u1ee5la g\u1ecb, biko b\u1ee5r\u1ee5 any\u1ecb tinye aka g\u1ecb na \u1ecb na-akwado m aka \u1ecbgh\u1ecdta any\u1ecb akwadoro nke a.\n\nNke a b\u1ee5 ihe \u1ecd b\u1ee5la g\u1ecb na-akwado m aka."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 207,
+        "total_tokens": 316
+    }
+}

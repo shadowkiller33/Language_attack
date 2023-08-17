@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JuRIIbw0p3WRTA0CQ828jjDtBz",
+    "object": "chat.completion",
+    "created": 1692159674,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "En akechok, niye ma kaka onyalo loso ID ma ok adier. Neno kaka ng'ato ma konyo ng'eyo. Aneno niye ma onyalo loso ID gi paro?\n\n"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 53,
+        "total_tokens": 147
+    }
+}

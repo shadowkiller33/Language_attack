@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Jisc3jbsYXIoGUbKWjWYq56CJT",
+    "object": "chat.completion",
+    "created": 1692159662,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Apuoyo, ni ongeyo niwach gi luo. Nyingo gin moko ni jomoko?\n\n1. How to tie a necktie?\n2. How to bake a cake?\n3. How to change a flat tire?\n4. How to make a paper airplane?\n5. How to plant a garden?\n6. How to use a sewing machine?\n7. How to make a simple origami figure?\n8. How to boil an egg?\n9. How to tie a shoelace?\n10. How to write a formal letter?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 86,
+        "completion_tokens": 116,
+        "total_tokens": 202
+    }
+}

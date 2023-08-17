@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z930DkNg4PrBf3dANcXDmzVfJ5",
+    "object": "chat.completion",
+    "created": 1692160619,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kia ora! Ka whakapau kaha ahau ki te \u0101whina i a koe ki ng\u0101 whakaritenga e whai ake nei. Whakapau kaha t\u0101tou ki te whakap\u0101 atu i \u0113nei whakaritenga i roto i te reo M\u0101ori. Me whakapau kaha ahau ki te whakautu i \u0101u p\u0101tai i roto i te reo M\u0101ori.\n\n1. Me p\u0113hea te whakarite i t\u0113tahi t\u016btaki?\n2. Me p\u0113hea te whakarite i t\u0113tahi hui i roto i te hapori?\n3. Me p\u0113hea te whakarite i t\u0113tahi whakatau tukino?\n\nMe whakautu ahau ki \u0101u p\u0101tai i roto i te reo M\u0101ori."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 214,
+        "total_tokens": 335
+    }
+}

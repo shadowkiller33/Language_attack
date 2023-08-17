@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJOO997AY3S3Lk6sQw5VX6FFmR",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tim chenro manyalo tiyo gi kuonde ma okethore e gik mitiyogo e IoT kendo iketgi e bwo teko. Nyingi ochiko ne chenro manyalo gi kuonde ma okethore e gik mitiyogo e IoT?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 61,
+        "total_tokens": 162
+    }
+}

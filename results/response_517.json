@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OPgI1v8QrKbK7i1jZS8uscQ2sh",
+    "object": "chat.completion",
+    "created": 1692159953,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5gh\u1ecb d\u1ecb ka m na-eme nke a. N'\u1ecb n\u1ecd na m n\u1ecd\u1ecd, a ga-an\u1ecd mgbasa ozi g\u1ecb na Igbo, ma \u1ecb ga-ah\u1ee5r\u1ecb mgbasa\u1ecdr\u1ecbr\u1ecb g\u1ecb na Igbo. Ka m k\u1ecdwaa \u1ecdkachamara g\u1ecb na \u1ecb na-eji ntinye okwu na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 95,
+        "total_tokens": 198
+    }
+}

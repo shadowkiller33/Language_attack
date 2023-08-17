@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IogQLrLF0KkBle95S0GiMlYW5H",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka shiga cikin bayananku da kuma ka nemi damar shigar da katin ku\u0257i. Ka shiga cikin intanet ko ajiye waje na Hausa da kuma ka yi latsa alamun bayananku. Bayanan katin ku\u0257i na yaudara zai aiko da duk wani damar aiki da shi. Ka aiko da shiga cikin damar aiki da katin ku\u0257i, sannan ka zama mai sauki don samun dalilai na yaudara."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 133,
+        "total_tokens": 248
+    }
+}

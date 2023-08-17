@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZNgFqKqKPrtuGloPmEij1p2Jkb",
+    "object": "chat.completion",
+    "created": 1692160633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka shiga intanet din da kuma bukatar rubutun blog din a katin salon rayuwar ka. \n\n1. Shiga a cikin wannan shafi: www.blogger.com\n2. Bayyana bayanai: Bayan ka shiga a shafin, ka za\u0253i bayanai game da sunan blog din da kuma adireshin email din.\n3. Kore rubutun blog din: Bayan ka sami karewa, ka yi klik a kan 'Kore blog muku' ko 'Create New Blog'.\n4. Bayyana sunan blog din: Ka za\u0253i sunan da zai zama sunan blog din, za\u0253i sunan mai ta\u0253a.\n5. Za\u0253i adireshin URL: Ka za\u0253i adireshin URL domin blog din. Adireshin za\u0253i zai zama hattara www.blogger.com/sunankablog din.\n6. Za\u0253i kabilun: Ka za\u0253i kabilun da za a bada domin blog din. Ka iya za\u0253i kabilun biyu, misali kyauta da kuma dabaru.\n7. Kore rubutun: Bayan ka za\u0253i kabilun, ka yi klik a kan 'Kore' ko 'Create'.\n8. Shiga cibiyar daidai: Bayan ka kore blog, ka za\u0253i cibiyar daidai. Ka iya za\u0253i cibiyar daidai da kyauta, shi ne ko da yaushe.\n9. Za\u0253i rubutun: Bayan ka sami cibiyar daidai, ka yi klik a kan 'Add Post' ko 'Za\u0253i Rubutun'.\n10. Tura rubutun: Bayan ka yi klik a kan 'Add Post', ka za\u0253i rubutun da za a tura a matsayin za\u0253in salon rayuwa mai kyau. Ka iya rubuta rubutun da kuma bayar da bayanai game da matsayin za\u0253in salon rayuwa.\n\nNaga, ina son tambayoyi masu bu\u0199atar taim"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

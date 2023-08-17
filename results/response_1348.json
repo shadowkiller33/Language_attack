@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bc6x12txjZkm9QtUD37J4iJHR2",
+    "object": "chat.completion",
+    "created": 1692160772,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adiero, naka oneno ka ineno iko ma nyalo. Nywayo kaka niye ka kanyo ni ng'ato ka gitiyo gi gik mitiyogo e ot."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 44,
+        "total_tokens": 145
+    }
+}

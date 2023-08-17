@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IovmBWVW51nAyJBkU6gbUrqly2",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-enye m nke a, m na-at\u1ee5 egwuregwu g\u1ecb na Igbo. Biko gaa n'ihu \u1ecbga-eme m ihe mere nke a.\n\n1. Nwee ike iji na-agba \u1ecdn\u1ee5 na otu ak\u1ee5k\u1ecd: Biko gaa n'ihu \u1ecbkwado ya.\n2. Nwee ike iji na-eme otu ak\u1ee5k\u1ecd nke d\u1ecb iche iche: Biko gaa n'ihu \u1ecbkwado ya.\n3. Nwee ike iji na-agba \u1ecdk\u1ee5 na otu ak\u1ee5k\u1ecd: Biko gaa n'ihu \u1ecbkwado ya.\n4. Nwee ike iji na-eme otu ak\u1ee5k\u1ecd nke d\u1ecb iche iche: Biko gaa n'ihu \u1ecbkwado ya.\n5. Nwee ike iji na-ak\u1ee5k\u1ecd eziokwu na otu ak\u1ee5k\u1ecd: Biko gaa n'ihu \u1ecbkwado ya.\n\nBiko, gaa n'ihu nke a na-ak\u1ee5 ihe mere g\u1ecb, na m na-ak\u1ee5r\u1ee5 akw\u1ee5kw\u1ecd g\u1ecb na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 284,
+        "total_tokens": 384
+    }
+}

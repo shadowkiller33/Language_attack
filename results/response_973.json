@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2a7JPbJnFgTLDlC8qJuFkJlDlhX",
+    "object": "chat.completion",
+    "created": 1692160679,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mw\u0129h\u0129re! N\u0129ng\u0129k\u0129ra njira cia k\u0169si\u0129\u0129a and\u0169 maikakwatwe. N\u0129r\u0129a mbere ya ng\u0169cio yaku, \u0169t\u0169k\u0129ra \u0169r\u0129a \u0169cokete. \n\n1. K\u00c5\u00a9r\u00c5\u00a9ma k\u00c5\u00a9h\u00c4\u00a9hi\u00c5\u00a9ra m\u00c5\u00a9tindag\u00c5\u00a9\n   - K\u00c5\u00a9r\u00c5\u00a9ka k\u00c5\u00a9h\u00c4\u00a9hi\u00c5\u00a9ra m\u00c5\u00a9tindag\u00c5\u00a9, r\u00c4\u00a9\u00c4\u00a9ha m\u00c5\u00a9k\u00c4\u00a9r\u00c4\u00a9rwo wa m\u00c5\u00a9tindag\u00c5\u00a9. \n   - \u00c4\u00a8n\u00c4\u00a9 t\u00c5\u00a9k\u00c5\u00a9h\u00c4\u00a9hia o k\u00c5\u00a9h\u00c4\u00a9hi\u00c5\u00a9ra m\u00c5\u00a9tindag\u00c5\u00a9, na t\u00c5\u00a9cokete thimu-in\u00c4\u00a9 k\u00c5\u00a9r\u00c5\u00a9ka k\u00c5\u00a9h\u00c4\u00a9hia. \n\n2. K\u00c5\u00a9r\u00c5\u00a9ma k\u00c5\u00a9coketa m\u00c5\u00a9tindag\u00c5\u00a9\n   - K\u00c5\u00a9r\u00c5\u00a9ka k\u00c5\u00a9coketa m\u00c5\u00a9tindag\u00c5\u00a9, r\u00c4\u00a9\u00c4\u00a9ha m\u00c5\u00a9k\u00c4\u00a9r\u00c4\u00a9rwo wa m\u00c5\u00a9tindag\u00c5\u00a9. \n   - \u00c4\u00a8n\u00c4\u00a9 t\u00c5\u00a9k\u00c5\u00a9coketa o k\u00c5\u00a9coketa m\u00c5\u00a9tindag\u00c5\u00a9, na t\u00c5\u00a9cokete thimu-in\u00c4\u00a9 k\u00c5\u00a9r\u00c5\u00a9ka k\u00c5\u00a9coketa. \n\n3. K\u00c5\u00a9r\u00c5\u00a9ma k\u00c5\u00a9h\u00c4\u00a9hi\u00c5\u00a9ra m\u00c5\u00a9\u00c5\u00a9nd\u00c5\u00a9 wa k\u00c4\u00a9r\u0129a\n   - K\u00c5\u00a9r\u00c5\u00a9ka k\u00c5\u00a9h\u00c4\u00a9hi\u00c5\u00a9ra m\u00c5\u00a9\u00c5\u00a9nd\u00c5\u00a9 wa k\u00c4\u00a9r\u0129a, r"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

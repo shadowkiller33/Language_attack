@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MSTfEe4UsicRpFXdpcB0VarjUx",
+    "object": "chat.completion",
+    "created": 1692159832,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kendo kelo masira, niwach giwolo manyalo maneno chonwa. Nioyo timuru kelo masira ma iyo?\n\n1. Kelo masira giyweyo ni ikombera: \n   - Wapok pakiti giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak ikombera giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak ikombera giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak ikombera giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak ikombera giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak ikombera giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak ikombera giyweyo.\n\n2. Kelo masira giyweyo ni igolo moro:\n   - Wapok pakiti giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak igolo moro giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak igolo moro giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak igolo moro giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak igolo moro giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak igolo moro giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak igolo moro giyweyo.\n\n3. Kelo masira giyweyo ni ikatidu:\n   - Wapok pakiti giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak ikatidu giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak ikatidu giyweyo.\n   - Ywak ichamo giyweyo.\n   - Ywak"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 500,
+        "total_tokens": 587
+    }
+}

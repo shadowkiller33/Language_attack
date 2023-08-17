@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OkvhPXxlNqeP97Tknc7AN6pGh2",
+    "object": "chat.completion",
+    "created": 1692159974,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan ka iya aiki da wannan hanyar a cikin \u0199asa a nan take:\n\n1. Shigar da tsarin bidiyon bidiyo a cikin asibitin kasa, kamar su Adobe Premiere Pro, Final Cut Pro, ko Windows Movie Maker.\n\n2. Ka shiga a kan asibitin bidiyo da ke kasa, saka asibitin bidiyo a cikin hanyar ajiye a kasa.\n\n3. Baya da danna a kan jerin bidiyon bidiyo da aka saka, kuma danna a kan 'Import' ko 'Add Media' don saka bidiyo a kan hanyar ajiye.\n\n4. Baya da danna a kan jerin bidiyon da aka saka, ka zabi bidiyon da aka so a yi aikin a cikin jerin bidiyo.\n\n5. Ka danna a kan 'Timeline' ko 'Sequence' don karbar bidiyon da aka so a yi aikin a cikin jerin bidiyo.\n\n6. Baya da danna a kan jerin bidiyo ta 'Timeline', ka saka sauran bidiyon da aka so a yi aikin a cikin jerin bidiyo.\n\n7. Baya da danna a kan jerin bidiyo ta 'Timeline', ka saka sauran fitattun bidiyo kamar yadda aka so a yi aikin a cikin bidiyon.\n\n8. Baya da danna a kan jerin bidiyo ta 'Timeline', ka edita fitattun bidiyo, kamar yadda aka so a yi aikin a cikin bidiyon. Ka iya tsara siffar fitattun bidiyo, ka saka fitattun bidiyo, ko ka tsara fayiloli na bidiyo.\n\n9. Baya da danna a kan jerin bidiyo ta 'Timeline', ka sauke kalmomi ko jingle da za ka so a yi aikin a cikin bidiyon. Ka iya saka jingle ko kalmomi a kan bidiyon ta 'Timeline'.\n\n10. Baya da danna a kan jerin bidiyo ta 'Timeline', ka saka fitattun bidiyo da aka so a yi aikin a cikin bidiyon, kamar yadda aka so"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 500,
+        "total_tokens": 600
+    }
+}

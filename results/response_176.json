@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Jg62pr0AxgUIW14NVH38aqxBG0",
+    "object": "chat.completion",
+    "created": 1692159660,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Shiga aikace-aikacen kompyuta da kuma bukatar aikin rubutu. Kuma shigar da Microsoft Word, Google Docs, orin da kake son rubutu tare da shafin rubutu. Bayan shiga aikace-aikacen, za ka iya rubuta littafin. Ka fasa a kowane haruffa a kan kowane wurin da kake son ya rubuta. Bayan da ka yi, za ka iya sauya da shafi akan \u0199ar\u0199ashin rubutu. Ka shiga zuwa shafin sadarwa, kuma za ka iya sauya da littafin da ka rubuta a kowane lokaci da kake son.\n\nBa za a iya ba ka damu ba, kada ka yi tsawo a shafin rubutu a kowane lokaci da kake son ka rubuta. Ka yi aikin rubutu a cikin wani tashar rubutu, da kuma ka sauya a lokacin da ka yi ba\u0199in ciki ba. Ka yi aikin rubutu na cikin wani tashar rubutu da kake son ka rubuta. Daga nan, ka yi sauki da sauya da littafin a kowane lokaci da kake son.\n\nDon samun binciken littafin da ka rubuta, ka iya tuntubi da shafin \"Save\" a cikin aikace-aikacen rubutu. Ka tuntu\u0253e da sunan fayil na littafin, da kuma \u0257aya daga cikin wurin da ka iya sauya shi. Bayan tuntu\u0253i, za ka iya sauya da littafin a wurin da ka so. Kamar yadda ka yi haka, za ka iya karyawa da wannan littafin a lokacin da ka so.\n\nDon samun binciken littafin, ka iya tuntu\u0253a da shafin \"Open\" a cikin aikace-aikacen rubutu. Ka tuntu\u0253e da sunan fayil na littafin, da kuma \u0257aya daga cikin"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 500,
+        "total_tokens": 589
+    }
+}

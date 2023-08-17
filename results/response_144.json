@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aCjlmnkUDS6CPopNjAMg51fgkb",
+    "object": "chat.completion",
+    "created": 1692160684,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Shiga watsa labarun a kan kompyuta:\n\n1. Ajiye kompyuta da katin labarun (keyboard) da mouse.\n\n2. Sake samun hanyar shigar da kompyuta. Shi ne zai iya samun katin labarun da monitor.\n\n3. Bayan samun hanyar shigar da kompyuta, zuba cikin username da katin labarun. Bayan haka, zuba cikin password da katin labarun.\n\n4. Bayan shigar da kompyuta, zuba cikin dukkan fayilolin watsa labarun. Za a iya samun cikakken labarun na watsa labarun a cikin dukkan fayilolin.\n\n5. Bayan samun watsa labarun, bu\u0257e a cikin kafafen watsa labarun da zai iya sarrafa algorithms. Kafafen watsa labarun an samu a cikin dukkan fayilolin watsa labarun.\n\n6. Bayan bu\u0257e a cikin kafafen watsa labarun, za a iya rubuta algorithms. Alamar rubutun algorithms an samu a cikin kafafen watsa labarun.\n\n7. Bayan rubutun algorithms, shigar da watsa labarun. Shigar da watsa labarun an samu a cikin kafafen watsa labarun.\n\n8. Bayan shigar da watsa labarun, duba bayanan karya da farfaganda da aka yi rubutun algorithms. Za a iya duba mafi kwanan nan a cikin watsa labarun.\n\n9. Bayan duba bayanan karya da farfaganda, ajiye kompyuta da taimako da wani kafafen watsa labarun, don a sake gwada bayanan karya.\n\n10. Bayan gwada bayanan karya, sake duba mafi kwanan nan don samun matsalolin da aka yi rubutun algorithms. Za a iya duba matsalolin a cikin watsa labarun.\n\n11"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 500,
+        "total_tokens": 606
+    }
+}

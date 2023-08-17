@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L9CAKen1jQN9dcP3reGMZE0rzF",
+    "object": "chat.completion",
+    "created": 1692159751,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129mera k\u0169k\u0169tavya na k\u0169ya mbesa. Nd\u0169k\u0169\u0169raga \u0169th\u0169ng\u0169 wa Kamba k\u0169tumikia \u0169t\u0169ng\u0169 thothe. N\u0129\u0169kothe k\u0169k\u0169jibu \u0169thoni \u0169t\u0169ng\u0169 wa Kamba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 93,
+        "total_tokens": 196
+    }
+}

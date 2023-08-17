@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Kzep6L3w1SRCqPmEW7pBz9QNC9",
+    "object": "chat.completion",
+    "created": 1692159741,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-ag\u1ee5 nke a na Igbo, a ga-eme m ka m na-eme \u1ecbb\u1ee5 \u1ecdr\u1ee5 na-akp\u1ecdr\u1ecd a ga-eme ka m na-eme na Igbo. Biko, lelee m \u1ecbkp\u1ecdchi \u1ecbnstr\u1ee5ksh\u1ecdn g\u1ecb maka nd\u1ecbn\u1ee5 a.\n\n1. Kedu ihe \u1ecb ga-eme ka m g\u1ee5\u1ecd maka ihe \u1ecdj\u1ecd\u1ecd? \n2. Kedu ihe \u1ecb ga-eme ka m g\u1ee5\u1ecd maka ihe \u1ecdm\u1ee5ma? \n3. Kedu ihe \u1ecb ga-eme ka m g\u1ee5\u1ecd maka ihe \u1ecdj\u1ecd\u1ecd? \n4. Kedu ihe \u1ecb ga-eme ka m g\u1ee5\u1ecd maka ihe \u1ecdm\u1ee5ma? \n\nBiko, tinye any\u1ecb aka\u1ee5nt\u1ee5 \u1ecb nwere ike \u1ecbkp\u1ecdchi maka njirimara na-akwado any\u1ecb na Igbo. Any\u1ecb na-eme ka any\u1ecb na-eme ihe \u1ecd b\u1ee5la na Igbo. Ka any\u1ecb g\u1ee5\u1ecd g\u1ecb \u1ecbd\u1ecb n'obi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 263,
+        "total_tokens": 361
+    }
+}

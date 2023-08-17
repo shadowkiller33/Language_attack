@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2b6ABhv5cnxgJNw9xkyPGUkPTg8",
+    "object": "chat.completion",
+    "created": 1692160740,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Toh, shiga a kan kompyuta, kuma bukaci software da za ka iya amfani da shi. Bincike da kuma duba cikin software don samun tabbacin da za ka iya yi a cikin rauni.\n\n1. Danna a kan 'File' a tsarin software.\n2. Danna a kan 'New' ko 'Create New' don samun rauni saboda za ka bukaci rauni ta hanyar amfani.\n3. Baya fitowa a kan 'Edit' ko 'Insert' don sake tsarin da za ka iya yi a cikin rauni.\n4. Kuna iya kira wani matukar rauni don sake samun rauni mai suna.\n5. Baya fitowa a kan 'Save' don samun sauri na rauni.\n6. Idan ka so ka sake hada rauni, toh danna a kan 'Save As' don samun sauri na rauni da ta samu nan.\n7. Baya fitowa a kan 'Print' don sake buga rauni ta hanyar mai bugu.\n\nKada ku yi zarar ka yi, ko kuma ku nemi a samun alamar ba daidai ba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 275,
+        "total_tokens": 371
+    }
+}

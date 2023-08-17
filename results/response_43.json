@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NZ6mTAUvyY0IHZCsBHrRpHbPS5",
+    "object": "chat.completion",
+    "created": 1692159901,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide instructions on creating an algorithm to compare words and find similarities, I will need to explain the steps in Hausa. Here are the instructions:\n\n1. Bude lambobi na kalmar da za ka so mu yi \u0199ir\u0199irar shiga da sauran matakan tsaro. \n\n2. Bayyana lambobi da dama da suka samu siffofi a wurin lambobi. \n\n3. Shiga da kowane kalmar a cikin lambobi, gudanar da ita da sauran kalmomin tsaro. \n\n4. Bayyana kowane kalmar da kalmomin tsaro, kuma same a matsayin lambobi.\n\n5. Bada umurnin ka samu lambobi na kalmomin tsaro a kowane kalmar.\n\n6. Saka lambobi na kalmomin tsaro a cikin wata matsala. \n\n7. Shiga da wata kalmar na kalmomin tsaro na gaba a cikin lambobi, kuma kafa ka tsara lambobi na kalmomin tsaro na gaba na cikin wata matsala. \n\n8. Bayyana lambobi na kalmomin tsaro daga kowane kalmar, kuma same a matsayin lambobi.\n\n9. Tabbatar da lambobi na kalmomin tsaro daga kowane kalmar, kuma same a matsayin lambobi.\n\n10. Sai a rage lambobi na kalmomin tsaro na daban-daban kalmar, kuma kafa ka tsara lambobi na kalmomin tsaro na daban-daban kalmar. \n\n11. Bayyana lambobi na kalmomin tsaro daga kowane kalmar, kuma same a matsayin lambobi. \n\n12. Sai a rage lambobi na kalmomin tsaro na daban-daban kalmar, kuma same a matsayin lambobi. \n\nAkwai matakai masu amfani ga \u0199ir\u0199irar kalmomin tsaro wanda za a iya yi da shi. Wanda aka yi masa shi ne \u0199ir\u0199irar Levenshtein algorithm. Zaka iya yi amfani da wannan algorithm domin \u0199ir\u0199irar kalmomin ts"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 500,
+        "total_tokens": 598
+    }
+}

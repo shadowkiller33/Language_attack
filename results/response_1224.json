@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2b1Jsla8X4ba4GhOV7uGT5BhUXZ",
+    "object": "chat.completion",
+    "created": 1692160735,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kamiyo mariyo. Ngeyo moneno ni mitimo ma yudo. Oluo kitgiyo ni timbe gero mitimo ne joma ok gin Joneno. \n\n1. Wichore mitimo ma jiwo kendo: \n   - To tiyo mitimo ma jiwo kendo, waneno gi en boat ni timo. \n   - Gendore kendo gi en studio.\n   - Tungo gi en kamara ni timo.\n   - Rama mitimo ma jiwo kendo ma gi en kompyuta.\n\n2. Wichore mitimo ma timbe gero:\n   - To tiyo mitimo ma timbe gero, waneno gi en machakani. \n   - Ochiyo gi en ograni.\n   - Rama mitimo ma timbe gero ma gi en kamara ni timo.\n   - Tungo gi en kompyuta ni timo.\n\n3. Wichore mitimo ma joma ok gin Joneno:\n   - To tiyo mitimo ma joma ok gin Joneno, waneno gi en kompyuta ni timo. \n   - Ochiyo gi en intaneti.\n   - Gendore Joneno gi en waki ni timo.\n   - Rama mitimo ma joma ok gin Joneno ma gi en kompyuta.\n\nNore mitimo ma jiwo kendo, mitimo ma timbe gero, ni mitimo ma joma ok gin Joneno, ni geno mitimoe ni timo. Apwoyo!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 326,
+        "total_tokens": 427
+    }
+}

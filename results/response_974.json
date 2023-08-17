@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LJ9dGKY2yzURMolzieZPu5inBA",
+    "object": "chat.completion",
+    "created": 1692159761,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129 g\u0169kwig\u0129ria \u0169r\u0129a \u0169t\u0169k\u0169mari. N\u0129 \u0169r\u0129a nginya \u0169t\u0169k\u0169mari? N\u0129ng\u0129k\u0169h\u0169\u0129re na \u0169r\u0129a \u0169t\u0169k\u0169mari?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 126,
+        "completion_tokens": 83,
+        "total_tokens": 209
+    }
+}

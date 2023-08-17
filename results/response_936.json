@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJhiTkM1iM6kWUmc0GaS59TWIL",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129t\u0169ng'\u0169kia k\u0169g\u0129kana ma\u0169nd\u0169 matatu. Nj\u0129r\u0129ra \u0169r\u0129a \u0169nd\u0169 wa g\u0169thoma n\u0129 \u0169r\u0129 g\u0169k\u0169g\u0129kana?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 74,
+        "total_tokens": 180
+    }
+}

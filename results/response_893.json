@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PKYms5zv01zpv6KGhnpRNji0xE",
+    "object": "chat.completion",
+    "created": 1692160010,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ehe, nd\u0129ng\u0129 ni\u0129k\u0129a k\u0169m\u0169tavya ma\u0169nd\u0169 ala \u0169kwendaa k\u0169manya \u0129\u0169l\u0169 wa sim\u0169. N\u0129k\u0129t\u0169m\u0129a k\u0169g\u0129ra \u0169\u0169nd\u0169 \u0169k\u0129r\u0129kane, na n\u0129k\u0129r\u0129kane \u0169\u0169nd\u0169 wak\u0169menya. N\u0129kar\u0129kane i\u0169voo wak\u0169menya?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 139,
+        "total_tokens": 288
+    }
+}

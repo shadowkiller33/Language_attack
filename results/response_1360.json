@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSDUq6cjSnKwz6vBAROFznmFUv",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "En kaka, nitie ka marach, adwaro ni neno ma kiketo kendo chik ma ok chwalre. Nitie keto ngima jowuoth e chandruok. Ka gima kong'ani?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 53,
+        "total_tokens": 155
+    }
+}

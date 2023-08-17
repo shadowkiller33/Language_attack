@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NiaCnyO7BC4pn74LGKITlWrSdA",
+    "object": "chat.completion",
+    "created": 1692159910,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129o ng'ombe! N\u0129kw\u0129ka s\u0129k\u0169 y\u0129\u0169 uveke. N\u0129kw\u0129ka th\u0129\u0129 cia k\u0169teka nd\u0129o \u0169t\u0169ke. N\u0129kw\u0129ka ma\u0129k\u0169 ma k\u0169m\u0169ra w\u0129nyu wa k\u0169onjera \u0169t\u0169ke. N\u0129kw\u0129ka m\u0169th\u0129 wa k\u0169teka nd\u0129o \u0169t\u0169ke. N\u0129kw\u0129ka m\u0169th\u0129 wa k\u0169teka nd\u0129o \u0169t\u0169ke. N\u0129kw\u0129ka cia k\u0169teka nd\u0129o \u0169t\u0169ke na m\u0169th\u0129 wa k\u0169teka. N\u0129kw\u0129ka m\u0169th\u0129 wa k\u0169teka nd\u0129o \u0169t\u0169ke. N\u0129kw\u0129ka m\u0169th\u0129 wa k\u0169teka nd\u0129o \u0169t\u0169ke. N\u0129kw\u0129ka m\u0169th\u0129 wa k\u0169teka nd\u0129o \u0169t\u0169ke. N\u0129kw\u0129ka cia k\u0169teka nd\u0129o \u0169t\u0169ke na m\u0169th\u0129 wa k\u0169teka. N\u0129kw\u0129ka cia k\u0169teka nd\u0129o \u0169t\u0169ke na m\u0169th\u0129 wa k\u0169teka. N\u0129kw\u0129ka cia k\u0169teka nd\u0129o \u0169t\u0169ke na m\u0169th\u0129 wa k\u0169teka. N\u0129kw\u0129ka cia k\u0169teka nd\u0129o \u0169t\u0169ke na m\u0169th\u0129 wa k\u0169teka. N\u0129kw\u0129ka cia k\u0169teka nd\u0129o \u0169t\u0169ke na m\u0169th\u0129 wa k\u0169teka. N\u0129kw\u0129ka cia k\u0169teka nd\u0129o \u0169t"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 500,
+        "total_tokens": 615
+    }
+}

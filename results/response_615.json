@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OTiXlYyRfIt3qUEE5Axwbcv0Cx",
+    "object": "chat.completion",
+    "created": 1692159957,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Apa wong bisa ngumumake saham lan ngerti carane ngolah regane?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 21,
+        "total_tokens": 114
+    }
+}

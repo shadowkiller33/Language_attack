@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bwu2x3PtLVRAMiPop8s3GjL07s",
+    "object": "chat.completion",
+    "created": 1692160792,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129we na m\u0169tavi wa k\u0169g\u0169kanya, na nd\u0129k\u0169ga m\u0169k\u0169y\u0169 kwa m\u0169thenya wa \u0169r\u0129\u0169re.  \n\n1. K\u0169g\u0169ka ndeke: \n   - H\u0129ka ndeke k\u0169r\u0169ng\u0169 m\u0169t\u0169ni wa m\u0169thenya.\n   - H\u0129ka ndeke m\u0169thenya wa \u0169r\u0129\u0169re.\n   - T\u0169n\u0129 m\u0169thenya wa \u0169r\u0129\u0169re, \u0169thek\u0129te m\u0169thenya wa ndeke.\n   - H\u0129ka ndeke k\u0169r\u0169ng\u0169 m\u0169t\u0169ni wa m\u0169thenya wa ndeke.\n   - T\u0169n\u0129 m\u0169thenya wa ndeke, \u0169thek\u0129te m\u0169thenya wa \u0169r\u0129\u0169re.\n\n2. K\u0169kanya kwananga mwako:\n   - H\u0129ka nkunga wa kwananga mwako.\n   - \u0168thek\u0129te nkunga wa kwananga mwako.\n   - T\u0169n\u0129 nkunga wa kwananga mwako, \u0169thek\u0129te kwananga mwako.\n\nNg\u0129k\u0169k\u0169ga na \u0169horo wako. W\u0129nand\u0129\u0169ka na ma\u0169nd\u0169 ma k\u0169g\u0169kanya ndeke na k\u0169kanya kwananga mwako?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 376,
+        "total_tokens": 486
+    }
+}

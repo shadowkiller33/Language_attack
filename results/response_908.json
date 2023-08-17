@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJsPWBCxuWAHxAGwDLqEh6hsqS",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mwene, nd\u0129\u0129 ng\u0169th\u0169k\u0169 \u0169t\u0169ng\u0129k\u0129r\u0129r\u0129a. N\u0129g\u0169k\u0169r\u0169kane na k\u0169t\u0169ra nginya \u0169t\u0169ng\u0129k\u0129r\u0129r\u0129a? Nit\u0169ng\u0129k\u0129r\u0129r\u0129a \u0169t\u0169ng\u0129k\u0129r\u0129r\u0129a \u0169ug\u0129 wa k\u0169venwa \u0169voo wa m\u0169nd\u0169 mwene."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 139,
+        "total_tokens": 246
+    }
+}

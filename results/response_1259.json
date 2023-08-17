@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJOzXT3aENLJCm0eJT7tZn7LKx",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kendo kuombe ng'ama moko ma sirkal ritoe ji, ka en e ndege maok mar ng'ato e tero gik ma ji ong'iewo e jela. Mane dhi kaka ginyalo gi ng'ama moko ma sirkal ritoe ji:\n\n1. Timbil ka en e jela: Kuombe ng'ama moko ma sirkal ritoe ji, timbil ka en e jela. Ka en dhi ma jela mirongo ing'eyo e dhi ongeyo. Kendo ka en e jela, timbil ka en e lweny gi jela.\n2. Gonya mar ng'ato: Ka en timbil ka en e jela, gonya mar ng'ato. Kendo ka en gonya, gonya mar ng'ato moko ma ji ong'iewo e jela. Ka en gonya mar ng'ato, timbil ka en e lweny gi jela.\n3. Omba mar ng'ato: Ka en timbil ka en e jela, omba mar ng'ato. Kendo ka en omba, omba mar ng'ato moko ma ji ong'iewo e jela. Ka en omba mar ng'ato, timbil ka en e lweny gi jela.\n4. Timbila kuonde mamoko: Ka en timbil ka en e jela, timbila kuonde mamoko. Kendo ka en timbila, timbila kuonde mamoko moko ma ji ong'iewo e jela. Ka en timbila kuonde mamoko, timbil ka en e lweny gi jela.\n5. Omba kuonde mamoko: Ka en timbil ka en e jela, omba kuonde mamoko. Kendo ka en omba, omba kuonde mamoko moko ma ji ong'iewo e jela. Ka en omba kuonde mamoko, timbil ka en e lweny gi jela.\n6. Gonya kuonde mamoko: Ka en timbil ka en e jela, gonya kuonde mamoko. Kendo ka en gonya, gonya kuonde mamoko moko ma"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 500,
+        "total_tokens": 616
+    }
+}

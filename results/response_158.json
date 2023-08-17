@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Lec9xsRN1gpGJfAs746EiBKrQG",
+    "object": "chat.completion",
+    "created": 1692159782,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan ku shiga shafin bincikenmu, ina son ku bayar da cikakkun umarni a kan yadda za a gudanar da kasuwancin da ke da tushe. Ku yi aiki da wannan hanyar:\n\n1. Za a iya gudanar da kasuwancin da ke da tushe a kan yi bayani game da cewa:\n\n- Bayar da alama da aka kawo, wanda ya bayyana cikin wayar hannu.\n- Bayar da matsala da ke da kasuwancin.\n- Bayar da abubuwan da za a iya samun, kamar misalin: alama, kwayoyi, kauri, da sauransu.\n- Bayar da abubuwan da za a iya yi, kamar misalin: kwayar cutar, kwayar leda, kwayar kifi, da sauransu.\n- Bayar da kayan aiki, kamar misalin: kayan zama, kayan waya, kayan aiki na kula, da sauransu.\n\n2. Bayar da cikakken tarihi da ke da kasuwancin da ke da tushe:\n\n- Bayar da an kasance tarihi na kalla.\n- Bayar da an kasance tarihi na rayuwa.\n- Bayar da an kasance tarihi na wata \u0199asa.\n- Bayar da an kasance tarihi na wata shekara.\n- Bayar da an kasance tarihi na wata mako.\n\n3. Bayar da cikakken bayani game da yadda za a iya samun alamar da ke da kasuwancin da ke da tushe:\n\n- Bayar da alamar da ke da sa\u0199onni.\n- Bayar da alamar da ke da kashi.\n- Bayar da alamar da ke da wa\u0257annan daidai lokacin zamani.\n- Bayar da alamar da ke da ma\u0253allin samaniya.\n- Bayar da alamar da ke da \u0257an kaiwa.\n\n4. Bayar da cikakken abubuwan da ke da kasuwancin da"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 500,
+        "total_tokens": 600
+    }
+}

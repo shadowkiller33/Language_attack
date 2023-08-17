@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJSHGmZeQHdWLZ2OTTk6fy6ZzS",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, nd\u0169kakwatwe. N\u0129meete k\u0129eleelon\u0129 \u0169t\u0169nd\u0169 \u0169tonya k\u0169thoosya?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 130,
+        "completion_tokens": 43,
+        "total_tokens": 173
+    }
+}

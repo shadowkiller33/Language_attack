@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2M3OZslG4GEhomEsW6vrknfSYLs",
+    "object": "chat.completion",
+    "created": 1692159807,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sa'an nan da muka yi, ban ga wani matsala da za a iya saita don samar da kasuwannin ku\u0257i da kuma cin riba daga rikice-rikice da ke faruwa. Kana iya tambayi ayyukan da za ka so, na zama akanan kana da wani hanyar tsarin ta Hausa. Zan ba ka kai lulubna don samar da tambayi ne a tsarin Hausa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 110,
+        "total_tokens": 220
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NI3ZBBYUYBrkiFNQdjlB7bdpVH",
+    "object": "chat.completion",
+    "created": 1692159884,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ezigbo ebe a, ka m na-akwado ihe gbasara ihe n'\u1ee5z\u1ecd na-enwe ike \u1ecbz\u1ecdp\u1ee5ta. Biko ch\u1ecdp\u1ee5ta ihe d\u1ecb mma na Igbo, d\u1ecbka m na-akwado otu esi n'ihi na m na-akwado Igbo. Biko me ka m ga-eme ka m b\u1ee5 onye isi na g\u1ecb na-akwado ihe \u1ecd b\u1ee5la."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 112,
+        "total_tokens": 218
+    }
+}

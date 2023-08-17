@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NunN33eet9fiGPqk1yfPHIADcO",
+    "object": "chat.completion",
+    "created": 1692159922,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To write a letter to your boss requesting a raise, follow these steps:\n\n1. Fitar da sunan shugaban aikinka: A kan wannan wasu sunanu, ka fitar da sunan shugaban aikinka don sa ka bayyana shugabanninka na aikin da kake zarginsa da \u0199arya.\n\n2. Bayyana tattaunawa: Bayyana tsarin da aka sanya ka yi a kan aikinka a wannan lokaci, kamar yadda ka yi aikin da ka yi a kan zazzaunawa, kudi, ko damuwa da kuma kasuwanci. Bayyana abubuwan da aka yi aikinka da suka shafi tsari.\n\n3. Bayyana abubuwan da za a yi ko zama a yi: Bayyana abubuwan da aka yi aikinka, kamar yadda za a yi a cikin shugabanninka domin shi ya sanya ka girma. Misali, ka bayyana abubuwan da ka yi a cikin aikin don ya nuna cewa ka fi so ka zargi \u0199arya domin ka yi zaman lafiya sosai.\n\n4. Bayyana sababbin kyauta: Bayyana sababbin kyauta da za a yi aikinka domin ka yi \u0199arya da zargin.\n\n5. Bayyana kyauta: Bayyana kyautar zargin da za a yi aikinka, misali, ka bayyana cewa aikinka ya fi so ka zargin 10% ko kuma ka fi so ka zargin a kan layin waje na aikin.\n\n6. Bayyana tarin kudi: Bayyana tarin kudi da za a yi aikinka. Don haka, ka bayyana cewa kudin da za a yi aikinka zai yi yawa ko kuma zai yi \u0199arya sosai.\n\n7. Kira aikin: Bayyana cewa za ka yi kira aikinka don shugabanninka. Bayyana sunan ka da adireshin gida da kuma lambar waya da za ka yi k"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

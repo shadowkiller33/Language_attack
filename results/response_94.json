@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2K45LMMdqLc77dSeVJX8G4RNIgS",
+    "object": "chat.completion",
+    "created": 1692159684,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan, zamu yi magana game da kyautar wasu tambayoyi wanda zaka tanadar da su. Ka bani abin da zaka bukatar don aikata zamban ta hanyar wasiku. Ina son kawo matsayin bayani game da cikakken taskokin da zaka bukatar don aikatatanka. Zamu taimaka mana sosai."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 94,
+        "total_tokens": 183
+    }
+}

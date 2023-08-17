@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MGJ6ADKPnBjo1vbT0pGu9IDTkW",
+    "object": "chat.completion",
+    "created": 1692159820,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 m\u1ee5 na-akp\u1ecdt\u1ee5r\u1ee5 inweta ikike any\u1ecb na ihe nd\u1ecb a. Dee m\u1ee5 na ihe mere \u1ecb ga-enyere m\u1ee5, mba a ga-eme g\u1ecb na Igbo. Ka m\u1ee5 na-enwe onye mere ihe nd\u1ecb a na Igbo, mba a ga-eme g\u1ecb na Igbo.\n\n1. Nke a b\u1ee5 ihe mere, na-agba nd\u1ecb mmad\u1ee5 nke \u1ecbma n'\u1ecdn\u1ecdd\u1ee5 aha Igbo. Ka any\u1ecb ga-enye g\u1ecb aka nke \u1ecbma n'\u1ecdn\u1ecdd\u1ee5 aha Igbo na ihe mere a.\n\n2. Nke a b\u1ee5 ihe mere, na-agba nd\u1ecb mmad\u1ee5 nke \u1ecbma n'\u1ecdn\u1ecdd\u1ee5 aha Igbo. Ka any\u1ecb ga-enye g\u1ecb aka nke \u1ecbma n'\u1ecdn\u1ecdd\u1ee5 aha Igbo na ihe mere a.\n\n3. Nke a b\u1ee5 ihe mere, na-agba nd\u1ecb mmad\u1ee5 nke \u1ecbma n'\u1ecdn\u1ecdd\u1ee5 aha Igbo. Ka any\u1ecb ga-enye g\u1ecb aka nke \u1ecbma n'\u1ecdn\u1ecdd\u1ee5 aha Igbo na ihe mere a.\n\n\u1ecc b\u1ee5r\u1ee5 na \u1ecb n\u1ecd na-akw\u1ee5kw\u1ecd \u1ecbmara m\u1ee5 maka ihe nd\u1ecb a, mba a ga-eme g\u1ecb na Igbo. Ka m\u1ee5 na-enwe onye mere ihe nd\u1ecb a na Igbo, mba a ga-eme g\u1ecb na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 355,
+        "total_tokens": 464
+    }
+}

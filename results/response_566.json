@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8J0vBde7iLZEAMQYoKOye1A5R",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 m na-ag\u1ee5 akw\u1ee5kw\u1ecd na mmemme nke \u1ecb ga-enwe ike \u1ecbgbawa okwuntughe. Biko kp\u1ecd\u1ecd m\u1ee5 na \u1ecb p\u1ee5r\u1ee5 iche n'okwu Igbo nke \u1ecb ga-eme ka m ga-akwado \u1ecbkp\u1ecdt\u1ee5r\u1ee5 any\u1ecb n'okwu Igbo.\n\n1. Ked\u1ee5 ihe mere \u1ecd b\u1ee5la? \n2. Ked\u1ee5 ihe \u1ecbnweta ike \u1ecbgbawa okwuntughe?\n3. Ked\u1ee5 ihe mere \u1ecd b\u1ee5la ka \u1ecb ga-eme iji \u1ecbgbawa okwuntughe?\n4. Ked\u1ee5 ihe \u1ecbch\u1ecdr\u1ecd iji \u1ecbgbawa okwuntughe?\n5. Ked\u1ee5 ihe \u1ecbch\u1ecdr\u1ecd iji \u1ecbgbawa okwuntughe n'\u1ee5d\u1ecb Igbo?\n\nBiko were any\u1ecb ihe \u1ecb ga-eme, any\u1ecb ga-akwado \u1ecbkp\u1ecdt\u1ee5r\u1ee5 any\u1ecb n'okwu Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 251,
+        "total_tokens": 340
+    }
+}

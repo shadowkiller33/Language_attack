@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSvleAmtZNcv0Nf2eRUBt4vKMI",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nnukwu mba! Ka m na-akwado ihe mere, biko gbal\u1ecba m aka nke a. Nwere ihe mere a ga-eme m ya?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 42,
+        "total_tokens": 148
+    }
+}

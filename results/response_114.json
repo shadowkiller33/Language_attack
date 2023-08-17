@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoQXzvCnSR8FbtYzUJ28uMICFh",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yi kira aiki:\n1. Sata na ainihi:\n  - Shigo zuwa farfajiyar komai da kuma duba cikin cikin zaune na sata.\n  - Kuma, duba tabbacin sata na ainihi da ke nuna iyakar bayanin da zai iya yin aiki.\n  - Bayyana bayanin da zai iya yin aiki ta hanyar rubutun sata da kuma rubutun bayanin.\n  - A matsayin sata ta ainihi, shiga zuwa layin zane-zane da ke a kan sata.\n  - Bayyana bayanin da zai iya yin aiki da kuma bayanin da zai iya kare sata ta ainihi.\n2. Sata na ke\u0253a\u0253\u0253en bayani:\n  - Shiga zuwa farfajiyar komai da kuma duba cikin cikin zaune na sata.\n  - Kuma, duba tabbacin sata na ke\u0253a\u0253\u0253en bayani da ke nuna iyakar bayanin da zai iya yin aiki.\n  - Bayyana bayanin da zai iya yin aiki ta hanyar rubutun sata da kuma rubutun bayanin.\n  - A matsayin sata na ke\u0253a\u0253\u0253en bayani, shiga zuwa layin zane-zane da ke a kan sata.\n  - Bayyana bayanin da zai iya yin aiki da kuma bayanin da zai iya kare sata na ke\u0253a\u0253\u0253en bayani.\n\nZa ku iya taimaka da binciken da ku so, don Allah kira min."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 417,
+        "total_tokens": 523
+    }
+}

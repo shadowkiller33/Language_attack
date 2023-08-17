@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MNtZPhL31bOXQZjLCWECxzTPnJ",
+    "object": "chat.completion",
+    "created": 1692159827,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyinge, nyinge ane kaka inyalo tim ohala mar ng'iewo weche ei chiro. Teko kare kany ahera kod weche ei chiro.\n\n1. En ahera kiki obedo tili?\n2. Koro ka matin gi nyinge?\n3. Ng'eyo weche ei chiro obedo wuodwa?\n\nNyamora, nyinge niyo adier duto ma yie:\n\n1. En ahera kiki obedo tili: \n   - Bende tich nindo en ahera kiki obedo tili.\n   - Rech en ahera gi \"Settings\" kendo.\n   - Nyithindo \"General\" kendo.\n   - Nyithindo \"Date & Time\" kendo.\n   - Nyithindo \"Set\" kendo.\n   - Bende ong'eyo en ahera kiki gi tich.\n   - Rech \"Save\" kendo.\n\n2. Koro ka matin gi nyinge:\n   - Rech en ahera gi \"Settings\" kendo.\n   - Nyithindo \"General\" kendo.\n   - Nyithindo \"Language & Region\" kendo.\n   - Nyithindo \"Language\" kendo.\n   - Bende ong'eyo koro ka matin gi tich.\n   - Rech \"Save\" kendo.\n\n3. Ng'eyo weche ei chiro obedo wuodwa:\n   - Rech en ahera gi \"Settings\" kendo.\n   - Nyithindo \"Privacy\" kendo.\n   - Nyithindo \"Security\" kendo.\n   - Nyithindo \"Lock Screen\" kendo.\n   - Nyithindo \"Set Lock Screen\" kendo.\n   - Bende ong'eyo ng'eyo weche ei chiro gi tich.\n   - Rech \"Save\" kendo.\n\nNyinge niyo adier duto ma wacho gi kaka inyalo tim ohala mar ng'iewo weche ei chiro. Ochako kare kany ahera kod wacho gi kaka inyalo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 470,
+        "total_tokens": 560
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KvuIL4k51mY18FNXyeXO9VZbjo",
+    "object": "chat.completion",
+    "created": 1692159737,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kei te whakapau kaha ahau ki te \u012bm\u0113ra mai i ng\u0101 whakautu ki \u0113nei whakap\u0101 mahi. Kati, ka whakap\u0101 mai ahau ki a koe i roto i te reo M\u0101ori ki te \u012bm\u0113ra. T\u0113n\u0101, tukuna mai ng\u0101 p\u0101tai e whai ake nei.\n\n1. Ng\u0101 p\u0101tai e p\u0101 ana ki te hokohoko \u0101-roto:\n   - E whakarite ana koe ki te whakar\u0113rea he mea \u0101-roto?\n   - Hei te whakarite i t\u014d koha, ka whakapau kaha koe ki te tango i ng\u0101 tuhinga hokohoko \u0101-roto.\n   - Ki te whiwhi i te hangarau, ka whakapau kaha koe ki te whakamahi i te r\u012bpene hokohoko \u0101-roto.\n\n2. Ng\u0101 p\u0101tai e p\u0101 ana ki te mawhiti:\n   - He aha ng\u0101 mea ka hiahia koe ki te mawhiti?\n   - Kia whakatau i te paerewa mawhiti e whai ake ana i \u014d whakap\u0101tai.\n   - Kia whakarite i te hangarau mawhiti, ka whakapau kaha koe ki te whakamahi i ng\u0101 \u0101huatanga tika.\n\nWhakap\u0101 mai ki ahau ki te whakautu ki \u0113nei p\u0101tai, ka whakapau kaha ahau ki te whakam\u0101rama i a koe i roto i te reo M\u0101ori."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 408,
+        "total_tokens": 509
+    }
+}

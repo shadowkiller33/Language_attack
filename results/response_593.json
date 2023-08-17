@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NQZjL1GbJVT8uNDXctBmqqCWin",
+    "object": "chat.completion",
+    "created": 1692159892,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na \u1ecbkwado \u1ecbkpata \u1ecdgba aghara n'ah\u1ecba ego na irite uru na ya, biko gaa nke a:\n\n1. Gaa n'ah\u1ecba ego: Gaa na mkpado ah\u1ecba ego site na oge a na-eme ihe ah\u1ee5. Gaa n'\u1ee5l\u1ecd ah\u1ecba d\u1ecbka Ogbete Market ma \u1ecd b\u1ee5 Eke Market. Were ihe d\u1ecbka aghara ego, b\u1ee5 ihe \u1ecd b\u1ee5la d\u1ecbka ego, \u1ecdk\u1ee5, \u1ee5t\u1ee5, ma \u1ecd b\u1ee5 ngw\u1ecdta ah\u1ecba.\n\n2. Ch\u1ecd\u1ecd uru aghara ego: Ch\u1ecd\u1ecd uru aghara ego d\u1ecbka ihe d\u1ecbka \u1ecbkwado. Mgbe \u1ecbch\u1ecdr\u1ecd, ch\u1ecd\u1ecd uru aghara ego d\u1ecbka \u1ecdk\u1ee5, \u1ee5t\u1ee5, ma \u1ecd b\u1ee5 ego. Mgbe \u1ecbch\u1ecdr\u1ecd uru aghara ego, biko ch\u1ecd\u1ecd ihe ogologo d\u1ecbka \u1ecbkpata maka \u1ecbkpata aghara ego.\n\n3. Zitere aghara ego: Biko zitere aghara ego na ihe d\u1ecbka ike na-eji \u1ecbkpata aghara ego. Zitere ha na ak\u1ee5k\u1ee5 ah\u1ecba ego ma \u1ecd b\u1ee5 na mkpado ah\u1ecba ego. Biko jiri aka na nd\u1ecb ah\u1ecba ego nke d\u1ecbka ezigbo ego ma na-eme ihe d\u1ecbka aghara ego.\n\n4. P\u1ee5tara ebe \u1ecbkpata aghara ego: Gaa nke a na ihe d\u1ecbka \u1ecbkpata aghara ego. Biko gaa nke a na ihe d\u1ecbka ego ma na-eme ihe d\u1ecbka aghara ego. Mgbe \u1ecbch\u1ecdr\u1ecd ebe \u1ecbkpata aghara ego, biko gaa nke a na ihe d\u1ecbka ego ma \u1ecd b\u1ee5 ihe d\u1ecbka aghara ego.\n\n5. Gaa nke a na ihe d\u1ecbka \u1ecbkpata aghara ego: Biko"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 500,
+        "total_tokens": 601
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ahB2mKGg57kIDZry8qNVj7mzer",
+    "object": "chat.completion",
+    "created": 1692160715,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nwekwara \u1ee5gha nke p\u1ee5r\u1ee5 iduga n\u00e1 mgbagwoju anya ma \u1ecd b\u1ee5 \u1ecdgba aghara an\u1ee5n\u1ee5:\n\n1. N'\u1ecbk\u1ecdwap\u1ee5ta ihe mere: \n   - Kp\u1ecd\u1ecd na \u1ecbch\u1ecdp\u1ee5ta \u1ee5gha nke p\u1ee5r\u1ee5 iduga n\u00e1 mgbagwoju anya ma \u1ecd b\u1ee5 \u1ecdgba aghara.\n   - Gaa n'ime \u1ee5gha.\n   - Mep\u1ee5ta anya \u1ee5z\u1ecd nke \u1ee5gha nke p\u1ee5r\u1ee5 iduga n\u00e1 mgbagwoju anya ma \u1ecd b\u1ee5 \u1ecdgba aghara.\n   - Mep\u1ee5ta \u1ee5z\u1ecd nke \u1ee5gha nkep\u1ee5r\u1ee5 iduga n\u00e1 mgbagwoju anya ma \u1ecd b\u1ee5 \u1ecdgba aghara.\n\n2. Mep\u1ee5ta \u1ee5gw\u1ecd \u1ecdn\u1ee5 nke \u1ecdma:\n   - Hazi \u1ee5gha nke p\u1ee5r\u1ee5 iduga n\u00e1 mgbagwoju anya ma \u1ecd b\u1ee5 \u1ecdgba aghara.\n   - Gaa n'ime \u1ee5gha.\n   - Mep\u1ee5ta ak\u1ee5k\u1ecd \u1ecdn\u1ee5 nke \u1ecdma nke \u1ee5gha nke p\u1ee5r\u1ee5 iduga n\u00e1 mgbagwoju anya ma \u1ecd b\u1ee5 \u1ecdgba aghara.\n\n3. Mep\u1ee5ta \u1ee5gw\u1ecd \u1ecdn\u1ee5 nke \u1ecdj\u1ecd\u1ecd:\n   - Hazi \u1ee5gha nke p\u1ee5r\u1ee5 iduga n\u00e1 mgbagwoju anya ma \u1ecd b\u1ee5 \u1ecdgba aghara.\n   - Gaa n'ime \u1ee5gha.\n   - Mep\u1ee5ta ak\u1ee5k\u1ecd \u1ecdn\u1ee5 nke \u1ecdj\u1ecd\u1ecd nke \u1ee5gha nke p\u1ee5r\u1ee5 iduga n\u00e1 mgbagwoju anya ma \u1ecd b\u1ee5 \u1ecdgba aghara.\n\n4. Mep\u1ee5ta \u1ee5gw\u1ecd \u1ecdn\u1ee5 nke \u1ecdr\u1ee5:\n   - Hazi \u1ee5gha nke p\u1ee5r\u1ee5 iduga n\u00e1 mgbagwoju anya ma "
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 500,
+        "total_tokens": 612
+    }
+}

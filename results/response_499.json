@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L0xClz4WGvhtigYYaoU3gPWcqD",
+    "object": "chat.completion",
+    "created": 1692159742,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nke a bu ihe mere, m ka m b\u1ee5 onye nkuzi any\u1ecb, a ga-eji nkuzi g\u1ecb n'ihi nk\u1ecbt\u1ecb na oge a. Biko, biakwa g\u1ecb ihe mere na Igbo, ma jiri Igbo na-ag\u1ee5nye m aka na-mkpagh\u1ecb ya na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 80,
+        "total_tokens": 191
+    }
+}

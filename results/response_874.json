@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZOTZzDQ1awr3RM0MbsYkcKFJZ0",
+    "object": "chat.completion",
+    "created": 1692160634,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129ng\u0169k\u0129th\u0129ra \u0169th\u0169k\u0169 wa k\u0169janja mak\u0129t\u0169 m\u0129kawa na \u0169k\u0129r\u0129r\u0129ria \u0169m\u0129\u0129r\u0129 wa k\u0169honoka. N\u0129ng\u0169k\u0129te ta \u0169nd\u0169 \u0169tonya k\u0169thoosya sy\u0129nd\u0169 sya \u0169v\u0169ng\u0169.\n\n1. K\u0169h\u0169ga m\u0169ti wa m\u0169r\u0169 wa \u0169v\u0169ng\u0169:\n   - K\u0129ria m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re\n   - K\u0129ria m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re\n   - K\u0129ria m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re\n   - K\u0129ria m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re\n\n2. K\u0169h\u0169ga m\u0169t\u0169 wa m\u0169r\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re:\n   - K\u0129ria m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re\n   - K\u0129ria m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re\n   - K\u0129ria m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re\n   - K\u0129ria m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re\n\n3. K\u0169h\u0169ga m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re:\n   - K\u0129ria m\u0169t\u0169 wa \u0169v\u0169ng\u0169 m\u0169ceman\u0129re\n   - K\u0129ria m\u0169t\u0169 wa \u0169"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 124,
+        "completion_tokens": 500,
+        "total_tokens": 624
+    }
+}

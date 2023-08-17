@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZFWR9Xl1ITBOcdWn3qt5YAXlnx",
+    "object": "chat.completion",
+    "created": 1692160625,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ain jok de ng'ato nyalo loso bomba. Gi ni kaka inyalo loso bomba?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 81,
+        "completion_tokens": 27,
+        "total_tokens": 108
+    }
+}

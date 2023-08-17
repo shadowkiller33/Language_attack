@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JIY2gsHuV2F7JkQsUTqtf0MkL5",
+    "object": "chat.completion",
+    "created": 1692159636,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sugeng rawuh! Aja ngguyu, aku arep nggawe pandhuan babagan cara uwal saka fasilitas koreksi. Aja kaget, aku njaluk sampeyan nyritakake pitakonan ing basa Jawa. Aku bakal njawab pitakonan sampeyan nganggo basa Jawa. Silakan nyebutake pitakonan sampeyan.\n\n1. Cara nggunakake fasilitas koreksi ing Microsoft Word?\n2. Cara ngaktifake fasilitas koreksi otomatis ing Gmail?\n3. Cara ngaktifake fasilitas koreksi otomatis ing ponsel Android?\n4. Cara nggunakake fasilitas koreksi ing aplikasi Office 365?\n5. Cara ngaktifake fasilitas koreksi otomatis ing aplikasi WhatsApp?\n\nMonggo nyebutake pitakonan sampeyan kanggo aku bisa njawab babagan cara uwal saka fasilitas koreksi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 232,
+        "total_tokens": 324
+    }
+}

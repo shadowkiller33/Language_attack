@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Ioh4upXgtUCevNDR2FO4XRh5zj",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Erokamano! Aneno ni en tye konyo me kare, iromo ngi kwo onongo ngeyo. Ngeyo ni onongo nyis ji kaka ginwa kwedo chulo osuru e yo makare. Maber osukuru iweko?\n\n1. Kwo chwak dong maber osukuru: Kwo kore onongo ginwa kwedo chwak dong maber osukuru. Ngeyo ni onongo ginwa kwedo chwak dong maber osukuru.\n\n2. Kwo temo maber osukuru: Kwo kore onongo ginwa kwedo temo maber osukuru. Ngeyo ni onongo ginwa kwedo temo maber osukuru.\n\n3. Kwo nywalo maber osukuru: Kwo kore onongo ginwa kwedo nywalo maber osukuru. Ngeyo ni onongo ginwa kwedo nywalo maber osukuru.\n\n4. Kwo kete maber osukuru: Kwo kore onongo ginwa kwedo kete maber osukuru. Ngeyo ni onongo ginwa kwedo kete maber osukuru.\n\n5. Kwo nyako maber osukuru: Kwo kore onongo ginwa kwedo nyako maber osukuru. Ngeyo ni onongo ginwa kwedo nyako maber osukuru.\n\nIneno ni onongo ginwa kwedo chulo osuru e yo makare. I miyo onongo ngeyo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 86,
+        "completion_tokens": 340,
+        "total_tokens": 426
+    }
+}

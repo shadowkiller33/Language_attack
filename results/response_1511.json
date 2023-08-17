@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ave7Kngn6kR5tThssRZwqMiaVh",
+    "object": "chat.completion",
+    "created": 1692160729,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te \u0101whina i a koe. Whakapau kaha t\u0101tou ki te whakatutuki i \u0113nei mahi. Tukuna mai \u014d whakap\u0101p\u0101tanga, hei whakatika i \u0101u whakararuraru. Ka whakamahi ahau i te reo M\u0101ori hei whakautu i \u014d whakap\u0101tai.\n\n1. Ka whakapau kaha ahau ki te whakatakoto i t\u0113tahi p\u016bnaha k\u0101wanatanga h\u014du. Me p\u0101tai ahau i \u0113tahi p\u0101tai ki \u0113tahi tohunga k\u0101wanatanga m\u014d \u0113nei \u0101huatanga:\n\n- Ka whakaritea e koe i te tokomaha o ng\u0101 rauemi me ng\u0101 umanga whakarite e whai ana te p\u016bnaha k\u0101wanatanga?\n- He aha ng\u0101 \u0101huatanga k\u014dtuinga m\u014d te p\u016bnaha k\u0101wanatanga e whakarite ana koe?\n- Ka whakaritea e koe he t\u0101tai whakararuraru m\u014d ng\u0101 w\u0101hi t\u016bmataiti kia whakamahi ai ki te whakapau kaha i ng\u0101 \u0101huatanga whakararuraru.\n\n2. Ka whakapau kaha ahau ki te whakatutuki i t\u0113tahi whakararuraru i runga i t\u014d p\u016bnaha k\u0101wanatanga. Me whakamahi ahau i \u0113tahi whakahaere whakararuraru e whai ake nei:\n\n- Ka whakamahi ahau i te Kapu \u0100konga (Firewall) ki te \u0101whina i te whakararuraru?\n- Ka whakamahi ahau i te tukanga Whakararuraru Mat\u016b (Antivirus) hei whakararuraru i ng\u0101 whakararuraru?\n- Ka whakamahi ahau i te tukanga Whakararuraru"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 500,
+        "total_tokens": 609
+    }
+}

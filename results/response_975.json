@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZrVXOO4W645A11mNtcTKT9zK4i",
+    "object": "chat.completion",
+    "created": 1692160663,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129ng\u0129 \u0169kengani sya k\u0169k\u0169na mbete. N\u0129cembere m\u0169ci\u0129 wa mbete \u0169k\u0129r\u0129 wa k\u0169k\u0169na mbete:\n1. H\u0129ka mbete m\u0169t\u0169 wa m\u0169ci\u0129 k\u0169g\u0129ka akar\u0129\u0129thwo.\n2. K\u0169g\u0129ka m\u0169ci\u0129 \u0169k\u0129r\u0129 wa k\u0169k\u0169na mbete \u0169k\u0129r\u0129 wa k\u0169hamb\u0129ra mbete.\n3. M\u0169th\u0129 wa mbete \u0169k\u0129r\u0129 wa k\u0169ar\u0129\u0129thwo m\u0169ci\u0129 wa mbete.\n4. K\u0169g\u0129ka m\u0169ci\u0129 \u0169k\u0129r\u0129 wa k\u0169k\u0169na mbete \u0169k\u0129r\u0129 wa k\u0169hamb\u0129ra mbete.\n5. K\u0169\u0129nga m\u0169th\u0129 wa mbete \u0169k\u0129r\u0129 wa k\u0169ar\u0129\u0129thwo m\u0169ci\u0129 wa mbete.\n6. K\u0169g\u0129ka m\u0169ci\u0129 \u0169k\u0129r\u0129 wa k\u0169k\u0169na mbete \u0169k\u0129r\u0129 wa k\u0169hamb\u0129ra mbete.\n7. Enda k\u0169g\u0129ka m\u0169ci\u0129 \u0169k\u0129r\u0129 wa k\u0169k\u0169na mbete k\u0169g\u0129ka m\u0169ci\u0129 gat\u016bngat\u016b.\n8. K\u0169g\u0129ka m\u0169ci\u0129 \u0169k\u0129r\u0129 wa k\u0169k\u0169na mbete \u0169k\u0129r\u0129 wa k\u0169hamb\u0129ra mbete.\n9. K\u0169\u0129nga m\u0169th\u0129 wa mbete \u0169k\u0129r\u0129 wa k\u0169ar\u0129\u0129thwo m\u0169ci\u0129 wa mbete.\n10. K\u0169g"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 131,
+        "completion_tokens": 499,
+        "total_tokens": 630
+    }
+}

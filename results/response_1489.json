@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bcZ4TEQlUTobJYGCJCNiN32Qd3",
+    "object": "chat.completion",
+    "created": 1692160772,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te whakapuaki i nga whakamarama ki a koe. Whakapau kaha ahau ki te whakatuwhera i nga whakahaere e whai ake nei. Whakapau kaha ahau ki te whakatutuki i a koe i runga i nga whakaaetanga.\n\n1. Kia whakatika te aunoa i te paetukutuku:\n   Me tae atu koe ki te paetukutuku e hiahia ana koe ki te whakatutuki i te mahi i runga i a. Whakapau kaha ahau ki te whakamahia i te p\u016bmanawa whakamahi hei whakararuraru i te whakatika i te paetukutuku. Me whakaritea e koe i te k\u014dwhiringa whakararuraru e hiahia ana koe ki te whakatika.\n\n2. Kia tukuna he \u012bm\u0113ra:\n   Ki te hiahia koe ki te tukuna i he \u012bm\u0113ra, whakapau kaha ahau ki te whakamahi i te wharangi \u012bm\u0113ra o te paetukutuku. Whakapau kaha ahau ki te whakarite i te \u012bm\u0113ra, ka whakauru i te whakar\u0101popoto, te kaupapa me te \u012bm\u0113ra whakar\u0101rangi. Whakapau kaha ahau ki te whakarite i te whakam\u0101rama ki te whakapau kaha i te whakapuaki i te \u012bm\u0113ra.\n\n3. Kia tiki i te raraunga i te paparanga:\n   Me whakapau kaha koe ki te tiki i te raraunga i te paparanga, ka whakamahi i te p\u016bmanawa whakamahi hei whakamahi i te paparanga. Whakapau kaha ahau ki te whakarite i te k\u014dwhiringa whakam\u0101rama e whai ake nei, ka whakaritea"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 500,
+        "total_tokens": 596
+    }
+}

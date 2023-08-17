@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MKpQ7Uu8W06MUKLBS6VjwZvpMC",
+    "object": "chat.completion",
+    "created": 1692159824,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 m n'efu g\u1ecb. Biko, b\u1ecba ka m gbasaa \u1ecbkpas\u1ee5 aka n'\u1ecbntanet\u1ecb g\u1ecb. Kedu ihe mere g\u1ecb?\n\n1. Nwere ihe mere g\u1ecb n'\u1ecbntanet\u1ecb?\n2. Kedu ihe mere g\u1ecb n'\u1ee5z\u1ecd d\u1ecbka?\n3. Kedu ihe mere g\u1ecb maka \u1ecbgba \u1ecdn\u1ee5 \u1ecbntanet\u1ecb?\n4. Kedu ihe mere g\u1ecb maka \u1ecbd\u1ecb \u1ecdn\u1ee5 \u1ecbntanet\u1ecb?\n5. Kedu ihe mere g\u1ecb maka \u1ecbd\u1ecb n'\u1ecdd\u1ecbnihu?\n\nBiko, b\u1ecba ka m gbanye g\u1ecb ngwa a."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 167,
+        "total_tokens": 283
+    }
+}

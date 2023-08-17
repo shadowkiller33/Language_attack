@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OR3bv7UlfeQqzr4f2pxVwHRAi4",
+    "object": "chat.completion",
+    "created": 1692159955,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Wawu, en odak machalo. Adier gi ma nyingo. Ka oneno piny Luo, timbe nyasaye piny gi duto. Ka oneno adier gi ma nyingo, timbe nyasaye gi duto. \n\n1. Nyingo bedo jatelo: \n   - Nyithindo bedo jatelo kod ma tiyo gi weche mag sigu kendo. \n   - Koro maber, nyithindo bedo jatelo kendo ma tiyo gi weche mag sigu kendo.\n   - Koro duto, kanyo gi bedo jatelo ma tiyo gi weche mag sigu kendo.\n   - Oboke gi duto ma tiyo gi weche mag sigu kendo. \n\n2. Nyithindo kod gero:\n   - Nyithindo ma tiyo gi weche mag sigu kendo kod gero. \n   - Nyaka gi nyithindo ma tiyo gi weche mag sigu kendo kod gero.\n   - Koro maber, nyaka gi nyithindo ma tiyo gi weche mag sigu kendo kod gero. \n   - Koro duto, kanyo gi nyithindo ma tiyo gi weche mag sigu kendo kod gero.\n   - Oboke gi duto ma tiyo gi weche mag sigu kendo kod gero.\n\nOluongo kod ma pire kendo! Ka oneno wadhi mar ng'at ma pire, owacho gi duto."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 326,
+        "total_tokens": 428
+    }
+}

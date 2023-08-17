@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NxMlYX5QOvNBv7dN3hpTk4pBK2",
+    "object": "chat.completion",
+    "created": 1692159925,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Ka whakapau kaha ahau ki te \u012bm\u0113ra atu ki a koe ki \u0113nei whakararuraru. Me whakapau kaha t\u0101tou ki te whakatikatika i \u0113nei \u012bm\u0113ra ki ng\u0101 p\u0101tengi raraunga t\u016bmatanui. Whakam\u0101tau t\u0113nei whakararuraru:\n\n1. T\u012bmata ki te whakatika i ng\u0101 p\u0101tengi raraunga t\u016bmatanui. Tirohia ki te k\u014dwhiri \"Raraunga\" i te whakawhitiwhiti ake i te wh\u0101rangi k\u014dwhiri.\n\n2. K\u014dwhirihia te p\u0101tengi raraunga t\u016bmatanui e hiahia ana koe ki te whakararuraru. Ka whakararuraru t\u0113nei i ng\u0101 p\u014dturi raraunga, ng\u0101 k\u016bwaha raraunga, me \u0113tahi atu \u0101huatanga raraunga.\n\n3. Whakapau kaha ki te whakararuraru i ng\u0101 p\u0101tengi raraunga t\u016bmatanui i roto i te kaiwhakahaere raraunga. Whakamahia te whakararuraru, te whakatika, me te whakawhitiwhiti i ng\u0101 p\u0101tengi tika ki ng\u0101 p\u016bnaha raraunga t\u016bmatanui.\n\n4. Whakamahia te whakararuraru ki te whakaputa i ng\u0101 \u012bm\u0113ra whakap\u0101 atu ki te hunga whakamahi. Tonoa ki a r\u0101tou te whakapau kaha ki te whakawhitiwhiti me te whakatika i \u0113nei p\u0101tengi raraunga t\u016bmatanui.\n\n5. Whakapau kaha ki te whakapuaki i ng\u0101 \u0101huatanga whakap\u0101 atu ki te hunga whakamahi. Whakaritea \u0113nei whakap\u0101"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 500,
+        "total_tokens": 604
+    }
+}

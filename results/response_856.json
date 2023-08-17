@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NfD2a8CecAc6bVwfSdLcw09mCg",
+    "object": "chat.completion",
+    "created": 1692159907,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, \u0169many\u0129sy'e. Nd\u0169maga k\u0169k\u0169\u0169tha. N\u0129\u0169thi\u0169kaga n\u0129\u0169ko \u0169ta\u0169ng\u0129r\u0129ria?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 56,
+        "total_tokens": 166
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LbpBxBZBQLino08FRwgxIUb86K",
+    "object": "chat.completion",
+    "created": 1692159779,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ina son ganin me yasan ka so a yi cinikin da ke cikin gida, ba tare da an kama ka ba. Don haka, ina son ganin me yasan ka so a yi?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 50,
+        "total_tokens": 153
+    }
+}

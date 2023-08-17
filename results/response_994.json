@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bS9G4t8vAPP14lus40KP7TxlD9",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129 kanua \u0169t\u0169k\u0169r\u0129r\u0129e \u0169t\u0169ng\u0129 wa k\u0169h\u0129t\u0129ria visa na \u0169im\u0129venesya. N\u0129ndar\u0129 k\u0169r\u0129a \u0169r\u0129a \u0169t\u0169k\u0169h\u0129t\u0129ria visa na \u0169im\u0129venesya w\u0129hokeire.\n\n1. K\u0169g\u0169th\u0169ka M\u0169ceman\u0129: M\u0169ceman\u0129 \u0169cio m\u0169ceman\u0129 wa visa na \u0169im\u0129venesya \u0169cio. N\u0129 \u0169cio wa k\u0169h\u0129t\u0129ria visa na \u0169im\u0129venesya wambere. \u0168t\u0169m\u0129ire \u0169rut\u0169 \u0169cio k\u0169g\u0169th\u0169ka m\u0169ceman\u0129 k\u0169k\u0169jaho.\n\n2. N\u0129\u0129re Visa na \u0169im\u0129venesya: T\u0169g\u0169th\u0169ka visa na \u0169im\u0129venesya wambere. M\u0169ceman\u0129 \u0169cio \u0169t\u0169m\u0129re \u0169rut\u0169 k\u0169g\u0169th\u0169ka visa na \u0169im\u0129venesya. \u0168t\u0169kumb\u0169k\u0129ria \u0169rut\u0169 \u0169cio wa visa na \u0169im\u0129venesya \u0169cio k\u0169k\u0169jaho.\n\n3. K\u0169h\u0129t\u0129ria Fomu ya Visa na \u0169im\u0129venesya: Fomu ya visa na \u0169im\u0129venesya \u0169cio it\u0169k\u0169r\u0129ra r\u0169gendo rwa k\u0169h\u0129t\u0129ria visa na \u0169im\u0129venesya. \u0168t\u0169h\u0129teire na \u0169rut\u0169 rwa fomu ya visa na \u0169im\u0129venesya \u0169cio. K\u0129r\u0129a \u0169ng\u0129 \u0169cio wa k\u0169h\u0129t\u0129ria visa na \u0169im\u0129venes"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 500,
+        "total_tokens": 627
+    }
+}

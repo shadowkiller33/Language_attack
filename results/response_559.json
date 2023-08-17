@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OT4Sv5zFxEoixC7jHKAgrkHo9O",
+    "object": "chat.completion",
+    "created": 1692159957,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m as\u1ecbr\u1ecb any\u1ecb b\u1ee5 otu nd\u1ecb nwere ike \u1ecbnyere g\u1ecb akw\u1ee5kw\u1ecd maka nd\u1ecb a, a ga-emegbu akw\u1ee5kw\u1ecd d\u1ecb ka \u1ecbgba \u1ecbmalite mba \u1ee5ka Igbo, ma \u1ecb nwere ike \u1ecbkp\u1ecdt\u1ee5r\u1ee5 m akw\u1ee5kw\u1ecd g\u1ecb n'\u1ee5z\u1ecd isi nweta ohere na Igbo.\n\n1. Nwere ike \u1ecbnweta ihe \u1ecbnweta ebe d\u1ecb mma na Igbo? \n2. Kedu ihe mere g\u1ecb b\u1ee5 \u1ecbnweta onye \u1ecb na-ekwu Igbo?\n3. Kedu ihe mere g\u1ecb b\u1ee5 \u1ecbnweta \u1ecdn\u1ee5\u1ecdg\u1ee5g\u1ee5 Igbo?\n4. Kedu ihe mere g\u1ecb b\u1ee5 \u1ecbnweta \u1ee5d\u1ecb Igbo?\n5. Kedu ihe mere g\u1ecb b\u1ee5 \u1ecbnweta \u1ee5l\u1ecd \u1ecdr\u1ee5 Igbo?\n6. Kedu ihe mere g\u1ecb b\u1ee5 \u1ecbnweta \u1ecdn\u1ecdd\u1ee5 Igbo?\n7. Kedu ihe mere g\u1ecb b\u1ee5 \u1ecbnweta \u1eccd\u1ecbnala Igbo?\n8. Kedu ihe mere g\u1ecb b\u1ee5 \u1ecbnweta \u1ecch\u1ee5r\u1ee5 Igbo?\n9. Kedu ihe mere g\u1ecb b\u1ee5 \u1ecbnweta \u1ecdghara Igbo?\n10. Kedu ihe mere g\u1ecb b\u1ee5 \u1ecbnweta \u1ecdnw\u1ee5 Igbo?\n\nBiko, banye m aka any\u1ecb ka any\u1ecb ga-akp\u1ecdt\u1ee5r\u1ee5 g\u1ecb akw\u1ee5kw\u1ecd n'\u1ee5z\u1ecd isi nweta ohere na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 131,
+        "completion_tokens": 391,
+        "total_tokens": 522
+    }
+}

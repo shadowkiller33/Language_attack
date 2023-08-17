@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZNfJs6vT7MnpHqqgVuMEIoYlFr",
+    "object": "chat.completion",
+    "created": 1692160633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka tunatar da masu yawa aikin aikin ku. Ina son kai?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 24,
+        "total_tokens": 117
+    }
+}

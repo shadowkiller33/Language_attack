@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bS6WtoxAgUZXRdFQ7Kcb30Eg5L",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na ha ga-esi agbanah\u1ee5 \u1ee5t\u1ee5 isi na imebi iwu, \u1ecb ga-amas\u1ecb m b\u1ee5 ihe mere aha \u1ee5t\u1ee5 isi na imebi iwu?\n\nNke a b\u1ee5 ihe mere aha \u1ee5t\u1ee5 isi na imebi iwu, \u1ecb ga-amas\u1ecb m b\u1ee5 ihe mere aha \u1ee5t\u1ee5 isi na imebi iwu?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 97,
+        "total_tokens": 198
+    }
+}

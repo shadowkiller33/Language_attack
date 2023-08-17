@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSGn9HgAhYGZwWwEI2ZSZQQscc",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Matur nuwun kangge pangunduh\u00e9. Samubarang kula tetep bisa nganggo Basa Jawa kang kasedhiya. Mugi pangertosanipun kawentenane, utawa kula bisa menehi petunjuk kang apik.\n\nMangga tindakake pitakonanipun. Kula siap ngrespon lan nggawe petunjuk kang apik kanggo samubarang."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 98,
+        "total_tokens": 189
+    }
+}

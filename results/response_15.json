@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JLgWDCJ8HaciTGbjghBab94Rmg",
+    "object": "chat.completion",
+    "created": 1692159639,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan mu duba yadda za mu samu riba ta ku\u0257i a farashin hannun jari:\n\n1. Kada ku bi duka abubuwan da kake bu\u0199atar ayyuka wajen samun riba ta ku\u0257i a hannun jari. Hasken ku yi bayani game da kudi kuma ku yi bayani game da wani \u0199ayan da za ku yi amfani da shi.\n\n2. A ayyuka, kuma samun rubutun \"Kudi\" ko kuma \"Riba\" don samun rubutun da za ku yi \u0199arin rubutun samun kudi ko riba a hannun jari. \n\n3. Bayan samun rubutun \"Kudi\" ko \"Riba\", shigar da sauran ayyuka game da kowane sanarwa da za a iya bu\u0199atar ayyuka wajen samun riba ta ku\u0257i.\n\n4. Bayan sauran ayyuka, yi saukar da \u0199arin sauran sanarwa ko gudunmawa da za ku yi amfani da su wajen samun riba ta ku\u0257i a hannun jari.\n\n5. Bayan saukar da \u0199arin sanarwa, duba farashin hannun jari don samun kudi ko riba ta ku\u0257i. Za ku iya samun shi a cikin hannun jari ko suka iya samun shi a cikin wani \u0199ayan da za ku yi amfani da shi.\n\n6. Idan kudi ko riba ta ku\u0257i ta samu, yi saukar da \u0199arin sanarwa ko gudunmawa don samun matakai ko kuma zama a lokacin da za ku yi ayyuka wajen samun kudi ko riba ta ku\u0257i.\n\n7. Bayan samun matakai, duba kamar yadda farashin hannun jari ta na fadi don samun kudi ko riba ta ku\u0257i. Idan babu matakai, yi saukar da \u0199arin sanarwa ko gudun"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 500,
+        "total_tokens": 601
+    }
+}

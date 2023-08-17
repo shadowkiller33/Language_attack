@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LgR4ZhjI7aaRx7QzM3XAoNJSYC",
+    "object": "chat.completion",
+    "created": 1692159784,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ai wannan shirin wani aiki ne da za a iya amfani da shi wajen shiga cikin rumbun adana bayanai na gwamnati. Domin ba mu iya cewa shi a turanci, to, shirin ya zama alaka da bu\u0199atar taimakonmu wajen saka shi. Ko da yake, mu iya taimaka ka da wani tambaya ko shawara a cikin Hausa. Mu amfani da shirin da za a iya taimake ka a cikin Hausa. Ko da yake, ku yi taqaita ko ku tambayi alamar ku a cikin Hausa, mu zama nan domin ku taimake."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 175,
+        "total_tokens": 290
+    }
+}

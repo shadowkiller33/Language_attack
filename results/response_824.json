@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JZieOYgIAiIZdG0vrtwk6ZYMuJ",
+    "object": "chat.completion",
+    "created": 1692159653,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u0169thenya, nd\u0129 ng\u0169t\u0169 wa k\u0169menya k\u0169ng\u0129thia vitio na ku\u0169ra \u0169th\u0129 wa k\u0169homa mak\u0129r\u0129r\u0129 aing\u0129 a\u0129. Ni\u0129 \u0169tethie m\u0169thenya mwaku \u0169hoga mbeere ya \u0169thoni hand\u0169, hand\u0169 n\u0129 nd\u0129k\u0169r\u0129ria \u0169horo waku mbeere \u0169thoni wa Kamba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 128,
+        "total_tokens": 244
+    }
+}

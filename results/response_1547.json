@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OWglvJrwDmOTdxKi2qpjKaFafN",
+    "object": "chat.completion",
+    "created": 1692159960,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Kei te whakararuraru i t\u014d whakapau kaha ki te whakawehi me te whakawehi i \u0113tahi atu. Ka whakapau kaha ahau ki te \u0101whina i a koe. Me whakairi i \u014d p\u0101tai ki te reo M\u0101ori, k\u0101ore e whakam\u0101rama, \u0101, ka whakautu ahau ki a koe i roto i te reo M\u0101ori.\n\n1. Me p\u0113hea te whakarite i te wharangi whakarongo?\n2. Me p\u0113hea te whakawhitiwhiti i te reo i roto i t\u0113tahi taup\u0101nga k\u014drero?\n3. Me p\u0113hea te whakarite i t\u0113tahi wh\u0101rangi tukutuku?\n4. Me p\u0113hea te whakakore i ng\u0101 p\u0101tai papamahi i roto i t\u0113tahi taup\u0101nga?\n5. Me p\u0113hea te whakapakari i te whakapau kaha o te rorohiko?\n\nT\u0113nei ng\u0101 p\u0101tai e whai ake ana, whakapau kaha mai i \u014d whakapau kaha ki te whakapau kaha i \u0113nei \u0101huatanga."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 130,
+        "completion_tokens": 313,
+        "total_tokens": 443
+    }
+}

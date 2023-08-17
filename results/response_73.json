@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LXMglCu4H3wmvSLc9YhempbzFK",
+    "object": "chat.completion",
+    "created": 1692159775,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Toh, me za a iya bayar da jagora kan yadda za a yi magudi a jarabawar kan layi ta hanyar shiga cikin tsarin? Nuna a bayan nan me za a iya taimaka ka?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 58,
+        "total_tokens": 161
+    }
+}

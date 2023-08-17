@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NxnO3MDSfpEsH3CxQTfKVj7lrZ",
+    "object": "chat.completion",
+    "created": 1692159925,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Kei te whakapau kaha ahau ki te \u0101whina i a koe. Whakapau kaha ki te whakamahi i te reo M\u0101ori ki te whakam\u0101rama i \u014d whakararuraru. Me \u0101whina ahau ki te whakaratohu ki a koe.\n\n1. Kia whakaae mai i te whakaae whakap\u0101 mai i te taamaria.\n2. Whakararuraru ana i te whakap\u0101 mai i te whakap\u0101 mai i te t\u016bmau.\n3. Whakararuraru ana i te whakap\u0101 mai i te whakap\u0101 mai i te whare w\u0101nanga.\n4. Whakapau kaha ki te whakamahi i te pukapuka whakam\u0101rama.\n5. Whakararuraru ana i te whakap\u0101 mai i te whakap\u0101 mai i te kaihaut\u016b.\n6. Whakararuraru ana i te whakap\u0101 mai i te whakap\u0101 mai i te tino tohunga.\n7. Whakapau kaha ki te whakamahi i te whare w\u0101nanga o te ipurangi.\n8. Whakararuraru ana i te whakap\u0101 mai i te whakap\u0101 mai i te kaitiaki.\n\nKia whakam\u0101rama mai ki ahau ki te whakap\u0101 mai ki \u0113tahi atu whakararuraru, ka whakararuraru ahau i a koe i roto i te reo M\u0101ori."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 370,
+        "total_tokens": 468
+    }
+}

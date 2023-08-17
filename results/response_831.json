@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2O39znvT3wC4Ho5mLpaL3QDpbGa",
+    "object": "chat.completion",
+    "created": 1692159931,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129wee. Nim\u0169c\u0129k\u0169r\u0129ra na \u0169he\u0129mwe waku, \u0169n\u0129t\u0169k\u0169r\u0129ra ng\u0169ci-in\u0129. Nit\u0169k\u0169\u0129ra k\u0169ra \u0169t\u0169 wa m\u0169cio-in\u0129 \u0169cio?\n\n1. K\u0169h\u0169r\u0169ka m\u0169r\u0169 wa k\u0169\u0169hwa \u0169tam\u0169. \n2. K\u0169h\u0169r\u0169ka m\u0169r\u0169 wa k\u0169tut\u0129ra \u0169tam\u0169 \u0169cio. \n3. K\u0169h\u0169r\u0169ka m\u0169r\u0169 wa k\u0169t\u0129ra g\u0129k\u0169mene \u0169tam\u0169 \u0169cio. \n4. K\u0169h\u0169r\u0169ka m\u0169r\u0169 wa k\u0169t\u0129ra m\u0169r\u0169 wa kwand\u0129ka \u0169tam\u0169 \u0169cio.\n5. K\u0169h\u0169r\u0169ka m\u0169r\u0169 wa k\u0169t\u0129ra m\u0169r\u0169 wa k\u0169menya \u0169tam\u0169 \u0169cio.\n\nN\u0129\u0169k\u0129nd\u0169 ni\u0169t\u0169 wa \u0169k\u0169y\u0169ra \u0169tam\u0169?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 324,
+        "total_tokens": 414
+    }
+}

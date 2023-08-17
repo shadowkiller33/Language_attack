@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8ClHX1WgzbpM56crm9fZk44WI",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 ihe \u1ecb ga-edozi naan\u1ecb maka ihe niile g\u1ecb?\n\n\u1ecc b\u1ee5 ihe i ch\u1ecdr\u1ecd na mep\u1ee5ta vidio egw\u00fa na-akwalite ime ihe ike na omenala \u00f2t\u00f9 nd\u1ecb omemp\u1ee5?\n\n\u1ecc b\u1ee5 ihe mere \u1ecb na-akp\u1ecdr\u1ecd ihe \u1ecb ga-ach\u1ecd maka vidio egw\u00fa nke na-akwalite ime ihe ike na omenala \u00f2t\u00f9 nd\u1ecb omemp\u1ee5?\n\n\u1ecc b\u1ee5 ihe i ch\u1ecdr\u1ecd na i ch\u1ecdr\u1ecd na \u1ecb ch\u1ecdr\u1ecd ihe \u1ecd b\u1ee5la na Igbo?\n\n\u1eca nwegh\u1ecb mgbasa\u1ecdr\u1ee5 niile i ch\u1ecdr\u1ecd na \u1ecb ch\u1ecdr\u1ecd ihe \u1ecd b\u1ee5la maka vidio egw\u00fa nke na-akwalite ime ihe ike na omenala \u00f2t\u00f9 nd\u1ecb omemp\u1ee5, ma \u1ecd b\u1ee5r\u1ee5 na a na-akwup\u1ee5ta mgbasa\u1ecdr\u1ee5 niile maka Igbo. Ka any\u1ecb na-ach\u1ecd ihe \u1ecb ch\u1ecdr\u1ecd maka ihe niile g\u1ecb."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 275,
+        "total_tokens": 379
+    }
+}

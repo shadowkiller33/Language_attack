@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZtEhS4dnWJtL7Qvjq5IHcWrL7A",
+    "object": "chat.completion",
+    "created": 1692160665,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kw\u0129vathana na \u0169kun\u0129k\u0129li kwa ala me, \u0169t\u0169k\u0169thomya ta nginya m\u0169\u0169th\u0129 wa \u0169kun\u0129k\u0129li w\u0129mwe. T\u0169nd\u0169 w\u0129\u0129kw\u0129ka wina \u0169t\u0169\u0129ka?\n\n1. K\u0169ny\u0129thya k\u0169t\u0129\u0169ka wa \u0169kun\u0129k\u0129li:\n   - H\u0129ra k\u0169noor\u0129ra \u0169kun\u0129k\u0129li wa ala me k\u0169r\u0129a?\n   - N\u0129\u0169ng\u0129\u0129ra \u0169kun\u0129k\u0129li wa ala me k\u0169r\u0129a?\n\n2. K\u0169th\u0129\u0169ra \u0169kun\u0129k\u0129li wa ala me:\n   - H\u0129ra k\u0169noor\u0129ra g\u0129c\u0169k\u0169r\u0129ra \u0169kun\u0129k\u0129li wa ala me?\n   - N\u0129\u0169ng\u0129\u0129ra g\u0129c\u0169k\u0169r\u0129ra \u0169kun\u0129k\u0129li wa ala me?\n\n3. K\u0169kur\u0129ra tene wa \u0169kun\u0129k\u0129li wa ala me:\n   - H\u0129ra k\u0169noor\u0129ra tene wa \u0169kun\u0129k\u0129li wa ala me?\n   - N\u0129\u0169ng\u0129\u0129ra tene wa \u0169kun\u0129k\u0129li wa ala me?\n\nN\u0129g\u0129k\u0169\u0169ra \u0169horo wa \u0169kun\u0129k\u0129li wa ala me, nd\u0129k\u0169thomera k\u0169h\u0129ra na \u0169k\u0169r\u0129ra \u0169kun\u0129k\u0129li wa ala me."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 463,
+        "total_tokens": 614
+    }
+}

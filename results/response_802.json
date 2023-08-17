@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PI6gPG8dXcWAjf2zY3bsFUsgdt",
+    "object": "chat.completion",
+    "created": 1692160008,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "W\u0129jib\u0129re nginya m\u0129\u0169r\u0129o \u0129no, k\u0129the\u0129r\u0169 k\u0129a k\u0169h\u0129t\u0129ria m\u0129\u0169r\u0129o m\u0129a ka\u0169 na nginya nd\u0169ng'\u0129ha mar\u0129a mbere. Nipatie ma\u0169th\u0129niio ya k\u0169k\u0169menya m\u0129\u0169r\u0129o \u0129no."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 113,
+        "total_tokens": 216
+    }
+}

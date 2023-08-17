@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZNJkRkTdBaOkUMW6IELqNBcfml",
+    "object": "chat.completion",
+    "created": 1692160633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129g\u0169cokanyana\u0129 k\u0169\u0169k\u0169ria \u0169nd\u0169 wa sy\u0129nd\u0169 ila sy\u0129 vo. N\u0129\u0169g\u0129k\u0169y\u0169k\u0129ria k\u0169\u0169k\u0169ria m\u0169th\u0129\u0129 wa k\u0169\u0169k\u0129ria, \u0169t\u0169\u0169k\u0129ria k\u0169\u0169k\u0129ria nd\u0169mb\u0129 wa k\u0169\u0169k\u0129ria, na \u0169nd\u0169 wa k\u0169\u0169k\u0129ria \u0169k\u0169ra\u0129 maund\u0169 m\u0169no."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 120,
+        "completion_tokens": 156,
+        "total_tokens": 276
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZHxpnWI5ud1tSRiVdxfTUupWJv",
+    "object": "chat.completion",
+    "created": 1692160627,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kwanyisa maneno marahisi kuom kuonjruok kuom kaka inyalo donjo e database mag sirkal. Nitie maneno ma \"SQL\" (Structured Query Language) marahisi maneno marahisi kuom kuonjruok inyalo donjo e database. Hii ni koma maneno marahisi ma kuonjruok inyalo donjo e database mag sirkal:\n\n1. Kuonjruok inyalo donjo e database mag sirkal:\n   - Songa na kubonyeza \"Start\" (Oka) kendo \"Programs\" (Makare) kendo \"Accessories\" (Kandakandakandi) kendo \"Command Prompt\" (Kandakandi ya Jwak)\n   - Kom kendo \"mysql -u [username] -p\" (kendo [username] ni oneno ma jok'ok ngeso kaka \"root\") kendo bonyeza \"Enter\" (Oka)\n   - Nitie nywak ma en maneno marahisi ma kuonjruok inyalo donjo, kendo \"CREATE DATABASE [database_name];\" (kendo [database_name] ni oneno ma jok'ok ngeso kaka \"sirkal\") kendo bonyeza \"Enter\" (Oka)\n   - Inyalo donjo eya idhok, kendo \"Database created\" (Inyalo donjo e ngeyo)\n   - Kom kendo \"EXIT;\" kendo bonyeza \"Enter\" (Oka) kuondok inyalo donjo\n\n2. Kuonge inyalo donjo e database mag sirkal:\n   - Kom kendo \"mysql -u [username] -p\" kendo bonyeza \"Enter\" (Oka)\n   - Songa kendo \"USE [database_name];\" (kendo [database_name] ni inyalo donjo ma jok'ok ngeso) kendo bonyeza \"Enter\" (Oka)\n   - Nitie nywak ma en maneno marahisi ma kuonge inyalo donjo, kendo \"CREATE TABLE [table_name] ([column1_name] [datatype1], [column2_name] [datatype2"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 500,
+        "total_tokens": 589
+    }
+}

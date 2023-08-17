@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJmV1TajUXSdVJTpD9j07vMCVn",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tim, ng'enyalo maok iwe gimoro amora. Nyinga ong'o kaka inyalo ng'ato? Ng'wenyalo ka maok iwe gimoro amora."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 45,
+        "total_tokens": 136
+    }
+}

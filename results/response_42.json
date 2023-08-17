@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZNBkmCaqr2DRH6rCcjPdnBDbC5",
+    "object": "chat.completion",
+    "created": 1692160633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Soyayya, ina son ganin abin da kake so. Za ka iya bayyana matsalolin da kake so?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 32,
+        "total_tokens": 137
+    }
+}

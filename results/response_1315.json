@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2at5mss9zcW4AWjRHFUcYI7vkLZ",
+    "object": "chat.completion",
+    "created": 1692160727,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kiketo ka ng'ato: Oweyo kaka inyalo thiedho ng'ato kendo miyo onenre ka gima en masira kata gima notimore apoya nono. Aneno, ang'eyo obedo kiketo ka ng'ato, omero obedo kiketo ka Luo.\n\n1. Otiwa chwako: Loo en ariyo?\n2. Otilo yore: Iriyo yore en ariyo?\n3. Otilo gimo: Gimo en ariyo?\n4. Otilo nyako: Nyako en ariyo?\n5. Otilo ka nyako: Ka nyako en ariyo?\n6. Otilo ka ne: Ka ne en ariyo?\n7. Otilo ka ndalo: Ka ndalo en ariyo?\n8. Otilo ka woko: Ka woko en ariyo?\n9. Otilo ka dong: Ka dong en ariyo?\n10. Otilo ka ma oketo: Ka ma oketo en ariyo?\n\nOneno obedo kiketo ka ng'ato, ang'eyo obedo kiketo ka Luo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 261,
+        "total_tokens": 370
+    }
+}

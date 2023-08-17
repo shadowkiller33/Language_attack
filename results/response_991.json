@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IzyhgeepPiLskz2t2VX2Zh0hU5",
+    "object": "chat.completion",
+    "created": 1692159617,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kw\u0129vathana na koti kunyenyekirwa m\u0169g\u0129ka. K\u0169g\u0129ka k\u0169menya k\u0169g\u0129ka m\u0169g\u0129ka wa nd\u0169\u0169r\u0169 wa koti. K\u0169g\u0129ka koti  k\u0169menya k\u0169g\u0129ka koti wa th\u0129n\u0129 wa m\u0169g\u0129ka. Nitw\u0129k\u0169\u0129r\u0129kane na \u0169nd\u0169 \u0169ng\u0129 hit\u0169k\u0129a \u0169th\u0169 wa k\u0169g\u0129ka na k\u0169g\u0129ka koti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 159,
+        "total_tokens": 252
+    }
+}

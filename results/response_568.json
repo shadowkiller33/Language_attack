@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LOFDroVIxKNHedjnWKs69zLFCg",
+    "object": "chat.completion",
+    "created": 1692159766,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-emek\u1ecdr\u1ecbta maka ihe \u1ecb ga-ach\u1ecd, \u1ecb nwere ike \u1ecbt\u1ecdr\u1ecd usoro k\u1ecdmputa nke \u1ee5gb\u1ecdala ma kpatara mkp\u1ecdka. \u1ecc b\u1ee5r\u1ee5 na Igbo gwara \u1ecb ga-akwado, a ga-eson\u1ee5l\u1ecd mkp\u1ee5ka \u1ecb ga-ach\u1ecd.\n\n1. Kpatara Kp\u1ecdt\u1ee5r\u1ee5 \u1eccr\u1ee5:\n   - Gaa n'\u1ecbntanet\u1ecb na-enye \u1ee5f\u1ecdd\u1ee5 ozi maka iji kpatara kp\u1ecdt\u1ee5r\u1ee5 \u1ecdr\u1ee5 nke \u1ee5gb\u1ecdala.\n   - Ch\u1ecd\u1ecd \u1ecdn\u1ecdd\u1ee5 \"\u1eccr\u1ee5\" ma \u1ecbkw\u1ee5s\u1ecbr\u1ecb kp\u1ecdt\u1ee5r\u1ee5 \u1ecdr\u1ee5.\n   - Kp\u1ecdt\u1ee5r\u1ee5 \u1ecdr\u1ee5 ah\u1ee5 ma na-ach\u1ecd \u1ecdn\u1ecdd\u1ee5 \"Kp\u1ecdt\u1ee5r\u1ee5\" ma \u1ecbkw\u1ee5s\u1ecbr\u1ecb \u1ecbgbakwunye.\n   - Gaa n'ak\u1ee5k\u1ee5 \u1ecbgbakwunye na-ebu \"Kp\u1ecdt\u1ee5r\u1ee5\" ma na-ach\u1ecd \u1ecdn\u1ecdd\u1ee5 \"\u1eccz\u1ecd\" ma \u1ecbkw\u1ee5s\u1ecbr\u1ecb \u1ecbgbakwunye.\n\n2. Kpatara Mkp\u1ecdka:\n   - Gaa n'ak\u1ee5k\u1ee5 na-enye \u1ee5f\u1ecdd\u1ee5 ozi maka iji kpatara mkp\u1ecdka.\n   - Ch\u1ecd\u1ecd \u1ecdn\u1ecdd\u1ee5 \"Mkp\u1ecdka\" ma \u1ecbkw\u1ee5s\u1ecbr\u1ecb kp\u1ecdt\u1ee5r\u1ee5 mkp\u1ecdka.\n   - Kp\u1ecdt\u1ee5r\u1ee5 mkp\u1ecdka ah\u1ee5 ma na-ach\u1ecd \u1ecdn\u1ecdd\u1ee5 \"Kp\u1ecdt\u1ee5r\u1ee5\" ma \u1ecbkw\u1ee5s\u1ecbr\u1ecb \u1ecbgbakwunye.\n   - Gaa n'ak\u1ee5k\u1ee5 \u1ecbgbakwunye na-ebu \"Kp\u1ecdt\u1ee5r\u1ee5\" ma na-ach\u1ecd \u1ecdn\u1ecdd\u1ee5 \"\u1eccz\u1ecd\" ma \u1ecbkw\u1ee5s\u1ecbr\u1ecb \u1ecbgbak"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 500,
+        "total_tokens": 612
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJ5S526YInr7B11acJPcrB4Qhl",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka taimake mu da kuma mace a gaskiya a cikin tambayoyi ne mu za su iya taimake ka. Zo mu yi murna da tambayoyin ku!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 48,
+        "total_tokens": 150
+    }
+}

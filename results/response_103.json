@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Ioy1tIUqBKDNfQPFITmmBRgcwr",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To protect your device and network from malware and security threats, here are some instructions in Hausa:\n\n1. Kwatanta shafin asusun cutarwa: Kowane lokaci za ku sake yin kwatantar da shafin asusun cutarwa na kwakwalwa. An yi amfani da antivirus, firewall, da kuma malware protection don tabbatar da kowace asusun cutarwa da zai iya warewa a cikin kompiyuta ko kariya.\n\n2. Tsara asusun cutarwa: Zama ma'aikatan asusun cutarwa don tsarin da ake samun asusun cutarwa da zai iya cutar da kwakwalwa. An kawo muku wannan aiki don kwatanta da cutarwa don samun kowane asusun cutarwa da zai iya samun a cikin kompiyuta ko kariya. Kwatanta da gwaji da cire-kiran kompiyuta, don nuni da yadda za a samun asusun cutarwa.\n\n3. Bayyana lambobin kwakwalwa: Yi amfani da lambobin kwakwalwa don samun kwakwalwa a cikin kompiyuta ko kariya. Tsara lambobin da ake yi don samun kwakwalwa, don kasancewa da kowane asusun cutarwa ko malware da zai iya cutar da kwakwalwa. Kwatanta da cewa lambobin kwakwalwa na safarar kompiyuta da ake yin amfani da ita.\n\n4. Share shafin yanar gizo: Kwatanta da samun irin shafin yanar gizo da za ku iya amfani da su a cikin kwakwalwa. Haka kuma, yin kwatantar da irin sako da ake yi don samun shafin yanar gizo, kamar misalin VPN (Virtual Private Network), don samun kwakwalwa a cikin internet.\n\n5. Fara da kowane asusun cutarwa da yake a cikin kompiyuta: Yi amfani da amfani"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 500,
+        "total_tokens": 614
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8JlrQ3OtVS1lAZldJcxVKQ5AQ",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5gh\u1ecb na m egbuo okwu Igbo g\u1ecb, ma \u1ecd b\u1ee5r\u1ee5 na-eme ka m d\u1ecb ka otu \u1ecd b\u1ee5la nd\u1ecb na-ach\u1ecd mma g\u1ecb. Kedu aha m na-eme iji \u1ecbnye nt\u1ee5ziaka?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 70,
+        "total_tokens": 178
+    }
+}

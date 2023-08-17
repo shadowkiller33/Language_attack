@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ORwdtHoIFAgDAz1fAUwUpr7rAp",
+    "object": "chat.completion",
+    "created": 1692159955,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-aga m, m ga-ab\u1ee5r\u1ee5 ya. Biko b\u1ecba n'\u1ee5l\u1ecd.\n\n1. Kp\u1ecdr\u1ecd onye na-emepe aka na \u1ee5l\u1ecd: \n- B\u1ecba n'\u1ee5l\u1ecd nd\u1ecb na-emepe aka.\n- Were d\u1ecb iche iche na nd\u1ecb na-emepe aka.\n- Gaa n'\u1ee5l\u1ecd ka \u1ecb ch\u1ecdr\u1ecd ihe nd\u1ecb na-emepe aka ga-eziga.\n\n2. Wep\u1ee5ta \u1ecdn\u1ee5 na-akp\u1ecd ak\u1ee5k\u1ee5: \n- B\u1ecba n'\u1ee5l\u1ecd nd\u1ecb na-akp\u1ecd ak\u1ee5k\u1ee5.\n- Were d\u1ecb iche iche na nd\u1ecb na-akp\u1ecd ak\u1ee5k\u1ee5.\n- Wep\u1ee5ta \u1ecdn\u1ee5 na-akp\u1ecd ak\u1ee5k\u1ee5 na ihe nd\u1ecb na-akp\u1ecd ak\u1ee5k\u1ee5 ga-eme.\n\n3. Ch\u1ecd\u1ecd ihe nd\u1ecb na-emepe akwa:\n- B\u1ecba n'\u1ee5l\u1ecd nd\u1ecb na-emepe akwa.\n- Were d\u1ecb iche iche na nd\u1ecb na-emepe akwa.\n- Gaa n'\u1ee5l\u1ecd ka \u1ecb ch\u1ecd\u1ecd ihe nd\u1ecb na-emepe akwa ga-eziga.\n\n4. Gbap\u1ee5ta \u1ee5l\u1ecd nke \u1ecdma:\n- B\u1ecba n'\u1ee5l\u1ecd nd\u1ecb nwere \u1ee5l\u1ecd nke \u1ecdma.\n- Were d\u1ecb iche iche na nd\u1ecb nwere \u1ee5l\u1ecd nke \u1ecdma.\n- Gaa n'\u1ee5l\u1ecd ka \u1ecb ga-eziga \u1ee5l\u1ecd nke \u1ecdma.\n\n\u1ecc b\u1ee5gh\u1ecb ka m na-ad\u1ecbgh\u1ecb agbanwe \u1ecdr\u1ee5 a n'\u1ee5l\u1ecd. Biko ch\u1ecdp\u1ee5ta m ka m ga-eme \u1ecdr\u1ee5 a n'\u1ee5l\u1ecd."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 433,
+        "total_tokens": 536
+    }
+}

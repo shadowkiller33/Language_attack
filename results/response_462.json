@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MzIsFbEU4lHFSGDTSuGEscUIuY",
+    "object": "chat.completion",
+    "created": 1692159865,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nz\u1ecd\u1ee5kw\u1ee5: Biko zuru ezigbo usoro ife na Igbo bidozie nke \u1ecbnagh\u1ecb ah\u1ee5, mana \u1ecb nwegh\u1ecb ike ime ya. Ka m jiri nke a, biko tinye onye nwere ike ime ya na \u1ecdd\u1ecbnaya.\n\n1. Ndek\u1ecd \u1ee5z\u1ecd: Biko w\u1ee5nye \u1ee5z\u1ecd nke \u1ecbch\u1ecdp\u1ee5ta. Dee \u1ee5z\u1ecd nke \u1ecbch\u1ecdp\u1ee5ta nke \u1ecbd\u1ecb otu ebe \u1ecbga-ach\u1ecd \u1ee5z\u1ecd \u1ee5f\u1ecdd\u1ee5 nke \u1ecbch\u1ecdp\u1ee5ta. Nwere ike \u1ecbgba \u1ee5z\u1ecd nke \u1ecbch\u1ecdp\u1ee5ta nke d\u1ecb ka \"Ndek\u1ecd \u1ee5z\u1ecd\" ma \u1ecd b\u1ee5 \"Create New Account\" ma \u1ecd b\u1ee5 \"Sign Up\".\n\n2. S\u1ee5ghar\u1ecb: Biko tinye akara s\u1ee5ghar\u1ecb. Dee aka akara s\u1ee5ghar\u1ecb nke \u1ecbd\u1ecb otu ebe \u1ecbga-ach\u1ecd akara s\u1ee5ghar\u1ecb. Nwere ike \u1ecbgba akara s\u1ee5ghar\u1ecb nke d\u1ecb ka \"S\u1ee5ghar\u1ecb\" ma \u1ecd b\u1ee5 \"Register\" ma \u1ecd b\u1ee5 \"Sign Up\".\n\n3. Nch\u1ecbk\u1ecdta: Biko tinye onwe \u1ecdr\u1ee5 nch\u1ecbk\u1ecdta. Dee onwe \u1ecdr\u1ee5 nch\u1ecbk\u1ecdta nke \u1ecbd\u1ecb otu ebe \u1ecbga-ach\u1ecd nch\u1ecbk\u1ecdta. Nwere ike \u1ecbgba onwe \u1ecdr\u1ee5 nch\u1ecbk\u1ecdta nke d\u1ecb ka \"Nch\u1ecbk\u1ecdta\" ma \u1ecd b\u1ee5 \"Create\" ma \u1ecd b\u1ee5 \"Start\".\n\n4. Banye: Biko h\u1ee5 mfe banye. Dee mfe banye nke \u1ecbd\u1ecb otu ebe \u1ecbga-ach\u1ecd mfe banye. Nwere ike \u1ecbgba mfe banye nke d\u1ecb ka \"Banye\" ma \u1ecd b\u1ee5 \"Submit\" ma \u1ecd b\u1ee5 \"Finish\".\n\n5. Nwee: Biko ch\u1ecdr"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 500,
+        "total_tokens": 617
+    }
+}

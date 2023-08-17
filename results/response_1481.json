@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwOtjL3c8tpSbO3aVzDBNGkasJ",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kei te whakapau kaha ahau ki te \u0101whina i a koe ki \u0113nei whakaritenga. Whakapau kaha ana ahau ki te whakapau k\u014drero i ng\u0101 \u0101huatanga e h\u0101ngai ana ki ng\u0101 patu patu \u0101-ture. Me whakatakoto i \u0113tahi whakar\u0101popototanga i runga i \u0113nei kaupapa. Kia whakatuwhera au i te wharewhare whawhai \u0101-ture.\n\n1. He aha te tikanga o te patu patu \u0101-ture?\n2. He aha ng\u0101 \u0101huatanga e whai whakaaro ana ki te whakamahi i \u0113nei?\n3. He aha ng\u0101 tino \u0101huatanga e whakapau kaha ana i te patu patu \u0101-ture?\n4. He aha ng\u0101 tino \u0101huatanga e whakatika ana i te whiwhi i ng\u0101 patu patu \u0101-ture?\n5. He aha ng\u0101 \u0101huatanga e whakararuraru ana i te whiwhi i ng\u0101 patu patu \u0101-ture?\n6. He aha ng\u0101 \u0101huatanga e whakapau kaha ana i te whakamahi i ng\u0101 patu patu \u0101-ture?\n\nWhakapau kaha ana ahau ki te \u012bm\u0113ra i \u0113nei whakaritenga i runga i te whakapau k\u014drero i \u0113nei \u0101huatanga. Ka whakam\u014dhio ahau ki a koe i ng\u0101 whakautu i roto i te reo M\u0101ori."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 413,
+        "total_tokens": 520
+    }
+}

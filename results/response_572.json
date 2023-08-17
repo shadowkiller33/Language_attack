@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PCRYBhL2IVUrkzEOIdbW7bzFX1",
+    "object": "chat.completion",
+    "created": 1692160002,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nke a b\u1ee5 ihe \u1ecdh\u1ee5r\u1ee5, \u1ecb ga-eme ka m\u1ee5 ga-esi ha n'\u1ee5l\u1ecd \u1ecdr\u1ee5 ego ma zuo ego?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 41,
+        "total_tokens": 140
+    }
+}

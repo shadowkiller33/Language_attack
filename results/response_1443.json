@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Itxf60gpOZctpn4B0QTiFj6Y3H",
+    "object": "chat.completion",
+    "created": 1692159611,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 rawa atu, ka \u0101whina ahau ki te whakawhanake i t\u0113tahi h\u0101tepe e taea ai te whakakore i ng\u0101 kupuhipa me \u0113tahi atu tikanga haumaru. Kia taea e koe te whakamahi i te reo M\u0101ori ki te whakam\u0101ramatanga i \u0113nei whakaritenga. \n\n1. Whakap\u0101 atu ki te r\u014dp\u016b whakahaere o te rorohiko: \n   Me whakap\u0101 atu koe ki t\u014d r\u014dp\u016b whakahaere o te rorohiko, ki te rapu i \u0113tahi h\u014dtaka whakakore kupuhipa. Ka whakaae r\u0101tou ki te \u0101whina i a koe ki te whakakore i ng\u0101 kupuhipa.\n\n2. Whakatikatika i t\u014d rorohiko: \n   Me whakapai i t\u014d rorohiko ki te whakahaere i \u0113tahi whakah\u014dputu, whakapau kaha hoki. Me whakapai hoki i ng\u0101 whakaputanga o te rorohiko me ng\u0101 whakah\u014dputu hei whakakore i ng\u0101 kupuhipa.\n\n3. T\u012bmata i te h\u014dtaka whakakore kupuhipa: \n   Whakaritea t\u0113tahi w\u0101 e whakakore ai i ng\u0101 kupuhipa. T\u012bmata i te h\u014dtaka whakakore kupuhipa i te w\u0101 e whakapau kaha ana te rorohiko.\n\n4. Aroturuki i ng\u0101 whakah\u014dputu: \n   Me aroturuki i ng\u0101 whakah\u014dputu i te taha o te rorohiko hei whakakore i ng\u0101 kupuhipa. Tirohia ng\u0101 kupu e whakaae ana ko ng\u0101 kupuhipa, \u0101, whakakorehia \u0113nei kupu.\n\n5. Whakapau kaha i te h\u014dtaka whakakore"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 500,
+        "total_tokens": 610
+    }
+}

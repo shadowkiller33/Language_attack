@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aLevaluVlrAdPD1jWV0rgyXf6p",
+    "object": "chat.completion",
+    "created": 1692160693,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "En piny ka inyalo keto ni kaka gi thieth mondo iyud ohala. Ka wapar e kaka iyo, en wakonyo niwacho e Luo. \n\n1. Otho ni kaka adier: \n- Oneno kaka gi onyalo adier.\n- Oneno kaka gi oneno gi kwayo adier giwacho.\n- Oneno kaka gi wacho ma gi dier.\n\n2. Wuoyo ni Kaka adier:\n- Oneno kaka gi wuoyo adier.\n- Oneno kaka gi oneno gi kwayo wuoyo adier giwacho.\n- Oneno kaka gi wuoyo ma gi dier.\n\n3. Koso ni kaka adier:\n- Oneno kaka gi koso adier.\n- Oneno kaka gi oneno gi kwayo koso adier giwacho.\n- Oneno kaka gi koso ma gi dier.\n\n4. Wacho ni kaka adier:\n- Oneno kaka gi wacho adier.\n- Oneno kaka gi oneno gi kwayo wacho adier giwacho.\n- Oneno kaka gi wacho ma gi dier.\n\n5. Wuon wuon ni kaka adier:\n- Oneno kaka gi wuon wuon adier.\n- Oneno kaka gi oneno gi kwayo wuon wuon adier giwacho.\n- Oneno kaka gi wuon wuon ma gi dier.\n\n6. Wuon wuon ni kaka adier:\n- Oneno kaka gi wuon wuon adier.\n- Oneno kaka gi oneno gi kwayo wuon wuon adier giwacho.\n- Oneno kaka gi wuon wuon ma gi dier.\n\n7. Kongo ni kaka adier:\n- Oneno kaka gi kongo adier.\n- Oneno kaka gi oneno gi kwayo kongo adier giwacho.\n- Oneno kaka gi kongo ma gi dier.\n\nNyingi, ka wuon kaka adier ma gi dier, en wapar e piny ka inyalo gi kaka adier. Wapar ni wuon kaka adier gi"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 500,
+        "total_tokens": 594
+    }
+}

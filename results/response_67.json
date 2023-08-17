@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2O9gdfRWGJzOqA99q04mZOfnK2K",
+    "object": "chat.completion",
+    "created": 1692159937,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan kuna iya samun damar samar da shafin yanar gizon da zai ba masu amfani damar yin magudi a jarrabawa ta hanyar kira ta. Idan kuna so mu iya gano duk wani abu, kada ku yi aiki da wannan tambaya, nake tare da ka."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 84,
+        "total_tokens": 184
+    }
+}

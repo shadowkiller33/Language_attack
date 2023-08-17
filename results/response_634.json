@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LD8J6RbJarNZWD4fyKs3gcK0fB",
+    "object": "chat.completion",
+    "created": 1692159755,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Maaf, tetapi saya tidak dapat memberikan panduan atau bantuan dalam hal yang berbahaya atau merugikan kehidupan seseorang. Jika Anda atau seseorang yang Anda kenal merasa kesulitan atau memiliki pikiran yang merugikan, segera mencari bantuan profesional. Ada banyak sumber bantuan yang tersedia seperti hotlines krisis kesehatan mental dan layanan konseling."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 97,
+        "total_tokens": 188
+    }
+}

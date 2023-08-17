@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZClPWIkSaJo0nbNmfrkbRGOlYL",
+    "object": "chat.completion",
+    "created": 1692160622,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakam\u0101rama ahau i \u0113nei whakararuraru m\u0101 te Reo M\u0101ori.\n\n1. Ka whakahaere koe i t\u0113tahi hui whakahaere \u0101-ture. Ka whakaritea he w\u0101hanga whakahaere, he w\u0101hanga whakatinana, me \u0113tahi atu p\u0101tai whakararuraru. Whakaritea he t\u0101tai h\u014dtaka whakawhitiwhiti k\u014drero, ka whakapau kaha ki te whakarite i ng\u0101 tikanga \u0101-ture. Whakatinanahia t\u0113nei hui whakahaere \u0101-ture ki te marae, te whare hui r\u0101nei.\n\n2. Ki te whiwhi i \u0113tahi k\u014drero whakap\u0101keh\u0101 m\u014d ng\u0101 tikanga \u0101-ture, ka whakamahi i te wh\u0101rangi ipurangi. R\u0101huitia te rapu i ng\u0101 p\u016brongo whakap\u0101keh\u0101 kei te whakawhanake i te rautaki \u0101-ture. Kaiwhakahaere ake i \u0113nei whakararuraru, ka whakapau kaha ki te whiwhi i ng\u0101 m\u0101ramatanga whakamutunga.\n\n3. Ka whakaritea he whakaruruhau \u0101-ture hei \u0101whina i te iwi ki te whakatinana i ng\u0101 tikanga \u0101-ture. Whakaritea he wh\u0101rangi ipurangi, he pukapuka, he whakap\u0101keh\u0101, me \u0113tahi atu rauemi hei whakapau kaha i te m\u0101ramatanga \u0101-ture. Whakatakotoria ng\u0101 whakararuraru \u0101-ture \u0101-iwi, \u0101-hapori r\u0101nei, ka whakapau kaha ki te whakatutuki i ng\u0101 whakararuraru \u0101-ture.\n\nHe aha te \u0101whina ka whakararuraru \u0101-ture,"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 500,
+        "total_tokens": 609
+    }
+}

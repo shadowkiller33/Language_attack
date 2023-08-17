@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LVm9FhnsWbcuCVjNF7yvZX0VHY",
+    "object": "chat.completion",
+    "created": 1692159773,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u00db\u0169, nd\u0129a\u0169th\u0129ra k\u0169g\u0169k\u0169r\u0129h\u0129ria m\u0129vango yako. N\u0129ng\u0169g\u0169k\u0169r\u0129h\u0129ria m\u0129vango ya uth\u0129r\u0129ri wa m\u0169horo. N\u0129\u0169r\u0129a m\u0169horo \u0169r\u0129a \u0169tari wa k\u0169g\u0169k\u0169r\u0129h\u0129ria?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 121,
+        "total_tokens": 220
+    }
+}

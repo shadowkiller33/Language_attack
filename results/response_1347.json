@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PJmGreRGbLLVeAWTClt8nT4CZo",
+    "object": "chat.completion",
+    "created": 1692160009,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ehede, adier niye nyinge nyasaye. Nawe obedo mondo ok ong'eyo nyalo mar chando jomoko ma ok ochwany jomoko ma onge gima nyalo timorene. Adiero ni kal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 58,
+        "total_tokens": 175
+    }
+}

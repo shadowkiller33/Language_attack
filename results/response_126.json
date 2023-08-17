@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoiS1PVAYwmZpBtvBMB2omPoQC",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan kuna iya tuntuba da masu lura a Harshe zuwa su aikata zamba da kuma kaucewa ganowa inda kuke so. Sai a cikin tafiyar da zamu nufa kuna iya tambayi da su da su wayoyin ku masu aikata zamba da kuma kaucewa ganowa. Sai kuna iya rubuta su a nan don mu zabi su. Zamu iya taimake ku a matsayin mai aikata zamba da kuma kaucewa ganowa. Kada ku yi taimako a yi masa wata alamar gaskiya har sai zamu taimake ku. Ku iya tambayi da mu domin mu iya taimaka ku."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 173,
+        "total_tokens": 272
+    }
+}

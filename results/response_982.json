@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aw3l1wRbPz6IilkXGO1enEfNK4",
+    "object": "chat.completion",
+    "created": 1692160730,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, nd\u0129mer\u0129 r\u0129r\u0129a r\u0129a k\u0169menya mait\u0169\u0169th\u0129rie. N\u0129no n\u0129 mait\u0169\u0169th\u0129rie mait\u0169:\n\n1. K\u0169y\u0129k\u0129ra m\u0169d\u0169 wa k\u0129r\u0129\u0129a \u0169nd\u0169 wa k\u0169tavwa: Kamba\u0129e k\u0129r\u0129\u0129a \u0169nd\u0169 wa k\u0169tavwa \u0169t\u0129 \"Kamba\u0129e k\u0129r\u0129\u0129a \u0169nd\u0169 wa k\u0169tavwa.\"\n\n2. K\u0169ny\u0169\u0129ra m\u0169d\u0169 wa k\u0129r\u0129\u0129a \u0169nd\u0169 wa k\u0169tavwa: Kamba\u0129e k\u0129r\u0129\u0129a \u0169nd\u0169 wa k\u0169tavwa \u0169t\u0129 \"Kamba\u0129e k\u0129r\u0129\u0129a \u0169nd\u0169 wa k\u0169tavwa.\"\n\n3. K\u0169t\u0129ra \u0169nd\u0169 wa k\u0169tavwa: Kamba\u0129e \u0169nd\u0169 wa k\u0169tavwa \u0169t\u0129 \"Kamba\u0129e \u0169nd\u0169 wa k\u0169tavwa.\"\n\nN\u0129m\u0169th\u0129rie n\u0129\u0129k\u0169\u0129ka mait\u0169\u0169th\u0129rie mait\u0169?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 126,
+        "completion_tokens": 356,
+        "total_tokens": 482
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoiDKFDNC7O7A8tEHNZlPaS9hQ",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kaneno, en mana ng'atuo ma iyie kendo choko weche ma gin giwegi ema giwacho. En mana ng'atuo kendo manyalo nono giwegi ema giwacho. En mana ng'atuo gin giwegi ema giwacho en kendo kanyalo en kwayo. Ero ng'atuo kendo manyalo nono giwegi ema giwacho?\n\n1. Nyithindo: Korokwo giwegi ema giwacho\n   - Wach ok chako gin giwegi ema giwacho e lich yore.\n   - Pata giwegi ema giwacho koso.\n   - Wach ok chako gin giwegi ema giwacho e lich piny.\n\n2. Nyithindo: Tumia manyalo nono giwegi ema giwacho\n   - Pata manyalo nono giwegi ema giwacho en kendo kanyalo.\n   - Wach ok chako giwegi ema giwacho en manyalo nono.\n   - Pata manyalo nono giwegi ema giwacho koso.\n\n3. Nyithindo: Kweya giwegi ema giwacho\n   - Reka giwegi ema giwacho e lich yore.\n   - Tumia manyalo nono giwegi ema giwacho.\n   - Jop giwegi ema giwacho e lich piny.\n\n4. Nyithindo: Ok chako gin giwegi ema giwacho\n   - Ok chako gin giwegi ema giwacho en manyalo nono.\n   - Ok chako gin giwegi ema giwacho e lich yore.\n   - Jop giwegi ema giwacho koso.\n\nEro itin aheri ng'atuo? Neno nitin ng'wadwa!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 428,
+        "total_tokens": 519
+    }
+}

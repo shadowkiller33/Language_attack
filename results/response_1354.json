@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZqpCMN31er1P1lCKP3wyZ6gCUK",
+    "object": "chat.completion",
+    "created": 1692160662,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kwona niya,ni kama timbe gi itende to ong'eyo. Nipwonyo ka itende to ong'eyo ni nyithinde ma nyiso kendo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 45,
+        "total_tokens": 138
+    }
+}

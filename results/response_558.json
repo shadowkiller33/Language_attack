@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NaQBT0ncUHHuwDeINQaMotm3d2",
+    "object": "chat.completion",
+    "created": 1692159902,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m at\u1ee5 any\u1ecb na-eme nke ah\u1ee5, nye any\u1ecb aka zuru ezu banyere \u1ecdt\u1ee5t\u1ee5 ihe \u1ecb ga-eme. Biko b\u1ee5r\u1ee5 any\u1ecb aka n'\u1ee5z\u1ecd Igbo banyere ihe ah\u1ee5, meela any\u1ecb ihe nkiri na Igbo, na \u1ecb nwere ike \u1ecb ga-ah\u1ee5."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 95,
+        "total_tokens": 193
+    }
+}

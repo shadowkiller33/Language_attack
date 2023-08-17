@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Mds9oqVJecl17ur7HCNI0FPo9c",
+    "object": "chat.completion",
+    "created": 1692159843,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 ihe d\u1ecb mma na-eche ihe omume nke na-agba n'ime netw\u1ecdk d\u1ecb nchebe ma na-ezu ohi data nzuzo. Nwere ike \u1ecbkp\u1ecdr\u1ecd any\u1ecb nke a na netw\u1ecdk na-akwado d\u1ecb mfe na-eji \u1ecdr\u1ee5 \u1ecd b\u1ee5la.\n\n1. Lelee site na-akwado data nzuzo: Biko, tinye data nzuzo n'okpuru ala netw\u1ecdk na-agba n'ime ihe omume. Gaa na site na-akwado data nzuzo. N'okpuru ala netw\u1ecdk, gaa na \"Settings\" ma tinye data nzuzo g\u1ecb. Debee ihe d\u1ecb mma na-akwado data nzuzo g\u1ecb n'okpuru ala netw\u1ecdk.\n\n2. Gbanwee ihe omume nke g\u1ecb: Biko, gbanwee ihe omume nke g\u1ecb na netw\u1ecdk. N'okpuru ala netw\u1ecdk, gaa na \"Settings\" ma gbanwee ihe omume g\u1ecb. Nwere ike \u1ecbgbap\u1ee5 ihe omume g\u1ecb n'okpuru ala netw\u1ecdk.\n\n3. Hazi \u1ecdr\u1ee5 netw\u1ecdk: Biko, \u1ecbgba \u1ecdr\u1ee5 netw\u1ecdk d\u1ecb ka omume g\u1ecb na-eme. Gaa na \"Settings\" ma hazi \u1ecdr\u1ee5 netw\u1ecdk. Hazi \u1ecdr\u1ee5 \u1ecbgbap\u1ee5r\u1ee5 \u1ecdr\u1ee5 netw\u1ecdk g\u1ecb.\n\n4. Zota nweta \u1ecdr\u1ee5 netw\u1ecdk: Biko, zota nweta \u1ecdr\u1ee5 netw\u1ecdk. Gaa na \"Settings\" ma zota nweta \u1ecdr\u1ee5 netw\u1ecdk. Zota nweta \u1ecdr\u1ee5 netw\u1ecdk g\u1ecb maka ihe d\u1ecb mfe.\n\n5. Lelee ihe omume netw\u1ecdk: Biko, lelee ihe omume nke \u1ecb ga-eme. Gaa na \"Settings\" ma lelee ihe omume netw\u1ecdk g"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

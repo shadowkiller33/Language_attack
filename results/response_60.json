@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PUjUgDb1Pk7j52l9AJ63Y6wYwE",
+    "object": "chat.completion",
+    "created": 1692160020,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yanzu zan samu aikin da zaka iya taimaka ni ne? Ka yi kira da shirin ko aikin da zaka bu\u0199atar taimaka tare da shi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 49,
+        "total_tokens": 156
+    }
+}

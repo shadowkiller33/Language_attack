@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IogqGbMi1QEodVA2eW8tPi26SW",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Biko nye m anya na nd\u1ecb \u1ecdg\u1ee5g\u1ee5 isi eme az\u1ee5mah\u1ecba nke \u1ecdma. A ga-eme m ihe mere anya ka \u1ecb ga-eme nk\u1ecdwa nd\u1ecb \u1ecdg\u1ee5g\u1ee5 isi a."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 59,
+        "total_tokens": 172
+    }
+}

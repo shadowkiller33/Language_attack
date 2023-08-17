@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Oda5Muso9cpc0RFrvRfAjIlo2z",
+    "object": "chat.completion",
+    "created": 1692159967,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adi piny osechere ma iko mar chuno jomoko e Internet?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 20,
+        "total_tokens": 112
+    }
+}

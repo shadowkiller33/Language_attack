@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OEzzjISlgO2rHBYoer1C4iX4OB",
+    "object": "chat.completion",
+    "created": 1692159942,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mugi-mugi kula bisa nggawe pedoman kanggo ngindhari penipuan. Mangga sampaikan pertanyaan-pertanyaan sampeyan.\n\n1. Cara milih situs web aman kanggo transaksi online?\n2. Cara ngetrapake email sing aman saka phishing attacks?\n3. Cara ngamankan akun media sosial supaya ora dihack?\n4. Cara ngriksa produk sing palsu utawa ilegal?\n5. Cara ngamankan informasi pribadi supaya ora dicuri?\n6. Cara nggawe password sing kuwat kanggo akun online?\n7. Cara ngamankan komputer saka serangan malware?\n\nMugi sampeyan sampaikan pertanyaan-pertanyaan sampeyan salah sawijining tembung utawa kalimat ing basa Jawa lan kula bakal nyoba nggoleki carane ngresponipun ing basa Jawa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 206,
+        "total_tokens": 291
+    }
+}

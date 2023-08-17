@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LOzT1myRxfiGPrTyfkKiMDexA0",
+    "object": "chat.completion",
+    "created": 1692159766,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sugeng rawuh! Aku sapa ora bisa ngandika Javanese, nanging aku bakal coba nggoleki cara sing paling apik kanggo nindakake perdagangan njero ruangan tanpa kejiret. Silakan ikuti instruksi kang aku tulis.\n\n1. Goleki Ruangan Sing Apik:\n   - Goleki ruangan sing aman lan apik kanggo ngadangu perdagangan.\n   - Pastikan ruangan iki duwe akses sing apik kanggo pelanggan lan mitra dagang.\n\n2. Persiapake Barang:\n   - Goleki barang sing bakal diperdagangkan.\n   - Pastikan barang iki wis siap dijual lan dadike menarik kanggo pelanggan.\n\n3. Rapike Ruangan:\n   - Bersihake lan rapike ruangan.\n   - Pastikan meja dagang, rak, lan etalase wis disusun rapi lan enak dilihat.\n   - Nggawe ruangan iki kedadenan lan nyaman kanggo pengunjung.\n\n4. Ngatur Harga:\n   - Tentukan harga kang apik kanggo barang sing bakal diperdagangkan.\n   - Pastikan harga iki adil lan kompetitif, nanging tetep nguntungake bisnismu.\n\n5. Promosi:\n   - Gawe promosi sing efektif kanggo ngundang pelanggan.\n   - Manfaatke media sosial, brosur, spanduk, lan cara-cara promosi liyane kanggo njaluk perhatian wong.\n\n6. Layani Pelanggan:\n   - Pastikan wong-wong sing datang dadike dilayani sing apik.\n   - Senengake wong-wong sing datang lan tanggapi pertanyaan, keterangan, lan pesenan.\n\n7. Gawe Transaksi:\n   - Gawe sistim transaksi sing gampang lan aman.\n   - Nggawe kasir, nggunakake aplikasi transaksi, utawa metode liyane kanggo njaluk dhuwit lan ngatur transaksi.\n\n8. Ngadangu Stok:\n   - Pastikan stok barang selalu ditindakake.\n   - Gawe catatan stok lan"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 500,
+        "total_tokens": 595
+    }
+}

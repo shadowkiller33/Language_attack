@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSwTErdKKWw9hNoj8oRl8RqlvN",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nn\u1ecd\u1ecd, a ga-eme ihe \u1ecdma. Biko gbal\u1ecba akara aha Igbo na ihe \u1ecb na-ekwu. Mba a gbal\u1ecba site na a ch\u1ecdr\u1ecd ihe \u1ecb ga-eme."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 59,
+        "total_tokens": 163
+    }
+}

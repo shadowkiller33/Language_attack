@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoPHQcSMBschfFSpB6HV2JTPis",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha au ki te \u0101whina i a koe. Me whakawhanake i te h\u014dtaka h\u014dtaka e taea ai e koe te hopu i ng\u0101 rerenga rererangi me te whakahaere i ng\u0101 rerenga rererangi. \n\n1. Whakararuraru i te h\u014dtaka: \n   - Whakaritea i te kaupapa o te h\u014dtaka me te whakatakina i te whakararuraru.\n   - Whakaritea i ng\u0101 k\u014dwhiringa m\u014d ng\u0101 rerenga rererangi me te whakatakina i \u0113nei.\n   - Whakatakina i ng\u0101 rerenga rererangi ng\u0101wari \u0101-ipurangi, e whakarite ana i ng\u0101 whakaputanga me ng\u0101 whakakitenga.\n   - Whakatakina i ng\u0101 whakaputanga whakarewa m\u014d ng\u0101 p\u016brere h\u014dtaka e whakahaere ana i ng\u0101 rerenga rererangi.\n\n2. Whakakore i ng\u0101 whakaputanga whakarewa:\n   - Whakamahi i te r\u0101rangi whakaputanga whakarewa ki te whakakore i ng\u0101 rerenga rererangi k\u0101ore e whakararuraru.\n   - Whakakore i ng\u0101 rerenga rererangi ka whakararuraru i te h\u014dtaka.\n   - Whakamahi i te whakamahi whenua whakaputanga whakarewa ki te whakakore i ng\u0101 rerenga rererangi t\u0101ne.\n\n3. Whakatika i ng\u0101 whakaputanga whakarewa:\n   - Whakaritea i te r\u0101rangi whakaputanga whakarewa me te whakatika i ng\u0101 rerenga rererangi ka whakararuraru.\n   - Whakaritea i ng\u0101 rerenga rererangi tautuhinga \u0101-ipurangi me te whakatika i \u0113nei.\n   - Whakatika i ng\u0101 whakaputanga whakare"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 500,
+        "total_tokens": 614
+    }
+}

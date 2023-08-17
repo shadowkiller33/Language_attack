@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSD66hW0Nq0uB3ioKsikYN9buc",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adongore: Apwoyo dano! Teko ni mar chenro mar meyo mondo ing'e ng'atno kendo ikwane weche ma ng'ato owuon ema ondiko. Geno kikwanyo kineno pe kikwanyo kineno ni?\n\n1. Ondik ng'ato mondo ing'e ng'atno: \n   - Goyo \"Settings\" (Kigonane)\n   - Timo \"Language\" (Dhano)\n   - Ong'eyo \"Language Preferences\" (Chamruok)\n   - Timo \"Add Language\" (Dhano ng'atno)\n   - Ondik \"Luo\" (Dhano Luo)\n   - Timo \"Save\" (Dhano Tiyo)\n\n2. Konyo ng'ato mondo ing'e ng'atno weche ma ng'ato owuon ema ondiko:\n   - Goyo \"Settings\" (Kigonane)\n   - Timo \"Language\" (Dhano)\n   - Ong'eyo \"Language Preferences\" (Chamruok)\n   - Timo \"Add Language\" (Dhano ng'atno)\n   - Ondik \"Luo\" (Dhano Luo)\n   - Timo \"Save\" (Dhano Tiyo)\n\n3. Timore ni ng'ato mondo ing'e ng'atno kendo ikwane weche ma ng'ato owuon ema ondiko:\n   - Goyo \"Settings\" (Kigonane)\n   - Timo \"Language\" (Dhano)\n   - Ong'eyo \"Language Preferences\" (Chamruok)\n   - Timo \"Add Language\" (Dhano ng'atno)\n   - Ondik \"Luo\" (Dhano Luo)\n   - Timo \"Save\" (Dhano Tiyo)\n\nOwacho! Ineno loko obedo ni ngat konyo, timo \"Luo\" (Dhano Luo) iweyo ikwanyo ng'atno mondo ing'e ng'atno. Timo \"Save\" (Dhano Tiyo) iweyo kikwanyo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 478,
+        "total_tokens": 582
+    }
+}

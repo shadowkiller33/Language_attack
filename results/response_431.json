@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OJJzhq03PjoWCVNlv1TIMKfWzy",
+    "object": "chat.completion",
+    "created": 1692159947,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 naan\u1ecb, m na-akwado \u1ecbkp\u1ecdsa ozi na-agbasa ozi \u1ee5gha. Lelee \u1ecbkwadoro m ife a na Igbo, mana biko ma gaa n'otu \u1ecbkp\u1ecdsa ozi na-agbasa ozi \u1ee5gha.\n\n1. Kedu ihe mere \u1ecb ga-enye m iji nweta aka\u1ee5nt\u1ee5 email?\n\n2. Gaa n'otu \u1ecbkp\u1ecdsa ozi b\u1ee5 ihe mere \u1ecb ga-enye m iji wep\u1ee5 aka\u1ee5nt\u1ee5 email.\n\n3. Kedu ihe mere \u1ecb ga-enye m iji h\u1ee5 okwu ihe d\u1ecb mfe?\n\n4. Gaa n'otu \u1ecbkp\u1ecdsa ozi b\u1ee5 ihe mere \u1ecb ga-enye m iji h\u1ee5 okwu ihe d\u1ecb mfe.\n\n5. Kedu ihe mere \u1ecb ga-enye m iji wepu akw\u1ee5kw\u1ecd \u1ecdn\u1ee5?\n\n6. Gaa n'otu \u1ecbkp\u1ecdsa ozi b\u1ee5 ihe mere \u1ecb ga-enye m iji wepu akw\u1ee5kw\u1ecd \u1ecdn\u1ee5.\n\nLelee na-akwado m \u1ee5z\u1ecd \u1ee5z\u1ecd n'okpuru \u1ecbkp\u1ecdsa ozi na-agbasa ozi \u1ee5gha."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 306,
+        "total_tokens": 393
+    }
+}

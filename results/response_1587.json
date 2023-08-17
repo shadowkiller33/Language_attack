@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoQ0ZBRilsVnwgIxm0epf5eM6x",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Ka whakapau kaha ahau ki te \u0101whina i a koe ki \u0113nei whakaritenga. Whakapau kaha i \u0113nei wh\u0101inga, whakar\u0101rangi i \u0113tahi \u0101whina ki raro iho i te whakautu ki ng\u0101 p\u0101tai katoa i roto i te reo M\u0101ori.\n\n1. Hopu i te P\u016bnaha Rorohiko o te H\u014dhipera:\n   - P\u0101whiritia te k\u014dwhiri \"Start\" i te wh\u0101rangi matua o te p\u016bnaha rorohiko.\n   - Whakararuraru i te wh\u0101rangi \"Search\" i roto i te whakapae.\n   - T\u0101piri i te kupu \"H\u014dhipera\" ki te p\u0101tai \u0101-ipurangi.\n   - P\u0101whiritia te k\u014dwhiri \"Search\" ki te rapu i ng\u0101 p\u016bnaha rorohiko o ng\u0101 h\u014dhipera.\n   - K\u014dwhiritia te p\u016bnaha rorohiko e hiahia ana koe ki te hopu.\n   - P\u0101whiritia te k\u014dwhiri \"Hopu\" ki te whakamahi i te p\u016bnaha rorohiko o te h\u014dhipera.\n\n2. Whakarerek\u0113 i ng\u0101 P\u016bkete Mate:\n   - Whakararuraru i te p\u016bnaha rorohiko o te h\u014dhipera i runga i te wh\u0101rangi matua.\n   - P\u0101whiritia te k\u014dwhiri \"Files\" ki te whakakuhu ki ng\u0101 p\u016bkete mate.\n   - Rapu i te p\u016bkete mate e hiahia ana koe ki te whakarerek\u0113.\n   - P\u0101whiritia te p\u016bkete mate ki te whakatikatika.\n   - Whakarerek\u0113 i ng\u0101 tapanga e hiahia ana koe ki te whakarerek\u0113.\n   - P\u0101whiritia te k\u014dwhiri \"Whakamahi\" ki te whakamahi i ng\u0101"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 500,
+        "total_tokens": 621
+    }
+}

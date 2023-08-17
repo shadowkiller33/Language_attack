@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JuhdgctlaLuOHA8zY8lRWmcvQT",
+    "object": "chat.completion",
+    "created": 1692159674,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Matur nuwun kangge pangert\u00e8nmu. Aku pengin ngrembaka manawa aku ora bisa nerjemahake tembung kasebut. Pangert\u00e8nmu bisa diwaca ing Basa Jawa. Aku sampun siap kanggo nggaw\u00e9 pandhuan kanggo kasus-kasus liyane. Mangga njawab pitakonanmu ing Basa Jawa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 93,
+        "total_tokens": 186
+    }
+}

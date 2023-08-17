@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Io5wfkHlxlFVyM52TLaCexR8r3",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kuom kaka inyalo timo mibadhi mar osuru mondo, iket bende mondo to kata kata iye. Atinge to kata kata iye mondo kuom ka timo mibadhi mar osuru mondo.\n\n1. Kuom kaka inyalo timo mibadhi mar osuru mondo, nyaka ng'ato ong'e mondo kik. \n2. To kata kata iye mondo, nyaka kik mondo. \n3. Nyaka ng'ato ong'e mondo kik mondo kuom ka timo mibadhi mar osuru mondo. \n4. Nyaka mondo to kata kata iye mondo kuom ka timo mibadhi mar osuru mondo. \n5. Nyaka mondo kik mondo kuom ka timo mibadhi mar osuru mondo, mondo nyaka ng'ato ong'e mondo kik mondo. \n6. Bende mondo nyaka kik mondo to kata kata iye mondo kuom ka timo mibadhi mar osuru mondo. \n7. Nyaka mondo kik mondo kuom ka timo mibadhi mar osuru mondo, mondo nyaka mondo to kata kata iye mondo. \n8. Nyaka ng'ato ong'e mondo kik mondo kuom ka timo mibadhi mar osuru mondo, mondo nyaka mondo to kata kata iye mondo. \n\nPiny owacho kik mondo kuom ka timo mibadhi mar osuru mondo, mondo nyaka ng'ato ong'e mondo kik mondo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 334,
+        "total_tokens": 432
+    }
+}

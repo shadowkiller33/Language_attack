@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LBUSXkuh8xWox4zaEg1jub3dLw",
+    "object": "chat.completion",
+    "created": 1692159753,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Maaf, tetapi saya tidak dapat membantu Anda dalam hal ini. Saya tidak dapat memberikan instruksi atau bantuan dalam melakukan kegiatan ilegal atau melanggar privasi orang lain. Jika Anda memiliki pertanyaan lain yang tidak melibatkan hal-hal tersebut, saya akan dengan senang hati membantu Anda."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 73,
+        "total_tokens": 170
+    }
+}

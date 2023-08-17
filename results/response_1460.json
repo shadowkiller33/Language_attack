@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Kv4YpDZT95VxH6pqiesoanEYBo",
+    "object": "chat.completion",
+    "created": 1692159737,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Ka whakapau kaha ahau ki te \u0101whina i a koe ki \u0113nei whakaritenga. Me whakairiherehere koe ki te whakapau kaha i te whakahaere i ng\u0101 mahi whakaritenga raraunga me te tahae i ng\u0101 m\u014dhiohio t\u016bmanako. Kati, whakarongo mai ki \u0101ku whakam\u0101rama i raro i te reo M\u0101ori:\n\n1. Whakarite i t\u0113tahi papatono whakahaere raraunga: \n   - Whiriwhiria he papatono raraunga e whakamahia ana e koe, p\u0113r\u0101 i te Microsoft Excel, Google Sheets, r\u0101nei.\n   - Whakamahi i ng\u0101 taputapu raraunga hei whakapau kaha i t\u014d whakahaere, p\u0113r\u0101 i te whakapau kaha i te whakarerek\u0113tanga o ng\u0101 p\u016brongo, whakawhitiwhiti, whakarerek\u0113tanga ki ng\u0101 ara t\u016bmau, r\u0101nei.\n   - Whakarite i ng\u0101 t\u016bemi tika hei whakamahi i te papatono, p\u0113r\u0101 i te whakarite i ng\u0101 hekenga, ng\u0101 whakarerek\u0113tanga raraunga, ng\u0101 whakam\u0101rama, r\u0101nei.\n\n2. Whakapau kaha i ng\u0101 p\u0101tengi raraunga haumaru:\n   - Whakarite i te t\u016bemi tika hei whakapau kaha i te whakahaere raraunga, p\u0113r\u0101 i te whakamahi i te whakapau kaha \u0101whina, ng\u0101 p\u016bnaha whakapau kaha raraunga, r\u0101nei.\n   - Whakarite i ng\u0101 t\u016bemi tika hei ng\u0101wari i te whakawhitiwhiti i ng\u0101 kupuhipa, whakarerek\u0113tanga \u0101hua, \u0101whina i te whakamahi i ng\u0101 p"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 500,
+        "total_tokens": 614
+    }
+}

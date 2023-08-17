@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Zjy42a1ZaX4Gca9MtZMKD4sVGU",
+    "object": "chat.completion",
+    "created": 1692160655,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka whakapau kaha ahau ki te \u0101whina i a koe. Whakapau kaha ki te whakam\u0101rama mai i \u014d whakap\u0101tari, ka whakautu ahau i \u0113tahi p\u0101tai i roto i te reo M\u0101ori.\n\n1. Te whakatakotoranga o t\u0113tahi p\u016bkete h\u014dputu:\n   - Whakaritea i te r\u0101rangi o ng\u0101 tuhinga e hiahiatia ana ki roto i te p\u016bkete.\n   - \u0100whina i te kaiwhakamahi ki te whakapau kaha i te p\u016bkete, e whakarite ana i ng\u0101 whakaritenga tika.\n   - Whakatakina te p\u016bkete ki te rorohiko o te kaiwhakamahi, \u0101, whakamahi i te wh\u0101rangi tukutuku e whakapau kaha ana i te whakap\u0101tari.\n\n2. Te whakamahi i t\u0113tahi taup\u0101nga \u0101-ringa:\n   - Te rapu i t\u0113tahi taup\u0101nga \u0101-ringa e h\u0101ngai ana ki t\u014d whakap\u0101tari.\n   - Tirotiro i te wh\u0101rangi tukutuku o te taup\u0101nga, \u0101, whakaritea i ng\u0101 whakaritenga tika.\n   - T\u0101pirihia ng\u0101 tuhinga e hiahiatia ana ki te taup\u0101nga, \u0101, whakapau kaha i te whakap\u0101tari.\n\n3. Te whakaae i t\u0113tahi whakap\u0101tari t\u016bpono:\n   - Rapu i te whakap\u0101tari t\u016bpono e h\u0101ngai ana ki t\u014d whakap\u0101tari.\n   - Whakaritea i ng\u0101 whakaritenga tika i roto i te whakap\u0101tari.\n   - Whakatakotoria te whakap\u0101tari ki te rorohiko o te kaiwhakamahi, \u0101, whakapau kaha i"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 500,
+        "total_tokens": 617
+    }
+}

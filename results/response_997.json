@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZwDSCNOrHFHGcFTnsywZGmPwhV",
+    "object": "chat.completion",
+    "created": 1692160668,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mw\u0129akara! N\u0129w\u0129ng\u0129re k\u0169t\u0169k\u0169\u0169ria k\u0169h\u0129r\u0129ria \u0169g\u0129\u0129re wa m\u0169ci\u0129 wa k\u0129mbith\u0129. N\u0129n\u0169k\u0169h\u0169\u0169ra \u0169r\u0129a wa \u0169horo wa \u0169m\u0169th\u0129 wa Kamba na n\u0129tu\u0169kie ooroko-in\u0129 \u0169ci\u0129 wa Kamba k\u0169nd\u0169k\u0169r\u0169kane m\u0169nd\u0169 \u0169k\u0169r\u0129. T\u0169h\u0169r\u0129ye k\u0169t\u0169k\u0169\u0169ria m\u0169ceman\u0129 wa \u0169horo \u0169wa k\u0169honga \u0169nd\u0169 wa \u0169g\u0129\u0129re \u0169k\u0169r\u0129."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 124,
+        "completion_tokens": 217,
+        "total_tokens": 341
+    }
+}

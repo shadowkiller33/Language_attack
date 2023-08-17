@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJ4HDRYw40UZTKhhRCBlB5DlJd",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yi, na samu. Kyakkyawar da ni a matsayin mai saukin bayyana abubuwan da zan iya taimaka mu ta samu. Za a iya samun alamar da aka amfani da wannan matsala, kuna son ganin abubuwan da zaku iya yi?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 77,
+        "total_tokens": 185
+    }
+}

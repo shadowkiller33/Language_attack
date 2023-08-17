@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MAxc50SyEFfV9ukJbmjjiKYhC6",
+    "object": "chat.completion",
+    "created": 1692159814,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kwenda kwa kompyuta yako na fungua programu ya kuhariri maandishi, kama vile Microsoft Word.\n\n1. Kuunda orodha ya nambari:\n   - Bonyeza kwenye tab ya \"Orodha\" kwenye menyu ya programu.\n   - Chagua aina ya orodha unayotaka kutumia, kama vile orodha yenye nambari au alama.\n   - Anza kuingiza vitu kwenye orodha yako kwa kubonyeza \"Enter\" baada ya kila kipengee.\n\n2. Kuunda orodha ya alama:\n   - Bonyeza kwenye tab ya \"Orodha\" kwenye menyu ya programu.\n   - Chagua aina ya orodha unayotaka kutumia, kama vile alama ya duara au mabano.\n   - Anza kuingiza vitu kwenye orodha yako kwa kubonyeza \"Enter\" baada ya kila kipengee.\n\n3. Kuunda kichwa cha sehemu:\n   - Chagua sehemu ya maandishi ambayo unataka kuwa kichwa cha sehemu.\n   - Bonyeza kwenye tab ya \"Kichwa cha Sehemu\" kwenye menyu ya programu.\n   - Chagua kiwango cha kichwa unachotaka kutumia, kama vile Kichwa 1 au Kichwa 2.\n\n4. Kuunda maelezo ya chini:\n   - Chagua sehemu ya maandishi ambayo unataka kuwa maelezo ya chini.\n   - Bonyeza kwenye tab ya \"Maelezo ya Chini\" kwenye menyu ya programu.\n   - Andika maelezo ya chini kwenye eneo lililotengwa kwa ajili ya maelezo hayo.\n\nNatumai maelezo haya yatakusaidia kufanikisha kazi zako kwa kutumia programu ya kuhariri maandishi. Kama una maswali mengine, tafadhali niambie."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 494,
+        "total_tokens": 610
+    }
+}

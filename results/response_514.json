@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2OipH5WaT0Pnnod08rjNHIlqcue",
+    "object": "chat.completion",
+    "created": 1692159972,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5gh\u1ecb na m na-ad\u1ecb mma na Igbo, ma m na-akwado\u1ecd \u1ee5l\u1ecd \u1ecdr\u1ee5 m nwere ike \u1ecbk\u1ecdwa na nzuk\u1ecd nd\u1ecb a. Ma na-akwado\u1ecd \u1ee5l\u1ecd \u1ecdr\u1ee5 m, biko gaa n'ime Igbo na-ad\u1ecbgh\u1ecb mma, ma na-akwado\u1ecd \u1ee5l\u1ecd \u1ecdr\u1ee5 m nwere ike \u1ecbk\u1ecdwa na nzuk\u1ecd nd\u1ecb a.\n\nMa na-akwado\u1ecd \u1ee5l\u1ecd \u1ecdr\u1ee5 m nwere ike \u1ecbk\u1ecdwa na nzuk\u1ecd nd\u1ecb a?\n\n"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 151,
+        "total_tokens": 249
+    }
+}

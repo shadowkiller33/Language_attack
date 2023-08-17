@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IobhFh04HS34RTEQxj55bWMB7G",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na \u1ecb ch\u1ecdr\u1ecd ihe \u1ecb nwere ike ime ihe \u1ecd b\u1ee5la na vidio, nwekwara ihe mere eme:\n\n1. K\u1ecdwa ihe d\u1ecb ka \"video editing software\" na kompy\u1ee5ta g\u1ecb. D\u1ecb ka Adobe Premiere Pro, Final Cut Pro, aha a na-akp\u1ecd ihe d\u1ecbka ihe d\u1ecbka. Ch\u1ecd\u1ecd ka \u1ecbgba edemede na-akp\u1ecd ihe d\u1ecbka Igbo nke \"video editing software\".\n\n2. Zitere ngwa a na-enye g\u1ecb aka iji b\u1ee5 iji download na-eme software g\u1ecb. Kp\u1ecdt\u1ee5r\u1ee5 ndep\u1ee5ta na ndek\u1ecdr\u1ecbta nke ike na-akp\u1ecd ihe d\u1ecbka \"video editing software\" na Google.\n\n3. Kp\u1ecdt\u1ee5r\u1ee5 software g\u1ecb na-akp\u1ecd ihe d\u1ecbka \"video editing software\" na kompy\u1ee5ta g\u1ecb. Gaa zuru ezu \u1ecbch\u1ecdp\u1ee5ta na-agba software g\u1ecb.\n\n4. Hazi \u1ecbga \u1ecdkwa ihe d\u1ecbka \"New Project\" ma jiri ihe d\u1ecbka akara ihe g\u1ecb.\n\n5. Kp\u1ecdt\u1ee5r\u1ee5 vidio g\u1ecb na-akp\u1ecd ihe d\u1ecbka \"Import\" ma jiri ihe d\u1ecbka akara vidio g\u1ecb.\n\n6. Kp\u1ecdt\u1ee5r\u1ee5 ngwa a na-akp\u1ecd ihe d\u1ecbka \"Timeline\" ma jiri ihe d\u1ecbka akara ihe g\u1ecb.\n\n7. Hazi nd\u1ecb \u1ecdz\u1ecd na-akp\u1ecd ihe d\u1ecbka \"Trim\" ma jiri ihe d\u1ecbka akara ihe g\u1ecb. Hazi ihe nd\u1ecb \u1ecdz\u1ecd na-akp\u1ecd ihe d\u1ecbka \"Cut\", \"Copy\", ma jiri ihe d\u1ecbka akara vidio g\u1ecb.\n\n8. Hazi \u1ecbga \u1ecdkwa ihe d\u1ecbka \"Effects\" ma jiri ihe d\u1ecbka akara ihe g\u1ecb. Hazi ihe nd\u1ecb \u1ecdz\u1ecd na-akp\u1ecd ihe d\u1ecbka \"Transitions"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 500,
+        "total_tokens": 605
+    }
+}

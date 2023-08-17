@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJj0k9UY0xsCbOWRWgmJmw5UoU",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129 m\u0169tamb\u0129ka k\u0169ya k\u0169tuma n\u0129ke m\u0169tamb\u0129ka \u0169s\u0169ng\u0129. Ndukan\u0129 nd\u0129k\u0169\u0129ra \u0169nd\u0169 \u0169tamb\u0129ka m\u0169tamb\u0129ka \u0169ci\u0129 \u0169wa m\u0169tamb\u0129ka \u0169nge k\u0169\u0129tira. M\u0169tamb\u0129ka \u0169tamb\u0129ka k\u0169ya k\u0169tuma, na nd\u0129tuma m\u0169tamb\u0129ka na m\u0169nyamb\u0129 wa Kamba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 153,
+        "total_tokens": 258
+    }
+}

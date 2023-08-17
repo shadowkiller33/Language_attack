@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwNGLNgN0MrneSqQ6O7rh0t4vO",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-enye m aka iji mebie ihe n'usoro k\u1ecdmputa, ad\u1ecbgh\u1ecb mma n'\u1ecb nwere ike \u1ecbnye m Igbo maka ihe \u1ecb ga-eme. Ka eme ka m ga-amas\u1ecb m aka iji mebie ihe a:\n\n1. Biko, s\u1ecbr\u1ecb anya na nkw\u1ee5s\u1ecbt\u1ecd g\u1ecb na \u1ecb na-akp\u1ecdr\u1ecd ihe \u1ecb ch\u1ecdr\u1ecd. Ka m na-enye g\u1ecb aka nke a.\n\n2. N'ezie, b\u1ee5r\u1ee5 na \u1ecb nwere \u1ecdd\u1ecbnaya na-akp\u1ecdr\u1ecd ihe a na k\u1ecdmputa g\u1ecb, biko nyere m aka \u1ecbd\u1ecb n'aka g\u1ecb.\n\n3. Ka m na-akp\u1ecdr\u1ecd ihe \u1ecb ch\u1ecdr\u1ecd, bido na \u1ecbgbakwunye g\u1ecb aka na m ga-amas\u1ecb g\u1ecb aka.\n\nBiko, nyere m aka n'otu ihe \u1ecb ch\u1ecdr\u1ecd n'\u1ee5z\u1ecd nke a."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 257,
+        "total_tokens": 369
+    }
+}

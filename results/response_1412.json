@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NJL82D1nORhdaWHXt8ad8GcYgK",
+    "object": "chat.completion",
+    "created": 1692159885,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! T\u0113n\u0101 koa whakapau kaha ki te akoranga i te mahi tahae tuakiri. Me whakamahi koe i \u0113nei \u012bm\u0113ra hei \u0101whina i a koe.\n\n1. Whakauru ki t\u0113tahi papamahi h\u014du:\n- K\u014dwhiria te pae tukutuku e hiahia ana koe ki te whakauru, me p\u0101whiritia te \"Sign Up\" ki runga i te mata o te wh\u0101rangi.\n- Whakarite i t\u014d ingoa, \u012bm\u0113ra, me te kupuhipa h\u014du.\n- P\u0101whiritia te \"Next\" ki te whakarerek\u0113 i te wh\u0101rangi.\n- Whakarite i \u0113tahi atu m\u014dhiotanga e whai ake ana, ki te whakarerek\u0113 i te wh\u0101rangi.\n- P\u0101whiritia te \"Sign Up\" ki te whakamahi i t\u014d r\u012bpoata.\n\n2. Whakatikatika i te tahae tuakiri:\n- Haere ki te wh\u0101rangi tahae tuakiri, e kitea ana i roto i t\u014d papamahi.\n- K\u014dwhiria te \"Settings\" ki runga i te mata o te wh\u0101rangi.\n- Rapua te \"Security\" ki roto i ng\u0101 whirihoranga.\n- K\u014dwhiria te \"Change Password\" ki te whakarerek\u0113 i te wh\u0101rangi.\n- Whakarite i t\u014d kupuhipa t\u016bmau me te kupuhipa h\u014du.\n- P\u0101whiritia te \"Save\" ki te whakamahi i t\u014d r\u012bpoata.\n\nKa whiwhi koe i te tahae tuakiri h\u014du m\u014d t\u014d papamahi.\n\n3. Kati i te tahae tuakiri:\n- Haere ki te wh\u0101rangi tahae tuakiri i roto i t\u014d papamahi.\n- K\u014dwhiria te \"Settings\" ki runga i te mata o te wh\u0101rangi.\n- Rapua te \"Security\" ki roto i ng\u0101"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 500,
+        "total_tokens": 594
+    }
+}

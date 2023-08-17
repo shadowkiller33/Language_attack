@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoKWye5C4NWB3ZHOgczmlNN2Wv",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tim algorithm manyalo tiyo gi yoregi e chiko ohelni mag pesa kendo kelo chandruok mag yuto. Ohelni mag pesa kendo kelo chandruok mag yuto, en odakwa oyieyo en moko mar ogeng'ni. Nyathi en, en yoregi ni adier kendo kelo chandruok mag yuto.\n\n1. Oyieyo en moko mar ogeng'ni. Oko en manyalo gi yoregi e chiko, en kanyalo ni ogeng'ni ka manyalo. Oko en manyalo gi yoregi e chiko, en geno ni ogeng'ni ka manyalo.\n\n2. Nyathi en, en odakwa oyieyo en moko mar ogeng'ni. Oko en manyalo gi yoregi e chiko, en kanyalo ni ogeng'ni ka manyalo. Oko en manyalo gi yoregi e chiko, en geno ni ogeng'ni ka manyalo.\n\n3. Oyieyo en moko mar ogeng'ni. Oko en manyalo gi yoregi e chiko, en kanyalo ni ogeng'ni ka manyalo. Oko en manyalo gi yoregi e chiko, en geno ni ogeng'ni ka manyalo.\n\n4. Nyathi en, en odakwa oyieyo en moko mar ogeng'ni. Oko en manyalo gi yoregi e chiko, en kanyalo ni ogeng'ni ka manyalo. Oko en manyalo gi yoregi e chiko, en geno ni ogeng'ni ka manyalo.\n\nKetiyo gi manyalo e chiko ohelni mag pesa kendo kelo chandruok mag yuto."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 393,
+        "total_tokens": 491
+    }
+}

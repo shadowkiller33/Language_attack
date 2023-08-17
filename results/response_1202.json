@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZDu4zohnUQQ5y07ZqP5DxgsMK1",
+    "object": "chat.completion",
+    "created": 1692160623,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kwako niyithindo kaka ginyalo tiyo gi ligangla, ang'eyi podi nitieyo boti:\n\n1. Konyo ka nyithindo: Konyo ka nyithindo ni ogendo. Nyakonyo kaneno koko nitieyo kaka megi tek. Niyithindo kaka ginyalo tiyo gi ligangla ni ng'eyi?\n\n2. Pire kaka tugi: Pire kaka tugi ni oneno. Tugi kaneno koko nitieyo kaka megi tek. Pire kaka tugi ni ng'eyi?\n\n3. Nyaka kaka ka tugi: Nyaka kaka ka tugi ni oneno. Ka tugi kaneno koko nitieyo kaka megi tek. Nyaka kaka ka tugi ni ng'eyi?\n\nNitieyo boti kaka megi tek ni ng'eyi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 202,
+        "total_tokens": 287
+    }
+}

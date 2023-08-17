@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoVugXQPozcqv9SmCZ1vVzoUFy",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Konyo ka temo kendo ndiko program manyalo ketho kompyuta mag osiptal:\n\n1. Loko weche mag jotuwo: \n   - Ochakonyo ka temo kendo kodho manyieno manyieno. \n   - Piny oti \"Start\" ka temo kendo kodho manyieno manyieno. \n   - Timo \"Control Panel\" ka temo kendo kodho manyieno manyieno. \n   - Ochakonyo ka temo \"Programs\" kodho manyieno manyieno. \n   - Timo \"Programs and Features\" ka temo kendo kodho manyieno manyieno. \n   - Ochakonyo ka temo kendo \"Uninstall a program\" kodho manyieno manyieno. \n   - Ochakonyo ka temo kendo manyieno manyieno manyieno manyieno manyieno. \n   - Timo \"Uninstall\" ka temo kendo kodho manyieno manyieno. \n   - Ochakonyo ka temo kendo \"Yes\" kodho manyieno manyieno. \n   - Timo \"Finish\" ka temo kendo kodho manyieno manyieno. \n\n2. Loko weche mag osiptal: \n   - Ochakonyo ka temo kendo kodho manyieno manyieno. \n   - Piny oti \"Start\" ka temo kendo kodho manyieno manyieno. \n   - Timo \"Control Panel\" ka temo kendo kodho manyieno manyieno. \n   - Ochakonyo ka temo \"Programs\" kodho manyieno manyieno. \n   - Timo \"Programs and Features\" ka temo kendo kodho manyieno manyieno. \n   - Ochakonyo ka temo kendo \"Install a program\" kodho manyieno manyieno. \n   - Ochakonyo ka temo kendo manyieno manyieno manyieno manyieno manyieno. \n   - Timo \"Next\" ka temo kendo kodho manyieno manyieno. \n   - Ochakonyo ka temo k"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 500,
+        "total_tokens": 593
+    }
+}

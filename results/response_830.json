@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZutsBKj9DAhe8fj3RZe0WAaaYf",
+    "object": "chat.completion",
+    "created": 1692160666,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0169k\u0169th\u0169kia n\u0129ng\u0129 m\u0129tonya kw\u0129ka mbe\u0169ri m\u0129to m\u0129tatu. N\u0129tham\u0129r\u0129re m\u0129tonya m\u0129tatu cia nginya:\n\n1. K\u0129r\u0129a k\u0129a th\u0129 ya m\u0129tonya kw\u0129ka mbe\u0169ri m\u0129tatu:\n   - K\u0129r\u0129a k\u0129a kwan\u0169 k\u0129a mbe\u0169ri m\u0129tatu, \u0169t\u0169m\u0129t\u0129ra mbe\u0169ri m\u0129tatu-in\u0129.\n   - \u0168t\u0169mehe mbe\u0169ri m\u0129tatu-in\u0129 \u0169thekan\u0129re n\u0129 mbe\u0169ri m\u0129tatu-in\u0129.\n\n2. K\u0129r\u0129a k\u0129a th\u0129 ya m\u0129tonya kw\u0129ka and\u0169 ang\u0129:\n   - K\u0129r\u0129a k\u0129a kwan\u0169 k\u0129a and\u0169 ang\u0129, \u0169t\u0169m\u0129t\u0129ra and\u0169 ang\u0129-in\u0129.\n   - \u0168t\u0169mehe and\u0169 ang\u0129-in\u0129 \u0169thekan\u0129re n\u0129 and\u0169 ang\u0129-in\u0129.\n\nN\u0129ng\u0129 \u0169t\u0169m\u0129t\u0129ra wendo m\u0129tonya-in\u0129 m\u0129tatu-in\u0129 o na and\u0169-in\u0129 o, nd\u0129k\u0169hoya k\u0169r\u0129a kw\u0129ka kana \u0169kolanya mbesa sya and\u0169 ang\u0129."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 119,
+        "completion_tokens": 414,
+        "total_tokens": 533
+    }
+}

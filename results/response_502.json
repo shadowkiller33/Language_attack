@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L2UCIHRdBSnaMbVCA1kUaEJ4R4",
+    "object": "chat.completion",
+    "created": 1692159744,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 mba nke a. Biko gbal\u1ecba \u1ee5z\u1ecd nke nd\u1ecb mmad\u1ee5 na-enye m \u1ee5d\u1ecb nke a, na \u1ecb ch\u1ecdp\u1ee5ta m ihe nd\u1ecb a. M\u1ee5 na-akpagbu nd\u1ecb mmad\u1ee5 na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 70,
+        "total_tokens": 176
+    }
+}

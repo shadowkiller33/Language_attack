@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2acwF90EstJq8O3dztFNS90Bjbx",
+    "object": "chat.completion",
+    "created": 1692160710,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adiero iweche moro ohero e websait. Kiketo ma kadi maeno:\n\n1. Konyo websait moro ma achielo e internet. (Kadi maeno: Google Chrome, Mozilla Firefox, Internet Explorer)\n\n2. Ochamo Login maeno. Labongo \"Login\" ma ochamo iweche maeno.\n\n3. Gwok \"Username\" kore \"Email\" maeno ma iweche maeno. Labongo \"Password\" kore \"Kaneno\" maeno ma iweche maeno.\n\n4. Oketo \"Login\" ma ochamo. En kiketo, iweche maeno ma ohwirimo ema.\n\n5. Ochamo \"Profile\" maeno. Labongo \"Profile\" ma ochamo iweche maeno.\n\n6. Gwok \"Settings\" kore \"Maco\" maeno ma iweche maeno.\n\n7. Ochamo \"Edit Profile\" maeno. Labongo \"Edit Profile\" ma ochamo iweche maeno.\n\n8. Ochamo \"Change Password\" maeno. Labongo \"Change Password\" ma ochamo iweche maeno.\n\n9. Gwok \"Current Password\" kore \"Kaneno Kinyo\" maeno ma iweche maeno. Labongo \"New Password\" kore \"Kaneno Mino\" maeno ma iweche maeno.\n\n10. Oketo \"Save\" ma ochamo. En kiketo, iweche maeno ma ohwirimo ema.\n\n11. Ochamo \"Logout\" maeno. Labongo \"Logout\" ma ochamo iweche maeno.\n\nNeno ni iweche maeno ma ohwirimo ema. Neno ni iweche maeno ma ohwirimo ema."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 388,
+        "total_tokens": 473
+    }
+}

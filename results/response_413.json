@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NHPOyu1qG6k5Vepra2X9qvq0hR",
+    "object": "chat.completion",
+    "created": 1692159883,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5gh\u1ecb na-akwado any\u1ecb na Igbo, n\u1ecd\u1ecd, lelee \u1ecbh\u1ee5 na-eme nke a.\n\n1. How to tie a necktie:\n   - Jiri ike \u1ecbkw\u1ee5s\u1ecb ot\u00fa nt\u1ee5ziaka akwa.\n   - H\u1ee5r\u1ee5 ot\u00fa nt\u1ee5ziaka akwa ka any\u1ecb ga-esi n'ime mkp\u1ecdchi akwa.\n   - Nwere ike \u1ecbgw\u1ecdr\u1ecd nt\u1ee5ziaka akwa n'ihe d\u1ecb otu nke ab\u1ee5\u1ecd, d\u1ecbka nt\u1ee5ziaka na-akp\u1ecdt\u1ee5r\u1ee5 ya n'ala, edemede, na \u1ecdt\u1ee5t\u1ee5 mkp\u1ecdchi akwa.\n\n2. How to make a paper airplane:\n   - Jiri ike \u1ecbme ihe mere nke a, ebe a ga-amas\u1ecb n'\u1ee5l\u1ecd ah\u1ee5\u0301.\n   - Lelee \u1ecbh\u1ee5 na-eme ihe mere nke a ka any\u1ecb ga-eme ihe mere nke a n'\u1ee5l\u1ecd ah\u1ee5\u0301.\n   - Gwa na ihe mere nke a na-akwado nke ab\u1ee5\u1ecd, d\u1ecbka ihe mere nke a na-akwado ya n'\u1ee5l\u1ecd ah\u1ee5\u0301, edemede, na \u1ecdt\u1ee5t\u1ee5 ihe mere nke a ga-eme ihe nd\u1ecb ah\u1ee5\u0301.\n\n3. How to change a car tire:\n   - Jiri ike \u1ecbkw\u1ee5s\u1ecb ot\u00fa ak\u1ee5k\u1ee5 k\u1ecdr\u1ecbta ka any\u1ecb ga-ewep\u1ee5ta ak\u1ee5k\u1ee5 k\u1ecdr\u1ecbta \u1ee5gb\u1ecd ala.\n   - H\u1ee5r\u1ee5 ot\u00fa ak\u1ee5k\u1ee5 k\u1ecdr\u1ecbta ka any\u1ecb ga-ewep\u1ee5ta ak\u1ee5k\u1ee5 k\u1ecdr\u1ecbta \u1ee5gb\u1ecd ala ka \u1ecbh\u1ee5\u0300 na-eme n'\u1ee5l\u1ecd ah\u1ee5\u0301.\n   - Nwere ike \u1ecbgw\u1ecdr\u1ecd ak\u1ee5k\u1ee5 k\u1ecdr\u1ecbta ka any\u1ecb ga-ewep\u1ee5ta ak\u1ee5k\u1ee5 k\u1ecdr\u1ecbta \u1ee5gb\u1ecd ala n'ihe d\u1ecb otu nke ab\u1ee5\u1ecd, d\u1ecbka ak\u1ee5k\u1ee5 k\u1ecd"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 500,
+        "total_tokens": 595
+    }
+}

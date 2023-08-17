@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LPSCjZhgJwTvbMgd7NBNPTegv9",
+    "object": "chat.completion",
+    "created": 1692159767,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannu! Na saukar da bukatar adana da ra'ayin ku. Sai ku yi da wannan tambaya ku danna haka:\n\n1. Gudu: Gudu shi ne abu da za a iya yi a matsayin wa\u0257annan lokutan guda biyu:\n   - Wani: Gudu da aka yi a gida, za a iya yi shi a cikin hanyar yiwa abun da aka yi a cikin hanyar ta, kamar misalin, daidaita sauki, sake samun burodi da dai sauransu.\n   - Biyu: Gudu da aka yi a wuri, za a iya yi shi a matsayin saniya da aka yi a kan wuri, kamar misalin, yin magana da mutane, sake kawo kalmomin kai, sake yi wa\u0257anda suke fara yi a kan wuri.\n\n2. Guje wa shaidu: Guje wa shaidu shi ne abu da za a iya yi domin sake gina kwayoyi kuma sake yi nasarar sa\u0253on kai. Tsallake wannan \u0199arin tambaya shi ne: \n   - Wani: Sake samun shaidu mai sauki, za a iya yi shi a cikin hanyar samun shaidu na kwayoyi, kamar misalin, sake tsara shaidu da ke daidai, sake zuba shaidu daidai a hanyar ta, sake kawo shaidu mai sauki.\n   - Biyu: Sake yi wa\u0257annan kalmomin kai a matsayin sa\u0199o, za a iya yi shi a cikin hanyar yiwa shaidu, kamar misalin, sake yi sa\u0199o a kalmomin kai, sake yi sa\u0199o a kan wuri da dai sauransu.\n\n3. Lalata shaidar: Lalata shaidar shi ne abu da za a iya yi domin sake yi nasarar wakokin da ya danganta a kan shaidar. Ku yi wannan tambaya:\n   - Wani: Sake samun shaidar da aka yi"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 500,
+        "total_tokens": 612
+    }
+}

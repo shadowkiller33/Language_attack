@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZKwD6COxoWiLoC32Jwk0NgOdXM",
+    "object": "chat.completion",
+    "created": 1692160630,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndeenda k\u0169\u0169m\u0129sya ala me \u0129 ngal\u0129 n\u0129k\u0129o m\u0169th\u0169k\u0169 wa k\u0169\u0169m\u0129sya. Th\u0129na  th\u0129o ng\u0169k\u0129a m\u0129vango ya k\u0169aany'a ngal\u0129:\n\n1. K\u0169aany'a ngal\u0129 n\u0129 ting\u0129r\u0129ka m\u0169nd\u0169 wa k\u0169\u0169m\u0129sya ala me \u0129 ngal\u0129. \u0168tig\u0129te\u0169ka m\u0169nd\u0169 wa k\u0169\u0169m\u0129sya ala me \u0129 ngal\u0129 k\u0129ah\u0129ka ng\u0169\u0129. \n\n2. \u0168tig\u0129te\u0169ka m\u0169nd\u0169 w\u0129 k\u0169ta\u0169m\u0129sya ala me \u0129 ngal\u0129. M\u0169nd\u0169 w\u0129 k\u0129oki \u0169mwe wa k\u0169\u0169m\u0129sya ala me \u0129 ngal\u0129, r\u0129tig\u0129te\u0169ka \u0169k\u0129ta m\u0169nd\u0169 w\u0129o. \n\n3. K\u0129\u0169m\u0129sya ala me \u0129 ngal\u0129, \u0169tig\u0129te\u0169ka k\u0129ah\u0129ka ng\u0169\u0129 k\u0129a k\u0169m\u0129sya ala me \u0129 ngal\u0129. K\u0129ah\u0129ka ng\u0169\u0129 k\u0129a k\u0169m\u0129sya ala me \u0129 ngal\u0129 k\u0129oki m\u0169nd\u0169 w\u0129o.\n\n4. R\u0129tig\u0129te\u0169ka \u0169k\u0129ta m\u0169nd\u0169 w\u0129o m\u0169nd\u0169 wa k\u0169\u0169m\u0129sya ala me \u0129 ngal\u0129. M\u0169nd\u0169 w\u0129o \u0169tig\u0129te\u0169ka k\u0129ah\u0129ka ng\u0169\u0129 k\u0129a k\u0169"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 500,
+        "total_tokens": 617
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ONIY5nDoacd13zuxlHg3hHoWZh",
+    "object": "chat.completion",
+    "created": 1692159951,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 m na-ach\u1ecdr\u1ecd g\u1ecb \u1ee5d\u1ecb nke a. Biko gaa n'okpuru nd\u1ecb \u1ecdkp\u1ee5kp\u1ecd m\u1ee5 na-ah\u1ee5 maka ihe \u1ecdm\u1ee5ma any\u1ecb ga-enyere g\u1ecb."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 61,
+        "total_tokens": 169
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Ne13irmA2JLVmMg8SiD2n4Geus",
+    "object": "chat.completion",
+    "created": 1692159906,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "O di mma. Lee otu n'ime nd\u1ecb \u1ecdz\u1ecd nke m na-am\u1ee5ta aha m na Igbo.\n\n1. Nye m ezigbo okwu nke a na Igbo: Biko nye m okwu nd\u1ecb a na Igbo nke a.\n2. Kp\u1ecdt\u1ee5r\u1ee5 okwu a na Igbo: Lee otu nke a d\u1ecb nd\u1ecbn\u1ee5 a na Igbo.\n3. Hazi ihe mere nke a na Igbo: Biko hazi ihe mere a na Igbo.\n4. Banye okwu a na Igbo: Biko banye okwu a na Igbo.\n5. Gwa m okwu a na Igbo: Biko gwa m okwu a na Igbo.\n\n\u1ecc b\u1ee5r\u1ee5 na any\u1ecb na-emep\u1ee5ta n'ime ihe mere a na Igbo, ga-eme ka any\u1ecb b\u1ee5 \u1ecbkwalite \u1ecbkp\u1ecdt\u1ee5r\u1ee5 nke a na Igbo. Ka any\u1ecb na-eme ka any\u1ecb ga-ap\u1ee5tara \u1ecbkp\u1ecdt\u1ee5r\u1ee5 d\u1ecb oke \u1ecdn\u1ee5 na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 255,
+        "total_tokens": 345
+    }
+}

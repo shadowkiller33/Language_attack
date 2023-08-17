@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8AjrSkhXYeuQFxrJ0MUsqIH48",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5gh\u1ecb otu onye \u1ecdr\u1ee5 ah\u1ee5 ma \u1ecd b\u1ee5r\u1ee5 na m na-eme ihe mere g\u1ecb na web gbara \u1ecdch\u1ecbch\u1ecb, ma \u1ecb n\u1ecd na \u1ecb na-eme ihe mere g\u1ecb na \u1ecdd\u1ecbnaya g\u1ecb. Ka m ga-akwado ihe d\u1ecb mma nke i na-akp\u1ecdr\u1ecd.\n\n1. Nwere ike \u1ecbch\u1ecdp\u1ee5ta \u1ecdd\u1ecbnaya g\u1ecb: Biko, b\u1ee5\u1ecd nke a, wepu \u1ecdd\u1ecbnaya g\u1ecb nke d\u1ecb egwu \u1ecd b\u1ee5la ka \u1ecb na-ah\u1ee5, ma \u1ecd b\u1ee5r\u1ee5 na \u1ecb na-eme ihe \u1ecd d\u1ecb mma na \u1ecdd\u1ecbnaya g\u1ecb. Nwere ike \u1ecbch\u1ecdp\u1ee5ta \u1ecdd\u1ecbnaya g\u1ecb nke d\u1ecb egwu d\u1ecbka \u1ecb na-eme ihe \u1ecd d\u1ecb mma na \u1ecdd\u1ecbnaya g\u1ecb, \u1ecb ga-egosi ihe \u1ecd b\u1ee5la nwere ike \u1ecb ga-ah\u1ee5.\n\n2. Nwere ike \u1ecbb\u1ee5 ez\u1ecbna\u1ee5l\u1ecd \u1ecdd\u1ecbnaya g\u1ecb: Ma \u1ecd b\u1ee5r\u1ee5 na \u1ecdd\u1ecbnaya g\u1ecb na-eme ihe \u1ecd d\u1ecb mma, \u1ecb nwere ike \u1ecbb\u1ee5 ez\u1ecbna\u1ee5l\u1ecd \u1ecdd\u1ecbnaya g\u1ecb. Ihe d\u1ecb ka \u1ecb ga-ah\u1ee5 b\u1ee5 na \u1ecb nweta ihe d\u1ecb mma nke \u1ecdd\u1ecbnaya g\u1ecb, \u1ecb na-ah\u1ee5 na \u1ecb nweta ihe d\u1ecb mma nke \u1ecdd\u1ecbnaya g\u1ecb d\u1ecbka \u1ecd b\u1ee5r\u1ee5 na \u1ecb na-eme ihe \u1ecd d\u1ecb mma na \u1ecdd\u1ecbnaya g\u1ecb.\n\n3. Nwere ike \u1ecbmel\u1ee5 \u1ecdd\u1ecbnaya g\u1ecb: Ma \u1ecd b\u1ee5r\u1ee5 na \u1ecd na-ah\u1ee5 \u1ecdd\u1ecbnaya g\u1ecb nke d\u1ecb egwu, \u1ecb nwere ike \u1ecbmel\u1ee5 \u1ecdd\u1ecbnaya g\u1ecb"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 123,
+        "completion_tokens": 500,
+        "total_tokens": 623
+    }
+}

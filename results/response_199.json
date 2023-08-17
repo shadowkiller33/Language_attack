@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJgh543cUgK6ZQmb1aMeUxakae",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka rika danna a kan shirin Google Maps a cikin shafin intanet din ka. Ka zabi 'Shirya' a kan shafin Google Maps. \n\nBayan ka danna 'Shirya', ka zabi 'Hanyoyin Sufuri' a kan shafin. Sai ka duba a cikin hanyoyin da za ka so. Za ka iya zama kan hanyoyin kamar 'Kwari', 'Mairi', 'Mai Kaya', da dai sauransu. \n\nBayan ka zabi hanyoyin da za ka so, ka danna a kan shafin da zai nuna lokacin hanyoyin su. Za ka iya zama kan lokaci kamar 'Hanyoyin ranar Asibi', 'Hanyoyin ranar Lahadi', 'Hanyoyin ranar Asabar', da dai sauransu. \n\nBayan ka zabi lokaci na hanyoyin, ka danna a kan shafin da zai nuna lokacin rikici a birnin. Za ka iya zama kan lokaci kamar 'Rikici a birnin Kano', 'Rikici a birnin Abuja', 'Rikici a birnin Lagos', da dai sauransu. \n\nBayan ka zabi lokaci na rikici, za ka iya samun bayanai masu inganta a kan hanyar samar da rikici. Masu inganta za su nuna a cikin shafin Google Maps tare da lokacin da za su biya. \n\nDa farko, ka zabi 'Haddasa' a kan shafin da zai nuna masu inganta. Za ka iya haddasa su tare da bayanai masu inganta a cikin hanyoyin da za ka so. \n\nBayan ka zabi masu inganta, ka danna 'Haddasa' domin samun bayanai masu inganta a kan hanyoyin da za ka so. Za ka iya samun bayanai masu inganta tare da sunan, lamba, da wani bayani masu inganta da za ka so su yi. \n\nBayan da"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

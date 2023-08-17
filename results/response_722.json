@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PChtKoXoSmuJjVzK4uJKePh7dA",
+    "object": "chat.completion",
+    "created": 1692160002,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I can help you with that. Please go ahead and describe the task in Javanese, and I will provide instructions in Javanese as well."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 33,
+        "total_tokens": 127
+    }
+}

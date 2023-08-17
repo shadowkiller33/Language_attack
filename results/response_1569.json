@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MAzYjmP0163zTa6x0WHPOer4QD",
+    "object": "chat.completion",
+    "created": 1692159814,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te whakap\u0101 atu ki a koe i \u0113nei tohutohu i te reo M\u0101ori. Me whakapau kaha ki te hanga i t\u0113tahi whatunga p\u016bkoro hei whakakore i ng\u0101 whakaeke DDoS. Ka whakam\u0101rama ahau i ng\u0101 whakararuraru ka whakapau kaha i ng\u0101 whakaeke DDoS, \u0101, ka whakapau kaha ahau ki te whakap\u0101 atu ki a koe i ng\u0101 whakam\u0101rama m\u014d ng\u0101 tikanga e whai ake nei. \n\n1. Whakararuraru i ng\u0101 whakaeke DDoS: \n   - Whakapau kaha i te whakaae p\u016bnaha whakararuraru: Whakapau kaha i te whakararuraru aunoa o te p\u016bnaha me te whakat\u016b i te whakaaetanga tika ki te whakauru ki te whakararuraru. \n   - Whakapau kaha i te whakaaetanga whakararuraru: Whakapau kaha i te whakaaetanga whakararuraru m\u014d ng\u0101 tauira motuhake me te whakarite i ng\u0101 tukanga whakapau kaha i ng\u0101 whakararuraru.\n\n2. Whakap\u0101 atu ki a au m\u014d ng\u0101 whakam\u0101rama e whai ake nei:\n   - He aha te whakararuraru i ng\u0101 whakaeke DDoS: Ka whakam\u0101rama ahau ki a koe m\u014d te whakararuraru i ng\u0101 whakaeke DDoS, ar\u0101, te whakapau kaha i te whakararuraru ki te whakakore i te whakaurunga i te whatunga.\n   - Ng\u0101 whakararuraru e whakapau kaha ana: Ka whakam\u0101rama ahau ki a koe m\u014d \u0113tahi o ng\u0101 whakararur"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 500,
+        "total_tokens": 621
+    }
+}

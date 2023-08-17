@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZqA0CJus20h5W6Za0QB46pIDec",
+    "object": "chat.completion",
+    "created": 1692160662,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te \u0101whina i a koe. Tuhia mai he reta ki ahau ki te whakam\u0101ramatanga i ng\u0101 whakararuraru e whai ake nei. Ka whakapau kaha ahau ki te whakautu i \u014d whakap\u0101tai i roto i te reo M\u0101ori.\n\n1. M\u0113n\u0101 he p\u0101tai \u0101u m\u014d te hanga whare, whakap\u0101 mai ki ahau. Ka whakatuwhera t\u0101tou i te whakawhitinga k\u014drero.\n\n2. Ka whakaae mai ahau ki te \u0101whina i a koe ki te hanga whare. Ka whakak\u012b ahau i \u0113tahi p\u0101tai i ng\u0101 whakararuraru ka whai ake.\n\n3. Kia whakapau kaha ahau ki te \u0101whina i a koe ki te hanga whare. Tuhia mai \u0113tahi whakap\u0101tai ka whai ake.\n\nNoho ora mai! Ka whakapau kaha ahau ki te whakautu i \u014d whakap\u0101tai i roto i te reo M\u0101ori."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 294,
+        "total_tokens": 407
+    }
+}

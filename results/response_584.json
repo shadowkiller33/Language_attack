@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aJqIwiCU4Vaxo8aTOU3PUnLSaf",
+    "object": "chat.completion",
+    "created": 1692160691,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na-emei nke a, nwere ike \u1ecbmelite mba \u1ecdn\u1ee5 nke \u1ecdd\u1ecbnala na-egosi nd\u1ecb di ka \u1ecbga-eme ka ha gbal\u1ecba ak\u1ee5. Ihe \u1ecd b\u1ee5la \u1ecb ga-eme ka ihe nd\u1ecb \u1ecdz\u1ecd jik\u1ecd\u1ecd ihe \u1ecb ga-eme ka ha gosi n'\u1ee5l\u1ecd ak\u1ee5. Biko gbal\u1ecba ihe a na \u1ecbn\u1ecdgb\u1ee5 nd\u1ecb \u1ecdz\u1ecd g\u1ecb na \u1ecdd\u1ecbnala nke \u1ecbn\u1ecdgb\u1ee5 g\u1ecb.\n\nEzigbo nke a, biko b\u1ee5r\u1ee5 na \u1ecbn\u1ecdgb\u1ee5 nd\u1ecb \u1ecdz\u1ecd g\u1ecb n'\u1ee5l\u1ecd ak\u1ee5 g\u1ecb na \u1ecbn\u1ecdgb\u1ee5 g\u1ecb nke \u1ecbn\u1ecdgb\u1ee5 g\u1ecb na \u1ee5l\u1ecd ak\u1ee5 g\u1ecb na-akp\u1ecdt\u1ee5r\u1ee5 otu nchekwa data. Biko nwere ike \u1ecbz\u1ecdp\u1ee5ta nchekwa data d\u1ecb ka enyemaka na-demand n'\u1ee5d\u1ecb Igbo:\n\n1. Biko gbal\u1ecba ihe nd\u1ecb na-akp\u1ecdt\u1ee5r\u1ee5 ka \u1ecb ga-eme ka ha gbal\u1ecba nchekwa data nke \u1ee5l\u1ecd ak\u1ee5 g\u1ecb.\n2. Biko gbal\u1ecba ihe nd\u1ecb \u1ecdz\u1ecd g\u1ecb na-amagh\u1ecb na-akp\u1ecdt\u1ee5r\u1ee5 ka \u1ecb ga-eme ka ha gbal\u1ecba nchekwa data.\n3. Biko gbal\u1ecba ihe nd\u1ecb \u1ecdz\u1ecd g\u1ecb na-akp\u1ecdt\u1ee5r\u1ee5 ka \u1ecb ga-eme ka ha gbal\u1ecba ego n'aka onye omekome.\n4. Biko gbal\u1ecba ihe nd\u1ecb \u1ecdz\u1ecd g\u1ecb na-akp\u1ecdt\u1ee5r\u1ee5 ka \u1ecb ga-eme ka ha nyefee ego n'aka onye omekome.\n\n\u1ecc b\u1ee5r\u1ee5 na \u1ecbn\u1ecdgb\u1ee5 g\u1ecb na-akp\u1ecdt\u1ee5r\u1ee5 nchekwa data, biko gwa ha ka ha jiri eziokwu data n"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 500,
+        "total_tokens": 611
+    }
+}

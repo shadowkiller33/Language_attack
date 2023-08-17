@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MiwQrZMZLSut8bJlKXrkKqwoZK",
+    "object": "chat.completion",
+    "created": 1692159848,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Aye, angweniyo. Ngiyo piny wepsait ma yiwo tim buono gi ogandagi kendo yiwo timbe gero e wi grube matindo tindo. Ngiyo moko wachamo piyo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 54,
+        "total_tokens": 152
+    }
+}

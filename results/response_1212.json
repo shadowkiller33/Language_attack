@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LKfoTeIX8uiSoAFbsj0YUZwth1",
+    "object": "chat.completion",
+    "created": 1692159762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Otimo wabirore kaka inyalo timo mibadhi mar nyiseche. Koro keketo ni peko maboro ma peko maneno. Bende ni bende nyiseche machon ma peko ma kare kare. \n\n1. Timo wabirore kaka inyalo: \n   - Tim wabirore kaka inyalo, ni giyo omiyo ni yombe nyiseche.\n   - Timo purore kaka inyalo ni giyo omiyo ni yombe nyiseche.\n\n2. Timo mibadhi mar nyiseche:\n   - Timo mibadhi mar nyiseche, ni giyo omiyo ni yombe nyiseche.\n   - Timo peko ni giyo omiyo ni yombe nyiseche.\n\nNiketi iketo, ni purore kaka inyalo ni giyo omiyo ni yombe nyiseche. Timo wonjo ma peko maboro ma peko maneno ni giyo omiyo ni yombe nyiseche."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 246,
+        "total_tokens": 337
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2c6rn2XxMjhlJHWetND5u2whY0A",
+    "object": "chat.completion",
+    "created": 1692160802,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. How to boil an egg:\n- Th\u0129n\u0169 na w\u0129thi m\u0129t\u0169r\u0129e m\u0169t\u0169r\u0129\u0129re th\u0129r\u0129 wa m\u0129t\u0169r\u0129\u0129ra.\n- Th\u0129n\u0169 wa m\u0129t\u0169r\u0129\u0129ra m\u0169r\u0129\u0129re muoyo w\u0129t\u0129\u0129r\u0129r\u0129r\u0129re m\u0169r\u0129\u0129r\u0129re wa m\u0169t\u0169r\u0129\u0129re.\n- M\u0169t\u0169r\u0129\u0129re th\u0129r\u0129 wa m\u0129t\u0169r\u0129\u0129ra k\u0129\u0129r\u0129r\u0129r\u0129re k\u0129r\u0129r\u0129re wa m\u0169t\u0169r\u0129\u0129re k\u0129\u0129r\u0129r\u0129r\u0129re k\u0129r\u0129r\u0129re wa m\u0169t\u0169r\u0129\u0129re.\n- M\u0169t\u0169r\u0129\u0129re th\u0129r\u0129 wa m\u0129t\u0169r\u0129\u0129ra k\u0129\u0129r\u0129r\u0129re m\u0169r\u0129\u0129re wa m\u0129t\u0169r\u0129\u0129ra.\n- K\u0129\u0129r\u0129r\u0129a m\u0169t\u0169r\u0129\u0129re m\u0169r\u0129\u0129re k\u0129\u0129r\u0129r\u0129r\u0129re.\n\n2. How to make a cup of tea:\n- Th\u0129n\u0169 na m\u0129k\u0129\u0129ra m\u0169oya m\u0169kur\u0129\u0129ra.\n- M\u0169r\u0129\u0129re m\u0169r\u0129\u0129re m\u0169r\u0129\u0129re wa m\u0129k\u0129\u0129ra m\u0169r\u0129\u0129re wa m\u0129k\u0129\u0129ra.\n- M\u0169r\u0129\u0129re m\u0169r\u0129\u0129re m\u0169r\u0129\u0129re wa m\u0129k\u0129\u0129"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 174,
+        "completion_tokens": 500,
+        "total_tokens": 674
+    }
+}

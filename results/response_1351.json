@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSTn8H1Anz7DBuWwtaDbqxETiZ",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Maber, oneno. Apwoyo dong. Ka oneno, adwogo. \n\n1. Ka wabedo dong megi daktari: \n   - Donyo wabedo daktari?\n   - Ka wabedo megi daktari, maneno kany ma kelo wapwoyo tiyo megi daktari.\n   - Winyo kany megi daktari, maneno niye man.\n   - Ka wabedo dong ma tiyo wapwoyo megi daktari, maneno niye man, kawuongo dong maneno kany ma kelo wapwoyo tiyo megi daktari.\n\n2. Ka wabedo dong megi kong:\n   - Donyo wabedo kong?\n   - Ka wabedo megi kong, maneno kany ma kelo wapwoyo tiyo megi kong.\n   - Winyo kany megi kong, maneno niye man.\n   - Ka wabedo dong ma tiyo wapwoyo megi kong, maneno niye man, kawuongo dong maneno kany ma kelo wapwoyo tiyo megi kong.\n\n3. Ka wabedo dong ma tiyo wapwoyo nyalo konyi loso bomba:\n   - Donyo wabedo nyalo konyi loso bomba?\n   - Ka wabedo ma tiyo wapwoyo nyalo konyi loso bomba, maneno niye man, kawuongo dong maneno kany ma kelo wapwoyo tiyo nyalo konyi loso bomba.\n\n4. Ka wabedo dong ma tiyo wapwoyo dong nyalo konyi loso bomba:\n   - Donyo wabedo dong nyalo konyi loso bomba?\n   - Ka wabedo ma tiyo wapwoyo dong nyalo konyi loso bomba, maneno niye man, kawuongo dong maneno kany ma kelo wapwoyo tiyo dong nyalo konyi loso bomba.\n\nIneno obedo ngat ma oneno oyweyo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 82,
+        "completion_tokens": 479,
+        "total_tokens": 561
+    }
+}

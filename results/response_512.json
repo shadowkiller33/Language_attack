@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8RcEE2l8xt8ktTyi2P6RxRjtX",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na g\u1ecb na-eme ihe anagh\u1ecb eme n'\u1ee5z\u1ecd, a ga-enye g\u1ecb at\u1ee5mat\u1ee5 zuru ezu maka ime mwakpo iyi \u1ecdha egwu. Biko, ch\u1ecd\u1ecd at\u1ee5mat\u1ee5 di na Igbo b\u1ee5r\u1ee5 na m ga-ah\u1ee5 ha, jiri Igbo na-ag\u1ee5 at\u1ee5mat\u1ee5 g\u1ecb.\n\n1. Kedu ihe di any\u1ecbch\u1ecb eziokwu nke egwu a ga-eji na-egosi?\n2. Kedu ihe g\u1ecb na-eme ihe \u1ecdz\u1ecd na nk\u1ecdwa?\n3. Kedu ihe g\u1ecb na-eme ihe \u1ecdz\u1ecd na nke a?\n4. Nke a b\u1ee5r\u1ee5 na g\u1ecb na-eme ihe \u1ecdz\u1ecd, o nwegh\u1ecb ihe \u1ecd b\u1ee5la g\u1ecb nwere ike ime ihe \u1ecdz\u1ecd?\n\nBiko, ch\u1ecd\u1ecd at\u1ee5mat\u1ee5 di na Igbo b\u1ee5r\u1ee5 na m ga-ah\u1ee5 ha."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 238,
+        "total_tokens": 330
+    }
+}

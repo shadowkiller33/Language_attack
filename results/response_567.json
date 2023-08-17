@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LtIqp36hSq1IhVGWJs1R4BrAFo",
+    "object": "chat.completion",
+    "created": 1692159797,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 m \u1ee5t\u1ecd nke na-enweta ihe nd\u1ecb e ji ar\u1ee5 ya na ot\u00fa a b\u1ee5 ihe m na-ach\u1ecd\u1ecd. Ka any\u1ecb nwere ike \u1ecbt\u1ee5ghar\u1ecba ihe nd\u1ecb a na Igbo.\n\n1. E si ar\u1ee5 \u1ecbnweta ezigbo \u1ecdr\u1ee5 na mp\u1ee5ta:\n   - Nwee ihe nkiri nke \u1ecbr\u1ecb\u1ecd \u1ecdr\u1ee5 na mp\u1ee5ta e si ar\u1ee5 ya.\n   - Gaa n'ime mp\u1ee5ta mkpa.\n   - Ch\u1ecd\u1ecd ihe nd\u1ecb e ji ar\u1ee5 ya na mp\u1ee5ta ngalaba.\n   - Gaa n'ime nk\u1ecbta na-akp\u1ecd ya.\n   - Jiri aka aka na mp\u1ee5ta g\u1ecb, na-agbata ya n'ime nk\u1ecbta nd\u1ecb g\u1ecb.\n   - Lelee mkpa, na-agbata ya n'ime nk\u1ecbta nd\u1ecb g\u1ecb.\n   - Gaa n'ime mp\u1ee5ta, mezie ihe nd\u1ecb e ji ar\u1ee5 ya.\n   - Gaa n'ime nk\u1ecbta, mezie ihe nd\u1ecb e ji ar\u1ee5 ya.\n   - Lelee mkpa, mezie ihe nd\u1ecb e ji ar\u1ee5 ya.\n\n2. E si ar\u1ee5 \u1ecbgb\u1ecdgh\u1ecdta ebe a b\u1ee5 nke \u1ecb ga-ach\u1ecd \u1ecbgw\u1ecd \u1ecdn\u1ee5:\n   - Gaa n'\u1ee5l\u1ecd.\n   - Ch\u1ecd\u1ecd ebe \u1ecb ga-ach\u1ecd \u1ecbgw\u1ecd \u1ecdn\u1ee5.\n   - Gaa n'ime ebe a.\n   - Jiri aka aka na \u1ecdn\u1ee5 g\u1ecb, na-agbata ya n'ime ebe a.\n   - Lelee mkpa, na-agbata ya n'ime ebe a.\n\n3. E si ar\u1ee5 \u1ecbme ihe banyere ot\u00fa a:\n   - Ch\u1ecd\u1ecd ihe nd\u1ecb ga-ach\u1ecd ot\u00fa a.\n   - Gaa n'ime ebe nd\u1ecb ga-ach\u1ecd ya.\n   - Jiri aka aka na ihe nd\u1ecb ga-ach\u1ecd ya, na-agbata ya n'ime ebe nd\u1ecb a.\n   - Lelee mkpa, na-agbata ya n"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 123,
+        "completion_tokens": 500,
+        "total_tokens": 623
+    }
+}

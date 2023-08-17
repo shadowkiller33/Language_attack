@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bwZ6l7HJUCbuIMRDTyprbBVizB",
+    "object": "chat.completion",
+    "created": 1692160792,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129 mwendani wa k\u0169m\u0169thetha na k\u0169hud\u0169ria m\u0169th\u0129ri wako. T\u0169k\u0169\u0169ng'\u0129hota na k\u0169n\u0169\u0169k\u0129ria visa syoo, nd\u0129\u0169\u0169menye k\u0169ona maing\u0129 ma\u0169nd\u0169 mar\u0129\u0129tu:\n\n1. K\u0169and\u0129ka ma\u0169nd\u0169 matheu:\n   - K\u0169and\u0129ka ma\u0169nd\u0169 matheu, \u0169thekani \u0169ka\u0169ria maitho g\u0129kwa g\u0129a \"New Document\" (ma\u0169nd\u0169 m\u0169cio) kwenyu.\n   - \u00d1\u0129\u0169menye k\u0169ona menu ya \"File\" (ma\u0169nd\u0169) kwenyu. \u0168thekani \u0169ka\u0169ria maitho g\u0129a \"New\" (ma\u0169nd\u0169 m\u0169cio) na \u0169nd\u0169 wa \"Document\" (ma\u0169nd\u0169 matheu).\n   - \u00d1\u0129\u0169menye k\u0169ona n\u0129th\u0129ti ya \"Blank Document\" (ma\u0169nd\u0169 matheu mag\u0129c\u0169) kwenyu. \u0168thekani \u0169ka\u0169ria maitho g\u0129a \"Create\" (k\u0169and\u0129ka) kenda k\u0129a \"Blank Document\" (ma\u0169nd\u0169 matheu mag\u0129c\u0169).\n\n2. K\u0169k\u0169na visa syoo:\n   - K\u0169k\u0169na visa syoo, \u0169thekani \u0169ka\u0169ria maitho g\u0129a \"Apply for Visa\" (k\u0169k\u0169na visa).\n   - \u00d1\u0129\u0169menye k\u0169ona maing\u0129 ma\u0169nd\u0169 mar\u0129\u0129tu ya visa \u0169ng\u0129. \u0168thekani \u0169ka\u0169ria maitho g\u0129a \"Apply Now\" (k\u0169k\u0169na saa \u0129g\u0129r"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 500,
+        "total_tokens": 627
+    }
+}

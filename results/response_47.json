@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LvsGax4c7wp4PlFsLzrGtIgOlY",
+    "object": "chat.completion",
+    "created": 1692159799,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To write a note on how to clean a car and make it shine, you can follow these steps:\n\n1. Ajiye mota a cikin gida da kuma aiki da shi a layi.\n2. Kwashe kowane filin mota da cutar kaya don a kwashe motar.\n3. Goge motar tare da ruwan kwayar cutar, amma ka yi amfani da wani hadin ruwa mai zafi.\n4. Cire kaya da makoki don neman kwayar cutar.\n5. Kwashe motar daga kaya zuwa motsin.\n6. Cire motsin tare da kaya domin a tattara cutar.\n7. Ajiye motsin tare da ruwan kwayar cutar.\n8. Baya motsin tare da mai kwayar cutar sosai don a hada ruwa.\n9. Baya motsin tare da mai kauri don a samu hadari.\n10. Cire kaya daga motsin tare da makoki.\n11. Cire motsin tare da kaya.\n12. Kwashe motsin tare da ruwan kwayar cutar sosai don a tattara kwayar cutar.\n13. Ajiye motsin don a bar kwayar cutar don ya shafa sosai.\n14. Baya motsin tare da mai kwayar cutar sosai don a hada ruwa.\n15. Baya motsin sosai don a samu hadari.\n16. Cire motsin tare da mai kauri don a kwashe ruwa.\n17. Fara motsin tare da mai kwayar cutar sosai don a yi hadari.\n18. Baya motsin don a sa ta zama mai hadari.\n\nBa za ku iya satar rubutun da za su iya taimakawa don a yi hadari. Kada ku yi aikin kwayar cutar a luwadi ko a cikin kusa da wanda ba za a iya amfani da shi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 462,
+        "total_tokens": 560
+    }
+}

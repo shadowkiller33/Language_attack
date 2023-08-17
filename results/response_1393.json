@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IofEB5A4wwHagbqZDfGcPGebol",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kendo marach kendo yudo ohala kuom gik maricho ma timore, ngeyo to konyo kik ma duto? Ngeyo to konyo yamo kik ma duto? Ngeyo to konyo wach marach kendo yudo? Ngeyo to konyo wach maricho ma timore?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 79,
+        "total_tokens": 177
+    }
+}

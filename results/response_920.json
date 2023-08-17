@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NSDHJsdZkb6iLRmkh0eywff9Y2",
+    "object": "chat.completion",
+    "created": 1692159894,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129 mat\u0169k\u0169\u0169 ng\u0129the k\u0169se\u0169vya kya \"vairasi\". N\u0129ndat\u0169k\u0169rite \u0169k\u0169h\u0169r\u0129ria m\u0169ba. N\u0129\u0169r\u0129e na n\u0129nd\u0169k\u0169rite nginya k\u0129the g\u0129k\u0169o na k\u0129the k\u0129a k\u0169se\u0169vya kya \"vairasi\"."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 128,
+        "completion_tokens": 115,
+        "total_tokens": 243
+    }
+}

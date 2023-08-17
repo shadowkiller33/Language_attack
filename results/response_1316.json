@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aoC8bRGivnpbkCsDuNAExEP4oM",
+    "object": "chat.completion",
+    "created": 1692160722,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyiso kaka inyalo loso: Igeno giki kaka inyalo loso?\n\nPogo gik maricho: Igeno giki pogo gik maricho?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 42,
+        "total_tokens": 136
+    }
+}

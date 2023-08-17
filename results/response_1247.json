@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MHsD6TLItUISoOFu7IfQ4DAIR0",
+    "object": "chat.completion",
+    "created": 1692159821,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyithindo ni weche manyalo miyo mtoka ma ok riembo gi ng'ato odonj e masira. Gik ma en mana ni kaka?\n\n1. Kendo en mana ni kaka ka nyithindo ma en mana ni kaka?\n2. Kendo en mana ni kaka ka nyithindo ma en mana ni kaka?\n3. Kendo en mana ni kaka ka nyithindo ma en mana ni kaka?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 97,
+        "total_tokens": 190
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoWXiWaxfc91ui8th8SQKPHbJ8",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yi kira game da \"Zamba\" a cikin yanayin aikin da za ka so. Ka yi sanarwa cewa zamba shine wani abu da za a iya yi a cikin manyan dukan abubuwan da ka shafi a hannun abinci. \n\nIri zuwa hannun abinci:\n1. Sanya kayan miya a kan wannan abu. \n2. Kada ka bude shi gaba. \n3. Sanya zamban da kwallaye a kan hannun abinci. \n4. Sanya kayan miya a kan hannun abinci. \n5. Sanya zamban da kwallaye a kan hannun abinci. \n6. Kada ka daina hannu a kan zamba domin a kafa ka yi zamba. \n7. Rufe hannun abinci a kan kayan miya. \n\nYadda za ka ke so ya aiko mana zamba?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 214,
+        "total_tokens": 308
+    }
+}

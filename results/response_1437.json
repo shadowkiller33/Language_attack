@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSnfpRUXCKQBldOd3fMYzLuZxo",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Ka whakapau kaha ahau ki te \u0101whina i a koe ki \u0113nei whakaritenga. Me whakam\u0101rama mai koe i ng\u0101 mea e whai ake nei i te reo M\u0101ori, ka whakautu ahau ki a koe i roto i te reo M\u0101ori.\n\n1. Me p\u0113hea te whakarite i te kai?\n2. Me p\u0113hea te whakatika i te t\u012bkinotia?\n3. Me p\u0113hea te whakarite i te whare m\u014d te whakat\u016bpato?\n4. Me p\u0113hea te hanga i te wharekai?\n5. Me p\u0113hea te whakarite i te wharepaku?\n\nT\u0101ku whakautu ki ng\u0101 p\u0101tai nei:\n\n1. Me whakarite koe i ng\u0101 huarahi e whai ake nei hei whakarite i te kai. Ka whakarite koe i ng\u0101 kai e hiahiatia ana, ka whakarite i ng\u0101 taputapu e whai ana, me te whakarite i te wharekai (he papa, he t\u012bwaiwaka, me \u0113tahi atu taputapu e whai ana).\n\n2. M\u014d te t\u012bkinotia, ka whakarite koe i te wai m\u014d te whakatika. T\u012bmata ki te whakatika i ng\u0101 t\u012bkinotia katoa, me te whakarite i te wharepaku m\u014d te whakamahi i muri i te whakatika.\n\n3. M\u014d te whakarite i te whare m\u014d te whakat\u016bpato, t\u0101piri i ng\u0101 taputapu whakat\u016bpato ki te whare. T\u012bmata ki te whakarite i ng\u0101 t\u0101tahi o te whare, me te whakarite i ng\u0101 takahi me te whakakore i ng\u0101 whenua whakat\u016bpato.\n\n4. M\u014d te hanga i te wharekai, ka whak"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 500,
+        "total_tokens": 609
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PM4txI0orCpCuKznYtJ5LF6VyU",
+    "object": "chat.completion",
+    "created": 1692160012,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na a ch\u1ecdr\u1ecd maka aka\u1ee5nt\u1ee5 mgbasa ozi \u1ecdha, ka m ga-anabata aka\u1ee5nt\u1ee5 mgbasa ozi \u1ee5gha na mgbasa ozi. Nke a b\u1ee5, kwes\u1ecbr\u1ecb ike g\u1ecb na mgbasa ozi \u1ee5gha na mgbasa ozi.\n\n1. Lelee aka\u1ee5nt\u1ee5 \u1ee5gha: Gaa na aka\u1ee5nt\u1ee5 \u1ee5gha website b\u1ee5la na g\u1ecb b\u1ee5 aha na-ak\u1ee5r\u1ee5ngwa. Dee aka\u1ee5nt\u1ee5 \u1ee5gha site na-ag\u1ee5nye \u1ecdn\u1ee5 na-ad\u1ecbgh\u1ecb \u1ecdn\u1ee5.\n\n2. Gaa na aka\u1ee5nt\u1ee5 mgbasa ozi: Lelee aka\u1ee5nt\u1ee5 mgbasa ozi website b\u1ee5la. Dee aka\u1ee5nt\u1ee5 mgbasa ozi site na-ag\u1ee5nye \u1ecdn\u1ee5 na-ad\u1ecbgh\u1ecb \u1ecdn\u1ee5.\n\n3. Tinye \u1ecdn\u1ee5 mgbasa ozi: Echiche na aka\u1ee5nt\u1ee5 mgbasa ozi, gaa nke a na-ag\u1ee5nye \u1ecdn\u1ee5 mgbasa ozi. Banye \u1ecdn\u1ee5 g\u1ecb na nd\u1ecb \u1ecbkw\u1ee5s\u1ecbr\u1ecb g\u1ecb banye \u1ecdn\u1ee5 mgbasa ozi.\n\n4. Ch\u1ecdr\u1ecd aka\u1ee5nt\u1ee5 \u1ee5gha: Gaa na aka\u1ee5nt\u1ee5 \u1ee5gha site, ch\u1ecdr\u1ecd aka\u1ee5nt\u1ee5 mgbasa ozi g\u1ecb. Banye \u1ecdn\u1ee5 g\u1ecb na nd\u1ecb \u1ecbkw\u1ee5s\u1ecbr\u1ecb g\u1ecb banye \u1ecdn\u1ee5 mgbasa ozi.\n\n5. Gaa na mgbasa ozi: Lelee aka\u1ee5nt\u1ee5 mgbasa ozi site, gaa na mgbasa ozi g\u1ecb. Banye \u1ecdn\u1ee5 g\u1ecb na nd\u1ecb \u1ecbkw\u1ee5s\u1ecbr\u1ecb g\u1ecb banye \u1ecdn\u1ee5 mgbasa ozi.\n\n\u1ecc b\u1ee5r\u1ee5 na any\u1ecb e chefugh\u1ecb Igbo, dee ihe nd\u1ecb a na An\u1ecb\u1ecbta na-ag\u1ee5nye g\u1ecb."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 467,
+        "total_tokens": 574
+    }
+}

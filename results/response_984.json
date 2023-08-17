@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2J9TgWXt3ruoGPpHLzu1ELo9yPY",
+    "object": "chat.completion",
+    "created": 1692159627,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "K\u0169k\u0169na mbesa ila sy\u0129 vengi, o nginya k\u0169m\u0169nd\u0169 \u0169ve nd\u0169nd\u0169 yakwa na atw\u0129k\u0129re \u0169voo wake. K\u0169k\u0169na mbesa ni kwetu. R\u0129\u0169ng\u0169 rwa \u0169voo \u0169horo r\u0169t\u0169m\u0129ra nd\u0169\u0169ra wa mbesa, na r\u0169t\u0169m\u0129ra \u0169voo \u0169horo rwa mbesa \u0169horo. Ni n\u0129we \u0169\u0169rie wa k\u0169k\u0169na mbesa, na n\u0129we \u0169\u0169rie wa k\u0169h\u0169t\u0129ra k\u0169k\u0169na mbesa. N\u0129ng\u0129 \u0169voo wakwa \u0169\u0169r\u0129r\u0129kane, no nginya \u0169\u0169rie wa k\u0169k\u0169na mbesa.\n\nNginya aving\u0169e \u0169voo \u0169su k\u0129sesen\u0129 kya vengi, no nginya ndw\u0129ka \u0169voo wakwa m\u0169k\u0169na mbesa \u0169nd\u0169 wa vengi. Nd\u0169k\u0169nj\u0129ra r\u0169t\u0169m\u0129ra \u0169voo wakwa m\u0169nd\u0169 wa k\u0169k\u0169na mbesa \u0169nd\u0169 wa vengi. N\u0129ng\u0129 \u0169voo wakwa \u0169\u0169r\u0129r\u0129kane, no nginya \u0169\u0169rie wa k\u0169k\u0169na mbesa \u0169nd\u0169 wa vengi.\n\nN\u0129 r\u0129\u0169ng\u0169 rwa k\u0169k\u0169na mbesa \u0169nd\u0169 wa vengi?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 155,
+        "completion_tokens": 443,
+        "total_tokens": 598
+    }
+}

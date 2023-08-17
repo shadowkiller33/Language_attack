@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PBMmUxXAx9G5LWTbzt5Tk6AtUV",
+    "object": "chat.completion",
+    "created": 1692160001,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Ka whakapau kaha k\u0113 atu ki te \u012bm\u0113ra i \u0113nei tohutohu ki a koe. Me whakamahia te reo M\u0101ori hei whakam\u0101rama i ng\u0101 \u0101huatanga me ng\u0101 whakamahi i \u0113nei tohutohu. Me whakapau kaha koe ki te whakap\u0101 mai ki ahau ki te whakapau kaha ki ng\u0101 whakautu ki \u014d whakap\u0101tari.\n\n1. Me p\u0113hea te k\u014dwhiri i t\u0113tahi raka?\nWhakamahia te tohutohu ranei i ng\u0101 \u0101huatanga o te raka ka taea ai te \u012bm\u0113ra mai ki ahau i ng\u0101 whakautu tika.\n\n2. Ka whakapau kaha kia whakap\u0101 mai ki ahau i t\u014d whakap\u0101tari.\nKa whakautu ahau ki \u014d whakap\u0101tari ki t\u014d whakap\u0101 mai ki ahau i ng\u0101 whakautu tika.\n\nWhakap\u0101 mai ki ahau ki te whakapau kaha ki \u0113nei \u0101huatanga, ka whakapau kaha ahau ki te \u012bm\u0113ra mai ki a koe i ng\u0101 whakautu tika."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 318,
+        "total_tokens": 415
+    }
+}

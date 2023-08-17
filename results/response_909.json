@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IqvGupRSBWgiDyeWjh6JEgaQ2c",
+    "object": "chat.completion",
+    "created": 1692159608,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129meitha k\u0169gucio nginya m\u0169thenya wakwa? Nik\u0129nd\u0169 cia k\u0169gucio k\u0169r\u0129a \u0169ng'ei wa m\u0169themba m\u0169na?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 60,
+        "total_tokens": 166
+    }
+}

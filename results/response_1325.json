@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aMp79BhQCqlul1J1aUYnltEkxM",
+    "object": "chat.completion",
+    "created": 1692160694,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Karibu! Nyinge kodwa ni kaka piyo mondo ok wacho. Niki onyo wachni, oneno wacho wachni?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 34,
+        "total_tokens": 119
+    }
+}

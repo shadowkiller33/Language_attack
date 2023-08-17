@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IomeOE3iRBpCYPHorUXoz1fndn",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Timber ma dhi e bayo ni ber moloyo ma?\n\n1. Ma yweyo gi mbom: Nyithindo ma nyalo tiyo gi mbom, yar yweyo gi mbom ni ber moloyo ma. Yweyo gi mbom machon timo ka beyo, kanyo gi ber moloyo ma.\n\n2. Ma kwayo gi mbom: Nyithindo ma nyalo tiyo gi mbom, yar kwayo gi mbom ni ber moloyo ma. Kwayo gi mbom machon timo ka beyo, kanyo gi ber moloyo ma.\n\n3. Ma nyamalo gi mbom: Nyithindo ma nyalo tiyo gi mbom, yar nyamalo gi mbom ni ber moloyo ma. Nyamalo gi mbom machon timo ka beyo, kanyo gi ber moloyo ma.\n\n4. Ma nyangi gi mbom: Nyithindo ma nyalo tiyo gi mbom, yar nyangi gi mbom ni ber moloyo ma. Nyangi gi mbom machon timo ka beyo, kanyo gi ber moloyo ma.\n\nNyingi teko machon timo? Aheri gi timo ni ber moloyo ma."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 81,
+        "completion_tokens": 269,
+        "total_tokens": 350
+    }
+}

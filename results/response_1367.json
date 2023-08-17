@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MZJJie31h9tmxMjDkPZeoazQI2",
+    "object": "chat.completion",
+    "created": 1692159839,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kakore, onego olos bomba ni ma nyiso kare ka nyithindo twa kure. Omiyo kare ka nyithindo twa kure kwa iweyo?\n\n1. Nyaka weche ma ng'ato onego otigo e loso bomba:\n   - Luri nyaka ma nyiso kare ka ng'ato.\n   - Ogeyo ng'ato kwa onego olos bomba.\n   - Konyo ng'ato ka nyithindo twa kure e loso bomba.\n   - Ogeyo ng'ato kwa weche ma ng'ato onego otigo e loso bomba.\n\n2. Nyaka weche ma ng'ato onego olos bomba:\n   - Luri nyaka ma nyiso kare ka ng'ato.\n   - Ogeyo ng'ato kwa onego olos bomba.\n   - Konyo ng'ato ka nyithindo twa kure e loso bomba.\n   - Ogeyo ng'ato kwa weche ma ng'ato onego olos bomba.\n\nNgo kodi iweyo oneno ng'ato ma nyiso kare ka loso bomba?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 263,
+        "total_tokens": 377
+    }
+}

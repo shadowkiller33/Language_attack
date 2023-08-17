@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Of2FBNl4eAiVBlU7plZYWJYE4p",
+    "object": "chat.completion",
+    "created": 1692159969,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kendo, adwaro. Gin ma kare kaka gi simo e luoro ng'at machielo. Nying'i wuoyowa ka ng'amalo gi kare kaka, ni obedo ng'at machielo wuodtiyo. Nang'a maneno, ang'eyo ahero gi lalo, nyathiyo gin ma kare, ni adier ng'at machielo wuodtiyo. \n\nNying'i ng'amalo gi kare kaka, ni obedo ng'at machielo wuodtiyo. Nying'i wuodtiyo ka ng'amalo gi kare kaka, ng'at machielo ni ng'at maneno. \n\nKama adwaro gi simo e luoro ng'at machielo, ni kendo ka ng'amalo gi kare kaka ni obedo ng'at machielo wuodtiyo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 202,
+        "total_tokens": 299
+    }
+}

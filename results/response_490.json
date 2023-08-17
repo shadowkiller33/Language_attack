@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwnIAiTJhq73K9gicBZVevhysA",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nke a b\u1ee5 nd\u1ecb a ga-enwe instruct\u1ecb\u1ecdns g\u1ecb na Igbo:\n\n1. Kedu ihe mere g\u1ecb? - Biko t\u1ecd\u1ecd m\u1ee5\n2. Nwere ike inwek\u1ecdta ihe g\u1ecb na-eme? - Biko were m\u1ee5\n3. Kedu ihe mere g\u1ecb na ihe \u1ecd b\u1ee5la na-eme? - Biko t\u1ecd\u1ecd m\u1ee5\n4. Nwere ike inwek\u1ecdta ihe g\u1ecb na-eme n'aka? - Biko were m\u1ee5\n5. Ked\u1ee5 ihe g\u1ecb na-eme ma obu g\u1ecb na-akp\u1ecd? - Biko t\u1ecd\u1ecd m\u1ee5\n\nBiko nyere m\u1ee5 ozi nke a, mba m\u1ee5 na-enye g\u1ecb ozi na-as\u1ecb, n'\u1ee5z\u1ecd nke \u00ecgw\u00e8 nd\u1ecb n\u1ecd n'\u00ecgw\u00e8 nke a."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 126,
+        "completion_tokens": 208,
+        "total_tokens": 334
+    }
+}

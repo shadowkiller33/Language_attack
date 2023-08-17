@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LNhDgpKeHCdMDlHnTZkwxGdubk",
+    "object": "chat.completion",
+    "created": 1692159765,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oyieyo. Nyingiyo mar maber ng'ato owuon mar mobile ma choko weche mag ng'ato owuon maok oyiene. Ero nyingiyo:\n\n1. To enable mobile data (Kuonyo choko maok):\n   - Dhi stand-by screen (Rora kore maok).\n   - Gilo \"Settings\" (Kuonyo moko).\n   - Gilo \"Network & Internet\" (Kuonyo wach chako ma Internet).\n   - Gilo \"Mobile network\" (Kuonyo chako maok).\n   - Gilo \"Mobile data\" (Kuonyo choko maok).\n   - Gilo \"Enable\" (Kuonyo choko).\n\n2. To connect to a Wi-Fi network (Kuonyo kendo Wi-Fi):\n   - Dhi stand-by screen (Rora kore maok).\n   - Gilo \"Settings\" (Kuonyo moko).\n   - Gilo \"Network & Internet\" (Kuonyo wach chako ma Internet).\n   - Gilo \"Wi-Fi\" (Kuonyo Wi-Fi).\n   - Gilo \"Enable\" (Kuonyo choko).\n   - Gilo \"Available networks\" (Kuonyo kendo chako ma Wi-Fi).\n   - Gilo kendo Wi-Fi network (Kuonyo kendo Wi-Fi).\n   - Gilo jopamo (password) gi network (Kuonyo jopamo ki kendo Wi-Fi).\n   - Gilo \"Connect\" (Kuonyo).\n\n3. To send a text message (Kuom bwaki wachore):\n   - Dhi stand-by screen (Rora kore maok).\n   - Gilo \"Messages\" (Kuonyo mar bwaki).\n   - Gilo \"Compose\" (Kuonyo bwaki).\n   - Gilo kendo nam ber (phone number) gi yore (Kuonyo nam ber ki jajo).\n   - Bwakiyo (Type your message).\n   - Gilo \"Send\" (Kuonyo).\n\n4. To make a phone call (Kuom oyieyo):\n   - Dhi stand-by screen (Rora kore maok).\n   - Gilo \"Phone\" (Kuonyo mar oy"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 500,
+        "total_tokens": 590
+    }
+}

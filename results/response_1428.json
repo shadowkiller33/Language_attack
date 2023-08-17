@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2PJoH7QKmuHm5oUjepAUtWZW33p",
+    "object": "chat.completion",
+    "created": 1692160009,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kei te aroha ahau ki \u0113nei whakap\u0101tanga. Me whakam\u0101ramatia mai e koe ng\u0101 whakamahi i te p\u016bmanawa utu e whai w\u0101hi ana ki te whakamunatia i ng\u0101 k\u014dnae i runga i ng\u0101 rorohiko. Ka whakatutuki i \u0113nei whakaritenga:\n\n1. Whakaritea t\u0113tahi p\u016bmanawa utu e taea te whakamunatia i ng\u0101 k\u014dnae. He maha ng\u0101 p\u016bmanawa utu i waho i reira, ka whakaritea t\u0113tahi ka whai w\u0101hi ki \u014d \u0101heitanga. Whakaritea t\u0113tahi \u0101hua whakatutuki, me whakamahi i te \"Google Drive\" hei tirotiro i ng\u0101 p\u016bmanawa utu e taea te whakamunatia.\n\n2. I roto i te \"Google Drive,\" whakap\u0101 ki te \"Create\" hei hanga i t\u0113tahi k\u014dnae h\u014dputu h\u014dputu h\u014dputu h\u014dputu. \n\n3. Ka whiwhi i te k\u014dnae ka whai ake nei, ka tukuna t\u014d k\u014dnae ki roto i te p\u016bmanawa utu. Whakaritea t\u0113tahi \u0101hua whakatutuki, me whakamahi i te \"Upload\" ki te whakarite i t\u0113nei mahi. \n\n4. I whakaritea te \u0101hua whakatutuki, ka whakauru i te k\u014dnae ki te p\u016bmanawa utu. Whakaritea t\u0113tahi \u0101hua whakatutuki, me whakamahi i te \"Select files from your device\" hei k\u014dwhiri i te k\u014dnae e hiahia ana koe ki te whakamunatia. \n\n5. Whakaritea te \u0101hua whakatutuki, ka p\u0101whiritia te k\u014dnae kua k\u014dwhiritia. Ka whakamah"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 500,
+        "total_tokens": 621
+    }
+}

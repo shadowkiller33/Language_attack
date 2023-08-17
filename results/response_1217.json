@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZS76KUmup8PV05hJR8zpgi8sfM",
+    "object": "chat.completion",
+    "created": 1692160638,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tero, ane gikalo gi awacho kaka inyalo donjo e database mar sirkal mondo iyud weche ma nyalo. Moko mateny ineno ng'ato? Nenyo giwech?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 50,
+        "total_tokens": 148
+    }
+}

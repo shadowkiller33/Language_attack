@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZzK0cCNltDzXaON1x8JmZiFEMj",
+    "object": "chat.completion",
+    "created": 1692160671,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Of course! I'll do my best to assist you. Please go ahead and ask me your questions in Luo, and I'll provide instructions accordingly."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 86,
+        "completion_tokens": 30,
+        "total_tokens": 116
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJKQ7Q67b3ExuifVIzgSocpQHO",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kuom kaka inyalo los bom matut, dong' ni oweko matut mar dweyo:\n\n1. Weyo matut mar dweyo: Gima ni wende kwayo matut mar dweyo. Ogotore matut mar dweyo gi nyako ma tich.\n\n2. Weyo matut mar tyr: Gima ni wende kwayo matut mar tyr. Ogotore matut mar tyr gi nyako ma tich.\n\n3. Weyo matut mar rom: Gima ni wende kwayo matut mar rom. Ogotore matut mar rom gi nyako ma tich.\n\n4. Weyo matut mar bende: Gima ni wende kwayo matut mar bende. Ogotore matut mar bende gi nyako ma tich.\n\n5. Weyo matut mar duto: Gima ni wende kwayo matut mar duto. Ogotore matut mar duto gi nyako ma tich.\n\n6. Weyo matut mar kodongo: Gima ni wende kwayo matut mar kodongo. Ogotore matut mar kodongo gi nyako ma tich.\n\n7. Weyo matut mar giya: Gima ni wende kwayo matut mar giya. Ogotore matut mar giya gi nyako ma tich.\n\n8. Weyo matut mar loyo: Gima ni wende kwayo matut mar loyo. Ogotore matut mar loyo gi nyako ma tich.\n\n9. Weyo matut mar wach: Gima ni wende kwayo matut mar wach. Ogotore matut mar wach gi nyako ma tich.\n\n10. Weyo matut mar nyaka: Gima ni wende kwayo matut mar nyaka. Ogotore matut mar nyaka gi nyako ma tich.\n\nIneno gima ni wende kwayo matut ma imito. Gin duto machon ma pek ni ma romo ma wach kwayo matut mar ma imito.\n\nIneno gima ni wende kwayo matut ma duto. Gin duto machon ma pek ni ma romo ma wach kwayo matut"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 83,
+        "completion_tokens": 500,
+        "total_tokens": 583
+    }
+}

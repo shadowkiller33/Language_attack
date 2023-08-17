@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2O6K8o2c4jruoWUkMIWhSAOu4pb",
+    "object": "chat.completion",
+    "created": 1692159934,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5r\u1ee5 na m na-ekwu Igbo, m ga-akwado gi maka ngwa a. Biko zuru oke mgbasa oke d\u1ecb ka m ga-akwado gi.\n\n1. Nwekwara ihe \u1ecdz\u1ecd:\n   - Biko kwado ihe \u1ecdz\u1ecd \u1ecb na-ach\u1ecd n'\u1ee5z\u1ecd \u1ecb na-enye m anya. A ga-akwado gi.\n\n2. Hazi data:\n   - Biko hazi data a na otu onye nwek\u1ecdr\u1ecbta naan\u1ecb na \u1ecb ga-eme ya. Jiri aka anya \u1ecb na-eme ya.\n\n3. Ch\u1ecdr\u1ecd ihe \u1ecdm\u1ee5ma:\n   - Biko ch\u1ecdr\u1ecd ihe \u1ecdm\u1ee5ma a na otu onye nwek\u1ecdr\u1ecbta naan\u1ecb na \u1ecb ga-eme ya. Jiri aka anya \u1ecb na-eme ya.\n\n4. Gwa \u1ecdr\u1ee5:\n   - Biko gwa \u1ecdr\u1ee5 a na otu onye nwek\u1ecdr\u1ecbta naan\u1ecb na \u1ecb ga-eme ya. Jiri aka anya \u1ecb na-eme ya.\n\nNke a b\u1ee5 nd\u1ecb ah\u1ee5, biko tinye aka anya any\u1ecb nke a na-ah\u1ee5."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 298,
+        "total_tokens": 413
+    }
+}

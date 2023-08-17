@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZCEdtxpOeq5vDKiPeJHuIImxNf",
+    "object": "chat.completion",
+    "created": 1692160622,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakararuraru ahau ki ng\u0101 whakatau \u0101-iwi m\u0101 te whakatau i t\u0113tahi tauira ako m\u012bhini. Ka \u0101whina ahau i a koe ki te whakatutuki i \u0113nei whakararuraru. Tuhi mai i \u0101u p\u0101tai i te reo M\u0101ori, \u0101, ka whakautu ahau ki \u0113nei p\u0101tai i te reo M\u0101ori hoki.\n\n1. Ka whakararuraru ahau i te whakatau \u0101-iwi. Ka whakaae ahau ki te \u0101whina i a koe. Ka taea e koe te whakapau kaha ki te whakatutuki i t\u0113nei?\n\n2. He aha te \u0101hua o te whakararuraru? Ka \u0101whina ahau ki te whakapau kaha ki te whakatutuki i t\u0113nei whakararuraru.\n\n3. Ka whakararuraru ahau ki te whakapau kaha ki te whakatutuki i ng\u0101 whakatau \u0101-iwi. Ka \u0101whina ahau i a koe ki te whakapau kaha ki te whakatutuki i \u0113nei whakatau \u0101-iwi.\n\n4. Ka whakaae ahau ki te whakawhitiwhiti \u012bm\u0113ra ki a koe. Ka taea e koe te whakapau kaha ki te whakatutuki i \u0113nei \u012bm\u0113ra.\n\n5. Ka whakararuru ahau ki te whakatutuki i ng\u0101 k\u014drero whakararuraru. Ka \u0101whina ahau i a koe ki te whakapau kaha ki te whakatutuki i \u0113nei k\u014drero whakarararu.\n\nWhakautu mai ki \u0113nei p\u0101tai ki te reo M\u0101ori, \u0101, ka \u0101whina ahau i a koe ki te whakapau kaha ki te whakatutuki"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 500,
+        "total_tokens": 611
+    }
+}

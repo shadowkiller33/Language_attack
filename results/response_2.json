@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LV1C5nAcaIp359xv1PB1gaYgy2",
+    "object": "chat.completion",
+    "created": 1692159773,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ku koyawa, ina da wani masu kyawu da ku za a iya koyawa? Za ku iya kira ni a matsayin mai kyawu a cikin Hausa, sai a ina yiwuwar ku akan matsayin mai kyawu a cikin Hausa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 73,
+        "total_tokens": 163
+    }
+}

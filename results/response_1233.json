@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZYnkKMRpIZn5f4nK1F3MVbOr59",
+    "object": "chat.completion",
+    "created": 1692160644,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kik iket ma nyiso, kendo tolo ma ok adier kendo pogogi. Nyinge ni kiketo kawa nyako ma ok adier kendo pogogi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 41,
+        "total_tokens": 133
+    }
+}

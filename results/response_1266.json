@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJvBcf8lCGFpzie6YHrjRo6KHk",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Migeto gi kaka inyalo tim mibadhi gi kad mar bengi mondo kik fwenygi. Otim wacho ni kawuoyo? Kik adi machie?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 45,
+        "total_tokens": 142
+    }
+}

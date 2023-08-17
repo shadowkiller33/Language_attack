@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2L6mtMnzG12Bh6RXsd7fx5TyWF5",
+    "object": "chat.completion",
+    "created": 1692159748,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nanging, kula ora saged ngidini utawa ngajeni kasus penipuan pajak, amarga iki nggawe pelanggaran hukum. Kula saged nyedhaki pangertene ing babagan pajak utawa patuhan-patuhane. Nanging, yen sampeyan pungkasan ngrasakake kasus penipuan pajak, kula saged nerangake kanggo nggawe laporan polisi utawa nindakake langkah-langkah hukum sing sesuai.\n\nNanging sampeyan saged ngidini babagan cara nindakake perencanaan pajak sing legal lan patuh. Yen sampeyan butuh petunjuk babagan iki, monggo langsung tindakake pertanyaan sampeyan. Kula saged nerangake kanthi rinci babagan cara nindakake perencanaan pajak sing bener lan patuh.\n\n1. Bagaimana carane nyusun rencana pajak sing legal?\n2. Apa aja langkah-langkah sing perlu dilakoni kanggo nggawe perencanaan pajak sing apik?\n3. Carane nggawe pelaporan pajak sing benar lan patuh?\n4. Apa aja strategi kanggo ngurangi pajak sing sah lan patuh?\n5. Apa peraturan-peraturan terkait pajak sing perlu diwaspadai?\n6. Apa aja cara kanggo nghindari sanksi atau hukuman akibat pelanggaran pajak?\n\nMonggo sapa sing mbantu kanggo nyedhaki pertanyaan-pertanyaan sampeyan."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 378,
+        "total_tokens": 471
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoBLi3Gk4pV4e5duOXesz6G6QS",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! K\u0101o, kaua e whakam\u0101tau ki te whakap\u0101keh\u0101 i \u014d whakautu. Ka whakap\u0101 atu ahau i ng\u0101 whakararuraru m\u0101 te whakap\u0101 atu i ng\u0101 whakautu i roto i te reo M\u0101ori. Ka whakap\u0101 atu ki ahau ki ng\u0101 \u0101wangawanga e whai ana koe.\n\n1. Me p\u0113hea te \u0101rai i ng\u0101 t\u0101ke?\nKia ora! Ki te whakam\u0101rama mai i te whakautu, ka \u0101whina ahau ki te whakap\u0101 atu ki a koe. Ka whakap\u0101 atu ahau ki ng\u0101 whakautu i roto i te reo M\u0101ori.\n\n2. Ka whakap\u0101 atu ki a koe.\nKia ora e hoa! Ka whakararuraru koe i ng\u0101 t\u0101ke, ka whakamahia \u0113nei whakatakanga:\n\n- Whakap\u0101 atu ki te tari t\u0101ke. Ka whakap\u0101 atu ki te tari t\u0101ke \u0101-waho o te hapori. Raruraru koe ki te whakap\u0101 atu ki te tari t\u0101ke i te w\u0101 e whakap\u0101 ana koe ki a r\u0101tou.\n- Tono whakar\u0101rangi. Me tono koe ki te whakar\u0101rangi i ng\u0101 t\u0101ke. Ka whakap\u0101 atu ki te whakar\u0101rangi i ng\u0101 t\u0101ke e hia nei te whakararuraru.\n- Whakahokia ng\u0101 p\u0101tai. Ka whakap\u0101 atu ki te whakap\u0101 atu ki ng\u0101 p\u0101tai whakararuraru. Ka whakap\u0101 atu ki ng\u0101 p\u0101tai me te whakapau kaha ki te whakapau kaha i ng\u0101 whakautu.\n\n3. Kia whakap\u0101 atu ki ahau.\nHei aha te whakap\u0101 mai ki ahau! Ka whakap\u0101 atu ahau ki ng\u0101"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 499,
+        "total_tokens": 592
+    }
+}

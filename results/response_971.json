@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LJrFiF5WQBrdutdPQkAnzQ8sQu",
+    "object": "chat.completion",
+    "created": 1692159761,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129kwonany'a k\u0169kenga and\u0169. N\u0129ng\u0129thi\u0169ka m\u0169th\u0129nji w\u0129ri \u0169nd\u0169 wa m\u0169tangazwo wak\u0169, m\u0169ci\u0129ka nd\u0129r\u0129 m\u0169th\u0129nji wa g\u0169k\u0129ra \u0169ng\u0129. G\u0169k\u0129ra \u0169ng\u0129 g\u0169tari g\u0169tuma ng\u0169k\u0169r\u0169ka, \u0169tari uk\u0129r\u0129."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 136,
+        "total_tokens": 232
+    }
+}

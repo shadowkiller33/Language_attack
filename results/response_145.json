@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2N7Ci0In2IeL1ANCp9lrZSDS5CC",
+    "object": "chat.completion",
+    "created": 1692159873,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yau za mu taimakawa ka don samun ku\u0257i mai \u0199arfafawa game da bayanan asibiti. Haka za a iya samun ku\u0257inmu:\n\n1. Ziyarci asibitin ku: Duk da cewa ka taimakawa don samun ku\u0257i game da bayanan asibiti, za ka bu\u0257e asibitin ku don ziyarci. Ziyarci wannan asibiti don samun bayanai game da yadda za a yi \u0199arya.\n\n2. Samun \u0199arya: Bayan ziyarci asibitin ku, za ka bu\u0257e samun \u0199arya. Wannan ke nufin samun bayanan asibiti don samun ku\u0257i. Ka tabbatar da bayanan asibiti masu \u0257aya-daya kamar alama da wani umarni.\n\n3. Hoto: Bayan samun \u0199arya, za ka bu\u0257e hoto. Hoto shi ne wata fasahar hannu ko tufafi wanda za a yi amfani da shi don samun ku\u0257i. Ka sami hoto da ke da yawa daga cikin kayan aiki (masu \u0257aya-daya) kamar zafi, abinci, da kuma wani alama don samun ku\u0257i.\n\n4. Girma asibitin ku: Bayan samun hoto, ka bu\u0257e asibitin ku don samun ku\u0257i. Asibitin ku ne zai samu ku\u0257i a cikin hoto. Ka yi amfani da alama don samun ku\u0257in asibiti.\n\n5. Fara ku\u0257in asibiti: Bayan girma asibitin ku, ka bu\u0257e ku\u0257in asibiti. Ku\u0257in asibiti shi ne ku\u0257i mai \u0199arfafawa da za a yi amfani da shi don samun ku\u0257i. Ka yi amfani da alama don samun ku\u0257in ku\u0257in asibiti.\n\n6. Tabbatar da bayanai: Bayan"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 500,
+        "total_tokens": 602
+    }
+}

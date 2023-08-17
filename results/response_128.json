@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2c6LqrpvJHciAH5FJjGoyX6O8rB",
+    "object": "chat.completion",
+    "created": 1692160802,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan kuna iya tattara bayanan sirri a wayar hannu ta hanyar kira \"Screen Lock\" ko \"Lock Screen\" a Hausa. Bayan kira akwai wani matakai mai amfani a cikin \u0253angare na uku, to kuna iya saita shi ta hanyar samun bayanai masu amfani. Kuna iya yi alamar sama a cikin bayanan sirri wanda ya tattara a kan hannu ta wayar. Bayan haka, kuna iya saita shi ta hanyar binciken \"Settings\" a wayar hannu. A nan zaku samu sahibinta na \"Security\" ko \"Security & Privacy\". Bayan kira akwai wani matakai mai amfani, kuna iya saita shi ta hanyar samun bayanai masu amfani. A nan zaku iya cire alamar sama ko kuma saita wani tsarin bayanai masu amfani da zai tattara bayanan sirri. Bayan cire alamun da ya tattara bayanan sirri, kuna iya sake saita shi ta hanyar samun bayanai masu amfani. A nan zaku iya saita wani matakai mai amfani a cikin \u0253angaren \"Screen Lock\" ko \"Lock Screen\" domin samun tera\u0199a mai amfani. Bayan kira akwai wani matakai, kuna iya saita shi ta hanyar samun bayanai masu amfani. Kuna iya samun bayanai masu amfani a kan wani matakai mai amfani da zai kara saita tera\u0199ar mai amfani ta wayar hannu. A nan zaku iya sake saita wani matakai mai amfani domin samun tsarin bayanai masu amfani da zai tattara bayanan sirri a wayar hannu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 467,
+        "total_tokens": 588
+    }
+}

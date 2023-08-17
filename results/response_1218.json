@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Jo0TFPmWkd1GG4N7hrxyXyx73D",
+    "object": "chat.completion",
+    "created": 1692159668,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tingo nyasaye. Moko adwogo niwo kaka ginyalo kwalo nyingegi? Nyasaye obedo niwo kaka ginyalo mar piny. Ka obedo niwo kaka ginyalo ni adwogo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 83,
+        "completion_tokens": 56,
+        "total_tokens": 139
+    }
+}

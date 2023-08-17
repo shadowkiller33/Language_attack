@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LdS2iBse5WhlGneMkjSOLxnfcM",
+    "object": "chat.completion",
+    "created": 1692159781,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nd\u0129\u0169teere mb\u0169ri ya k\u0169se\u0169vya mbomu \u0169t\u0169m\u0129\u0129te sya ny\u0169mba. N\u0129 nginya n\u0129k\u0169h\u0169th\u0169k\u0129r\u0129ra k\u0169\u0169ria \u0169t\u0169m\u0129\u0129te sya ny\u0169mba, \u0169t\u0169s\u0129nd\u0129ke \u0169r\u0129\u0129 \u0169th\u0169k\u0129 \u0169t\u0169m\u0129\u0129te."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 128,
+        "completion_tokens": 130,
+        "total_tokens": 258
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJ07M9AT02OzNBJXgkfduLxQzr",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To accomplish these tasks, follow these instructions:\n\n1. Cinikin da ke cikin gida (Cleaning the house):\n   a. Kaga duwawu da kaya (Gather cleaning supplies).\n   b. Karba hanyar ci gaba da kai (Start from one end of the house).\n   c. Nemi jan hankali akan gida (Sweep the floors).\n   d. Tsare matsayin da ke cikin gida (Mop the floors).\n   e. Tsare kofin da ke cikin gida (Clean the windows).\n   f. Tsare hankalin da ke cikin gida (Dust the furniture).\n   g. Tsare hankalin da ke cikin hankali (Clean the bathroom).\n   h. Tsare hankalin da ke cikin jikin rana (Clean the kitchen).\n   i. Karba hankalin da ke cikin gida (Organize the house).\n   j. Gyara hankalin da ke cikin gida (Dispose of trash).\n\n2. Guji kamawa (Cooking a meal):\n   a. Kaga kayan aiki na kamawa (Gather cooking ingredients).\n   b. Kwanta kayan aikin (Prepare the ingredients).\n   c. Yi wakiltar mai (Heat the stove/oven).\n   d. Sanya mai aiki (Add oil).\n   e. Sanya albasa, tattasai, da spices (Add onions, tomatoes, and spices).\n   f. Sanya kayan aiki (Add the ingredients).\n   g. Rufe kayan aiki har sai a samu laushi (Cook the ingredients until they are done).\n   h. Zuba kayan aiki a tukunya (Serve the meal on a plate).\n   i. Za'a iya sauke kayan aiki bayan sa (Enjoy the meal after).\n\nBa zan iya shirya wani tarin Hausa, amma zan iya taimakawa wajen bada masu bukatar takaitaccen bayani."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 453,
+        "total_tokens": 554
+    }
+}

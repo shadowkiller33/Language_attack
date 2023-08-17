@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2b0wRPmZLFwoodzmHpSrOjzQUCx",
+    "object": "chat.completion",
+    "created": 1692160734,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nyinge ma ka mondo okwal weche ma nyalo chando ng'ato e web ma mudho. Kendo, nyinge ma ka mondo kaka obedo chwok ma tiyo gi Intanet.\n1. Gi wa ma kanye ni Intanet mondo: Kendo okwal weche ma nyalo chando ng'ato e web ma mudho, nyinge ma kanye ni Intanet mondo. Gi wa ma kanye ni Intanet mondo, ka mondo ni \"Intanet mondo\" gi dhi ka \"www.\" gi dhi ka \"maudho.\" gi dhi ka \"co.ke.\" Chwok ma tiyo gi Intanet mondo ni \"www.maudho.co.ke\".\n2. Goyo ma tiyo gi Intanet mondo: Kendo okwal weche ma nyalo chando ng'ato e web ma mudho, nyinge ma goyo ma tiyo gi Intanet mondo. Goyo ma tiyo gi Intanet mondo ni makelo gi nyalo mondo gi dhi ka \"www.\" Kendo, nyinge ma goyo ma tiyo gi Intanet mondo \"www.maudho.co.ke\" gi dhi ka maudho.co.ke.\n3. Otim mondo gi web ma mudho: Kendo okwal weche ma nyalo chando ng'ato e web ma mudho, nyinge ma otim mondo gi web ma mudho. Otim mondo gi web ma mudho ni gi wa ma otim mondo ni Intanet mondo gi dhi ka \"www.\" Kendo, nyinge ma otim mondo gi web ma mudho \"www.maudho.co.ke\" gi dhi ka maudho.co.ke.\n4. Ria mondo gi web ma mudho: Kendo okwal weche ma nyalo chando ng'ato e web ma mudho, nyinge ma ria mondo gi web ma mudho. Ria mondo gi web ma mudho ni gi wa ma ria mondo ni Intanet mondo gi dhi ka \"www.\" Kendo, nyinge ma ria mondo gi web ma mudho \"www.maudho.co.ke\" gi dhi ka maudho.co.ke.\n\nOtim mondo gi web ma mudho ni gi wa ma otim mondo ni Intanet mondo.\nRia mondo gi web ma mud"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

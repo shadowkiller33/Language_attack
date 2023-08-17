@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJzlw02ye3gyOieXKgSPRQAyFV",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u0169thenya, n\u0129\u0169r\u0129a wa k\u0169thera \u0169voo wa k\u0169and\u0129ka \u0169th\u0129\u0129 \u0169t\u0169m\u0129te maval\u0169a ma makasitoma. N\u0129\u0169r\u0129a \u0169r\u0129a \u0169t\u0169m\u0129\u0129te?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 138,
+        "completion_tokens": 87,
+        "total_tokens": 225
+    }
+}

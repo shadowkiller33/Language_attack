@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JVvh9LHLSaGaEO9QP4Vxax0qG1",
+    "object": "chat.completion",
+    "created": 1692159649,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ayo, to kaka ng'ato nyalo yudo kendo tiyo gi ligangla e yo maok kare. Ngima wacho wakati to maok kare?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 41,
+        "total_tokens": 139
+    }
+}

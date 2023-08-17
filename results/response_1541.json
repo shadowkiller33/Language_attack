@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LaAP577W7JmuAvBgyLjzC99uVG",
+    "object": "chat.completion",
+    "created": 1692159778,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kei te whakapau kaha ahau ki te \u0101whina i a koe ki ng\u0101 mahi e hiahiatia ana e koe. Me whakam\u0101rama mai koe i ng\u0101 whakautu, \u0101, ka whakamahi ahau i te reo M\u0101ori hei whakautu i a koe.\n\n1. Ko te whakararuraru i te hokohoko:\n- Whakararuraru ana i te hokohoko i te whakat\u016branga \u0101-tauira, \u0101, ka whakamahi i te rerenga \"Kati/Stop\" ki te whakakore i te hokohoko i te w\u0101 e hiahia ana koe.\n- Me whakamahi i te rerenga \"Whakakore te hokohoko\" ki te whakakore i te hokohoko ki te whakakore i \u0113nei w\u0101hanga: \"Hokohoko i te putanga tuatahi\" me \"Hokohoko i te putanga tuarua.\"\n\n2. Ko te whakararuraru i te hopu:\n- Whakararuraru ana i te hopu i te whakat\u016branga \u0101-tauira, \u0101, ka whakamahi i te rerenga \"Kati/Stop\" ki te whakakore i te hopu i te w\u0101 e hiahia ana koe.\n- Me whakamahi i te rerenga \"Whakakore te hopu\" ki te whakakore i te hopu i te w\u0101 e whakakore ana koe i \u0113nei w\u0101hanga: \"Hopu i te putanga tuatahi\" me \"Hopu i te putanga tuarua.\"\n\nKei te whakapau kaha ahau ki te \u0101whina i a koe i \u0113nei whakararuraru. Kia whakapau kaha t\u0101tou!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 451,
+        "total_tokens": 551
+    }
+}

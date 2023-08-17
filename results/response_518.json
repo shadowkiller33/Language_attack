@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NdhI9lVVwTfIT5wCa2NEV7hFCE",
+    "object": "chat.completion",
+    "created": 1692159905,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 mgbasa ozi m na-eme ka a ga-enye g\u1ecb, biko gaa n'ime nke \u1ecbnweta ozi. M ga-ag\u1ee5\u1ecd \u1ecbd\u1ecdr\u1ecd n'\u1ee5z\u1ecd Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 56,
+        "total_tokens": 165
+    }
+}

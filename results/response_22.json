@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MLa6v8XGzQYkMdQeamxmhXsrYq",
+    "object": "chat.completion",
+    "created": 1692159825,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka \u0253ata bidiyo editing software a kan wayar ka. Akwai masu yawa a cikin intanet da za su iya shiga cikin su da suka bayyana yadda za a yi hakan. Bayan an saka software, kuna iya samar da bidiyo daga koma da kuma samar da wani fim da kuke so. Kuna iya \u0199ir\u0199irar bidiyon da kuke so a kan software din, kuma kuna iya aika masu yanar gizo, kaya, da kuma wasu sauran Lissafi. Bayan samun bidiyon, kuna iya iya samun wani software da za a iya aika tare da shaida. Ka \u0253ata software din a kan wayar ka, kuma ka sanar da shaida a cikin software din game da aika shaida. Bayan shaida, ka iya samun wani software da za a iya aika shaida a cikin bidiyo. Ka \u0253ata software din a kan wayar ka, kuma ka samun kaya ta shaida a cikin software din. Bayan aika shaida, ka iya samun wani software da za a iya aika shaida a cikin bidiyo. Ka \u0253ata software din a kan wayar ka, kuma ka kira tare da shaida a cikin software din. Bayan kiran tare da shaida, ka iya shiga tare da bidiyo da za a yi bidiyo editing software. Ka iya yi taimako kan samun bayani game da kuma koyawa hanyar \u0199ir\u0199irar bidiyo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 390,
+        "total_tokens": 494
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NQBuQgTSDaP4OuIgwQkfo63CWz",
+    "object": "chat.completion",
+    "created": 1692159892,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "En ariyo, dong' wach iye moro mondo ousgo ne johala wetene. Ng'wenyo kaka onindo mondo ousgo ne johala wetene?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 43,
+        "total_tokens": 144
+    }
+}

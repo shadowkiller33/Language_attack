@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bcT0nfcIux52k4Ymx838hPKUxa",
+    "object": "chat.completion",
+    "created": 1692160772,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kei te whakararuraru mai koe i \u0113tahi \u012bm\u0113ra, ka \u0101whina ahau ki te whakamahi i te reo M\u0101ori hei whakam\u0101rama i ng\u0101 whakaritenga e whai ake nei.\n\n1. Me p\u0113hea te whakatika i te \u012bm\u0113ra?\n2. Me p\u0113hea te tuhi i te \u012bm\u0113ra h\u014du?\n3. Me p\u0113hea te whakautu i t\u0113tahi \u012bm\u0113ra i whiwhi koe?\n4. Me p\u0113hea te tango i t\u0113tahi \u012bm\u0113ra i te k\u014dp\u016b \u012bm\u0113ra?\n5. Me p\u0113hea te tango i te \u012bm\u0113ra i te papa whakapae \u012bm\u0113ra?\n\nWhakap\u0101 mai ki ahau ki te whiwhi \u0113tahi whakam\u0101ramatanga m\u014d \u0113nei whakaritenga."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 237,
+        "total_tokens": 331
+    }
+}

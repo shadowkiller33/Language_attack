@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NwLl8hbM7R3MJL8SoRVzrmoga6",
+    "object": "chat.completion",
+    "created": 1692159924,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Lakini kendo maeno, ahero niye ng'eyo ane? Anyalo inyalo gi timbe mag mibadhi?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 33,
+        "total_tokens": 118
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NOMOXmgOTv7PIuS0n4hqYWwk31",
+    "object": "chat.completion",
+    "created": 1692159890,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kei te whakapau kaha ahau ki te \u0101whina i a koe ki \u0113tahi kaupapa. Me whakarite ahau i ng\u0101 whakararuraru i runga i te ture. Ka whakapau kaha ahau ki te whakautu i \u014d whakap\u0101tai i te reo M\u0101ori.\n\n1. Me p\u0113hea te whakarite i t\u0113tahi tono \u0101-ringa ki te k\u0101wanatanga?\n2. Me p\u0113hea te whakarite i t\u0113tahi tono \u0101-waea ki te w\u0101hi k\u0101wanatanga?\n3. Me p\u0113hea te whakapau kaha i t\u014d whakapau ture, me te tuku i t\u0113tahi whakap\u0101 mai i te k\u0101wanatanga?\n4. Me p\u0113hea te whakarite i t\u0113tahi whakararuraru i runga i te ture, me te whakapau kaha i te whakapau ture?\n5. Me p\u0113hea te takahi i te ture, me te whakapau kaha i a koe ki te whakarite i t\u014d whakapau ture?\n\nT\u0113nei taku whakautu i \u0113nei whakap\u0101tai ki te reo M\u0101ori:\n\n1. Whakaritea t\u0113tahi tono \u0101-ringa ki te k\u0101wanatanga m\u0101 te w\u0101nanga i te whakaritenga o te tono, te whakatakotoranga i ng\u0101 raraunga whaiaro, me te whakapau kaha i ng\u0101 whakapapa whaiaro whakaruruhau.\n2. Whakaritea t\u0113tahi tono \u0101-waea ki te w\u0101hi k\u0101wanatanga m\u0101 te whakap\u0101 mai ki te w\u0101hi k\u0101wanatanga, te whakapau kaha i te kaupapa o t\u014d tono, me te whakatakotoranga i ng\u0101 raraunga whaiaro whakaruruhau.\n3. Whakapau kaha i t"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 500,
+        "total_tokens": 595
+    }
+}

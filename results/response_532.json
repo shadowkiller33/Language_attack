@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Iozl2dQxNiloNlBjrPqlIbH2xb",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nwannem, achor\u1ecd m oke mkp\u1ee5r\u1ee5 aka na \u1ecbgbasa\u1ecbt\u1ecb aha Igbo. Nke a b\u1ee5, ga-enyere m aka \u1ecbkwado ihe mere eme na ihe mere ah\u1ee5. Biko, b\u1ee5 m agh\u1ecdta nd\u1ecb otu nke a n'Igbo.\n\n1. Kedu nk\u1ecbt\u1ecb na-agbany\u1ee5 anya \u1ee5z\u1ecd nke weeb\u1ee5sa\u1ecbt\u1ecb?\n2. Kedu ihe mere eme n'\u1ee5z\u1ecd anya \u1ee5z\u1ecd nke weeb\u1ee5sa\u1ecbt\u1ecb?\n3. Kedu \u1ecbd\u1ecb iru nke a na-ab\u1ee5gh\u1ecb ike \u1ecbkp\u1ecdas\u1ecb?\n4. Kedu nk\u1ecbt\u1ecb na-agbany\u1ee5 anya \u1ee5z\u1ecd nke weeb\u1ee5sa\u1ecbt\u1ecb nke na-an\u1ecdgh\u1ecb ike \u1ecbkp\u1ecdas\u1ecb?\n5. Kedu ihe mere eme n'\u1ee5z\u1ecd anya \u1ee5z\u1ecd nke weeb\u1ee5sa\u1ecbt\u1ecb nke na-an\u1ecdgh\u1ecb ike \u1ecbkp\u1ecdas\u1ecb?\n6. Kedu ihe mere eme n'\u1ee5z\u1ecd anya \u1ee5z\u1ecd nke weeb\u1ee5sa\u1ecbt\u1ecb nke na-eme ihe \u1ecd b\u1ee5la?\n\nBiko, b\u1ecba ka m jik\u1ecd\u1ecd izute ihe mere ah\u1ee5 nke a site na Igbo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 324,
+        "total_tokens": 441
+    }
+}

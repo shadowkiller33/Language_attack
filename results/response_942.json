@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZU7ZfTsOw6XmBeKIpv2eLe6QsA",
+    "object": "chat.completion",
+    "created": 1692160640,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kw\u0129ka nge\u0169r\u0169 ya m\u0169ther\u0129-in\u0129 ma\u0169nd\u0169 \u0169te:\n\n1. Kamba ya k\u0169th\u0129\u0129ra ntha\u0169 ma\u0169nd\u0169: \n   - Kamba \"N\u0129thi\u0169ka ntha\u0169 ma\u0169nd\u0169\" k\u0169r\u0169ka th\u0129n\u0129.\n   - Kamba ma\u0169nd\u0169 nginya k\u0169th\u0129\u0129ra.\n   - Kamba \"Th\u0129n\u0129 \u0169th\u0129\u0129re ntha\u0169 ma\u0169nd\u0169\" \u0169\u0169kya ku th\u0129n\u0129.\n\n2. Kamba ya k\u0169th\u0129\u0129ra m\u0169ci\u0129 ma\u0169nd\u0169:\n   - Kamba \"N\u0129thi\u0169ka m\u0169ci\u0129 ma\u0169nd\u0169\" k\u0169r\u0169ka th\u0129n\u0129.\n   - Kamba m\u0169ci\u0129 ma\u0169nd\u0169 nginya k\u0169th\u0129\u0129ra.\n   - Kamba \"Th\u0129n\u0129 \u0169th\u0129\u0129re m\u0169ci\u0129 ma\u0169nd\u0169\" \u0169\u0169kya ku th\u0129n\u0129.\n\n3. Kamba ya k\u0169th\u0129\u0129ra m\u0169tumia:\n   - Kamba \"N\u0129thi\u0169ka m\u0169tumia\" k\u0169r\u0169ka th\u0129n\u0129.\n   - Kamba m\u0169tumia nginya k\u0169th\u0129\u0129ra.\n   - Kamba \"Th\u0129n\u0129 \u0169th\u0129\u0129re m\u0169tumia\" \u0169\u0169kya ku th\u0129n\u0129.\n\n4. Kamba ya k\u0169th\u0129\u0129ra k\u0129-\u0129nya:\n   - Kamba \"N\u0129thi\u0169ka k\u0129-\u0129nya\" k\u0169r\u0169ka th\u0129n\u0129.\n   - Kamba k\u0129-\u0129nya nginya k\u0169th\u0129\u0129ra.\n"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 500,
+        "total_tokens": 649
+    }
+}

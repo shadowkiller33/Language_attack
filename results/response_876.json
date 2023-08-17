@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NWm3wzj8ZvQXwBD2DnO8PNb9Fg",
+    "object": "chat.completion",
+    "created": 1692159898,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndeto ya \u0169nd\u0169 \u0169tonya k\u0169kwata na k\u0169thooesya syana visa sya \u0169laalai:\n\n1. K\u0169kwata syana visa sya \u0169laalai:\n   - N\u0129mwo \u0169k\u0169ona \u0169tonya wa \u0169kwata visa syana \u0169laalai, th\u0129ina niund\u0169 \u0169k\u0169hinga visa r\u0129a \u0169laalai r\u0129a visa r\u0129a Kamba.\n   - T\u0169k\u0169hinga visa r\u0129a \u0169laalai na visa r\u0129a \u0169laalai r\u0129a Kamba, n\u0129mwo \u0169k\u0169hinga visa r\u0129a \u0169laalai r\u0129a Kamba.\n   - Kana \u0169k\u0169hinga visa r\u0129a \u0169laalai r\u0129a Kamba, th\u0129ina \u0169k\u0169hinga visa r\u0129a \u0169laalai r\u0129a Kamba.\n   - T\u0169kwata visa syana \u0169laalai r\u0129a Kamba, kana visa r\u0129a Kamba, n\u0129mwo \u0169k\u0169kwata visa syana \u0169laalai r\u0129a Kamba.\n\n2. K\u0169thooesya syana visa sya \u0169laalai:\n   - N\u0129mwo \u0169k\u0169ona \u0169tonya wa k\u0169thooesya syana visa sya \u0169laalai, th\u0129ina niund\u0169 \u0169k\u0169hinga k\u0169thooesya syana visa r\u0129a \u0169laalai r\u0129a visa r\u0129a Kamba.\n   - T\u0169k\u0169hinga k\u0169thooesya syana visa r\u0129a \u0169laalai r\u0129a visa r\u0129a Kamba, n\u0129mwo \u0169k\u0169hinga k\u0169thooesya syana visa r\u0129a \u0169laalai r\u0129a Kamba.\n   - Kana \u0169k"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 500,
+        "total_tokens": 609
+    }
+}

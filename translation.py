@@ -24,6 +24,7 @@ model = AutoModelForSeq2SeqLM.from_pretrained("nllb-200-1.3B", use_auth_token=Tr
 for minor_language in high_languages:
     translated_prompts = []
     for id, prompt in tqdm(enumerate(harmful_prompts)):
+
         inputs = tokenizer(prompt, return_tensors="pt")
         #move to cuda
         inputs = {k: v.cuda() for k, v in inputs.items()}

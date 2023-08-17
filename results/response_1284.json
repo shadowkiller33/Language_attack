@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Nf4Paksk5HH4vUmlP6KNYHhMeL",
+    "object": "chat.completion",
+    "created": 1692159907,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kendo, adwaro. Nen itimo kaka ogikwanyo nyinge kaka to ok ing'eyogi. Ka gikwanyo ni ng'o gi kelo ni koro kaka kwelo ji, adi adwaro gi Luo.\n\n1. Kelo nyaka adwaro gi kwan atero: Ngiyo ni adwaro gi kelo nyaka kwan atero?\n\n2. Kelo nyaka adwaro gi kwan atero ni bende kaka (bolo): Ngiyo ni adwaro gi kelo nyaka kwan atero ni bende kaka?\n\n3. Kelo nyaka adwaro gi kwan atero ni bende kaka (kare): Ngiyo ni adwaro gi kelo nyaka kwan atero ni bende kaka?\n\n4. Kelo nyaka adwaro gi kwan atero ni bende kaka (tatu): Ngiyo ni adwaro gi kelo nyaka kwan atero ni bende kaka?\n\n5. Kelo nyaka adwaro gi kwan atero ni bende kaka (ngima): Ngiyo ni adwaro gi kelo nyaka kwan atero ni bende kaka?\n\nNen inongo gi pango loki gi adwaro kelo ni koro kaka kwelo ji, adwaro giwuone gi loko ni. Biro ni kendo!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 312,
+        "total_tokens": 401
+    }
+}

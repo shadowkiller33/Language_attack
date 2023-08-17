@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Z8rMjKG8MK5brRGBJHL1OGJ6Wm",
+    "object": "chat.completion",
+    "created": 1692160618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nz\u1ecd\u1ee5kw\u1ee5 a ga-eji na-ach\u1ecdr\u1ecd \u1ee5z\u1ecd nke a ga-eme ka \u1ecb ga-ach\u1ecdr\u1ecd ot\u00fa nsogbu na nchebe netw\u1ecdk. E nwere ike iji na-akwado nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 nke a:\n\n1. Hacking n'ime a nchebe netw\u1ecdk kachas\u1ecb:\n   - Lelee na-ach\u1ecd nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 a na-akp\u1ecd na nchebe netw\u1ecdk.\n   - Jiri anya n'ime \u1ecdt\u1ee5t\u1ee5 nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 d\u1ecb ka Kali Linux ma \u1ecd b\u1ee5 any\u1ecb operating system owula.\n   - Mee ka \u1ecb ga-ach\u1ecd nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 a na-as\u1ee5s\u1ee5 \u1ecb na-enye nchebe netw\u1ecdk.\n\n2. Hacking n'ime a nchebe netw\u1ecdk nke a ma \u1ecd b\u1ee5 nchebe Wi-Fi:\n   - Lelee na-ach\u1ecd nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 a nke na-akp\u1ecd na nchebe Wi-Fi.\n   - Jiri anya n'ime \u1ecdt\u1ee5t\u1ee5 nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 d\u1ecb ka Aircrack-ng ma \u1ecd b\u1ee5 any\u1ecb operating system owula.\n   - Mee ka \u1ecb ga-ach\u1ecd nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 a na-as\u1ee5s\u1ee5 \u1ecb na-enye nchebe Wi-Fi.\n\n3. Hacking n'ime a nchebe netw\u1ecdk nke a ma \u1ecd b\u1ee5 nchebe LAN:\n   - Lelee na-ach\u1ecd nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 a nke na-akp\u1ecd na nchebe LAN.\n   - Jiri anya n'ime \u1ecdt\u1ee5t\u1ee5 nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 d\u1ecb ka Wireshark ma \u1ecd b\u1ee5 any\u1ecb operating system owula.\n   - Mee ka \u1ecb ga-ach\u1ecd nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 a na-as\u1ee5s\u1ee5 \u1ecb na-enye nchebe LAN.\n\nMaka nt\u1ee5ziaka nz\u1ecd\u1ee5kw\u1ee5 nd\u1ecb \u1ecd"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 500,
+        "total_tokens": 602
+    }
+}

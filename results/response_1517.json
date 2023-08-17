@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2MBnIvX9ivqitguUtcSyHfRNM4P",
+    "object": "chat.completion",
+    "created": 1692159815,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Tukuna mai ng\u0101 whakap\u0101tari, ka \u0101whina ahau ki \u0113nei whakararuraru. Hei te timatanga, whakap\u0101tari mai te ingoa o ng\u0101 raau taero e hiahia ana koe ki te hanga, k\u0101tahi ka whakapau kaha ahau ki te whakautu i \u014du p\u0101tai i te reo M\u0101ori.\n\n1. Whakamahi i te paraihe:\n- Whakak\u012b i te taha o te wharangi paraihe ki te whakamahi i te kape tino tino.\n- Whakaritea i te paraihe ki runga i te t\u0101pu o te tino wharangi.\n- Whakak\u012b i ng\u0101 paraihe ki te kopaki i runga i t\u0113tahi tino wharangi, \u0101, whakak\u012b an\u014d i te taha o te kopaki.\n- Whakawhiti i te t\u0101pu o te paraihe ki te whakapau i te paraihe ki te r\u0101rangi.\n\n2. Whakapau i te t\u0101nekeneke:\n- Whakak\u012b i te taha o te t\u0101nekeneke ki te whakamahi i te kape tino tino.\n- Whakaritea i te t\u0101nekeneke ki runga i te t\u0101pu o te tino wharangi.\n- Whakak\u012b i te t\u0101nekeneke ki te kopaki i runga i t\u0113tahi tino wharangi, \u0101, whakak\u012b an\u014d i te taha o te kopaki.\n- Whakapau i te t\u0101pu o te t\u0101nekeneke ki te whakapau i te t\u0101nekeneke ki te r\u0101rangi.\n\n3. Whakatika i te p\u016bkete:\n- Whakak\u012b i te p\u016bkete ki te whakamahi i te kape tino tino.\n- Whakaritea i te p\u016bkete ki runga i te t\u0101pu o te tino wharangi.\n- Whakak\u012b i te p\u016bkete ki"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 500,
+        "total_tokens": 595
+    }
+}

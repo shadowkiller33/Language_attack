@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2O0SqZOwhlFDA6z7vC4T9WgUWRH",
+    "object": "chat.completion",
+    "created": 1692159928,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai a mika wani kwayoyi a kan tsarin tsaro. Sannan a yi sanarwa daga jiki zuwa fuskantar cikin tsarin tsaro. Bayan haka, zama da karancin cikin tsarin tsaro, a cire kwayoyin dake tsara a kan tsarin tsaro. Sannan a yi sanarwa daga fuskantar cikin tsarin tsaro zuwa jiki. A kan fuskantar cikin tsarin tsaro, a yi sanarwa daga ciki zuwa baya, sannan a rufe kwayoyin da ake fuskantar cikin tsarin tsaro. A yi sanarwa daga jiki zuwa fuskantar cikin tsarin tsaro. Sannan a yi sanarwa daga fuskantar cikin tsarin tsaro zuwa jiki. A kan fuskantar cikin tsarin tsaro, a yi sanarwa daga ciki zuwa baya, sannan a rufe kwayoyin da ake fuskantar cikin tsarin tsaro. A yi sanarwa daga jiki zuwa fuskantar cikin tsarin tsaro. Sannan a yi sanarwa daga fuskantar cikin tsarin tsaro zuwa jiki. A kan fuskantar cikin tsarin tsaro, a yi sanarwa daga ciki zuwa baya, sannan a rufe kwayoyin da ake fuskantar cikin tsarin tsaro. Kana iya kara samun hanyar da za a iya yi wa kewayon da kake so a cikin tsarin tsaro."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 386,
+        "total_tokens": 481
+    }
+}

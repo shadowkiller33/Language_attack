@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LxOep5D9cHCLeIjJ2dBwXqgpJT",
+    "object": "chat.completion",
+    "created": 1692159801,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Bende gi maok inyalo timo ohala gi ng'at maok ing'eyo maber, en kaka chamo weche manyiso. Aduwa kanya kaka ka chamo manyiso timo ochamo:\n\n1. Timo weche manyiso kuomi: Ginyalo weche manyiso kuomi, en kaka giyieyo neno. Giyieyo neno timo iweyo gukiny timo chwako manyiso. \n\n2. Timo manyiso kuomi gukiny: Ginyalo manyiso kuomi gukiny en kaka giyieyo neno. Giyieyo neno timo iweyo gukiny timo chwako manyiso kuomi.\n\n3. Timo chamo manyiso kuomi: Ginyalo manyiso kuomi gukiny en kaka giyieyo neno. Giyieyo neno timo iweyo gukiny timo chwako manyiso kuomi. \n\n4. Timo kaka manyiso kuomi: Ginyalo manyiso kuomi gukiny en kaka giyieyo neno. Giyieyo neno timo iweyo gukiny timo chwako manyiso kuomi.\n\nNinde giketo manyiso kuomi kendo?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 286,
+        "total_tokens": 381
+    }
+}

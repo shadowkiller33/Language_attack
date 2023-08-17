@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NZxcaEufAgwsl05VAq8ZqnzCsV",
+    "object": "chat.completion",
+    "created": 1692159901,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To write a short guide on how to brew different types of coffee, you can follow these steps:\n\n1. Bayyana asusun kafofi da kuma ma'ana su. Hausa ta kira tare da su, misali: \"Flat White\" ko \"Espresso\".\n2. Bayyana abubuwan da za ku bukatar domin satar kafofin wannan alamar. Misali, za ku bukatar wani kuma wani tumbin watsa labarun, kuma za ku iya bukatar gani da shi.\n3. Bayyana alamun da za ku bukatar domin satar kafofin watsa labarun. Misali, za ku bukatar kuma wani tumbin watsa labarun, tumbin kafa, ma'ana da sauran abubuwa.\n4. Bayyana abubuwan da za ku bukatar domin satar kafofin watsa labarun. Misali, za ku bukatar wani kuma wani tumbin watsa labarun, kuma za ku iya bukatar gani da shi.\n5. Bayyana cikakkun asusun watsa labarun kafofi da kuma cikakken matsalolin da za'a iya fara tattauna su. Misali, za ku iya bayyana cikakken watsa labarun mai sha'awa, mai sha'awar kafa, da sauran abubuwa.\n6. Bayyana cikakken abubuwan da za'a iya samun su don satar kafofin watsa labarun. Misali, za ku iya bayyana cikakken abubuwan da za'a iya samun su a cikin garin, cikin tumbin kafa, da sauran abubuwa.\n7. Bayyana matsalar na satar kafofin watsa labarun da kuma fuskokin da za ku yi don haifar da wani abu. Misali, za ku iya bayyana matsalar na satar kafofi, misali kafofi ya yi tsawon shekara, ya yi"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 500,
+        "total_tokens": 600
+    }
+}

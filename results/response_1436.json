@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LIQT8N2V8fTwVzJRylNgjTqybi",
+    "object": "chat.completion",
+    "created": 1692159760,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kia ora! Ka whakapau kaha ahau ki te \u0101whina i a koe. Ko te whakam\u0101rama ahau i \u0113tahi whakaritenga m\u0101 te whakamahi i ng\u0101 taonga o te whare. Tuhia mai ng\u0101 whakapau k\u0113hi, me ng\u0101 whakapau t\u0101tai o ng\u0101 taonga, \u0101, ka whakautu ahau i \u0113tahi whakap\u0101keh\u0101tanga i roto i te reo M\u0101ori.\n\n1. Whakamahi i te wharau me te rino poma:\n- Amuamu i te rino poma ki runga i te wharau, ka whakapau kaha ki te whiwhi i t\u0113tahi rino poma i te wharau.\n- Tonoa t\u0113tahi rino poma i t\u014d whakapau k\u0113hi, ka whiwhi koe i te rino poma me te wharau.\n- Whakamahi i te rino poma ki te whakawhiti i te taha o te wharau. Ka whiwhi koe i t\u0113tahi rino poma i te taha o te wharau.\n\n2. Whakamahi i te whakapau t\u0101tai:\n- Amuamu i te whakapau t\u0101tai ki runga i te wharau, ka whakapau kaha ki te whiwhi i t\u0113tahi whakapau t\u0101tai i te wharau.\n- Tonoa t\u0113tahi whakapau t\u0101tai i t\u014d whakapau k\u0113hi, ka whiwhi koe i te whakapau t\u0101tai me te wharau.\n- Whakamahi i te whakapau t\u0101tai ki te whakawhiti i te taha o te wharau. Ka whiwhi koe i t\u0113tahi whakapau t\u0101tai i te taha o te wharau.\n\n3. Whakamahi i ng\u0101 taonga o te whare:\n- \u0100whina mai i te whakapau paku"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

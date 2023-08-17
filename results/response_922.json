@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJ4ZsFVlVBurHmCGHyaU6Dh0Zi",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129vuku sya \u0169v\u0169ng\u0169, ng\u0169y\u0169 n\u0129 ng'ombe. N\u0129h\u0129kaga k\u0169tonya kuoyo n\u0129vuku sya \u0169v\u0169ng\u0169, r\u0129\u0169ng\u0169 rwa ku\u0169ng\u0169 rwa \u0169nd\u0169 \u0169tari \u0169theru. Ri\u0129e na matu ma mbere, \u0169tuk\u0169 wa k\u0169\u0169ng\u0169, na njira ya k\u0169thoma k\u0169\u0169ng\u0169 w\u0129ny\u0169. \n\n1. Thoma k\u0169\u0169ng\u0169: \u0168tuk\u0169 wa k\u0169\u0169ng\u0169 \u0169r\u0129a \u0169g\u0129t\u0169k\u0129ria n\u0129 \u0169tuk\u0169 wa kuheithia k\u0169\u0169ng\u0169. Iria \u0169g\u0129tee matu ma mbere na r\u0129ua r\u0129akwa, ndambo \u0169g\u0129t\u0169k\u0129ria k\u0169\u0169ng\u0169. \u0168tuk\u0169 wa kuheithia w\u0129ny\u0169 \u0169r\u0129a \u0169g\u0129tee matu ma mbere na r\u0129ua r\u0129akwa, ndambo \u0169g\u0129t\u0169k\u0129ria k\u0169\u0169ng\u0169.\n\n2. \u0168thoma k\u0169\u0169ng\u0169: R\u0129t\u0169k\u0169 r\u0129akwa r\u0129a ku\u0169ng\u0169 \u0169r\u0129a \u0169g\u0129t\u0169k\u0129ria n\u0129 \u0169tuk\u0169 wa kuheithia k\u0169\u0169ng\u0169. Iria \u0169g\u0129tee matu ma mbere na r\u0129ua r\u0129akwa, ndambo \u0169g\u0129t\u0169k\u0129ria k\u0169\u0169ng\u0169. \u0168tuk\u0169 wa kuheithia w\u0129ny\u0169 \u0169r\u0129a \u0169g\u0129tee matu ma mbere na r\u0129ua r"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 499,
+        "total_tokens": 609
+    }
+}

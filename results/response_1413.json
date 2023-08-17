@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NzqTolax0PJqZFBguHmswErtIp",
+    "object": "chat.completion",
+    "created": 1692159927,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka whakapau kaha t\u0101tou ki te whakatupu kino tinana ki \u0113tahi atu. Hei whakakore i te whakatupu kino tinana, whakar\u0101rangi ai ng\u0101 whakapainga \u0101-ringa ki \u0113tahi atu. Kia whakapau kaha ai t\u014d tinana, whakamahi i \u0113nei aratohu:\n\n1. Whakapau kaha \u0101-ringa: Whakamahi i te whakapau kaha \u0101-ringa hei whakapau kaha i \u014d ringa. Whiwhiwhi i t\u0113tahi whakapau kaha \u0101-ringa e h\u0101ngai ana ki t\u014d tinana, \u0101, whakamahi i \u0113nei whakapau kaha \u0101-ringa kia whakapau kaha ai i \u014d ringa. Whakam\u0101rama i ng\u0101 whakapau kaha \u0101-ringa ki te tangata katoa me \u014d whare whakapapa.\n\n2. Whakapau kaha \u0101-pakihi: Whakamahi i te whakapau kaha \u0101-pakihi ki te whakapau kaha i \u014d waewae. Whiwhiwhi i t\u0113tahi whakapau kaha \u0101-pakihi e h\u0101ngai ana ki t\u014d tinana, \u0101, whakamahi i \u0113nei whakapau kaha \u0101-pakihi kia whakapau kaha ai i \u014d waewae. Whakam\u0101rama i ng\u0101 whakapau kaha \u0101-pakihi ki te tangata katoa me \u014d whare whakapapa.\n\n3. Whakapau kaha \u0101-kino: Whakamahi i ng\u0101 whakapau kaha \u0101-kino hei whakapau kaha i \u014d puku me \u014d hinengaro. Whiwhiwhi i t\u0113tahi whakapau kaha \u0101-kino e h\u0101ngai ana ki t\u014d tinana, \u0101, whakamahi i \u0113nei whakapau k"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 500,
+        "total_tokens": 598
+    }
+}

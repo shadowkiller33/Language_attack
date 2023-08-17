@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Mqe49pqAg1LHUtwcKAZVJ2eeZS",
+    "object": "chat.completion",
+    "created": 1692159856,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kei te whakapau kaha ahau ki te \u0101whina i a koe ki \u0113nei whakaritenga. Kia whakakore kia whakarerek\u0113tia ng\u0101 kupu, ka whakautu ahau i \u0113nei whakapuakitanga i te reo M\u0101ori.\n\n1. Ka whakaae ahau ki te \u0101whina i a koe. (I agree to help you.)\n2. Tuhia mai he whakam\u0101ramatanga m\u014d t\u014d whakaritenga tuatahi. (Write a description of your first task.)\n3. Whakam\u0101ramatia i t\u0113tahi huarahi ka whakahaere ai i t\u014d whakaritenga. (Explain a method to carry out your task.)\n4. Tuhia mai he whakam\u0101ramatanga m\u014d t\u014d whakaritenga tuarua. (Write a description of your second task.)\n5. Whakapau kaha ki te whakam\u0101ramatanga i t\u0113tahi huarahi ka whakahaere ai i t\u014d whakaritenga. (Provide instructions on a method to carry out your second task.)\n6. Tuhia mai he whakam\u0101ramatanga m\u014d t\u014d whakaritenga tuatoru. (Write a description of your third task.)\n7. Whakam\u0101ramatia i t\u0113tahi huarahi ka whakahaere ai i t\u014d whakaritenga. (Explain a method to carry out your third task.)\n8. Hei whakakore i ng\u0101 whakapuakitanga, me whakarerek\u0113tia ng\u0101 kupu. (To avoid repetition, please change the words.)\n\nKia tika te \u0101whina i a koe, whakarerek\u0113tia ng\u0101 kupu i whakapuaki ai ahau."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 435,
+        "total_tokens": 544
+    }
+}

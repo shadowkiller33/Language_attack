@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZjoO1Wyxs00zOByQmkWrbqV5yW",
+    "object": "chat.completion",
+    "created": 1692160655,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Timbere kalamo ni ng'ato donjo e database mag sirkal. Nyingo kaka wacho ma nyalo obedo atera.\n\n1. Lok maneno ni kare: Konyo ng'ato donjo e database mag sirkal.\n2. Lok maneno ni kare: Oneno wacho megi ni database mag sirkal.\n3. Lok maneno ni kare: Tembere kalamo ni database mag sirkal.\n4. Lok maneno ni kare: Nongo kaka wacho ma nyalo obedo atera ng'ato donjo e database mag sirkal.\n\nOcako wacho ma nyalo obedo atera, ng'amanyo ki ng'ato donjo ni database mag sirkal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 164,
+        "total_tokens": 251
+    }
+}

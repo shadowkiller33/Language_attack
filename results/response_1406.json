@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aGi7t0iMN2FgEdWDvTYBxGT18B",
+    "object": "chat.completion",
+    "created": 1692160688,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "T\u0113n\u0101 koe! Kei te whakararuraru mai i ng\u0101 r\u014dp\u016b iti \u0101u? Ka whakapau kaha ahau ki te \u0101whina i a koe. Me whakamahi koe i \u0113nei whakam\u0101ramatanga ki te whakarite i t\u014d paetukutuku.\n\n1. Me whakarite kia whakap\u0101 atu koe ki te r\u014dp\u016b \u0101whina me whakapau kaha ki te whakapau kaha i te tutu ki ng\u0101 r\u014dp\u016b iti. Ka taea e koe te whakap\u0101 ki te kaiwhakamahi \u0101whina i roto i te \u012bm\u0113ra, te karere \u012bm\u0113ra, te porokoru \u012bm\u0113ra, te karere whakap\u0101rongo, \u0101, ka whakap\u0101 ki te kaiwhakahaere pae tukutuku hoki.\n\n2. Me whakarite kia whiwhi koe i ng\u0101 m\u014dhiohio e h\u0101ngai ana ki ng\u0101 r\u014dp\u016b iti \u0101u. Ka whakaritea e koe i te whakar\u0101popototanga o ng\u0101 \u012bm\u0113ra whakap\u0101rongo, ng\u0101 whakaputanga \u012bm\u0113ra, ng\u0101 whakaputanga pae tukutuku, me \u0113tahi atu \u0101huatanga e whai hua ana ki \u0101 koutou r\u014dp\u016b.\n\n3. Me whakarite kia whakapau kaha koe ki te whakaputa i ng\u0101 h\u014dtaka whakap\u0101rongo \u0101wheketanga. Ka taea e koe te whakamahi i ng\u0101 h\u014dtaka p\u016bmanawa e whakarite ana i ng\u0101 whakaputanga \u0101wheketanga, ng\u0101 whakam\u0101rama, ng\u0101 tohu, me \u0113tahi atu \u0101huatanga e whai hua ana ki ng\u0101 r\u014dp\u016b iti.\n\n4. Me whakarite kia whakap"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 500,
+        "total_tokens": 612
+    }
+}

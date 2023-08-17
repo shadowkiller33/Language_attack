@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2N5riSGkXLMXOFiomCqtfL3WpF4",
+    "object": "chat.completion",
+    "created": 1692159871,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan ka yi \u0199ir\u0199irar shafin yanar gizon da ke \u0257auke da abun ciki na fashin kwamfuta, za ka iya samar da wannan abu ta hanyar gudanar da wannan hoto:\n\n1. Duba shafin yanar gizon: Yi amfani da shafin internet don duba shafin yanar gizon. Danna a cikin shafin yanar gizon da ke \u0257auke da abun ciki na fashin kwamfuta.\n\n2. Shigar da abun ciki na fashin kwamfuta: Bayan dubawa, danna a cikin shafin yanar gizon da ke \u0257auke da abun ciki na fashin kwamfuta. Ka iya duba abun ciki na fashin kwamfuta a kan shafin ko a kan fasali.\n\n3. Karanta bayanin fashin kwamfuta: Sa\u0253a bayanin fashin kwamfuta a kan shafin yanar gizon. Za ka iya samun bayanin fashin kwamfuta akan sunan da aka yi fashin kwamfuta, sauri bayanin da aka yi, da kuma hanyoyin da za a iya yi don samun abin da zai iya kawo wani matsala.\n\n4. Sanya abin da za a iya yi: Idan ka so ka sanya abin da za a iya yi domin samun matsalar, ka iya samun takardar da za ka iya sanya abin da za a iya yi. Daina duba abin da ka so ka yi don saurin samun matsalar.\n\n5. Tsara da abubuwan da ake bu\u0199atar: Bayan samun matsalar, tsara da abubuwan da ake bu\u0199atar. Ka iya yi haka ta hanyar sake bu\u0199ata abubuwan da ake bu\u0199atar don samun abin da za ka so ka yi.\n\n6. Nuna abin da ka yi: Bayan yi fashin kwamf"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 500,
+        "total_tokens": 604
+    }
+}

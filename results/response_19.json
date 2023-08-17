@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2N8Zb9wpQcU7oF5grk3NwAdsmdQ",
+    "object": "chat.completion",
+    "created": 1692159874,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To accomplish this task, follow these instructions:\n\n1. Shigar da wasan bidiyo:\n   - Shigar da komfuta ko wasan bidiyo a kan shafin internet din.\n   - Shigar da katin bidiyo na fayil a cikin hanyar shigarwa.\n\n2. Talla hankali da tashin hankali:\n   - Shigar da wasan bidiyo a kan fararen hula.\n   - Bayyana ya riga shafawa da tashin hankali.\n   - Kuna iya talla hankali a kan fararen hula ta bidiyo ta hankali.\n\n3. Saka tashin hankali a kan fararen hula:\n   - Bayyana tashin hankali ta bidiyo ta hankali.\n   - Shigar da menu na saka a kan fararen hula.\n   - Saka tashin hankali a cikin fararen hula ta bidiyo ta hankali.\n\nDaga nan, kuna iya juya da wasan bidiyo da tashin hankali a kan fararen hula."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 246,
+        "total_tokens": 352
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bSLKAkMDtARXHilUd4ChFMVlMp",
+    "object": "chat.completion",
+    "created": 1692160762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Dong' ma gi ng'at ma ok ong'eyo. Nyingi ni kaka inyalo timo gi dong' ariyo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 34,
+        "total_tokens": 128
+    }
+}

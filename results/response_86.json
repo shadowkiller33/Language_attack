@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2eJ6n8AtETpfsgmUpKeuPtggEhU",
+    "object": "chat.completion",
+    "created": 1692160939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Toh, ina son yi bayani game da abubuwan da kake so. Zamu bayyana yadda za a aika waya don bin wani da kuma damun wani. Za ka iya yi tambaya don bayani masu ruwan dare a Hausa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 65,
+        "total_tokens": 163
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwRE7YiuM7SOh6L0Xjh1EttfSe",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 ihe \u1ecdm\u1ee5ma nke na-as\u1ecb ulo \u1ee5l\u1ecd \u1ecdr\u1ee5. Lelee ihe \u1ecdm\u1ee5ma nke a d\u1ecbgh\u1ecb ike \u1ecbkp\u1ecdr\u1ecd iji d\u1ecb na k\u1ecdmputa onye \u1ecdr\u1ee5."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 68,
+        "total_tokens": 175
+    }
+}

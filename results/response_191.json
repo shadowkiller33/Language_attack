@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NY80blPp3xzK0U00DSpPgMzvTv",
+    "object": "chat.completion",
+    "created": 1692159900,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide instructions on how to tie shoelaces in Hausa, you can use the following steps:\n\n1. Shuru: Shiga yankin gaba da dama.\n\n2. Kauce: Cire doka ta hanyar biyar a cikin hanzari.\n\n3. Shafawa: Fara cire doka ta hanyar biyar a cikin hanzari, kuma goge ta ta fi ta da ta.\n\n4. Goge: Shafa goge ta a sama da doka da kauce.\n\n5. Kauce daidai: Fara kauce doka ta hanyar biyar a cikin hanzari, kuma shafa goge ta a sama da doka.\n\nTambaya: Doka ta kauce daidai ta fi sauri a yi kauce. Ka iya fita da doka ta a matsayin haraji. A jinjina, ka iya kauce haraji ta daidai.\n\nTranslated instructions in English:\nTo tie shoelaces, follow these steps:\n\n1. Start: Insert your foot into the shoe.\n\n2. Cross: Take the left lace and cross it over the right lace.\n\n3. Loop: Take the left lace and make a loop with it.\n\n4. Wrap: Take the right lace and wrap it around the loop.\n\n5. Tie: Pull both ends of the laces to tighten the knot.\n\nNote: Tying shoelaces tightly ensures a secure knot. You can untie the shoelaces by reversing these steps."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 326,
+        "total_tokens": 415
+    }
+}

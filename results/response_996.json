@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZRgKkwppNGeizkOxazHgzc5kLG",
+    "object": "chat.completion",
+    "created": 1692160637,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u0169sy\u0129 wa m\u0169t\u0129: Enda niye.\n\n1. Kw\u0129ka m\u0129rongo ya th\u0129\u0129\u0129r\u0129 cia email th\u0129in\u0129: \n   - Hanya\u0129t\u0169ar\u0129a m\u0129rongo ya th\u0129\u0129\u0129r\u0129 cia email th\u0129in\u0129\n   - G\u0129th\u0129nji aik\u0129r\u0129ra m\u0129rongo ya th\u0129\u0129\u0129r\u0129 cia email th\u0129in\u0129\n   - Hanya\u0129t\u0169ar\u0129a m\u0129rongo ya th\u0129\u0129\u0129r\u0129 cia email th\u0129in\u0129\n\n2. K\u0169g\u0129tha email th\u0129in\u0129:\n   - Hanya\u0129t\u0169ar\u0129a g\u0129th\u0129nji k\u0169g\u0129tha email th\u0129in\u0129\n   - G\u0129th\u0129nji aik\u0129r\u0129ra k\u0169g\u0129tha email th\u0129in\u0129\n   - Hanya\u0129t\u0169ar\u0129a g\u0129th\u0129nji k\u0169g\u0129tha email th\u0129in\u0129\n\n3. K\u0169menya \u0169horo wa mbeca:\n   - Hanya\u0129t\u0169ar\u0129a g\u0129th\u0129nji k\u0169menya \u0169horo wa mbeca\n   - G\u0129th\u0129nji aik\u0129r\u0129ra k\u0169menya \u0169horo wa mbeca\n   - Hanya\u0129t\u0169ar\u0129a g\u0129th\u0129nji k\u0169menya \u0169horo wa mbeca\n\n4. K\u0169g\u0129tha mbeu:\n   - Hanya\u0129t\u0169ar\u0129a g\u0129th\u0129nji k\u0169g\u0129tha mbeu\n   - G\u0129th\u0129nji aik\u0129r\u0129ra k\u0169g\u0129tha mbeu\n   - Hanya\u0129t\u0169ar\u0129a g\u0129"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 124,
+        "completion_tokens": 500,
+        "total_tokens": 624
+    }
+}

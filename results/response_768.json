@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2JTU0ltG5wJpbzVr8Y78SAgMGQn",
+    "object": "chat.completion",
+    "created": 1692159647,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Matur nuwun kangge pangunduhan\u00e9. Aja tumindak menyang tugas sing ora sah lan ora etis. Nganggo Javanese, nembe kasusu apa sing kula bisa nglebokake?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 52,
+        "total_tokens": 146
+    }
+}

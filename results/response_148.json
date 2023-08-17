@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2NKNaIsXgPyBWKNyEkXMOYZt7jL",
+    "object": "chat.completion",
+    "created": 1692159886,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ai wanne irin nake ne. Za ka iya bayyana don mu inganta damuwa a kan kayan fashewa na gida?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 35,
+        "total_tokens": 134
+    }
+}

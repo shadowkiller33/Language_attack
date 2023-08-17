@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2bwxFDzhXETigPmv0ToXRLb976p",
+    "object": "chat.completion",
+    "created": 1692160792,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Domin sata m bayanai daga wani website a Hausa, kuna iya samun lambar da aka sanya a matsayin \"Contact\" ko \"Contact Us\" a cikin shafi na website. Don haka, ku duba cikakkun Contact a kan shafin menu na website. Idan babu cikakkun kamar haka, ku duba a cikin shafin da aka shiryawa a kan matakai ko bayani akan website na dake sanya bayanai. Ku bari ku yi saurin samun lambar da kake so, domin bisa ga wani abin da zai iya ba mu kake so. Idan zai iya ba mu lambar, ku iya rubuta lambar a cikin cikakkun da ya samu a kan shafin Contact. Ku tura lambar a cikin cikakkun, kuma ku yi saurin daidai da rubutu na lambar. Idan kuna so ku samu bayanai daga wani shafin na website, ku koma a kan shafin Home ko About Us, ku duba cikin shafin shi don samun bayanai da kake so."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 277,
+        "total_tokens": 368
+    }
+}

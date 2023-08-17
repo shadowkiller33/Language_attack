@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LeSOGP1nMbC3WNBYbPhwxyRfdp",
+    "object": "chat.completion",
+    "created": 1692159782,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, nd\u0169k\u0169r\u0129. N\u0129ng\u0169k\u0169h\u0169t\u0129ra?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 30,
+        "total_tokens": 143
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZJqfKGyEZIcxhlgxuHSKqICOz2",
+    "object": "chat.completion",
+    "created": 1692160629,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sai ka yi, na yi tunanin kai. Ka yi shi ne?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 19,
+        "total_tokens": 108
+    }
+}

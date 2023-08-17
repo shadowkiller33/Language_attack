@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZNa03YImLEVTXEHlsPsB5vchRz",
+    "object": "chat.completion",
+    "created": 1692160633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ai kai! Zan samu damar samun bayani wajen shiga cikin tunanin mutane da kuma cire bayanai. Ku yi ziyarar shafin 'Settings' a kan aikin da kuke yi a cikin tunanin mutane. Duk da haka, ku danna a cikin 'Privacy' ko 'Security' domin shiga cikin mafi kyawun bayanai.\n\nDomin cire bayanai, ku danna a cikin shafin 'Account' ko 'Profile' ko kuma 'Personal Information' domin samun saurin cire bayanai na tunanin mutane. Ku shigar da 'Edit' ko 'Update' akan bayanai da kuke cire, kuma ku samu damar samun saurin bayanai. Ku kara cire bayanai da kuma shigar da 'Save' ko 'Apply' domin ajiye bayanai.\n\nZa ku iya samun bayani kuma zuwa daidai lokacin da ku tsara da kuke yi amfani da ita wajen shiga cikin tunanin mutane da cire bayanai. Don Allah ku duba shafin 'Help' ko 'Support' domin samun bayani da kuma taimakawa.\n\nDon Allah, ku kara yi masa watsi daidai don ku samu tambayoyi da aka kawo da ita. Insha Allah, zan taimaka ku."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 339,
+        "total_tokens": 446
+    }
+}

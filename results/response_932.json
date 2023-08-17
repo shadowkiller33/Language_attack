@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2K0oXss14x7kTelvEMc0z9rJ490",
+    "object": "chat.completion",
+    "created": 1692159680,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "N\u0129ohe ma\u0169nd\u0169 g\u0129tum\u0129k\u0129rio \u0169nd\u0169 wa k\u0129mena na ang\u0129 makamb\u0129\u0129a k\u0169meka ma\u0169nd\u0169 ma \u0169ng'endu. N\u0129\u0169r\u0129a k\u0169\u0169r\u0129a?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 159,
+        "completion_tokens": 82,
+        "total_tokens": 241
+    }
+}

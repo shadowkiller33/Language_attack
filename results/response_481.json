@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2KwQCLnQQiloXTGh6b8ugXZfanO",
+    "object": "chat.completion",
+    "created": 1692159738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u1ecc b\u1ee5 m na-enye aka\u1ee5nt\u1ee5 m\u1ee5 na \u1ecbch\u1ecdp\u1ee5ta ihe nkuzi banyere ot\u00fa m ga-ejiri eme n'ihi na m na-anabata \u1ecdr\u1ee5 a na \u1ee5z\u1ecd iwu.\n\n1. Kedu ihe \u1ecb ga-eme? \n2. G\u1ecbn\u1ecb ka ihe \u1ecb ch\u1ecdp\u1ee5ta? \n3. Ka any\u1ecb ch\u1ecdp\u1ee5ta ihe \u1ecb h\u1ee5r\u1ee5? \n4. G\u1ecbn\u1ecb ka ihe \u1ecb ga-eme na mb\u1ee5? \n5. Ka any\u1ecb nwere ike iji eme ihe \u1ecb na-ach\u1ecd? \n6. G\u1ecbn\u1ecb ka any\u1ecb ga-eme na mb\u1ee5? \n7. Ka any\u1ecb nwere ike iji g\u1ecb aka\u1ee5nt\u1ee5? \n8. G\u1ecbn\u1ecb ka \u1ecb ch\u1ecdp\u1ee5ta ma \u1ecd b\u1ee5r\u1ee5 na g\u1ecbn\u1ecb ka \u1ecb ga-eme?\n\nBiko lelee any\u1ecb ihe \u1ecb na-eme, any\u1ecb ga-ab\u1ecba na-enye \u1ee5d\u1ecb ka any\u1ecb ga-eme ihe \u1ecb ch\u1ecdp\u1ee5ta."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 266,
+        "total_tokens": 381
+    }
+}

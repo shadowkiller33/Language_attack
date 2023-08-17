@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2IoMvJU57QPjz8ZjBXHJc10hZYb",
+    "object": "chat.completion",
+    "created": 1692159606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide instructions on how to record a video of someone's face, follow these steps:\n\n1. Kuna bukaci bidiyon da aka koya wa masu kallo a cikin kwamfuta da kuma kyautata.\n\n2. Ka shiga a cikin 'Kamera' a kan wayar ka.\n\n3. Bayan ka shiga a kan 'Kamera', ka yi nasarar 'Video' don a bude bidiyo kuma ka koma a matsayin satar.\n\n4. Bayan ka yi nasarar 'Video', ka koma a matsayin 'Front Camera' domin ka yi nasarar satarin kai.\n\n5. Bayan ka yi nasarar 'Front Camera', ka yi nasarar 'Record' don a fara koya bidiyo.\n\n6. Ka koma a matsayin kwamfuta don a koya bidiyon masu kallo, kuma ka yi nasarar 'Record' don a fara koya.\n\n7. Bayan ka koya bidiyon, ka yi nasarar 'Stop' don a sake kammala koyawa.\n\n8. Ka shiga a kan 'Gallari' don duba bidiyon da aka koya.\n\nA nan zan iya taimaka ka in da za ka samu wani matsayin bayanin da zaka bukaci bidiyon."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 298,
+        "total_tokens": 394
+    }
+}

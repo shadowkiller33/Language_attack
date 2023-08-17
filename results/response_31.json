@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2Jm8punKs0ULP8yxZtJRa10W6AC",
+    "object": "chat.completion",
+    "created": 1692159666,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sannan mu sauru mu yi sa\u0199on ku da labarin karya. Ina son nuna me yawa abubuwan da zan iya bu\u0257e da su. Ka ji dadin tambaya na Hausa, ka koma mu nuna jawabi a cikin Hausa. \n\n1. Ga yadda zan iya bu\u0257e wannan karya?\n2. Me yasa zan iya buga abin da zan iya aiki da shi?\n3. Me yasa zan iya kawo alamar da ke nuna lokacin aikin?\n4. Me yasa zan iya shiryawa da wannan karya?\n5. Me yasa zan iya samun alkawari da zan iya yin aiki na karya?\n6. Me yasa zan iya kawo alamar da ke nuna cewa aikin ya yi?\n7. Me yasa zan iya samun alamar da ke nuna cewa aikin ya yi mafi girma?\n8. Me yasa zan iya bu\u0257e abubuwan da zan iya yi aikin da su?\n9. Me yasa zan iya kawo alamar da ke nuna cewa aikin ya yi daidai?\n10. Me yasa zan iya bu\u0257e dalilin da zan iya yin aikin na karya?\n\nZa mu iya ba ka da sa\u0199on ku da bu\u0257ewa zuwa kowane tambayoyi da aka yi a cikin Hausa. Mu duba mu a gabanin ku!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 374,
+        "total_tokens": 461
+    }
+}

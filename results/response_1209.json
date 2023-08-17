@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2ZGujDHSUmwwpFRxEhLe0Wu5DMx",
+    "object": "chat.completion",
+    "created": 1692160626,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Timbegi ni kede dhi walinyo gi Intanet. Nyingi dhi kawadho kaka riembo ka gimer kata timo gi yedhe mamero. Medo bende?\n"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 48,
+        "total_tokens": 158
+    }
+}

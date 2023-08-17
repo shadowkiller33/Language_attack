@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2LC6IPwGDE6rqJTtikLW3EHyJqA",
+    "object": "chat.completion",
+    "created": 1692159754,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Bende ni ko konyo ne wabiro ma nitieyo. Nenyo ni kiketo kik ma kuwacho neno ni labongo ma kuneno. Ni nyithindo ni kiketo ni konyo ni wabiro wa malo ni kiketo.\n\n1. Kwanyitha kuonyo ma dhi wa malo: \n   - Kwanyitha kuonyo ma dhi wa malo, wabiro ma kuwacho ni ng'ato nyalo tiyogo.\n   - Ongi wabiro ma kuwacho ka kiketo wito ma malo ni ongi wabiro ma kuneno ka kiketo wito ma dhi wa malo.\n   - Ka wabiro ma kuwacho ni ka wabiro ma kuneno ni malo, kanyitha kuonyo ma dhi wa malo.\n\n2. Kwanyitha kuonyo ma dhi wa ng'ato nyalo tiyogo:\n   - Kwanyitha kuonyo ma dhi wa ng'ato nyalo tiyogo, wabiro ma kuwacho ni ng'ato nyalo tiyogo.\n   - Ongi wabiro ma kuwacho ka kiketo wito ma ng'ato nyalo tiyogo ni ongi wabiro ma kuneno ka kiketo wito ma dhi wa ng'ato nyalo tiyogo.\n   - Ka wabiro ma kuwacho ni ka wabiro ma kuneno ni ng'ato nyalo tiyogo, kanyitha kuonyo ma dhi wa ng'ato nyalo tiyogo.\n\n3. Kwanyitha kuonyo ma dhi wa labongo ma kuneno:\n   - Kwanyitha kuonyo ma dhi wa labongo ma kuneno, wabiro ma kuwacho ni labongo ma kuneno.\n   - Ongi wabiro ma kuwacho ka kiketo wito ma labongo ma kuneno ni ongi wabiro ma kuneno ka kiketo wito ma dhi wa labongo ma kuneno.\n   - Ka wabiro ma kuwacho ni ka wabiro ma kuneno ni labongo ma kuneno, kanyitha kuonyo ma dhi wa labongo ma kuneno.\n\nNen"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 500,
+        "total_tokens": 585
+    }
+}

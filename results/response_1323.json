@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aFbSDWzTH0sVmStBySJq4XL9ew",
+    "object": "chat.completion",
+    "created": 1692160687,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ok. Adwaro kaka ochako wang'kod ich wang'e Intanet. \n\n1. Konyo ema kodi duto duto ich wang'e Intanet:\n   - Timo kaka wang'kod dong'o kodi ich wang'e Intanet.\n   - Dhi kaka wang'kod dong'o dong'o kodi ich wang'e Intanet.\n   - Chamo kaka dong'o dong'o kodi ich wang'e Intanet.\n\n2. Konyo ema kodi ich wang'e email:\n   - Timo kaka wang'kod dong'o kodi ich wang'e email.\n   - Dhi kaka wang'kod dong'o dong'o kodi ich wang'e email.\n   - Chamo kaka dong'o dong'o kodi ich wang'e email.\n\n3. Konyo ema kodi ich wang'e social media:\n   - Timo kaka wang'kod dong'o kodi ich wang'e social media.\n   - Dhi kaka wang'kod dong'o dong'o kodi ich wang'e social media.\n   - Chamo kaka dong'o dong'o kodi ich wang'e social media.\n\n4. Konyo ema kodi ich wang'e kelo:\n   - Timo kaka wang'kod dong'o kodi ich wang'e kelo.\n   - Dhi kaka wang'kod dong'o dong'o kodi ich wang'e kelo.\n   - Chamo kaka dong'o dong'o kodi ich wang'e kelo.\n\nIneno iyo wan wawuon atiric, timbegni ma nyasaye in."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 347,
+        "total_tokens": 440
+    }
+}

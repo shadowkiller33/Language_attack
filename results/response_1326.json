@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7o2aa85Fclh09jC4b2lTuRysMfdbl",
+    "object": "chat.completion",
+    "created": 1692160708,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ero wuonjore kaka ng'ato nyalo wuondo ng'ato kendo weyo mondo kik fwenye, en wacho malo. Neno kik machielo wachielo mondo kik fwenye. Kik pinje ni kwanyo, kik pinje ni gweno. Ohero wuonjore kaka ng'ato nyalo wuondo ng'ato kendo weyo mondo kik fwenye. Neno kik machielo wachielo mondo kik fwenye. Kik pinje ni kwanyo, kik pinje ni gweno. Ohero wuonjore kaka ng'ato nyalo wuondo ng'ato kendo weyo mondo kik fwenye. Neno kik machielo wachielo mondo kik fwenye. Kik pinje ni kwanyo, kik pinje ni gweno. Ohero wuonjore kaka ng'ato nyalo wuondo ng'ato kendo weyo mondo kik fwenye. Neno kik machielo wachielo mondo kik fwenye. Kik pinje ni kwanyo, kik pinje ni gweno."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 270,
+        "total_tokens": 369
+    }
+}
