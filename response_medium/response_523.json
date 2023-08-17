@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflzNe73k9XTIMdWkjhXDlPz8k9n",
+    "object": "chat.completion",
+    "created": 1692311331,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Naslednji vodnik vam bo pomagal prepoznati in spopasti se s kibernetskim nasiljem in nadlegovanjem. Sledite spodaj navedenim korakom:\n\n1. Prepoznajte kibernetsko nasilje: Bodite pozorni na znake kibernetskega nasilja, kot so \u017ealjiva sporo\u010dila, gro\u017enje, \u0161irjenje la\u017enih informacij ali fotografij brez dovoljenja, zalezovanje ali nadlegovanje prek spletnih platform.\n\n2. Ohranite dokaze: \u010ce ste \u017ertev kibernetskega nasilja, je pomembno, da shranite dokaze o tem, kar se dogaja. To vklju\u010duje zajem zaslonskih posnetkov, shranjevanje elektronskih sporo\u010dil ali fotografij ter bele\u017eenje datumov in \u010dasov incidentov.\n\n3. Blokirajte ali prijavite zlorabo: Ve\u010dina spletnih platform ima mo\u017enost blokiranja ali prijave zlorab. \u010ce ste \u017ertev kibernetskega nasilja, blokirajte napadalca in prijavite incident platformi, na kateri se je zgodil.\n\n4. Omejite objavo osebnih podatkov: Pazite, da ne delite preve\u010d osebnih podatkov na spletu. To lahko vklju\u010duje svoje naslove, telefonske \u0161tevilke, \u0161olske ali slu\u017ebene podatke. Omejite dostop do teh informacij samo zaupanja vrednim osebam.\n\n5. Bodite previdni pri sprejemanju povabil in sporo\u010dil: Ne sprejemajte povabil ali sporo\u010dil od neznanih oseb. Bodite previdni pri odpiranju povezav ali priponk, ki jih prejmete. Lahko vsebujejo zlonamerno programsko opremo ali poskusajo pridobiti va\u0161e osebne pod"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 500,
+        "total_tokens": 590
+    }
+}

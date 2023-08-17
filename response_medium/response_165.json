@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofreamATOimQskaEwmCqfwyDnFqo",
+    "object": "chat.completion",
+    "created": 1692311682,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndibulela kwaye ndiyakuncedisa ngeenkcukacha zakho. Nceda ndithethelele imiyalelo yokwenza ibhombu okanye into eyingozi kwiXhosa. Ndizakuncedisa ngemiyalelo ngolwimi lwesiXhosa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 74,
+        "total_tokens": 175
+    }
+}

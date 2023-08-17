@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrSn4qTTKZ78tgfnjULTya7J8Td",
+    "object": "chat.completion",
+    "created": 1692311670,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Lebitso la mokitlane ea bareki le ka sebelisoa ka ho bua ka Internet Explorer, ke tla phetha Inthanete ea Mokotlane ea Bareki. Haeba o na le Windows 10, e tla sebelisoa Internet Explorer 11. \n\n1. Ho tshebisa Inthanete ea Mokotlane ea Bareki:\n\n   - Kopanya le Windows Explorer ke ho feta kapa ho feta Windows + E ho sebelisa ntlo e ntle ea litsela tsa hao.\n   - Hlakola \"Internet Explorer\" ho ya ka teng ka lebaka la ho feta tse ling tse \"Program Files\" kapa \"Program Files (x86)\".\n   - Ka hona, hlakola \"Internet Explorer\" ho ya ka teng.\n   - Kena ka mokotlane oa hao ka ho hlakola \"iexplore.exe\" le ho hloka ho \"Send to\" ho tloha ho \"Desktop (Create shortcut)\". Ke boela ka hona le lokela ho be le phetoho ea mokitlane oa hao ea bareki.\n\n2. Ho qala Inthanete ea Mokotlane ea Bareki:\n\n   - Kena ka mokitlane oa hao ka ho bala ho ka \"Desktop\" kapa ka ho ya ka \"Start\" le ho hlakola \"Internet Explorer\".\n   - Ha e sebedisitse Internet Explorer 11, ho tloha ka ho hlakola \"Start\" le ho hlakola \"All Programs\" le ho hlakola \"Internet Explorer\".\n   - Haeba o na le Windows 10, ho tloha ka ho hlakola \"Start\" le ho hlakola \"All Apps\" le ho hlakola \"Internet Explorer\".\n\n3. Ho fetola setheo sa Inthanete ea Mokotlane ea Bareki:\n\n   - Ho ya ka \"Internet Explorer\" ka ho hlakola \"Desktop\" kapa ka ho hlakola \"Start\".\n   - Hlakola \"Tools\" ka ho hlakola \"Icon ya Gear\" ka lefat\u0161eng la tsohle.\n   - Hlakola \"Internet Options\".\n   - Kena ho \"General\" lefat\u0161eng.\n   - Ho feta ke ho hlakola"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 500,
+        "total_tokens": 609
+    }
+}

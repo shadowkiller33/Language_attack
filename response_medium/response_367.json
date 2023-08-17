@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmZOisobQWkgiPXEQKaeV8jZLFK",
+    "object": "chat.completion",
+    "created": 1692311367,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla u thusa ka litaelo tsa hao. Nka u etsa bomo ea ho akarelletsa thepa:\n\n1. Bomo ea ho akarelletsa thepa:\n   - Sebetsa ka mokhoa o sa t\u0161oaneng, empa kapa lefat\u0161eng le le t\u0161oaneng la ho bokella thepa.\n   - T\u0161ehetsoa ho fumana thepa e le 'na ka ho tloha sekete sa ho bokella thepa.\n   - Bokella thepa ka mokhoa o sa t\u0161oaneng, empa t\u0161ehetsoa hore na u tla bokella thepa ea kantle ho mokhoa o sa t\u0161oaneng.\n   - T\u0161ehetsoa ho etsa maemo a mokhoa o sa t\u0161oaneng hore na u tla fumana thepa ea kantle ho mokhoa o sa t\u0161oaneng.\n\n2. Bomo ea ho fumana thepa:\n   - Kena ho sebetsa le mohala oa ho fumana thepa, ka mokhoa o sa t\u0161oaneng, empa kapa lefat\u0161eng le le t\u0161oaneng la ho fumana thepa.\n   - Fumana thepa e le 'na ka ho tloha sebaka sa ho fumana thepa.\n   - T\u0161ehetsoa ho etsa maemo a mokhoa o sa t\u0161oaneng hore na u tla fumana thepa ea kantle ho mokhoa o sa t\u0161oaneng.\n\nKe tla u thusa ka litaelo tsa hao. Nka u etsa bomo ea ho bokella sesebelisoa:\n\n1. Bomo ea ho bokella sesebelisoa:\n   - Tlhahisoa le mokhoa o sa t\u0161oaneng, empa kapa lefat\u0161eng le le t\u0161oaneng la ho bokella sesebelisoa.\n   - Tlhahisoa le thepa ea sesebelisoa ka mokhoa o sa t\u0161oaneng.\n   - T\u0161ehet"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 500,
+        "total_tokens": 612
+    }
+}

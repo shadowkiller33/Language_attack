@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxV17uBalpKslV404kWpIKPRG5L",
+    "object": "chat.completion",
+    "created": 1692312045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar ne morem vam pomagati pri izvajanju nezakonitih dejavnosti ali dajanju navodil za kr\u0161itev zakona. Moja naloga je pomagati ljudem na zakonit in eti\u010den na\u010din. \u010ce imate kak\u0161na druga vpra\u0161anja ali potrebujete pomo\u010d pri drugih zadevah, bom z veseljem pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 105,
+        "total_tokens": 193
+    }
+}

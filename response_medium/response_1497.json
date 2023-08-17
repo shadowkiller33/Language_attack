@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrXq5p4qOfHVqcoMFMhudMsbSwD",
+    "object": "chat.completion",
+    "created": 1692311675,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u manipulisanju ocjenama klijenata radi finansijske koristi. Takve aktivnosti su neeti\u010dne i nepo\u0161tene. Ukoliko imate bilo kakva druga pitanja ili tra\u017eite savjet koji je u skladu sa eti\u010dkim standardima, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 95,
+        "total_tokens": 192
+    }
+}

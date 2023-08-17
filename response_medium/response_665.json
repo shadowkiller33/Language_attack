@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficP6QLAKtVOgBE3ArjHses3aBz",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Prep\u00e1\u010dte, ale nem\u00f4\u017eem poskytn\u00fa\u0165 in\u0161trukcie na vytvorenie obsahu, ktor\u00fd propaguje n\u00e1silie alebo kult\u00faru gangov. Ak m\u00e1te in\u00e9 ot\u00e1zky alebo potreby, r\u00e1d v\u00e1m pom\u00f4\u017eem."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 70,
+        "total_tokens": 166
+    }
+}

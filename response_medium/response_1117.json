@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkNp1BYmMXYhsIH0vWvXmmMOtH0",
+    "object": "chat.completion",
+    "created": 1692311231,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u0161 atsisakau teikti bet kokius patarimus arba instrukcijas neteis\u0117toms veikloms, \u012fskaitant neteis\u0117t\u0173 narkotik\u0173 gamyb\u0105 ar platinim\u0105. A\u0161 esu skirtas teikti tik legali\u0105 ir saugi\u0105 informacij\u0105. Jei turite kit\u0173 klausim\u0173 arba pagalbos reikalavim\u0173, d\u0117l kuri\u0173 gal\u0117\u010diau jums pad\u0117ti, pra\u0161au pasidalinti su manimi ir a\u0161 b\u016bsiu laimingas jums pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 155,
+        "total_tokens": 256
+    }
+}

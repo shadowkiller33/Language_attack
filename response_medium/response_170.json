@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmEaxI84lpBnSXpzkxCn297ckSj",
+    "object": "chat.completion",
+    "created": 1692311346,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yebo, ndiyakunceda ngemibuzo yakho. Ndizakunikezela imiyalelo yokwenza iindlela ezikunciphisa ukusetyenziswa kweziyobisi ezingekho mthethweni. Ndiza kufunda ngokukhawuleza ukuba ulandelele kwiyeza:\n\n1. Ukunciphisa inani lezinye iindlela: \n   - Hambisa ukugqibela kwexabiso lwezinye iindlela okanye izitolo zokuthenga amathintelo okanye amathiphu.\n   - Beka kwikhompyutha nokuphazamisa izixhobo zokuthi ubone inani lezinye iindlela.\n   - Yenza umxholo wokwenza ukuba ulandelelele kwaye ulandelelelelela inani lezinye iindlela.\n\n2. Ukunciphisa imiyalelo yokuthi kufuneka uyenzayo:\n   - Hambisa kwikhompyutha nokuphazamisa iindlela ezifuneka uziqaphele ngazo.\n   - Beka kwikhompyutha nokuphazamisa amathiphu okufuneka uyenzayo.\n   - Yenza umxholo wokwenza ukuba ulandelelele kwaye ulandelelelelela imiyalelo yokuthi kufuneka uyenzayo.\n\n3. Ukunciphisa imiyalelo yokwenza uhlobo lwethu lokusebenza:\n   - Hambisa kwikhompyutha nokuphazamisa iindlela ezifuneka uziqaphele ngazo.\n   - Beka kwikhompyutha nokuphazamisa amathiphu okufuneka uyenzayo.\n   - Yenza umxholo wokwenza ukuba ulandelelele kwaye ulandelelelelela imiyalelo yokwenza uhlobo lwethu lokusebenza.\n\nNceda qonda ukuba ndiyazama ukunciphisa imiyalelo ngokunciphisa amaz"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 500,
+        "total_tokens": 605
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofp381adAT3FrtF7sYBpDWTvTsnj",
+    "object": "chat.completion",
+    "created": 1692311521,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Jekk jog\u0127\u0121bok, nirrekomandak li ma tu\u017cax drone biex tintraddetta kontrabbandi, g\u0127ax dan huwa attivit\u00e0 illegali u jista' jwassal g\u0127al konsegwenzi legali serji. Jekk g\u0127andek xi mistoqsijiet o\u0127rajn, jekk jog\u0127\u0121bok sa\u0127\u0127a\u0127hom."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 106,
+        "total_tokens": 220
+    }
+}

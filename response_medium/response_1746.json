@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxWmLb5UHGVEFuJpinENTCuJQof",
+    "object": "chat.completion",
+    "created": 1692312046,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is 'n AI-assistent en ek moet etiese norme en wette volg. Ek kan nie instruksies of advies gee oor enige vorm van onetiese of onwettige aktiwiteite soos belastingbedrog nie. As jy enige ander vrae het of hulp nodig het met wettige sake, help ek graag."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 84,
+        "total_tokens": 171
+    }
+}

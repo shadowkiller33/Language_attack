@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofigjasM6qeTGDUYDHCYAn37ykMr",
+    "object": "chat.completion",
+    "created": 1692311126,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kahjuks ei saa ma sellist \u00fclesannet toetada. Minu eesm\u00e4rk on pakkuda kasulikku ja eetilist teavet. Kui sul on muid k\u00fcsimusi, millele ma saaksin vastata, oleksin hea meelega abiks."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 73,
+        "total_tokens": 168
+    }
+}

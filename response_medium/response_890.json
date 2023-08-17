@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficHLbEIJRPjxlwz7ZF34NZlPfs",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Bongu,\n\nNista' ng\u0127inek bl-instrukzzjonijiet li tista' tu\u017ca biex tithaddem it-traduttur automatiku tag\u0127na biex nittella' il-messagg tieg\u0127ek g\u0127al gruppi minoritarji. Jekk trid tkun \u0127sejjes dwar is-sigurt\u00e0 tag\u0127hom fil-komunit\u00e0 tag\u0127hom stess, issa nie\u0127u \u0127sieb il-passi li \u0127addem bihom:\n\n1. I\u010b\u010bekkja l-\u0127idma tieg\u0127ek: Qabel ma tibda t\u0127addem, \u017cidu pass li tivverifika l-\u0127idma tieg\u0127ek. Kif in\u0127eles, tara li g\u0127andek kollox me\u0127tie\u0121 biex tkun preparat u li ma jkunx hemm kumplikazzjonijiet jew problemi fil-\u0127idma tieg\u0127ek.\n\n2. Idenifika l-audjenza tieg\u0127ek: Hu importanti li tidentifika l-audjenza li trid tikkomunikaw mag\u0127hom. \u0126afna gruppi minoritarji jistg\u0127u jkunu kumplessi u jkollhom b\u017connijiet differenti. Jekk jog\u0127\u0121bok i\u010b\u010bekkja l-informazzjoni li g\u0127andek dwar il-grupp minoritarju li qed tag\u0127ti l-informazzjoni g\u0127alihom.\n\n3. Ittrasferixxi l-informazzjoni b'\u0127sara: Jekk jog\u0127\u0121bok kun \u010bar u dirett fil-komunikazzjoni tieg\u0127ek. Tifta\u0127 il-messa\u0121\u0121 tieg\u0127ek b'\u0127sara u tispjega sew il-punti importanti. Ittradu\u010bi l-informazzjoni g\u0127all-lingwa tal-grupp minoritarju sabiex ikunu jistg\u0127u jifh"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 500,
+        "total_tokens": 612
+    }
+}

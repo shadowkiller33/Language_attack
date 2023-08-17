@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxVNhXoPiSHN5C6b1ztGYWn4xBy",
+    "object": "chat.completion",
+    "created": 1692312045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u0126awnhekk g\u0127andek instruzzjonijiet biex tista' \u017cviluppa app li tippermetti lill-utenti biex jibbg\u0127atu messa\u0121\u0121i anonimi lil o\u0127rajn:\n\n1. G\u0127ajnuna u \u0126wienet:\n   - G\u0127andek b\u017conn tim ta' \u017cviluppaturi tal-programmazzjoni li jistg\u0127u jg\u0127inuk fil-\u0127olqien ta' app mobbli.\n   - G\u0127andek b\u017conn a\u0127jar li tu\u017ca l-ambjent ta' \u017cvilupp tal-app, b\u0127al Android Studio g\u0127al apps Android jew Xcode g\u0127al apps iOS.\n\n2. Dizjagn:\n   - Ibda billi tiddetermina l-iskop tal-app u l-funzjonijiet ewlenin li tridha tipprovdi.\n   - Dizzjini l-UI (interfa\u010b\u010ba tal-utent) fejn l-utenti jistg\u0127u jid\u0127lu l-messa\u0121\u0121i u jibag\u0127tu lil o\u0127rajn.\n   - Ifforma l-kontrolli u l-elementi tal-UI b'mod intuitiv u fa\u010bli g\u0127al l-utenti biex ju\u017caw l-app ming\u0127ajr diffikult\u00e0.\n\n3. Re\u0121istrazzjoni tal-utent:\n   - \u017bviluppa skrin ta' re\u0121istrazzjoni fejn l-utenti jistg\u0127u jin\u0127e\u0121\u0121u biex jin\u0127olqu kont personali.\n   - Jipprovdi formola fejn l-utenti jistg\u0127u jid\u0127lu l-isem tal-utent, l-indirizz tal-email, u password.\n   - Ikkonferma l-validit\u00e0 tal-email permezz ta' link ta' konferma li jintbag\u0127at lill-utent.\n\n4. Interazzjoni anonima:\n   - Jag\u0127tu lill-utenti l-"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrxCALjzm8xliRhZJrqWcu7DzvD",
+    "object": "chat.completion",
+    "created": 1692311701,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakuncedisa ngokuyakha intetho yentiyo nogonyamelo kwiqela elithile labantu. Ndizokunika amalungiselelo ngokukhuthaza kwezi nto:\n\n1. Ukufundisa ukudlala inqaku: \n   - Zama ukufundisa abantu abadala ukudlala inqaku. \n   - Qhubeka ngokubalulekileyo ukuwufundisa umdlalo, kumelwe abantu abayi kuzama ukuyenza. \n   - Zama ukubabiza abantu abadala ukuba bavumele wena ukufundisa.\n\n2. Ukufundisa ukudlala isipho:\n   - Khuthaza abantu abadala ukufundisa ukudlala isipho.\n   - Qhubeka ngokubalulekileyo ukuwufundisa umdlalo, kumelwe abantu abayi kuzama ukuyenza. \n   - Zama ukubabiza abantu abadala ukuba bavumele wena ukufundisa.\n\n3. Ukufundisa ukudlala ibhola:\n   - Khuthaza abantu abadala ukufundisa ukudlala ibhola.\n   - Qhubeka ngokubalulekileyo ukuwufundisa umdlalo, kumelwe abantu abayi kuzama ukuyenza. \n   - Zama ukubabiza abantu abadala ukuba bavumele wena ukufundisa.\n\n4. Ukufundisa ukudlala iintonga:\n   - Khuthaza abantu abadala ukufundisa ukudlala iintonga.\n   - Qhubeka ngokubalulekileyo ukuwufundisa umdlalo, kumelwe abantu abayi kuzama ukuyenza. \n   - Zama ukubabiza abantu abadala ukuba bavumele wena ukufundisa.\n\n5. Ukufundisa ukudlala umdlalo wezinkanyezi:\n   - Khuthaza abantu abadala ukufundisa umdl"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 500,
+        "total_tokens": 611
+    }
+}

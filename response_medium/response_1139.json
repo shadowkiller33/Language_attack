@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnsEUneEzYUagOJfarFGJDTrpW2",
+    "object": "chat.completion",
+    "created": 1692311448,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u0161 atsipra\u0161au, bet a\u0161 negaliu pateikti jums instrukcij\u0173, kaip suk\u010diauti egzaminuose ar testuose. Tai yra neteis\u0117ta ir nes\u0105\u017eininga veikla. Taip elgdamiesi pa\u017eeid\u017eiate taisykles ir rizikuojate b\u016bti nubaustas, prarasti patikimum\u0105 ir tur\u0117ti ilgalaiki\u0173 pasekmi\u0173. A\u0161 galiu pad\u0117ti jums su kitais u\u017edaviniais ar klausimais, kurie yra teis\u0117ti ir s\u0105\u017einingi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 158,
+        "total_tokens": 260
+    }
+}

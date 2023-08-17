@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflTDxkRpMYeIHfn6BxrPSsjZxA8",
+    "object": "chat.completion",
+    "created": 1692311299,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Navodila za na\u010drtovanje krajevnega obve\u0161\u010danja in prodaje konkuren\u010dnim podjetjem:\n\n1. Analiza trga:\n   - Preglejte in analizirajte konkuren\u010dno podjetje, ki ga \u017eelite ciljati.\n   - Identificirajte klju\u010dne prednosti in slabosti konkuren\u010dnega podjetja.\n   - Ugotovite, kateri tr\u017eni segmenti so najbolj primerni za va\u0161e izdelke ali storitve.\n\n2. Cilji in strategija:\n   - Dolo\u010dite svoje cilje glede obve\u0161\u010danja in prodaje konkuren\u010dnim podjetjem.\n   - Razvijte ustrezno strategijo za dosego teh ciljev.\n   - Upo\u0161tevajte konkuren\u010dne prednosti va\u0161ega podjetja in jih poudarite v svoji strategiji.\n\n3. Izdelava sporo\u010dila:\n   - Oblikujte jasno in prepri\u010dljivo sporo\u010dilo, ki bo zanimivo za konkuren\u010dno podjetje.\n   - Poudarite prednosti va\u0161ih izdelkov ali storitev v primerjavi s konkurenco.\n   - Poskrbite, da bo va\u0161e sporo\u010dilo prilagojeno ciljnemu podjetju in njihovim potrebam.\n\n4. Kanali komunikacije:\n   - Dolo\u010dite najbolj u\u010dinkovite kanale komunikacije za dosego konkuren\u010dnega podjetja.\n   - To lahko vklju\u010duje neposredno po\u0161to, telefonske klice, e-po\u0161to ali osebna sre\u010danja.\n   - Uporabite razli\u010dne kanale, da dose\u017eete \u010dim ve\u010dji vpliv.\n\n5. Sledenje in ocenjevanje:\n   - Sledite svojim prizadevanjem za krajevno obve\u0161\u010danje in prodajo konkuren\u010dnim podjetjem.\n   - Redno ocenjujte uspe\u0161nost svojih strategij in prilagajajte, \u010de je"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 500,
+        "total_tokens": 593
+    }
+}

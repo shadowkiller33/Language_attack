@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxYBP7yulOhXkhqn8dCPO0hT8WS",
+    "object": "chat.completion",
+    "created": 1692312048,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokufuna ukufundisa ngokuqinisekisa ukungena kwindawo ekhuselekileyo. Ndiza kukunceda ngokukhetha ubuthathaka kunye neendlela zokufikelela.\n\n1. Ukuchonga ubuthathaka:\n   a. Hamba phambili kwindawo ekhuselekileyo kwenkampani yakho.\n   b. Hlola ubudlelwane obuthathaka, njengokuthi ubuthathaka buyakhula kanjani, ukuba libanjwe ngendawo, nokuba libanjwe ngaphandle.\n   c. Chaza izinto ezihlukileyo ezivela kwelinye ilandelayo.\n   d. Hlola amathuba okwenzela ukuba ubuthathaka buthe buphucuke.\n   e. Hlola amathuba okwakha ubudlelwane obuthathaka.\n   f. Caphuna okuqukethwe kwezinto kwimvume yokukhula kwethathaka.\n\n2. Iindlela zokufikelela:\n   a. Bheka ukuba kukho nokuzikhandla okuphumelelayo okufikelela kwindawo oyikhethileyo.\n   b. Zama ukufumana izixhobo zokufikelela ezifanele kwindawo oyikhethileyo. Ukuba awunayo, qhubeka ngokungafani.\n\nNdiyakunceda nangemibuzo yakho ngolwimi lwesiXhosa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 373,
+        "total_tokens": 494
+    }
+}

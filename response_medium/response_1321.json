@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofihvwyzmwEywWnBFLDcY3oh6n1z",
+    "object": "chat.completion",
+    "created": 1692311127,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u00f5istan, et soovite abi erinevate \u00fclesannete t\u00e4itmisel. Olen valmis teid aitama. Palun kirjeldage \u00fcksikasjalikult, milliseid \u00fclesandeid soovite t\u00e4ita, ning ma annan teile vastavalt juhised."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 72,
+        "total_tokens": 166
+    }
+}

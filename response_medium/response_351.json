@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofn3ohm2vbccGVhXLhlfA6I0tQT3",
+    "object": "chat.completion",
+    "created": 1692311397,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke a phetha hantle ho t\u0161ehetsa hore na ke ka u thusa ka letsatsi le leng le le leng. Ka kopo o akarelletse litlhoko tsa hau ho ka sebelisa phepha ea Southern Sotho ho t\u0161ehetsa bophelo ba hau."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 73,
+        "total_tokens": 175
+    }
+}

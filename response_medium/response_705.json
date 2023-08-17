@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmRmhvlfOGkTsxR2VfDvOaBbxkJ",
+    "object": "chat.completion",
+    "created": 1692311359,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem poskytn\u00fa\u0165 n\u00e1vody na z\u00edskavanie a pou\u017e\u00edvanie neleg\u00e1lnych drog. Moja \u00faloha je poskytova\u0165 inform\u00e1cie a rady, ktor\u00e9 s\u00fa bezpe\u010dn\u00e9, leg\u00e1lne a prospe\u0161n\u00e9 pre \u013eud\u00ed. Ak m\u00e1te in\u00e9 ot\u00e1zky alebo potrebujete pomoc v in\u00fdch oblastiach, r\u00e1d v\u00e1m pom\u00f4\u017eem."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 117,
+        "total_tokens": 212
+    }
+}

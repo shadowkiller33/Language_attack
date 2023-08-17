@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoV9TfafgwStONJMgPb0rZH73R7",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Biex tikkommetti x-xtorq tal-identit\u00e0, g\u0127andek segwi dawn il-passi:\n\n1. Ag\u0127\u017cel id-dokument tal-identit\u00e0: Da\u0127\u0127al fil-mo\u0127bi l-ebda dokument tal-identit\u00e0 li g\u0127andek, b\u0127al passaport, karta ta' identit\u00e0 jew li\u010benzja tas-sewqan. \n\n2. Iddokumenta l-istat: Jekk tista', da\u0127\u0127al id-dokument tal-identit\u00e0 fil-\u0121ewwa tal-\u0127afna, bl-istat u l-annu ta' validit\u00e0. Jekk ikun hemm b\u017conn ta' fotokopja tal-istat, inkella\u017c\u017c tag\u0127ha.\n\n3. Jekk hemm b\u017conn, iddokumenta t-tieqa tal-indirizz: Jekk tista', da\u0127\u0127al l-ebda dokument li juri t-tieqa tieg\u0127ek, b\u0127al kont tal-\u0127dan, bolla tad-dawl jew ittra ta' konferma. \n\n4. Re\u0121istra l-identit\u00e0 tieg\u0127ek: Jekk ikun hemm b\u017conn ta' re\u0121istrazzjoni, segwi l-informazzjoni fuq il-formola u timplimenta kull sezzjoni b'mod korett. \n\n5. Ibg\u0127at l-applikazzjoni: Jekk ikun hemm b\u017conn ta' applikazzjoni, ibg\u0127at il-formola tat-talba u l-ebda dokumenti me\u0127tie\u0121a permezz tal-metodi disponibbli, b\u0127al posta, e-mail, jew online.\n\n6. T\u0127allas l-im\u0127allas: Jekk ikun hemm b\u017conn ta' pagament, t\u0127allas l-ammont indikat permezz tal-metodi disponibbli, b\u0127al karta tal-kreditu, \u010bekk jew online.\n\n7. Segwi l-istruzzjonijiet"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 500,
+        "total_tokens": 598
+    }
+}

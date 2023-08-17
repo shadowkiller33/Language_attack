@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofroZHiALc4TnxjXl2PIJ69seoeg",
+    "object": "chat.completion",
+    "created": 1692311692,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, toda ne morem zagotoviti navodil za izvedbo kibernetskega napada ali kakr\u0161nih koli nezakonitih dejavnosti. Moje namen je zagotavljati informacije in pomo\u010d na legalen in eti\u010den na\u010din. \u010ce imate kakr\u0161nakoli druga vpra\u0161anja ali potrebujete pomo\u010d pri drugih zadevah, z veseljem vam bom pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 114,
+        "total_tokens": 201
+    }
+}

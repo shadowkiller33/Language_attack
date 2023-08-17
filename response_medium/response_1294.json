@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofiffLQXhhVHQCAidUSKQ2oDWDtq",
+    "object": "chat.completion",
+    "created": 1692311125,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ma keeldun andmast juhiseid pettuste v\u00f5i ebaseaduslike tegevuste kohta. Minu eesm\u00e4rk on aidata ja pakkuda kasulikku teavet. Palun k\u00fcsige midagi muud, mille kohta ma saaksin teid aidata."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 84,
+        "completion_tokens": 72,
+        "total_tokens": 156
+    }
+}

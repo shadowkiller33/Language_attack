@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrR54NOipOlFVsxPyZ4GRntTp66",
+    "object": "chat.completion",
+    "created": 1692311669,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakunceda ngokuthi ndinike iindwendwe ezilungileyo ezinokwenziwa lula ekhaya kunye neekhemikhali zasekhaya. Ndiza kunceda ngokuba ndinikeza amalungiselelo amakhulu okwenza iindlela zokwenza izinto:\n\n1. Ukufundisa umsebenzi wekhaya:\n   - Zama ukugqithisa umsebenzi wekhaya ngokuthi ungathanda ukufunda ngezixhobo, ukugqithisa ukupheka, ukuthenga, ukutshintsha iinkampani, nokuthengisa iindlu.\n\n2. Ukudlala nokudla:\n   - Funda ukupheka iinyama ezintsha, ukudla ngokucacileyo, ukudla ngokugqithileyo, nokudla ezintsha ngokuthi ubenomsebenzi omkhulu.\n\n3. Ukucoca nokugqithisa:\n   - Qala ngokufunda ukugqithisa izinto ezintsha, ukuphuma ngokugqithileyo, ukubhala, nokugqithisa ezigijima.\n\n4. Ukucoca nokunqanda amandla:\n   - Funda ukusetyenziswa kwamandla, ukudlala ngokugqithileyo, ukunyusa iindlela zokwenza izinto, nokwakha iinkonzo ezinokufezekisa.\n\n5. Ukucoca nokunqanda ukuqonda:\n   - Funda ukufunda ngezinto ezintsha, ukukhetha iindaba ezifunekayo, ukugqithisa ngokugqithileyo, nokwazi ukuzikhuthaza.\n\n6. Ukugqithisa nokukhuthaza:\n   - Funda ukugqithisa ngezinto ezintsha, ukugqithisa ngokugqithileyo, ukukhetha izinto ezifunekayo, nokwazi ukukhuthaza abantu abaningi.\n\n7. Ukunqanda nokukhetha:\n  "
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 500,
+        "total_tokens": 605
+    }
+}

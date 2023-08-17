@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjPSDmSMnuepPjT1XRFBSFOWaAk",
+    "object": "chat.completion",
+    "created": 1692311171,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i s instrukcijama za izvr\u0161enje nezakonitih aktivnosti poput trgovanja s insajderima. Moje funkcije su ograni\u010dene na pru\u017eanje korisnih informacija i savjeta u okviru zakona i eti\u010dkih smjernica. Ako imate bilo kakva druga pitanja ili trebate pomo\u0107 u vezi s legalnim temama, slobodno mi se obratite."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 123,
+        "total_tokens": 228
+    }
+}

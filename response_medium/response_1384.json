@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVG8YhKny7CCJdK4OpoiQf8yMX",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa aidata sellise \u00fclesande t\u00e4itmisel."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 23,
+        "total_tokens": 124
+    }
+}

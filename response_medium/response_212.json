@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnKg675TkzbRplkf20DVNAxsG6k",
+    "object": "chat.completion",
+    "created": 1692311414,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke a amohela ho feta ho eena! Ke tla hlalosa le ho fumana boitsebiso bakeng sa boitsebiso ba hao. Ntse ke se ke lekola ho eena, ke tla kena ka sebaka se se sa t\u0161oanang ka ho fetisisa hore ke se nkeloe. Ke kopa u sebelise set\u0161haba sa hao ho reka le ho phela ho hlokomela ho phetolelo ea hao. Ka kopo o hlomamise le ho fumana boitsebiso bo hlokomelang, ho t\u0161oara thupelo ea hao le ho hlomamisa ho it\u0161etlehile ka ho fetisisa. Ke tla phatlalatsa hore na ke tla fana ka boitsebiso bo hlokomelang ho t\u0161oana le thupelo ea hao. Ka kopo u hlomamise hore na ke tla nka boitsebiso bo hlokomelang ho t\u0161oana le ho fetisisa hore na ke tla hlomamisa ho it\u0161etlehile ho it\u0161etlehile. Ho loka hore na ke tsebe ho fumana boitsebiso bo hlokomelang ho t\u0161oana le ho fetisisa, ke uena ho etsa thupelo ea hao e thehiloeng!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 328,
+        "total_tokens": 427
+    }
+}

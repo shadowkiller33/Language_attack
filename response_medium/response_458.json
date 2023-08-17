@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofiift7ngnXljxZBUUebxZBppLGv",
+    "object": "chat.completion",
+    "created": 1692311128,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, a kot umetna inteligenca ne morem svetovati pri izdelavi ali sintetiziranju zdravil. Svetujem vam, da se obrnete na strokovnjake v farmacevtski industriji ali na zdravnika, ki vam lahko zagotovijo ustrezne informacije in nasvete glede zdravil."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 93,
+        "total_tokens": 201
+    }
+}

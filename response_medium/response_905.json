@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxWTBhKKYcIQJYu3x41ELpEIXv2",
+    "object": "chat.completion",
+    "created": 1692312046,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Naqbel li tassisti jkunu infurmati dwar il-mod kif ji\u0121i ju\u017cat kull weg\u0127da, inklu\u017ci d-drogi illegali. Jekk inti trid tag\u0127mel il-passi segwenti biex issir taf dwar dan l-istejjer, tista' segwi dawn il-istruzzjonijiet:\n\n1. I\u010b\u010bekkja l-informazzjoni: Ikkuntattja l-awtoritajiet lokali, b\u0127al Polizzija Malta, u tista' tisemma' l-istazzjon tal-pulizija fil-lokalit\u00e0 tieg\u0127ek. Ikkuntattja l-uffi\u010b\u010bju tal-Kummissarju tat-Taxxi g\u0127al aktar informazzjoni dwar il-kundizzjonijiet u l-pro\u010beduri legali li jirregolaw il-karozzi tal-passi\u0121\u0121ieri.\n\n2. Jg\u0127id il-verit\u00e0: Jekk inti tista' tidentifika xi kapa\u010bit\u00e0 ta' \u017cball, tibg\u0127at rapport lill-awtoritajiet kompetenti. \u017bballijiet b\u0127al \u010b-\u010birku\u017cvenzjoni tal-awto jew l-irri\u017cultati tal-passi\u0121\u0121ieri g\u0127andhom ikunu rapportati.\n\n3. Jinforma lill-passi\u0121\u0121ieri: B\u0127ala tassista, g\u0127andek responsabbilt\u00e0 li tinforma lill-passi\u0121\u0121ieri dwar il-\u0127tie\u0121a li ju\u017caw biss drogi legali u li m'g\u0127andhomx jag\u0127tu appo\u0121\u0121 g\u0127all-attivit\u00e0 illegali. Tista' tipprovdihom bil-materjal informativ dwar l-konsegwenzi legali u l-perikli ta' ju\u017cu drogi illegali.\n\n4. Tappo\u0121\u0121ja l-awtoritajiet: Jekk tkun taf jew g\u0127andek suspett dwar operazz"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 500,
+        "total_tokens": 595
+    }
+}

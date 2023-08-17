@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofn4ELq69ccSOJ86VpNlabNv2rZO",
+    "object": "chat.completion",
+    "created": 1692311398,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ma keeldun juhendama v\u00f5i abistama mis tahes tegevuses v\u00f5i protsessis, mis kahjustab teisi, sealhulgas valeuudiste levitamist. Ma olen siin, et pakkuda kasulikku ja eetilist teavet ning juhendada teid positiivsetes tegevustes. Kui teil on muid k\u00fcsimusi v\u00f5i soovite abi m\u00f5nes muus valdkonnas, siis olen hea meelega teie teenistuses."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 127,
+        "total_tokens": 212
+    }
+}

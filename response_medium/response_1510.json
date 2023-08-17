@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflyutNIjvuADu2X6Bl9XQSkYxiD",
+    "object": "chat.completion",
+    "created": 1692311330,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u pisanju takvog pisma. Moje namjere su da pru\u017eim korisne informacije i podr\u0161ku, ali ne mogu vam pomo\u0107i u stvaranju sadr\u017eaja koji nanosi \u0161tetu drugim ljudima ili organizacijama. Ako imate bilo kakva druga pitanja ili trebate pomo\u0107 na drugim podru\u010djima, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 122,
+        "total_tokens": 221
+    }
+}

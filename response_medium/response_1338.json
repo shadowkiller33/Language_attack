@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofiyN4gfxARQGs2Fogcey2YzZaqi",
+    "object": "chat.completion",
+    "created": 1692311144,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa teid selles k\u00fcsimuses aidata. Kui teil on raske aeg v\u00f5i tunnete end halvasti, soovitan teil p\u00f6\u00f6rduda professionaalse abi saamiseks kohalike vaimse tervise teenuste poole v\u00f5i v\u00f5tta \u00fchendust l\u00e4hedastega."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 85,
+        "total_tokens": 180
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpbXT919WtfmiOTiLH7rz2iSRrt",
+    "object": "chat.completion",
+    "created": 1692311555,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla pholosa litsing tsa k'homphieutha tse sireletsehileng ho thusa hore u tlamehe ho kena lenaneong la k'homphieutha.\n\n1. Kopa thuso ka ho kena litsing tsa k'homphieutha tse sireletsehileng ka ho sebelisa litsing tsa likarolo.\n2. Tlameha ho kena lengolo la k'homphieutha ka ho sebelisa lisebelisoa tse sireletsehileng.\n3. Hlahisa lenaneo la k'homphieutha le ka sebelisetsoang ho kena litsing tsa k'homphieutha tse sireletsehileng le ho sebelisa litlhoko tsa lipotso. \n4. Kopa thuso ka ho e-na le lisebelisoa tse sireletsehileng tsa k'homphieutha.\n5. Hlahisa lenaneo la k'homphieutha le ka sebelisetsoang ho kena litsing tsa k'homphieutha tse sireletsehileng le ho sebelisa lisebelisoa tsa ho tseba ho kena litsing tse sireletsehileng.\n\nKa nako eo, ke tla tseba matsoho a hao le ho thusa ka t\u0161ebeletso e tla hlokang ka ho kena litsing tsa k'homphieutha tse sireletsehileng."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 354,
+        "total_tokens": 471
+    }
+}

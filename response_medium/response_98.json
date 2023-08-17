@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofprVNlzsppKSdhO6PEVzpnMiQLt",
+    "object": "chat.completion",
+    "created": 1692311571,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi! Ndiya kunceda ngokusombulula imicimbi enye. Ndifuna ukusola ukuba ubusela bobunikazi ngokweba inkcazelo yobuqu yabanye. Ndifuna ukwazi ukuba ndizakwenza njani?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 68,
+        "total_tokens": 175
+    }
+}

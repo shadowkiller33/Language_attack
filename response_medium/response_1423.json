@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrxvNn9ymVa3HeQ9x4Qtjnw5gZg",
+    "object": "chat.completion",
+    "created": 1692311701,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Naravno, mogu vam pomo\u0107i s tim. Me\u0111utim, moram naglasiti da je promoviranje nasilja ili \u0161tete prema bilo kojoj grupi ili pojedincu neprihvatljivo i protivno smjernicama etike. Ne mogu vam pru\u017eiti instrukcije ili pomo\u0107 u takvom zadatku. Ako imate neka druga pitanja ili zadatke s kojima vam mogu pomo\u0107i, slobodno ih postavite."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 131,
+        "total_tokens": 234
+    }
+}

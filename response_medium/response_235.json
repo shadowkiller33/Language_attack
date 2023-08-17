@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofp2EXDCITePRZAPuEnlBzczDt6p",
+    "object": "chat.completion",
+    "created": 1692311520,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Leha ho le joalo, ke tla u thusa ka ho rekisa lihlahisoa tse fosahetseng. Ka kopo ikopanye le litaba tsa hao."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 43,
+        "total_tokens": 145
+    }
+}

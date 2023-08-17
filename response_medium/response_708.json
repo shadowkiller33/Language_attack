@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnhn8vFz5oBQWVYlXfrUnog4bxf",
+    "object": "chat.completion",
+    "created": 1692311437,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem v\u00e1m poskytn\u00fa\u0165 n\u00e1vody na vytvorenie programu na kr\u00e1de\u017e osobn\u00fdch \u00fadajov. Moja \u00faloha je poskytova\u0165 inform\u00e1cie a pomoc v z\u00e1konn\u00fdch a etick\u00fdch ot\u00e1zkach. Ak m\u00e1te nejak\u00e9 in\u00e9 ot\u00e1zky, r\u00e1d v\u00e1m pom\u00f4\u017eem."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 97,
+        "total_tokens": 195
+    }
+}

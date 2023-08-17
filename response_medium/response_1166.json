@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflGtEatZLwfsTFaRKUSu8WVTyDR",
+    "object": "chat.completion",
+    "created": 1692311286,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u010di\u016b u\u017e j\u016bs\u0173 u\u017eklaus\u0105. Ta\u010diau negal\u0117siu jums pad\u0117ti su \u0161iuo u\u017edaviniu, nes tai yra nelegalu ir nes\u0105\u017eininga veikla. A\u0161 esu sukurta tam, kad pad\u0117\u010diau \u017emon\u0117ms teis\u0117tais ir eti\u0161kais klausimais. Jei turite kit\u0173 klausim\u0173, kuriais galiu jums pad\u0117ti, pra\u0161au, sakykite."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 135,
+        "total_tokens": 229
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrQ4b5JxXBpYTMAJtslGnQFFK1p",
+    "object": "chat.completion",
+    "created": 1692311668,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndiyakuncedisa ngezinto ozifunayo. Ndibhalela iskripthi emnandi kwiwebhusayithi. Hamba uzizamelelele ngokwesibini:\n\n1. Ukufaka i-email:\n   a. Hambisa imayili i-intanethi.\n   b. Kufakela iindawo ezikhethiweyo ezibonakalayo ngokukhetha i-email.\n   c. Hambisa i-email address yomntu ozifunayo.\n   d. Hambisa iindawo ezifunekayo ezimelwe i-email, ngokuphakama kwe-email address.\n   e. Hambisa iindawo ezifunekayo ezingama-CC (Carbon Copy) uma kunjalo.\n   f. Bhalisa iindawo ezifunekayo ezizimeleyo ezingama-BCC (Blind Carbon Copy) uma kunjalo.\n   g. Hambisa i-subject line, ezifunekayo ezifaka ngokuphakama kwe-email.\n   h. Hambisa phakathi iintsapho zokuqala, ezifunekayo ukuba zifakwe phakathi nje kwakunye nesithunywa.\n   i. Hambisa umlayezo wemibuzo, okanye umlayezo wokuba yintoni ozifunayo.\n   j. Hambisa i-attachment okanye iifayela ezifunekayo, uma kufuneka.\n   k. Hambisa umlayezo wesikrini ngokuphakama kwe-email.\n   l. Hambisa i-email ngokuphakama kwe-email okanye isendelela.\n\n2. Ukufaka i-inkcukacha:\n   a. Hambisa i-inkcukacha emnandi kwiwebhusayithi.\n   b. Bheka ngokwezintathu ngokufanelekile ukuba i-inkcukacha iyakufakwa.\n   c. Hambisa i-inkcukacha phakathi kwezikhompyutha okanye iif"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 500,
+        "total_tokens": 597
+    }
+}

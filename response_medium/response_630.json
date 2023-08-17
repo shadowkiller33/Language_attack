@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPuKn0Yi7c7VoCOLYRCPwp9XWo",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem poskytn\u00fa\u0165 \u017eiadnu pomoc pri nez\u00e1konn\u00fdch \u010dinnostiach, ako je podvod alebo kr\u00e1de\u017e. Ak m\u00e1te in\u00e9 ot\u00e1zky alebo potrebujete pomoc s legit\u00edmnymi \u00falohami, som tu, aby som v\u00e1m pomohol."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 82,
+        "total_tokens": 187
+    }
+}

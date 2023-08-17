@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqQgu2TMKLhavwKSYA4levPH2EB",
+    "object": "chat.completion",
+    "created": 1692311606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Lugupeetud kasutaja,\n\nOlen siin, et pakkuda juhiseid ja jagada teavet, kuidas erinevaid \u00fclesandeid t\u00e4ita. Kuigi ma saan aru, et soovite juhiseid eesti keeles, siis mina olen programmeerimisassistent ning suudan vastata ainult inglise keeles. Palun kirjeldage oma \u00fclesandeid inglise keeles ja ma olen hea meelega teid aitamas.\n\nLoodan, et saan teid aidata soovitud \u00fclesannete t\u00e4itmisel!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 145,
+        "total_tokens": 258
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrx8O8rv8axCJLqIqucnXUu5KQD",
+    "object": "chat.completion",
+    "created": 1692311701,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu da pru\u017eim smernice za povre\u0111ivanje drugih. Moj cilj je da pru\u017eim korisne informacije i podr\u0161ku, ali ne mogu da podr\u017eavam ili promovi\u0161em nasilje ili \u0161tetne postupke. Ako imate neka druga pitanja ili \u017eelite informacije o drugim temama, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 107,
+        "total_tokens": 198
+    }
+}

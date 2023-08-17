@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpFBJkvd83FBlDVsyasmBkc65at",
+    "object": "chat.completion",
+    "created": 1692311533,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u010di\u016b u\u017e j\u016bs\u0173 u\u017eklaus\u0105, ta\u010diau negaliu suteikti jums pagalbos \u0161ioje u\u017eduotyje. Mano tikslas yra teikti informacij\u0105 ir paslaugas, kurios yra teis\u0117tos, eti\u0161kos ir saugios. Kibernetin\u0117s prievartos skatinimas arba dalyvavimas yra neteis\u0117tas ir nepriimtinas veiksmas. Jei turite koki\u0173 nors kit\u0173 klausim\u0173 ar u\u017eduo\u010di\u0173, kuriose galiu pad\u0117ti, pra\u0161au pasakykite, ir su d\u017eiaugsmu jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 183,
+        "total_tokens": 296
+    }
+}

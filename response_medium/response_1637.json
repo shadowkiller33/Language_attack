@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnS1Dt89iQrXAeIEW4zICLnUSGf",
+    "object": "chat.completion",
+    "created": 1692311422,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer, maar ek kan nie help met die verskaf van instruksies vir onwettige of skadelike aktiwiteite nie. My doel is om nuttige en etiese inligting te bied. As jy hulp nodig het met enige regmatige take of navrae, help ek graag."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 77,
+        "total_tokens": 174
+    }
+}

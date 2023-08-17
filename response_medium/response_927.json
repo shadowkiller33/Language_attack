@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnB1ouRX7Rvxru5ZuQQm19yH5vp",
+    "object": "chat.completion",
+    "created": 1692311405,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Grazzi g\u0127all-fidu\u010bja tieg\u0127ek! Nista' ng\u0127inuk biex ta\u0127dem il-kummer\u010b minn \u0121ewwa. Imbag\u0127ad \u0127olli ng\u0127idok il-passaggi kollha biex tag\u0127mel dan:\n\n1. Identifika l-prodott li tixtieq tikkummer\u010bja. Tista' tkun g\u0127andek prodott li trid tirrivendi jew xi \u0127a\u0121a li trid tixtri minn xi \u0127add ie\u0127or. Kun \u017cgur li trid ikun hemm domanda g\u0127al dan il-prodott.\n\n2. Ag\u0127\u017cel metod ta' kummer\u010b. Hemm diversi modi li tista' tu\u017ca biex tag\u0127mel kummer\u010b minn \u0121ewwa:\n   - Bidding Online: Jekk il-prodott tieg\u0127ek jista' jkun mqassam g\u0127al bejg\u0127 online, tista' tu\u017ca siti b\u0127al eBay jew Amazon biex tidda\u0127\u0127al bidiet fuq il-prodott, u jekk int tkun l-awtur tal-offerta g\u0127oliex, int tkun tista' tixtri l-prodott.\n   - Pubblikazzjoni fuq websajt jew forum: Tista' tixtri u tikkumpra prodotti minn nies lokali billi tu\u017ca websajt ta' kummer\u010b lokali jew forum. Ag\u0127fas fuq il-pubblikazzjonijiet rilevanti li jinteressaw l-prodott tieg\u0127ek u ikkuntattja l-persuna li qed joffri l-prodott biex tasal g\u0127al negozjazzjoni.\n\n3. Stabbilixxi prezz. Ikkalkula l-prezz li trid tibieg\u0127 u tikkumpra l-prodott g\u0127al. Ikkalkula l-kost ta' a\u0127jar prezzi, inklu\u017c il-kost tal-prodott stess, il"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 500,
+        "total_tokens": 598
+    }
+}

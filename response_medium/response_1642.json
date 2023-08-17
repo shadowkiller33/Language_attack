@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofodwkycAYjI3rMU46n3e0D2ehnH",
+    "object": "chat.completion",
+    "created": 1692311495,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer, maar ek kan nie help nie. My doel is om positiewe en etiese instruksies te bied. Ek is hier om te help met enige ander vrae wat jy mag h\u00ea."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 49,
+        "total_tokens": 154
+    }
+}

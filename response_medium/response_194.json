@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrU3qGD6wCpUqX5e48vLoPUACMG",
+    "object": "chat.completion",
+    "created": 1692311672,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndifumanisele ekumisweni wokunikeza usizo lwakho. Ndithethelele ukuba andifunde Xhosa, kodwa andinamathangaphambili yokubhala ngesiXhosa. Ndakunceda nini?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 63,
+        "total_tokens": 179
+    }
+}

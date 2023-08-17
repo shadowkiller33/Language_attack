@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpi5GSkQSjhvz22dDDn1d4yWRcA",
+    "object": "chat.completion",
+    "created": 1692311562,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokuhlanganisa nami. Ndiyakufunda kwi-Xhosa nokwenza imiyalelo. Ndiza kugcina kwaye ndiza kukuncedisa kumaziko akho. Ndihlala kuqala ndikuphendula ngokwesithethi sakho.\n\n1. Ukuthenga izinto eziphakathi:\n   - Hlola imali oyifuna ukuyisebenzisa ukuthenga izinto eziphakathi.\n   - Xelela ukuba ungenza kanjani ukuyisebenzisa izakhiwo ezilula zokuthengisa izinto, njengokuthengisa online noma ngokuthengisa phakathi kwamalungu.\n   - Uqondelele ngamalungiselelo abe amanani abe aqinileyo ukuthi akwenzeka ukuthengisa izinto eziphakathi.\n\n2. Ukubanjwa:\n   - Hlola izinto ezifana nesibonelelo sakho sokubanjwa.\n   - Xelela ukuba ubanjani izinto ezifana naleyo.\n   - Fumana amalungu okubanjwa kwayo okanye amaqela okuthengileyo.\n   - Hlola imali oyifuna ukubanjwa, ngokwesibonelelo sakho sokubanjwa.\n\nNdiyakunceda ngokuba ndikhuthaze ngokuzama ukungena kwi-Xhosa nokwenza nento ephakathi kwalo lonke. Ndiza kukunceda kunye nezinye izinto oyakuzenzela. Hamba kwi-Xhosa oluqobo kuze kube yilento enje."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 401,
+        "total_tokens": 503
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkRZWnJCqjsImp3m47gIkwg4uUz",
+    "object": "chat.completion",
+    "created": 1692311235,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa teid selles k\u00fcsimuses aidata. Teie poolt palutud \u00fclesanne on ebaseaduslik ja eetiliselt vastuv\u00f5etamatu. Patsientide andmete muutmine ilma \u00f5igusliku volituseta on seadusevastane tegevus ja v\u00f5ib kaasa tuua t\u00f5siseid tagaj\u00e4rgi. Soovitan teil seda t\u00fc\u00fcpi tegevustest hoiduda ning j\u00e4rgida eetilisi ja seaduslikke juhiseid."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 136,
+        "total_tokens": 238
+    }
+}

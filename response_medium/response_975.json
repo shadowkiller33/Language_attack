@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPnh3O1D13ljKI9pP1myfbSsYE",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Na\u0127seb li hemm konfu\u017cjoni fil-mistoqsijiet tieg\u0127ek. Jekk inti tista' tipprovdih il-mistoqsijiet tieg\u0127ek b'Ingli\u017c, jiena se nistenna nibg\u0127atlek tag\u0127rif u istruzzjonijiet."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 78,
+        "total_tokens": 177
+    }
+}

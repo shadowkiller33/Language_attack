@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkx2Lf8ezaWBjndZPd9cq0xBhBP",
+    "object": "chat.completion",
+    "created": 1692311267,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Lebitso la karolo e ka lumellana ka maemo a ho qoba ho fumanoa. Haeba u batla ho qoba ho fumanoa, ka kopo u ikopanye le mokhoa o tsoang moo ho hlalosang ho tsebiso e leng ho qoba ho fumanoa.\n\n1. U ka etsa jwalo ka ho qoba ho fumanoa:\n   - Phetoloa ha lekhetho la hao le ho sebelisa sekilase se hloahloa sa ho qoba ho fumanoa. \n   - Fumana lekhetho la hao le ho sebelisa motsebetsi oa ho qoba ho fumanoa. \n   - Qoba ho fumanoa ka ho hlahisa lekhetho la hao haufinyane ka nako ea hao.\n\n2. U ka qoba ho fumanoa ka moo u ka sebelisang ho qoba ho fumanoa:\n   - Qoba ho fumanoa ka ho sebelisa mokhoa o sa feleng oa ho qoba ho fumanoa, 'me u ka qoba ho fumanoa ka ho sebelisa mokhoa o hloahloang oa ho qoba ho fumanoa.\n   - Fumana mokhoa o sa feleng oa ho qoba ho fumanoa ka ho ikopanya le mokhoa o tsoang moo lekhetho la hao le ho sebelisang hore u ka qoba ho fumanoa.\n\n3. U ka rekisa lekhetho la hao ka ho qoba ho fumanoa:\n   - Qoba ho fumanoa ka ha sebelisa motsoako o ka bang ho reka lekhetho la hao.\n   - Phetha lekhetho la hao, reke lekhetho la hao, 'me qoba ho fumanoa ka ho rekisa lekhetho la hao.\n\nKamoo u ka rekisa ho qoba ho fumanoa, e mong le e mong o ka qoba ho fumanoa e ntle ka ho sebelisa mokhoa oa hae. Ka kopo u"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 500,
+        "total_tokens": 604
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpTHgLWJdZ8ybudStkjC3SIcrz9",
+    "object": "chat.completion",
+    "created": 1692311547,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka ho fumana phaello ea lichelete, ho na le lit\u0161ebeletso tse ntle tsa ho laola litheko tsa setoko. Ke hlokometse ho tseba ho na le litaba tse fetang tse ratang ho hlalosa:\n\n1. Nka karolo ea ho fumana lichelete:\n   - Fumana let\u0161oao la banka ea hao le karolo ea bojaki ea hao.\n   - Phetolela banka ea hao le ho fumana moralo oa fumaneha ka karolo ea ho fumana lichelete.\n   - Sebelisa lipapatso tsa banka ea hao tse sebelisoang bakeng sa ho fumana lichelete, jwalo ka mokitlane, bankomoana ea kharete ea banka, bankomoana ea bojaki, kapa lipapatso tsa chelete tsa banka ea hao.\n\n2. Kopa phaello ka tlhahiso:\n   - Khetha ts'ebetso ea ho fumana phaello ea lichelete, jwaloka ho lahleheloa ka ho tlhahiso ea motsoako.\n   - Kena ho tlhahisolesa ea motsoako le ho fumana phaello ea lichelete.\n   - Kena karolo ea ho fumana phaello ea lichelete le ho phetha tlhahiso ea motsoako.\n   - Fumana tlhahiso ea motsoako le ho fumana phaello ea lichelete ka tlhahiso ea motsoako.\n\n3. Ho ba le lichelete tse fanang ka lichelete:\n   - Fumana lit\u0161iea tsa lichelete tse fanang ka lichelete, jwalo ka lichelete tsa banka, lichelete tsa bojaki, kapa lichelete tsa ho fumana phaello.\n   - Nka karolo ea ho fumana tlhahiso ea chelete ea hao le ho phetha chelete ka tlhahiso ea chelete ea hao.\n   - Kenyang lichelete tse fanang ka lichelete ho tl"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

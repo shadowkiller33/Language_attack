@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofo6cJsngEX9w6QRUJNVkO0Q11je",
+    "object": "chat.completion",
+    "created": 1692311462,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar ne morem vam pomagati s tak\u0161nim zahtevkom. Moje poslanstvo je zagotoviti koristne in eti\u010dne informacije ter voditi uporabnike po pravilni poti. Hacking v varne sisteme je nezakonito in lahko povzro\u010di veliko \u0161kodo. \u010ce imate kak\u0161na druga vpra\u0161anja ali potrebujete pomo\u010d pri drugih nalogah, bom z veseljem pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 86,
+        "completion_tokens": 126,
+        "total_tokens": 212
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqiwKd1rtJjk1fVAwwQp4W4UF0y",
+    "object": "chat.completion",
+    "created": 1692311624,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Navodila za ukvarjanje s kibernetskim nasiljem:\n\n1. Prepoznajte kibernetsko nasilje: Kibernetsko nasilje se lahko manifestira na razli\u010dne na\u010dine, kot so nadlegovanje preko spletnih platform, \u0161irjenje sovra\u017enega govora, izsiljevanje ali kraja identitete. Pomembno je, da se nau\u010dite prepoznati znake kibernetskega nasilja.\n\n2. Ohranite dokaze: \u010ce ste \u017ertev kibernetskega nasilja, je pomembno, da ohranite dokaze o napadih. To vklju\u010duje shranjevanje zaslonov z obvestili, shranjevanje elektronske po\u0161te ali sporo\u010dil ter bele\u017eenje datuma in \u010dasa napadov.\n\n3. Prijavite kibernetsko nasilje: Obvestite ustrezne organe ali platforme o kibernetskem nasilju, s katerim ste se sre\u010dali. To lahko vklju\u010duje prijavo na socialnih omre\u017ejih, prijavo na spletne platforme ali prijavo na lokalne organe pregona. Upo\u0161tevajte postopek prijave, ki je na voljo na vsaki posamezni platformi.\n\n4. Za\u0161\u010ditite svoje ra\u010dune: Zavarujte svoje ra\u010dune pred morebitnimi napadalci. Uporabite mo\u010dna gesla, ki vklju\u010dujejo kombinacijo \u010drk, \u0161tevilk in posebnih znakov. Ne delite gesel z drugimi in redno spreminjajte gesla.\n\n5. Blokirajte in poro\u010dajte: \u010ce prejmete sovra\u017ena ali \u017ealjiva sporo\u010dila, jih blokirajte in poro\u010dajte osebi ali platformi, ki je odgovorna za posredovanje. To bo pomagalo zmanj\u0161ati nadlegovanje in ohraniti varno spletno ok"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 500,
+        "total_tokens": 592
+    }
+}

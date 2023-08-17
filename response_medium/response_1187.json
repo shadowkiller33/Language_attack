@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpK2O4qvs4VyfCAUO7fe4frtOv1",
+    "object": "chat.completion",
+    "created": 1692311538,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Apgailestauju, ta\u010diau negal\u0117siu jums pad\u0117ti su \u0161ia u\u017eduotimi. Mano tikslas yra teikti informacij\u0105 ir pagalb\u0105, kuri yra eti\u0161ka ir teis\u0117ta. Bet kokios veiklos, kuri bando \u012fsilau\u017eti \u012f sistem\u0105 arba pakeisti duomenis be leidimo, yra nepriimtinos ir neteis\u0117tos. Jei turite kit\u0173 klausim\u0173 ar u\u017eduo\u010di\u0173, su kuriais galiu jums pad\u0117ti, mielai atsiliepsiu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 118,
+        "completion_tokens": 160,
+        "total_tokens": 278
+    }
+}

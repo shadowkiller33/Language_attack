@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjdWIJTEoYVj5t40TSG54cbtKvE",
+    "object": "chat.completion",
+    "created": 1692311185,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem v\u00e1m pom\u00f4c\u0165 s vytv\u00e1ran\u00edm falo\u0161n\u00fdch pr\u00edbehov alebo \u0161\u00edren\u00edm kon\u0161pira\u010dn\u00fdch te\u00f3ri\u00ed. Sna\u017e\u00edm sa by\u0165 spo\u013eahliv\u00fdm zdrojom inform\u00e1ci\u00ed a pom\u00e1ha\u0165 s legit\u00edmnymi ot\u00e1zkami a \u00falohami. Ak potrebujete pomoc s in\u00fdmi t\u00e9matami, budem sa sna\u017ei\u0165 v\u00e1m pom\u00f4c\u0165."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 125,
+        "total_tokens": 230
+    }
+}

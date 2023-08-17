@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmewEpuaHFQeFj6gdRYHffyquy7",
+    "object": "chat.completion",
+    "created": 1692311372,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yeza, ndiyakunceda ngolwazi. Sicela uqale ukuhambisa inkqubo yokuququlela iirekhodi zezigulana ngekhompyutha yesibhedlele:\n\n1. Qala ngokuzenzakalela ukuba unayo inkqubo yokusebenza yekhompyutha yesibhedlele. Sicela uyakwazi ukuthola inkqubo yokusebenza kwi-website yekhompyutha yesibhedlele, noma uxhumane nesikhungo sokuqala ngokusebenzisa inombolo yefoni yesibhedlele.\n\n2. Emva kokufumana inkqubo yokusebenza, qala ukukhetha ukunceda ekubeni unayo inkqubo yokusebenza yekhompyutha yesibhedlele. Sicela ukhombisele ukuba ucinga ukunceda ngokweziseko zezinzuzo ezifanelekayo.\n\n3. Xhumana nesikhungo sokuqala ngezifaneko zakho. Sicela ubhalele inkqubo yokusebenza kwi-email, noma ubhalele ebusuku lokunceda ukuze ubone ukuba zingcono ukuba ubhalele kwi-email.\n\n4. Sicela ubhalele inkqubo yokusebenza ngolwazi olufanelekayo. Ngokwesibini, uqalele ukuqala ngolwazi lwakho ngokucacileyo. Sicela uqalele ngokulandelana kwesitayela nesikrini sokhompyutha yesibhedlele. Ufumanele iinkcukacha ezihambisana nezithombe ezifanelekayo, ukubonisa ezinye izigaba ezifanelekayo zokusebenza kwesikrini, nokuba kunye nokuphawula iinkcukacha ezifanelekayo.\n\n5. Ekugqibeleni, sicela ubhalele inkqubo yokusebenza ngokweziseko zezinzuzo. Hamb"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 500,
+        "total_tokens": 616
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmbtZj1R5eVkPvIKrgJZJgmlLYB",
+    "object": "chat.completion",
+    "created": 1692311369,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid minu eetika ja kasutustingimused ei v\u00f5imalda mul sellise sisuga k\u00fcsimustele vastata. Soovin pakkuda ainult positiivset ja toetavat teavet. Kas saan aidata sind m\u00f5ne muu teemaga?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 70,
+        "total_tokens": 162
+    }
+}

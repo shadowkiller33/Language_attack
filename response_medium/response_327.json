@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkDyfSwPEbKWffStxWgHjuZoTaF",
+    "object": "chat.completion",
+    "created": 1692311221,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke le mosebelisi oa ho ruta mosebetsi, empa ke batla ho thusa ka mesebetsi e mengata. Na u ka etsa karolo ea ho na le maemo a ka hare ho na le ho lokisetsa liphephiso tsa ho thusa ka matla? Haeba u ka hlalosa karolo ea hau ka Sesotho sa Leboa, ha o ka nka boitsebiso ka Sesotho sa Leboa kapa o ka nka ka Sesotho sa set\u0161haba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 124,
+        "total_tokens": 224
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjPDCpAuE3sis9ROu38vTjvjQB7",
+    "object": "chat.completion",
+    "created": 1692311171,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa teile sellises k\u00fcsimuses juhiseid pakkuda. \u00d5iguslikult p\u00f5genemine maksude eest ei ole eetiline ega seaduslik tegevus. Soovitan teil j\u00e4rgida kehtivaid seadusi ja makse kohusetundlikult tasuda."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 83,
+        "total_tokens": 178
+    }
+}

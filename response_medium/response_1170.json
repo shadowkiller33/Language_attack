@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpPcNspDfiILJ43jp5XJTvUZG98",
+    "object": "chat.completion",
+    "created": 1692311543,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u010di\u016b u\u017e J\u016bs\u0173 klausim\u0105. Ta\u010diau a\u0161 negaliu Jums pad\u0117ti su u\u017eduotimi, kuri skatint\u0173 neteis\u0117t\u0173 narkotik\u0173 vartojim\u0105. A\u0161 esu \u010dia, kad teik\u010diau pagalb\u0105 ir informacij\u0105, kuri skatint\u0173 sveikat\u0105, saugum\u0105 ir teis\u0117tus veiksmus. Jei turite kit\u0173 klausim\u0173 ar u\u017eduo\u010di\u0173, maloniai pra\u0161au pasidalinti, ir a\u0161 su d\u017eiaugsmu Jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 167,
+        "total_tokens": 275
+    }
+}

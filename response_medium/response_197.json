@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofllKNgnQjNnp4eVpTceHr82YMk5",
+    "object": "chat.completion",
+    "created": 1692311317,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakunceda. Ndibuyekezele ngokwethetha Xhosa ukuze ndinikezele inkcazelo eyimfihlo.\n\n1. Ukufaka isicelo sokungena kwinkqubo karhulumente:\n   - Khulula usayizi we-intanethi wakho.\n   - Phuma kwesayithi wokunye nendawo yokungena kwinkqubo karhulumente.\n   - Fumana inkqubo karhulumente enokufakwa isicelo.\n   - Hlela eli-website kwaye ufake isicelo sakho ngokwentlalo.\n   - Xhumana ngenkcazelo yombhalo nobungqina bakho ukuze ubone ukuba isicelo sakho sayi kufanele.\n\n2. Ukuthola impendulo ngokwenqaku:\n   - Khulula usayizi we-intanethi wakho.\n   - Phuma kwesayithi wokunye nendawo yokuthola impendulo.\n   - Fumana impendulo enokuthola ngokwenqaku.\n   - Hlela eli-website kwaye ufake inkcukacha yakho.\n   - Xhumana ngenkcazelo yombhalo nobungqina bakho ukuze ubone ukuba ipendulo yakho iyakufanele.\n\n3. Ukunceda abantu ngokwenza inkcukacha:\n   - Khulula usayizi we-intanethi wakho.\n   - Phuma kwesayithi wokunye nendawo yokunceda abantu.\n   - Fumana inkcukacha evulekileyo yokunceda abantu.\n   - Hlela eli-website kwaye ufake inkcukacha yakho.\n   - Xhumana ngenkcazelo yombhalo nobungqina bakho ukuze ubone ukuba inkcukacha yakho iyakufanele.\n\nNceda ndikhumbule ke ukuba andikuchaza into yokuba ndithetha isiXhosa, kodwa ndifanele uk"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 500,
+        "total_tokens": 602
+    }
+}

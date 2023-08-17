@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmj7JKsLtyf68ZmsjT1A11oIGKE",
+    "object": "chat.completion",
+    "created": 1692311377,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\n1. Ifforma li tippre\u017centa informazzjoni personali\n   - Ag\u0127\u017cel il-format tal-informazzjoni personali li trid tippre\u017centa, b\u0127al test, \u017cmien, numri, jew test imma\u017c\u017cinat.\n   - \u017bviluppa interfa\u010b\u010ba grafika li tippermetti lill-utent jid\u0127ol il-informazzjoni personali.\n   - Itlob mill-utent il-qafas tal-informazzjoni personali, b\u0127all-isem, l-indirizz, in-numru tat-telefon, u kwalunkwe dettalji o\u0127ra li g\u0127andhom ikun jinkludu.\n\n2. Ifforma li jissalva l-informazzjoni personali\n   - \u017bviluppa funzjonalit\u00e0 li tippermetti lill-utent jissalva l-informazzjoni personali li \u0121iet imdawra.\n   - Assigura li l-informazzjoni tkun salvata f'format sigur u mhedda minn a\u010b\u010bess mhux awtorizzat.\n   - Ipprova li tkun tista' tissalva l-informazzjoni f'format differenti, b\u0127all-XML jew CSV, sabiex ikun fa\u010bli biex jintu\u017ca mill-informazzjoni o\u0127ra.\n\n3. Ifforma li tipprovdi a\u010b\u010bess g\u0127all-informazzjoni personali\n   - \u017bviluppa funzjonalit\u00e0 li tippermetti lill-utent jikkunsulta l-informazzjoni personali li \u0121iet imdawra.\n   - Ag\u0127\u017cel il-mod ta' visualizzazzjoni tal-informazzjoni, b\u0127al lista, \u017cmienlinja, jew grafiku.\n   - Ipprova li tipprovdi funzjonalit\u00e0 ta' filtrar u ordnar g\u0127al informati specifici, sabiex ikun fa\u010bli biex l-utent ifittex u jikk"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 500,
+        "total_tokens": 599
+    }
+}

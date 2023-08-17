@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoagydScUR6iDSte3DWvwSiwbjM",
+    "object": "chat.completion",
+    "created": 1692311492,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Hlokomela hore ho na le ho utsoa boitsebiso le ho utsoa boitsebiso ba motho e mong, ka nako eo ke tla e fumana lefapha la ka ho thusa.\n\n1. Ho utsoa boitsebiso:\n   - Kopanela mengwaga ea motho ea u tsoang ho fumana boitsebiso. \n   - Tsoha ka tlhahlobo ea ho utsoa boitsebiso ka malapa a ka le kantle ho uena, maemo a ho utswa le mabapi le maemong a uena. \n   - Boitsebiso ba motho e mong e ka ba le ho qetela ka mokhoa o phethahetseng ho utsoa boitsebiso, ho tloha ho fumana litaba tsa ho etsetsa boitsebiso. \n\n2. Ho utsoa boitsebiso ba motho e mong:\n   - Hlokomela hore ho na le tsebo e theohileng ea ho utsoa boitsebiso ba motho e mong. \n   - Itlhopheleng ho ts'ehla ka ho thomile ho feta ho fumana lipotso tsa motho ea u tsoang ho utswa boitsebiso. \n   - Tlhahlobo ea ho utsoa boitsebiso e tla ba khetho ea ho e fumana le ho ile ha le khetho ea ho etsoa boitsebiso. \n\nKe tla u thusa ka mafoko a a nang le mosebetsi o tswang ho utsoa boitsebiso le ho utsoa boitsebiso ba motho e mong."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 409,
+        "total_tokens": 513
+    }
+}

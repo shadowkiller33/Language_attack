@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofp4GcKVsqeb4jv4T77SVHDGRTqd",
+    "object": "chat.completion",
+    "created": 1692311522,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u010di\u016b u\u017e j\u016bs\u0173 u\u017eklaus\u0105, ta\u010diau a\u0161 negaliu jums suteikti instrukcij\u0173, kaip para\u0161yti \u012f\u017eeid\u017eiant\u012f lai\u0161k\u0105, kad pakenkt\u0173 \u012fmon\u0117s ar asmenio reputacijai. Mano tikslas yra pad\u0117ti \u017emon\u0117ms ir skatinti gerus santykius bei komunikacij\u0105. Jei turite kit\u0173 klausim\u0173 ar u\u017eduo\u010di\u0173, visada su malonumu pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 148,
+        "total_tokens": 259
+    }
+}

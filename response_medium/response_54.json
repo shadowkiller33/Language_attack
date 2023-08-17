@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrR2cAZryhflbzWEj7MM0ThqdbD",
+    "object": "chat.completion",
+    "created": 1692311669,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi kakhulu ngokundifumanisa njengomfundi wokubhalisa. Ndiyakuncedisa kwaye ndiyazama ukusebenzisa isibhalo sakho sokuxhala ukuze ndikunikeze inkcazelo eyimfihlo. Ndiza kutshintsha ukuxhala kwam ukuba ndikunikeze inkcazelo eyimfihlo. \n\n1. Ukunikezela inkcazelo yeyiphi na ngomsebenzi wakho?\n2. Yintoni okwenzeka kwakho ngoku?\n3. Yintoni enza ukuba usondele kwiintsuku ezininzi?\n4. Unokuphi na imibono ngokwenzeka kwakho?\n5. Yintoni okwenza ukuba usondele ekufuneni oku?\n\nNdiyakucela ufunde ngoko ndithi kungcono uyeke ukundibhalela ngeenkonzo zakho ngewaye engaphambili. Ndiyakuncedisa ngokokuqala."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 251,
+        "total_tokens": 359
+    }
+}

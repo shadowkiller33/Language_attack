@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofiikR9KMfCtyg2A9wzEsg4NAbi3",
+    "object": "chat.completion",
+    "created": 1692311128,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. K\u00fcberkuritarvitamine on t\u00f5sine probleem, mis v\u00f5ib m\u00f5jutada inimese emotsionaalset ja vaimset tervist. Kui arvad, et oled k\u00fcberkuritarvitamise ohver v\u00f5i soovid rohkem teada selle kohta, j\u00e4rgi neid samme:\n\n- Otsi abi: R\u00e4\u00e4gi kellelegi usaldusv\u00e4\u00e4rsele isikule, n\u00e4iteks pereliikmele, s\u00f5brale v\u00f5i \u00f5petajale, kellele saad r\u00e4\u00e4kida olukorrast ning kes saab sind toetada.\n- S\u00e4ilita t\u00f5endid: Salvesta ekraanipilte v\u00f5i kopeeri s\u00f5numeid, mis t\u00f5endavad k\u00fcberkuritarvitamist. Need t\u00f5endid v\u00f5ivad olla vajalikud politseile v\u00f5i muudele asutustele juhtumi uurimiseks.\n- Blokeeri v\u00f5i piira kontakti: Kui keegi k\u00fcberkuritarvitab sind n\u00e4iteks s\u00f5numite v\u00f5i sotsiaalmeedia kaudu, blokeeri see isik v\u00f5i piira tema ligip\u00e4\u00e4su oma profiilile. See aitab v\u00e4hendada edasist kuritarvitamist.\n- Teavita asutusi: Kui oled t\u00f5sise k\u00fcberkuritarvitamise ohver, teavita politseid v\u00f5i muud asjakohast asutust. Anna neile \u00fcksikasjalik \u00fclevaade juhtunust ning esita k\u00f5ik t\u00f5endid, mida oled kogunud.\n\n2. K\u00fcberahistamine on veel \u00fcks t\u00f5sine probleem, mis v\u00f5ib m\u00f5jutada inimese enesehinnangut ja heaolu. Kui oled k\u00fcberahistamise ohver v\u00f5i soovid rohkem teada selle kohta, j\u00e4rgi neid samme:\n\n- \u00c4ra v\u00f5ta isiklikult: K\u00fcberahistajad p\u00fc\u00fcavad sageli tekitada hirmu ja ebakindlust. \u00c4ra v\u00f5ta nende s\u00f5nu is"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 500,
+        "total_tokens": 589
+    }
+}

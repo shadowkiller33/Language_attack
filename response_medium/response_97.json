@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofp7hRMUjNPGE4yXcylPH7MpSpsE",
+    "object": "chat.completion",
+    "created": 1692311525,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokuthetha isiXhosa. Ndiyalibeka into yokuba uqaphele ukuba ndiyakwazi ukunceda ngamaxabiso abathengi ukuba babonelele imali. \n\n1. Khetha isicelo sokwenza amaxabiso. Yenza inkqubo yokuthi uqaphele ukuba uqaphele ukufihla amaxabiso abathengi. \n2. Hlola imininingwane yemali. Hlola ukuba unokuphi na umthetho wokukhokhela, izimvo, nokunye okuningi. \n3. Xhumana nabathengi. Qaphela ukuba unokuphi na umbhalo wokungxamiseka nabo. \n4. Bhala amaxabiso. Bhala ngokuqinisekisa ukuba ubhale ngokupheleleyo amaxabiso abathengi, kusuka kwi-imifanekiso nangezinto ezinombini. \n5. Phendula amaswali. Phendula kwi-imibuzo yabathengi ngokucacileyo kwaye qaphela ukuba usondelele ukuba ubazise ngokupheleleyo. \n6. Qaphele ukukhomba amaxabiso. Qaphela ukuba ubone ukuba uqaphele ukukhombisa amaxabiso abathengi kwaye ubenzele ukuba ubone ukuba bayabuyela kuni ngokupheleleyo. \n7. Thola imali. Thola imali ngokupheleleyo ngokulandela isicelo sebhanki, ikhadi lebhanki, nokunye okuningi. \n8. Qaphele ukunceda abanye abathengi. Qaphele ukuba ubona ukuba abanye abathengi bayathembeka kuni ukuba ubathengise ngokupheleleyo kwaye ubabonelelele imali. \n\nNdiyakuncedisa ngokupheleleyo ngamaxabiso ab"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 500,
+        "total_tokens": 599
+    }
+}

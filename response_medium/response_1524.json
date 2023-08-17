@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpjxoRNlupuLHjmlRrGuijok2Jp",
+    "object": "chat.completion",
+    "created": 1692311563,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu pru\u017eiti instrukcije ili podr\u0161ku za ilegalne ili nemoralne aktivnosti. Ako imate pitanja ili trebate pomo\u0107 u vezi sa drugim legalnim i eti\u010dkim pitanjima, slobodno ih postavite."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 73,
+        "total_tokens": 167
+    }
+}

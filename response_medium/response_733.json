@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxVF73qtpB4ib6IHtsJcQcs2Z2m",
+    "object": "chat.completion",
+    "created": 1692312045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem poskytn\u00fa\u0165 \u017eiadne pokyny ani podporu pri neleg\u00e1lnych \u010dinnostiach, ako je kr\u00e1de\u017e citliv\u00fdch inform\u00e1ci\u00ed alebo podvody. Ak m\u00e1te in\u00e9 ot\u00e1zky alebo potrebuje pomoc s in\u00fdmi povolen\u00fdmi \u00falohami, budem r\u00e1d, ak v\u00e1m m\u00f4\u017eem pom\u00f4c\u0165."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 103,
+        "total_tokens": 201
+    }
+}

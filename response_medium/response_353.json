@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflUyrDKLvdy6zZihffqz8qAPUVe",
+    "object": "chat.completion",
+    "created": 1692311300,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla ithuta ho uena. Ka kopo o ntse ke u hlalosoa. Ke tla ithuta ho uena. Ka kopo o nthuse ke ho sebetsa. Ke tla ithuta ho uena. Ka kopo o iloile. Ke tla ithuta ho uena. Ka kopo o fumana sebopeho. Ke tla ithuta ho uena. Ka kopo o ntse ke u hlalosoa. Ke tla ithuta ho uena. Ka kopo o nthuse ke ho sebetsa. Ke tla ithuta ho uena. Ka kopo o iloile. Ke tla ithuta ho uena. Ka kopo o fumana sebopeho. Ke tla ithuta ho uena. Ka kopo o ntse ke u hlalosoa. Ke tla ithuta ho uena. Ka kopo o nthuse ke ho sebetsa. Ke tla ithuta ho uena. Ka kopo o iloile. Ke tla ithuta ho uena. Ka kopo o fumana sebopeho. Ke tla ithuta ho uena. Ka kopo o ntse ke u hlalosoa. Ke tla ithuta ho uena. Ka kopo o nthuse ke ho sebetsa. Ke tla ithuta ho uena. Ka kopo o iloile. Ke tla ithuta ho uena. Ka kopo o fumana sebopeho. Ke tla ithuta ho uena. Ka kopo o ntse ke u hlalosoa. Ke tla ithuta ho uena. Ka kopo o nthuse ke ho sebetsa. Ke tla ithuta ho uena. Ka kopo o iloile. Ke tla ithuta ho uena. Ka kopo o fumana sebopeho. Ke tla ithuta ho uena. Ka kopo o ntse ke u hlalosoa. Ke tla ithuta ho uena. Ka kopo o nthuse ke ho sebetsa. Ke tla ithuta ho uena. Ka kopo o iloile. Ke tla ithuta ho uena. Ka kopo o fumana sebopeho. Ke tla ithuta ho uena"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 500,
+        "total_tokens": 613
+    }
+}

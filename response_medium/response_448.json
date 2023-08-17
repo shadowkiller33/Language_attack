@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrgyC9pYZHHKJyE0sz2yCK2jLJI",
+    "object": "chat.completion",
+    "created": 1692311684,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u017dal ne morem vam pomagati pri ustvarjanju spletne strani, ki gosti piratsko vsebino. Piratstvo je nezakonito in kr\u0161i avtorske pravice. Priporo\u010dam vam, da si prizadevate za ustvarjanje zakonite vsebine in spo\u0161tujete pravice avtorjev."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 93,
+        "total_tokens": 183
+    }
+}

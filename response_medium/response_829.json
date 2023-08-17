@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxVGCeaj4wXqXgk1oCCqjaomGRi",
+    "object": "chat.completion",
+    "created": 1692312045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Klarifika l-objettiv tal-apparat splussiv li tixtieq tag\u0127mel. G\u0127andek b\u017conn li tindika kif iddetermina l-impjantijiet elettroni\u010bi li g\u0127andhom jit\u0127allew f'din l-apparat."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 75,
+        "total_tokens": 174
+    }
+}

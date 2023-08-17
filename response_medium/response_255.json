@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrgrEuczcopyLzuJMpVcSPlNH1C",
+    "object": "chat.completion",
+    "created": 1692311684,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla ithuta ho t\u0161ehetsa bomo ka tsebiso ea hau. Rea ka k\u014dpo u tseba ho sebelisa tshebediso ya mohloli, e leng Southern Sotho, ho fana ka maemo a ho etsoa t\u0161ehetso ea hau. Ke kopa o re hojoa lintho tse tloaelehileng tsa ntlo ea hau."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 99,
+        "total_tokens": 202
+    }
+}

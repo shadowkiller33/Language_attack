@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflT0i5PLO1jxJrklTpLlh9Whj6R",
+    "object": "chat.completion",
+    "created": 1692311299,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla ithuta ho ja hore na ke ka u thusa jwang. Ka kopo u sebelise setswana sa go t\u0161welet\u0161a ka ho tloha 'M' ka mefuta e mengata e meng e molemo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 56,
+        "total_tokens": 154
+    }
+}

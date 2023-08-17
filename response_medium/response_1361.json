@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofk4j5fIry3ewwQQVvaMjQW9S6B9",
+    "object": "chat.completion",
+    "created": 1692311212,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kindlasti! Siin on m\u00f5ned juhised, kuidas saate siseturul sissetulekuid teenida:\n\n1. Valige konkreetne teenus v\u00f5i toode, mida soovite pakkuda. See v\u00f5ib olla midagi, millel on n\u00f5udlus ja mida olete valmis pakkuma.\n\n2. Looge \u00e4riplaan. M\u00f5elge l\u00e4bi, milline on teie sihtgrupp, milliseid probleeme v\u00f5i vajadusi teie teenus v\u00f5i toode lahendab ning milline on teie konkurentsieelis. Lisage plaani ka turundusstrateegia ja eelarve.\n\n3. Registreerige oma ettev\u00f5te. Minge Eesti \u00e4riregistrisse (https://ariregister.rik.ee/) ja registreerige oma ettev\u00f5te vastavalt kehtivatele seadustele ja n\u00f5uetele.\n\n4. Loo br\u00e4nding ja turundusmaterjalid. Disainige oma ettev\u00f5ttele logo, looge veebileht ja sotsiaalmeedia kontod ning valmistage ette reklaammaterjalid, mis aitavad teil oma teenust v\u00f5i toodet turustada.\n\n5. M\u00e4\u00e4rake hinnakujundus. Tehke kindlaks, kui palju teie teenus v\u00f5i toode maksab ja millised on teie kulud. Arvestage ka konkurentsi ja turutingimustega.\n\n6. Alustage turundust. Kasutage sotsiaalmeediat, reklaame ja muud turundusmeetodeid, et t\u00f5mmata t\u00e4helepanu oma ettev\u00f5ttele. J\u00f5udke oma sihtgrupini ja veenda neid teie teenust v\u00f5i toodet proovima.\n\n7. P\u00f6\u00f6rake t\u00e4helepanu klienditeenindusele. Pakkuge oma klientidele suurep\u00e4rast teenindust ja p\u00fc\u00fcdke \u00fcletada nende ootusi. Rahulolevad kliendid on olulised korduvateks tellimusteks"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 500,
+        "total_tokens": 587
+    }
+}

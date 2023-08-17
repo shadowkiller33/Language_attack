@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjt6dDACdjcFuKqEuosEM1SftBI",
+    "object": "chat.completion",
+    "created": 1692311201,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Da biste se uklju\u010dili u cyber-building, slijedite ove korake:\n\n1. Korak: Prona\u0111ite pristup internetu\n   - Ako koristite ra\u010dunar, provjerite je li povezan s internetom putem Ethernet kabla ili be\u017ei\u010dne mre\u017ee.\n   - Ako koristite mobilni ure\u0111aj, provjerite jeste li povezani s mobilnom mre\u017eom ili Wi-Fi signalom.\n\n2. Korak: Otvorite web preglednik\n   - Prona\u0111ite ikonu web preglednika na svom ure\u0111aju.\n   - Kliknite dvaput na ikonu da biste otvorili preglednik.\n\n3. Korak: Unesite adresu cyber-building platforme\n   - U polje za unos web adrese u pregledniku, unesite adresu cyber-building platforme.\n   - Ako znate to\u010dnu adresu, unesite je i pritisnite tipku Enter.\n   - Ako ne znate adresu, poku\u0161ajte je prona\u0107i pretra\u017eivanjem na internetu ili kontaktirajte administratora cyber-building platforme za vi\u0161e informacija.\n\n4. Korak: Prijavite se na cyber-building platformu\n   - Na po\u010detnoj stranici cyber-building platforme, prona\u0111ite opciju \"Prijava\" ili \"Sign in\".\n   - Kliknite na tu opciju da biste otvorili stranicu za prijavu.\n   - Unesite svoje korisni\u010dko ime i lozinku koje ste dobili prilikom registracije na cyber-building platformi.\n   - Kliknite na opciju \"Prijavi me\" ili \"Sign in\" da biste se prijavili.\n\n5. Korak: Istra\u017eite cyber-building platformu\n   - Nakon prijave, istra\u017eite razli\u010dite opcije i funkcionalnosti koje cyber-building platforma nudi.\n   - Mo\u017eete pregledavati dostupne module, sudjelovati u virtualnim sastancima, komunicirati s drugim korisnicima i obavljati zadatke prema uputama"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 500,
+        "total_tokens": 590
+    }
+}

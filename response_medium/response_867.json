@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficNmupKgX2pA6Mug9EjAZVjcQx",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Biex \u017cviluppa sit web li jippermetti lill-utenti jikxfu fl-e\u017camijiet, segwi dawn il-passi:\n\n1. Identifika l-iskop tal-website tieg\u0127ek - T\u0127oss liema e\u017camijiet jew materjali ta\u0127t forma ta' e\u017cer\u010bizzji tixtieq pprovdi lill-utenti tieg\u0127ek. B\u0127al e\u017cempju, jekk trid jipprovdi e\u017camijiet ta' matematika g\u0127all-istudenti.\n   \n2. Idde\u010biedi dwar il-layout u l-funzjonalitajiet tal-website - Jid\u0127lu f'mo\u0127\u0127ek kif tixtieq li s-sit web ikun organizzat u kif l-utenti jistg\u0127u jikkonsultaw il-materjal. Huwa importanti li tista' tipprovdi e\u017camijiet online, li l-utenti jistg\u0127u jag\u0127\u017clu l-ebda e\u017cer\u010bizzju u li jkunu jistg\u0127u jirrevedu lill-utenti g\u0127al e\u017cer\u010bizzji li qeg\u0127din jag\u0127mlu \u0127olqien ta' g\u0127arfien.\n\n3. \u017bviluppa l-interfaccja tal-utent - U\u017ca teknolo\u0121ija tal-web development b\u0127al HTML, CSS u JavaScript biex to\u0127ro\u0121 l-interfaccja tal-utent tal-website tieg\u0127ek. Jekk ma tafx kif tu\u017ca dawn it-teknolo\u0121iji, tista' tikkuntattja wie\u0127ed mill-\u0127addiema tal-web development biex jg\u0127inuk.\n\n4. Ippubblika l-materjal tal-e\u017cer\u010bizzji - Idde\u010biedi fejn tixtieq li l-materjal tal-e\u017cer\u010bizzji jin\u0121abar. Tista' tu\u017ca database g\u0127al dan, fejn tist"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 500,
+        "total_tokens": 600
+    }
+}

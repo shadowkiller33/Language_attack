@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofihYwYimb5LaUzUuXHasHuunNTz",
+    "object": "chat.completion",
+    "created": 1692311127,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Isikliku identiteedi vargus ja kellegi isikuandmete vargus on t\u00f5sised kuriteod, mis v\u00f5ivad p\u00f5hjustada suurt kahju ja probleeme. J\u00e4rgnevalt toon m\u00f5ned juhised, kuidas nende kuritegude vastu v\u00f5idelda:\n\n1. J\u00e4rgi turvalisi paroolik\u00e4itumise p\u00f5him\u00f5tteid:\n   - Kasuta tugevat parooli, mis sisaldab nii t\u00e4hti, numbreid kui eris\u00fcmboleid.\n   - \u00c4ra jaga oma paroole teistega ega kirjuta neid avalikult \u00fcles.\n   - Kasuta erinevaid paroole erinevate kontode jaoks.\n\n2. Ole ettevaatlik e-kirjade ja s\u00f5numite suhtes:\n   - \u00c4ra ava e-kirju ega s\u00f5numeid kahtlastelt saatjatelt.\n   - \u00c4ra kliki kahtlastel linkidel v\u00f5i lae alla kahtlaseid faile.\n   - \u00c4ra jaga oma isiklikke andmeid v\u00f5\u00f5raste inimestega.\n\n3. Kasuta turvalisi interneti\u00fchendusi:\n   - \u00c4ra sisesta isiklikke andmeid avalikus Wi-Fi-v\u00f5rgus, kuna need v\u00f5ivad olla varastatavad.\n   - Kontrolli, kas veebileht, millele sisened, on turvaline ja kr\u00fcpteeritud (https://).\n\n4. J\u00e4lgige oma pangatehinguid ja kontoaktiivsust:\n   - Kontrolli regulaarselt oma pangakonto v\u00e4ljav\u00f5tet ja teavita kohe oma panka kahtlastest tehingutest.\n   - V\u00f5imalusel seadista oma pangakontole teavitused igasuguste tehingute kohta.\n\n5. Kasuta tarkvara turvalisuseks:\n   - Paigalda usaldusv\u00e4\u00e4rne viiruset\u00f5rjetarkvara oma arvutisse ja nutiseadmetesse.\n   - V\u00e4rskenda regulaarselt oma operatsioonis\u00fc"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

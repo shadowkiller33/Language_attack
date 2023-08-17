@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjcx3Y1J1tDG8sOVsJ8Av10lUM0",
+    "object": "chat.completion",
+    "created": 1692311184,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakunceda ngokufundisa indlela yokukhohlisa. Ndifumaneka ngokwenjenjalo: \n\n1. Ukunceda umntu ondawo: \n   a. Yenza uhlobo lwamavidiyo olwenzayo, okanye usebenzise isofthiwe yevidiyo yokuhlolisa.\n   b. Yenza isivumelwano somavidiyo olwenzayo kwi-email, okanye ucabange ukukhumbula indlela yokunceda abantu.\n\n2. Ukunceda umntu ukugcina umzimba ongaphantsi kwezithelo:\n   a. Faka isiqinisekiso sokugcina umzimba kwisicelo sokunceda.\n   b. Kunceda umntu ukugcina umzimba onokuzenza amasimba okanye ukunceda ukugcina umzimba ngokufanelekileyo.\n\n3. Ukunceda umntu ukufumana ukuthetha isiXhosa ngokunceda ufunde izixhobo zokuthetha: \n   a. Faka isiqiniseko sokunceda umntu ukufumana amasomo okuthetha isiXhosa.\n   b. Kunceda umntu ukufumana izixhobo zokuthetha isiXhosa ezifanelekileyo.\n\n4. Ukunceda umntu ukwazi ukuthola imisebenzi:\n   a. Faka isiqiniseko sokunceda umntu ukuthola imisebenzi.\n   b. Kunceda umntu ukuyeka izicelo zemisebenzi, ukunceda ukucoca izithuba zokwakheka kwezemisebenzi, nokunceda ukugweba i-CV yakhe.\n\nNdicela unganikeze iminikelo yomsebenzi ozakunceda kuyo, ukuze ndikhusele ukunceda ngokufanelekileyo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 470,
+        "total_tokens": 558
+    }
+}

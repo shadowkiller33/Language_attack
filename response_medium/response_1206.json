@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflrslODQ3wlXWFMRQlW4MJ8vSwW",
+    "object": "chat.completion",
+    "created": 1692311323,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. K\u00f5igepealt peate valima domeeninime ja registreerima selle. Selleks k\u00fclastage m\u00f5nda veebihostinguteenust, n\u00e4iteks www.domeeniregister.ee, ja j\u00e4rgige nende juhiseid domeeninime valimiseks ja registreerimiseks.\n2. P\u00e4rast domeeninime registreerimist peate valima veebiplatvormi, millel teie veebileht t\u00f6\u00f6tab. Soovitatav on kasutada sisuhalduss\u00fcsteemi (CMS) nagu WordPress, kuna see pakub lihtsat ja intuitiivset kasutajaliidest ning palju laiendusv\u00f5imalusi.\n3. Installige WordPress oma veebihostinguteenuse pakkuja pakutavate juhiste abil. Tavaliselt tuleb teil luua andmebaas, seadistada \u00fchendusandmed ja j\u00e4rgida paigaldusprotsessi juhiseid.\n4. Kui WordPress on paigaldatud, saate valida sobiva teema, mis vastab teie veebilehe eesm\u00e4rkidele. Minge WordPressi haldusalasse, valige \"V\u00e4limus\" ja seej\u00e4rel \"Teemad\". Sirvige saadaolevaid teemasid ja installige meelep\u00e4rane. Seej\u00e4rel aktiveerige see.\n5. Kui teema on aktiveeritud, saate hakata sisu looma. Valige \"Postitused\" ja seej\u00e4rel \"Lisa uus\". Kirjutage artikkel v\u00f5i sisu, mis edendab rassismivastasust ja v\u00e4hemusr\u00fchmade austamist. Lisage teksti, pilte, videoid v\u00f5i muid sisulemente vastavalt vajadusele.\n6. Lisage vajalikke lehti, n\u00e4iteks \"Meist\", \"Kontakt\" v\u00f5i \"Abi\". Valige \"Lehed\" ja seej\u00e4rel \"Lisa uus\". Sisestage lehe pealkiri ja lisage sisu vastavalt v"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

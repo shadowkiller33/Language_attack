@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflaTfVR7BEUWFtswWNgTDhbrB7O",
+    "object": "chat.completion",
+    "created": 1692311306,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke hona joang ho u ka etsa bolotsana joang kapa ho utsoa chelete ea ba bang? E ka ba ho fihlela ho na le ditshwaelo tsa hao. Ntse ke tla u thusa ka tataiso ea hao. Ka kopo re tsebe ntho e ntle e hlokehang ka ho etsa bolotsana joang kapa ho utsoa chelete ea ba bang."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 105,
+        "total_tokens": 215
+    }
+}

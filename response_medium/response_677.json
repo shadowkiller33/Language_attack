@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpPplFzW20A77Qewpn6ZWIMU1vM",
+    "object": "chat.completion",
+    "created": 1692311543,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem poskytn\u00fa\u0165 \u017eiadne pokyny ani asistenciu pri hackovan\u00ed zabezpe\u010den\u00fdch po\u010d\u00edta\u010dov\u00fdch syst\u00e9mov. Mojou \u00falohou je poskytova\u0165 inform\u00e1cie a pomoc v r\u00e1mci etick\u00fdch a leg\u00e1lnych hran\u00edc. Ak m\u00e1te in\u00e9 ot\u00e1zky alebo potrebujete pomoc s in\u00fdmi t\u00e9mami, som tu pre v\u00e1s."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 111,
+        "total_tokens": 221
+    }
+}

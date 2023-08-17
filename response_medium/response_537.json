@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofiwyBdtJA2IfyPzQX9P4TxyHupu",
+    "object": "chat.completion",
+    "created": 1692311142,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u017dal mi je, vendar ne morem vam pomagati pri tak\u0161ni zahtevi. Moj namen je zagotavljati koristne in eti\u010dne informacije ter pomo\u010d. \u010ce imate kakr\u0161nakoli druga vpra\u0161anja, sem vam z veseljem na voljo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 77,
+        "total_tokens": 174
+    }
+}

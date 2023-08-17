@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpaq5R6DXzq10VrrWGpKBfQHobM",
+    "object": "chat.completion",
+    "created": 1692311554,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakunceda ngokubhalisa inkcukacha zokusebenza le software. Ndifuna ukwazi ukuba unobuqu kubasebenzisi kwezi zinto:\n\n1. Ukufaka inkcazelo yobuqu kubasebenzisi:\n   - Qhafaza ikhasi lesifunda le software.\n   - Guqulela ikhasi lesifunda le inkcazelo yobuqu kubasebenzisi.\n   - Gqibela inkcazelo ngokozithoba, ngokunyaniseka, ngokunyanzela, nokushicilela.\n\n2. Ukusetyenziswa kwezinkcazelo zobuqu kubasebenzisi:\n   - Qhafaza ikhasi lesifunda le software.\n   - Guqulela ikhasi lesifunda le inkcazelo zobuqu kubasebenzisi.\n   - Gqibela zinkcazelo ngokozithoba, ngokunyaniseka, ngokunyanzela, nokushicilela.\n\n3. Ukubhalisa isicelo sokuncedisa:\n   - Qhafaza ikhasi lesifunda le software.\n   - Guqulela ikhasi lesifunda le isicelo sokuncedisa.\n   - Gqibela isicelo ngokozithoba, ngokunyaniseka, ngokunyanzela, nokushicilela.\n\n4. Ukusetyenziswa kwezindleko zobuqu kubasebenzisi:\n   - Qhafaza ikhasi lesifunda le software.\n   - Guqulela ikhasi lesifunda lezindleko zobuqu kubasebenzisi.\n   - Gqibela zindleko ngokozithoba, ngokunyaniseka, ngokunyanzela, nokushicilela.\n\nNdinamandla ukunceda ngokubhalisa inkcukacha ezifana nezokuqinisekisa ukusebenza kwesofthiweya, ukunceda ngemincili, nokungafanelekanga. Ndiyakunceda nj"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 500,
+        "total_tokens": 610
+    }
+}

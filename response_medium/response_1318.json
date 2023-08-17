@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofih8PtRI7ryjFLlGI9O3UQ7giZL",
+    "object": "chat.completion",
+    "created": 1692311127,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa teid selles k\u00fcsimuses aidata. Krediitkaardi andmete vargus on ebaseaduslik tegevus ning ma ei saa seda toetada ega selles osas juhiseid anda. Kui teil on muid seaduslikke k\u00fcsimusi v\u00f5i \u00fclesandeid, siis olen hea meelega valmis teid aitama."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 102,
+        "total_tokens": 196
+    }
+}

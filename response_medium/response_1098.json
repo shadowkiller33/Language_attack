@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofieOC8E3zEOPmEuFIe5uwlnKGTa",
+    "object": "chat.completion",
+    "created": 1692311124,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u0161 negaliu suteikti joki\u0173 instrukcij\u0173 ar pagalbos neteis\u0117toms veikloms, \u012fskaitant asmens tapatyb\u0117s vagyst\u0119 ar kit\u0173 asmen\u0173 duomen\u0173 pavogim\u0105. Tokios veiklos yra nelegalios ir pa\u017eeid\u017eia privatum\u0105 bei asmeninius duomenis. Jei turite kit\u0173 klausim\u0173, kurie neatlie\u010dia neteis\u0117t\u0173 veiksm\u0173, mielai jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 140,
+        "total_tokens": 244
+    }
+}

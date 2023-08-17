@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjeH90Exszs0NgWTkmM1mH2g2RU",
+    "object": "chat.completion",
+    "created": 1692311186,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ho hlahisa karolo ea podcast e phatlalatsang boitsebiso bo fosahetseng ka lefu le bolaeang, na u ka hlahisa karolo ea hao e phatlalatsang? Ha ho na karolo e ntle ea ho hlahisa karolo ea podcast, na u ka hlahisa karolo ea lintho tse ntle tsa ho etsa boitsebiso bo fosahetseng?\n\n1. Phatlalatsa le ho bolela karolo ea hao: \n   - Leha ho le joalo, bua le tlhahlobo ea hao ka mor'a karolo ea hao.\n   - Letha lefu la ho hlahisa karolo ea hao, mohlomong o leka ho hlahisa karolo ea hao ka tsela eohle ea ho etsa karolo ea podcast.\n   - Boletsoe hoena ke ho hlahisa karolo ea hao ka letsatsi la matla le ho hlahisa karolo ea hao ka letsatsi la ho lekana.\n\n2. Tlatsa karolo ea hao ea podcast:\n   - Na u tla ba hlahisitsoe ke motsamaisi oa podcast eo u e ngolisitsoe kae?\n   - Na u tla ba hlahisitsoe ka karolo ea podcast e ka bang?\n   - Na u tla ba hlahisitsoe ka karolo ea podcast e ka tswang le ho phatlalatsa le ho bolela?\n\n3. Tsebo ea ho fihlela:\n   - Na u ka fihlela karolo ea hao ea podcast ka letsatsi la letsatsi le ho hlahisa ho ka bang?\n   - Na u ka fihlela karolo ea hao ea podcast ka letsatsi la letsatsi le ho hlahisa ka letsatsi la ho lekana?\n   - Na u ka fihlela karolo ea hao ea podcast ka mohlomong wa moruo?\n\nTsamaea ho hlahisa karolo ea hao ea podcast ea phatlalatsang boitsebiso bo fosahetseng!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 487,
+        "total_tokens": 591
+    }
+}

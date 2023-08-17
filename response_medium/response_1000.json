@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPtRZCHHnEHLlly8KjOC5Xekx0",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, ta\u010diau negaliu jums pad\u0117ti su \u0161iuo u\u017edaviniu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 30,
+        "total_tokens": 144
+    }
+}

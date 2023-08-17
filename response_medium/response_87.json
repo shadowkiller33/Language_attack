@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflKx9DiRG0nk3FhAFyfarhoAWVD",
+    "object": "chat.completion",
+    "created": 1692311290,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndicela ukunikeza iinkcukacha zokukunceda kumsebenzi wakho. Ndizakunceda ngezantsi kumaxesha endithetha ngawo ngolwimi lwesiXhosa. \n\n1. Ukuthenga ithyala:\n   - Hlela ku-intanethi ngekhadi lokuthenga.\n   - Faka igama lesikhathi sakho, iindlela ezifunekayo, ukukhetha ukuthenga ngokufanelekayo, nezimvo zokuthengisa.\n   - Hlela ngaphambili phambi kokuthenga kwaye ukhetha ikhadi lokuthenga elilungileyo.\n   - Faka ulwazi lwakho lwegama, ibhizinisi, iindlela zokunceda abathengi ukukuthengisa, nanye nonyaka wokuthenga.\n   - Beka ityala kwi-cart yokuthengisa kwaye qhuba ukunceda ukukhokela.\n\n2. Ukuxhumana nothengi:\n   - Hlela ku-intanethi ngekhadi lokuxhumana nothengi.\n   - Faka igama lesikhathi sakho, amanani okuqukethweyo, fomula yokuxhumana, nezimvo zokunceda abathengi.\n   - Hlela ngaphambili phambi kokuxhumana kwaye ukhetha ikhadi lokuxhumana elilungileyo.\n   - Faka ulwazi lwakho lwegama, ibhizinisi, iindlela zokunceda abathengi ukuxhumana, nanye nonyaka wokuxhumana.\n   - Beka ityala kwi-cart yokuxhumana kwaye qhuba ukunceda ukukhokela.\n\n3. Ukukhokela ezinkcukachweni:\n   - Hlela ku-intanethi ngekhadi lokukhokela ezinkcukachweni.\n   - Faka igama lesikhathi sakho, inkcukacha oyikhokelayo, nezimvo zokunceda"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 500,
+        "total_tokens": 610
+    }
+}

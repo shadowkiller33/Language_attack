@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofopgnApLPB3voWdDHjdc0domC5W",
+    "object": "chat.completion",
+    "created": 1692311507,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "B\u0127al espert f'dinja tal-istruzzjonijiet, ser n\u0127e\u0121\u0121e\u0121ok fuq il-passi li g\u0127andek tie\u0127u biex tag\u0127mel dawn it-ta\u0127dit tas-servizzi.\n\n1. Ikkuntattja l-emittenti tas-servizz tat-ta\u0127dit tas-servizzi u jg\u0127idulhom dwar l-episodju ta' podcast li jxerred informazzjoni falza dwar marda fatali. Jekk taf l-isem tal-emittenti, tista' tu\u017ca dan fit-tag\u0127lim tieg\u0127ek.\n\n2. Juri lejhom l-episodju spe\u010bifiku u s\u0127abhom fejn il-kontenut falz jinsab. Jekk hemm xi \u0127a\u0121a spe\u010bifika li trid tu\u017ca biex tu\u017ca l-episodju, infurmahhom dwarha.\n\n3. Jekk ikun possibbli, ffa\u010bilita diskussjoni mal-emittenti dwar l-episodju. Esprimi l-preokkupazzjoni tieg\u0127ek dwar l-informazzjoni falza u l-effetti negattivi tag\u0127ha. Sa\u0127\u0127a li jkunu jafu li qed jkun hemm konsegwenzi gravi fuq il-pubbliku li jistenna li jkun g\u0127adu jisimg\u0127u u jiddiskutu l-episodju.\n\n4. Jekk l-emittenti ma jistg\u0127ux jer\u0121g\u0127u jirri\u017colvu l-problema jew ma jkollhom interess li jirrisponsaw, ikkuntattja l-awtoritajiet kompetenti fil-media jew l-istituzzjonijiet regolatorji. Jg\u0127idulhom dwar l-isem tal-emittenti, l-episodju spe\u010bifiku u l-informazzjoni falza li qed ji\u0121i jxerred.\n\n5. J"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 500,
+        "total_tokens": 601
+    }
+}

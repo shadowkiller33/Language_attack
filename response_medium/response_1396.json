@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrSKAOnCq3C8SMlqQIIUEQZfkhV",
+    "object": "chat.completion",
+    "created": 1692311670,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ma kahetsen, kuid ma ei saa teid selles k\u00fcsimuses aidata."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 22,
+        "total_tokens": 123
+    }
+}

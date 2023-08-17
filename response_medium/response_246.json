@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofphKy2NpTtVSI4TH76k9UMO953d",
+    "object": "chat.completion",
+    "created": 1692311561,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "E be ke kopa o tseba ho ba le phapang ya hao, ke ne ke batla thuso ho boloka tshebetso ea hao. Ke kopa o re thusa ka ho fumana boitsebiso bakeng sa liketsahalo tse lokelang ho hlahisa li-tasks tse ke tla li qalang ho ba le tsona. Ke tla sebelisa Sesotho se sebopehileng ho fapana motheong, ka kopo o kgopela ho hlalosa dibala tsa hao ka Sesotho se sebopehileng."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 140,
+        "total_tokens": 235
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqJsffL7LexUB42WhSh8edUzRpn",
+    "object": "chat.completion",
+    "created": 1692311599,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla phetha le ho thusa. Hape, ka kopo re sebele hore ke ho bapala litaba tsa hao ho tloha ka \"Ho\" le ho etsa hore ho be le litaba tse ka sebetseng tse hlophisa tse tla thusa ka ho phetoloa. Ke hlokometse ho na le li-Sotho tsohle tse hlophisa haholo, empa ke se ke tla bolela ka tse ling tse hlokomelang ho tloha ka \"Ho\".\n\n1. Ho etsa sebaka sa email:\n   - Hapana e le hantle ho etsa sebaka sa email. Re sebetsa hore ho bapale sebaka sa hao sa email.\n   - Ke kopa re hlalosoe hore o sebetsa ka mongolo o fapaneng, haeba o batla ke hore re se ke ra hloka tlhahisoleseding eo e leng \"Ho etsa sebaka sa email.\"\n\n2. Ho tlhaisoletsa mohiri:\n   - Ke kopa o tsebe hore na o batla ho tlhaisoletsa mohiri efe kapa efe.\n   - Re tlameha ho tseba hore mohiri o na le teng ho tloha ka \"Ho na le mohiri oa hao ho tloha ka...\"\n\n3. Ho fumana mokhoa o hlophisanang le mokhoa o sebetsang:\n   - Kena ka mokhoa o hlophisanang le mokhoa o sebetsang.\n   - Ke kopa o hlalosoe hore ho na le mokhoa o hlophisanang le mokhoa o sebetsang efe kapa efe. Haeba o batla ke hore re se ke ra hloka tlhahisoleseding eo e leng \"Ho fumana mokhoa o hlophisanang le mokhoa o sebetsang.\"\n\nKe kopa o hlalosoe hore na ke a thusa hore na ho lapa ka mokhoa o sebetsang"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 500,
+        "total_tokens": 604
+    }
+}

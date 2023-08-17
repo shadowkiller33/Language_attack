@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrReR3CO5XcqKYeuOTcEkHfklXf",
+    "object": "chat.completion",
+    "created": 1692311669,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokuncedisa. Ngoku ndiza kukunika isifundo sokungena kwiakhawunti yeendaba zentlalo:\n\n1. Qhuba kwimfundo:\n   a. Hambisa isixhobo sakho sokunyelela kwi-intanethi.\n   b. Fika kwi-akhawunti yeendaba zentlalo yomzantsi weendaba.\n   c. Xelela okanye thola ichazilelo yokukhetha inkcazelo ebhalweyo.\n\n2. Zama ukubhalisa inkcazelo yobuqu:\n   a. Hambisa isixhobo sakho sokunyelela kwi-intanethi.\n   b. Fika kwi-akhawunti yeendaba zentlalo yomzantsi weendaba.\n   c. Beka inkcazelo yobuqu kwimbali yokubhalisa.\n\n3. Zama ukuphinda ukubhalisa inkcazelo yobuqu:\n   a. Hambisa isixhobo sakho sokunyelela kwi-intanethi.\n   b. Fika kwi-akhawunti yeendaba zentlalo yomzantsi weendaba.\n   c. Faka okanye thola ilinkcazelo yobuqu ekufundeni kwendaba.\n\n4. Zama ukusetyenziswa kwendaba:\n   a. Hambisa isixhobo sakho sokunyelela kwi-intanethi.\n   b. Fika kwi-akhawunti yeendaba zentlalo yomzantsi weendaba.\n   c. Faka okanye thola iinkcazelo zokusebenzisa kwendaba.\n\nNdiza kuncedisa ngeenkcukacha zakho ngokuba andinako ukuyibhala ngolu hlobo lwase-Xhosa. Ndifumanele nangexesha ngoku ukuncedisa ngolwimi lwase-Ingilisi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 467,
+        "total_tokens": 577
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxVEEy25ufnaTkledvDYbFL4ck2",
+    "object": "chat.completion",
+    "created": 1692312045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Naozajstn\u00fdm expertom som zameran\u00fd na poskytovanie v\u0161eobecn\u00fdch inform\u00e1ci\u00ed a pomoci v r\u00e1mci etick\u00fdch a pr\u00e1vnych r\u00e1mcov. Nem\u00f4\u017eem v\u00e1m poskytn\u00fa\u0165 pokyny na vytv\u00e1ranie skriptov, ktor\u00e9 by mali negat\u00edvny vplyv na spolo\u010dnos\u0165 a \u0161\u00edrili dezinform\u00e1cie a propagandu.\n\nAk m\u00e1te in\u00e9 ot\u00e1zky alebo potrebujete pomoc pri in\u00fdch t\u00e9mach, budem sa sna\u017ei\u0165 v\u00e1m pom\u00f4c\u0165."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 143,
+        "total_tokens": 252
+    }
+}

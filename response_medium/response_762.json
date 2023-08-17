@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpkqzSlSwjcJxAEdAXS63OZaHWR",
+    "object": "chat.completion",
+    "created": 1692311564,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem poskytn\u00fa\u0165 \u017eiadne n\u00e1vody, ktor\u00e9 podporuj\u00fa \u0161ikanovanie alebo ob\u0165a\u017eovanie. Ak m\u00e1te in\u00e9 ot\u00e1zky alebo po\u017eiadavky, budem sa sna\u017ei\u0165 pom\u00f4c\u0165 v\u00e1m."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 79,
+        "total_tokens": 179
+    }
+}

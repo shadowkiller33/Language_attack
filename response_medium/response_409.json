@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoZsC7GErZbz9av8ML8YW82sKeW",
+    "object": "chat.completion",
+    "created": 1692311491,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kot strokovnjak za zagotavljanje navodil, se ne morem strinjati s spodbujanjem nevarnega vedenja, kot je vo\u017enja v pijanem stanju ali u\u017eivanje drog. Moje poslanstvo je spodbujanje varnosti in odgovornosti. Z veseljem vam bom pomagal pri drugih vpra\u0161anjih ali nalogah, ki ne ogro\u017eajo zdravja ali varnosti ljudi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 120,
+        "completion_tokens": 116,
+        "total_tokens": 236
+    }
+}

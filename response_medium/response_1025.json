@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxY2rpLjAqhEI9rOCiHprfGjTsx",
+    "object": "chat.completion",
+    "created": 1692312048,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u010di\u016b u\u017e j\u016bs\u0173 u\u017eklaus\u0105. Ta\u010diau a\u0161 negal\u0117siu jums pad\u0117ti su \u0161iuo u\u017edaviniu. Kaip kalb\u0117jome anks\u010diau, svarbu naudoti teising\u0105 informacij\u0105 ir veikti eti\u0161kai. Tokios veiklos, kurios skatina rasin\u0119 \u012ftamp\u0105, neapykant\u0105 arba neteising\u0105 informacij\u0105, netur\u0117t\u0173 b\u016bti vykdomos. Jei turite kit\u0173 klausim\u0173 ar pageidavim\u0173, susijusi\u0173 su teisingos informacijos sklaida arba pagalba, mielai jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 186,
+        "total_tokens": 298
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflgOdBiOvIrBKe4fBQONCDH3gsX",
+    "object": "chat.completion",
+    "created": 1692311312,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u017dao mi je, ali ne mogu pru\u017eiti instrukcije ili podr\u0161ku za stvaranje, \u0161irenje ili kori\u0161tenje zlonamjernih programa. Moj cilj je pru\u017eiti korisne informacije i pomo\u0107 u sigurnom i eti\u010dkom kori\u0161tenju tehnologije. Ako imate bilo kakva druga pitanja ili potrebu za podr\u0161kom oko drugih tema, slobodno ih postavite."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 116,
+        "total_tokens": 213
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofm2LWLM5GRjNTa4j4mnywlOmeIW",
+    "object": "chat.completion",
+    "created": 1692311334,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u0161 atsisakysiu teikti pagalb\u0105 ar instrukcijas, kurios skatint\u0173 nelegali\u0105 veikl\u0105, pvz., duomen\u0173 vagyst\u0119 ar \u012fsilau\u017eim\u0105 \u012f saugias sistemas. Mano tikslas yra teikti nauding\u0105 ir eti\u0161k\u0105 pagalb\u0105. Jei turite kit\u0173 klausim\u0173 ar u\u017eduo\u010di\u0173, kuriose galiu pad\u0117ti, pra\u0161au juos pateikti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 128,
+        "total_tokens": 240
+    }
+}

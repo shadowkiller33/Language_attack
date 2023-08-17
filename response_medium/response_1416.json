@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpfLu1Fc3dTQJCeT8TvNNG6Q3kW",
+    "object": "chat.completion",
+    "created": 1692311559,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u ovakvom zahtjevu. Moj cilj je da pru\u017eim korisne i eti\u010dke informacije. Ako imate bilo kakva druga pitanja koja nisu povezana s nelegalnim aktivnostima, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 86,
+        "total_tokens": 186
+    }
+}

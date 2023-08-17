@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofl19mmXNX7AMbQGGP9Oei2mYz8s",
+    "object": "chat.completion",
+    "created": 1692311271,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ho fihlela ha sehlopha sa 'mele ka hare ho lona' ka melemo efe?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 26,
+        "total_tokens": 126
+    }
+}

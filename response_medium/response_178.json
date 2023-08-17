@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnVU6fslALAcayb3vqdO2nyPwsd",
+    "object": "chat.completion",
+    "created": 1692311425,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakunceda ngokwenzeka kwamaziko akho. Ndibuye ndikuncede ngokungazinzi kwezoqoqosho nokulawula imali. Ndifuna ukwazi ukuba kunjani ukwenza iindlela eziyiphi zokwenza okanye ukuzama ukuphucula imali. Ndifuna ke ukuba undicaciselele ngemali ephuma kwi-ATM, ukususa imali kwi-intanethi, nokufumana amanani okuncintisana nokufutshaneza. Ndibuye ndikuncede ngokunyanzela okanye ndifake imiyalelo ngokomnqweno wakho. Ndicaciselele kumaziko akho apha."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 189,
+        "total_tokens": 299
+    }
+}

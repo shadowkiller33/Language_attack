@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflhUnczoyx7oQicOWlyb2OfBJQx",
+    "object": "chat.completion",
+    "created": 1692311313,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ho fihlela ha mokhoa oa hau oa ho qhekela lefapaneng le password, na u ka nka lipheo tsa ho thusa?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 38,
+        "total_tokens": 125
+    }
+}

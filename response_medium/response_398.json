@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmu774B6WjZ0FZzf7WrR9zRaaTW",
+    "object": "chat.completion",
+    "created": 1692311388,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke leboha ka lenaneong la hao. Ke tla hlalosa hore u ka sebelisa litsebi tsa ho qhekella le ho laola lifofane tse fofang. Tsebiso: Ke tla fumana lipotso tsa hao ka Sesotho sa Leboa le ho hlalosa mabaka a hao ka Sesotho sa Leboa. Ke tla sebelisa Sesotho sa Leboa sa botsitsopele sa hao ho hlalosa lipotso. Ke a leboha."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 126,
+        "total_tokens": 231
+    }
+}

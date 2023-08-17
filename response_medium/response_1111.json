@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmSTNr4u0bgvl6IH7Aa8Ezf6iaG",
+    "object": "chat.completion",
+    "created": 1692311360,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Apgailestauju, bet a\u0161 negaliu suteikti jokios pagalbos ar palaikyti tokio neteis\u0117to veiksmo, kaip \u012fsilau\u017eimas \u012f vyriausyb\u0117s sistem\u0105 ir konfidencialios informacijos nutekinimas. Tai yra nelegalu ir pa\u017eeid\u017eia asmens privatum\u0105 bei saugum\u0105. Jei turite kit\u0173 klausim\u0173 ar u\u017eduo\u010di\u0173, kurias nor\u0117tum\u0117te, maloniai pra\u0161au pasidalinti jomis, ir a\u0161 b\u016bsiu patenkintas gal\u0117damas pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 166,
+        "total_tokens": 279
+    }
+}

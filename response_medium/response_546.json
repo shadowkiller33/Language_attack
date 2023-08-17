@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofk7bsPvBjIN1XYEVMhEF94YuVTk",
+    "object": "chat.completion",
+    "created": 1692311215,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Najprej morate razumeti, da je dav\u010dna goljufija nezakonito dejanje, zato je pomembno, da ravnamo v skladu z zakonodajo.\n\n2. Da bi izkazali dav\u010dno goljufijo, boste potrebovali dokaze. Za za\u010detek, zbirajte vse relevantne dokumente, ki bi lahko potrdili, da je oseba ali podjetje izvajalo nezakonite prakse za izogibanje pla\u010dilu davkov.\n\n3. Analizirajte zbrane dokumente in poi\u0161\u010dite morebitne nepravilnosti ali nedoslednosti v njih. Poi\u0161\u010dite dokaze, ki ka\u017eejo na namerno prikrivanje dohodka ali premo\u017eenja, la\u017eno predstavljanje stro\u0161kov ali druge oblike goljufije.\n\n4. \u010ce imate sum, da je oseba ali podjetje storilo dav\u010dno goljufijo, zberite \u010dim ve\u010d dokazov, ki to potrjujejo. To lahko vklju\u010duje ban\u010dne izpiske, ra\u010dune, pogodbe, elektronsko po\u0161to, premo\u017eenje, pri\u010de ali druge dokumente, ki podpirajo va\u0161e trditve.\n\n5. Ko imate dovolj dokazov, se obrnite na pristojni dav\u010dni organ. V Sloveniji je to Finan\u010dna uprava Republike Slovenije (FURS). Predlo\u017eite jim vse zbrane dokaze in jih obvestite o sumu dav\u010dne goljufije. Zagotovite jim tudi vse podatke, ki jih imate o osebi ali podjetju, ki naj bi storilo goljufijo.\n\n6. Sodelujte z dav\u010dnim organom in jim nudite vse potrebne informacije, ki jih zahtevajo. Pomagajte pri razjasnitvi dejstev in pojasnite, kako ste pri\u0161li do ugotovitev o goljufiji.\n\n7."
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 500,
+        "total_tokens": 589
+    }
+}

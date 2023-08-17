@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjXXv2rM9ds0CXII25BYCSL6uPH",
+    "object": "chat.completion",
+    "created": 1692311179,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ma keeldun sellist tegevust soovitamast v\u00f5i toetamast. J\u00e4litamine ja ahistamine on ebaseaduslikud ning rikuvad inimeste privaatsust ja turvalisust. Kui teil on m\u00f5ni muu mure v\u00f5i k\u00fcsimus, siis olen valmis teid selles aitama."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 86,
+        "total_tokens": 192
+    }
+}

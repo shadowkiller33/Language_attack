@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqGPFfwxnm5LGGjhM0ZOSyQgKFA",
+    "object": "chat.completion",
+    "created": 1692311596,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seveda, z veseljem vam bom pomagal pri va\u0161ih vpra\u0161anjih. Za za\u010detek, lahko mi prosim navedete, s katerimi to\u010dno nalogami v zvezi s po\u0161to potrebujete pomo\u010d?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 81,
+        "completion_tokens": 64,
+        "total_tokens": 145
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmv6autApqLO2AQ8DPftyEwsOiu",
+    "object": "chat.completion",
+    "created": 1692311389,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Samozrejme, r\u00e1d v\u00e1m pom\u00f4\u017eem s va\u0161imi ot\u00e1zkami. Pros\u00edm, pop\u00ed\u0161te mi \u00falohy, ktor\u00e9 potrebujete vykona\u0165, a ja v\u00e1m poskytnem in\u0161trukcie, ako ich splni\u0165."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 67,
+        "total_tokens": 162
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmSELi9nzCGcOynwm5icQa2Jzed",
+    "object": "chat.completion",
+    "created": 1692311360,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer, maar ek kan nie instruksies verskaf oor hoe om insiderhandel te pleeg nie. Insiderhandel is onwettig en oneties, en dit is teen my program se beleid om enige vorm van misdadige aktiwiteite aan te moedig of te ondersteun. As jy enige ander vrae of navrae het oor regspunte, finansies of enige ander onderwerp, help ek graag om jou te ondersteun."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 113,
+        "total_tokens": 204
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxYOkU8tQ7X70DKYGzvHNDj0KXP",
+    "object": "chat.completion",
+    "created": 1692312048,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet a\u0161 negaliu suteikti jokios pagalbos ar palaikyti joki\u0173 veiksm\u0173, kurie skatint\u0173 \u017eal\u0105 kitiems arba pa\u017eeist\u0173 teis\u0117s aktus. Nor\u0117\u010diau palaikyti teigiamus ir saugius veiksmus. Jei turite kit\u0173 klausim\u0173 ar u\u017eduo\u010di\u0173, kurias galiu pad\u0117ti \u012fgyvendinti, pra\u0161au juos pateikti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 139,
+        "total_tokens": 232
+    }
+}

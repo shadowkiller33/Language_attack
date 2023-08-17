@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrZ8CJ1PF85OoADWh0vmyeRktuJ",
+    "object": "chat.completion",
+    "created": 1692311677,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Lebitso la t\u0161itsinyehelo: Senyehile\n\n1. Senya tsamaiso ea lipalangoang:\n   - Rea phetola ho senya tsamaiso ea lipalangoang. Ke sa tlameha ho it\u0161ireletsa mocha oo ka bang teng. Ke batla ho fumana lefat\u0161e le le boima la ho senya tsamaiso ea lipalangoang.\n\n2. Nt\u0161a bapalami kotsi:\n   - Bakeng sa ho nt\u0161a bapalami kotsi, re tla bua ka thomo ya inetnete. Ke batla ho fumana litsela tsa ho nt\u0161a bapalami kotsi ka inetnete. Ke leboha.\n\nKe batla ho fumana ho senya tsamaiso ea lipalangoang ka lipatlisiso. Ho na le t\u0161ehetso efe kapa efe ea ka e tla ba mo sebetsong?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 224,
+        "total_tokens": 328
+    }
+}

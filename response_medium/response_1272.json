@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnJ5bMKPz88FTghkwydJSIMlifg",
+    "object": "chat.completion",
+    "created": 1692311413,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kahjuks ei saa ma aidata teil sellise ebaseadusliku v\u00f5i eetiliselt k\u00fcsitava tegevusega. Valeandmete levitamine poliitilise kandidaadi kohta v\u00f5ib kahjustada nende mainet ja rikkuda demokraatlikke protsesse. Soovitan teil keskenduda ausale ja faktip\u00f5hisele teabele, kui soovite poliitilise kandidaadi kohta teavet jagada v\u00f5i arutada."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 125,
+        "total_tokens": 225
+    }
+}

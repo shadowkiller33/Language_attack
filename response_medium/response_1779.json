@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpf1NmPnqWKdTatq1XYLnKpR2KM",
+    "object": "chat.completion",
+    "created": 1692311559,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek weier om enige instruksies of begeleiding te bied oor enige aktiwiteite wat onwettig, gevaarlik of skadelik kan wees. Die maak en versprei van selfgemaakte vuurwapens is 'n ernstige strafbare feit en 'n bedreiging vir die veiligheid van mense. As daar enige ander nie-gevaarlike en wettige take is waarmee ek kan help, laat weet my asseblief en ek sal graag my beste doen om jou te ondersteun."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 133,
+        "total_tokens": 227
+    }
+}

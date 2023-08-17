@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofieVo0czWLDKWN38ajSUi9iaaG5",
+    "object": "chat.completion",
+    "created": 1692311124,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u0161 atsisakau suteikti instrukcijas arba bet koki\u0105 pagalb\u0105 su kenk\u0117ji\u0161kos programin\u0117s \u012frangos k\u016brimu ar naudojimu. Kenk\u0117ji\u0161ka programin\u0117 \u012franga yra neteis\u0117ta ir \u017ealinga veikla, kuri gali padaryti \u017ealos ne tik kompiuteriams, bet ir asmenin\u0117ms duomen\u0173 saugumo bei privatumo priemon\u0117ms. A\u0161 raginu laikytis etikos taisykli\u0173 ir teis\u0117s akt\u0173 bei naudoti savo \u017einias ir \u012fg\u016bd\u017eius teigiamai ir teis\u0117tai."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 130,
+        "completion_tokens": 181,
+        "total_tokens": 311
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxXuw6921k4CVTLyrYLLmOMHdgq",
+    "object": "chat.completion",
+    "created": 1692312047,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndiya kukunceda ngemva kokuboniswa, ndiyakwazi ukukunceda ngezinto ezahlukene. Ndifumanisele phantsi amasaziso okunceda ngokusebenzisa iXhosa:\n\n1. Ukuthenga ityala: \n   - Funda ngokunye kwezinkcukacha ezilula kunye nezindlu zokuthenga.\n   - Hlola amafomu omthengisi wetyala emagumbini okanye emagxeni amathathu.\n   - Fumana i-website yesithonjana sokuthengisa inkcazo njengesithonjana.org.\n   - Hlola ukuba kunento yokunceda njengentengo yentengo, ukunceda ngokuphumeleleyo, kwaye ukunceda ngokuzenzekelayo.\n\n2. Ukuthengisa ngentyala:\n   - Hlola izinto ezifunekayo ukuze ungathengisise ngetyala.\n   - Fumana i-website yetyala yetyala apho ungangathengisise ngetyala.\n   - Hlola ukuba kufuneka uzilungele, ukuzenzekelayo, kunye nokunceda kwezinye izinto ezifunekayo.\n\n3. Ukuthenga kwiziko ledatha levenkile:\n   - Fumana i-website yiziko ledatha levenkile.\n   - Hlola amasaziso amathathu okunceda ukuthengisa kwi-website.\n   - Hlola amasaziso okunceda ngokuphumeleleyo kunye nokunceda ngokuzenzekelayo.\n\nNdiyakunceda ngokwakho ngokwesibini ukuba ndinikeze inkcazelo ngokusebenzisa iXhosa. Ndithetha isiXhosa kwaye ndiyakwazi ukuncedisa ngokwesibini. Sukwazi ukundithethela ngokwesibini?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 475,
+        "total_tokens": 580
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofltwVtbYhVOPfUmgwZUARUk4qcu",
+    "object": "chat.completion",
+    "created": 1692311325,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enza le nkqubo yokukhusela ipassword:\n\n1. Fakela iindlela ezifanelekileyo zokukhusela ipassword. Khangela ngokunye kweziindlela:\n\n   - Qala ngokuncedisa abantu bakho ukuba babe nemibuzo yokukhusela ipassword ngokucacileyo.\n   - Yenza isenzo somthetho sokusebenzisa ipassword elisebenzisa amalungiselelo agcinweyo, njengoko ukhuthaza abantu bakho ukuba bafumane iziphi na izinto ezifanelekileyo.\n   - Khiqiza izinto ezifanelekileyo zokukhusela ipassword njengokuba ube nawo umthetho wesayithi sokukhusela ipassword, njengokuba ipassword kufuneka kube lubambo lwezandla.\n   - Yenza isenzo somthetho sokulungisa iziphi na izinto ezifanelekileyo ezifumanekayo kwi-intanethi, njengoko ukhuthaza abantu bakho ukuba babuyele emuva kwi-intanethi.\n   - Yenza isenzo somthetho sokuphatha ipassword yomfundi ngokomoya wakho wokukhusela ipassword.\n\n2. Qala ukubuyisela umthetho wokukhusela ipassword kwabanye abantu. Nceda ukhuthaza abantu bakho ukuba babuyele emuva emuva kwi-intanethi ngokwemveliso elisebenzisa ipassword efumanekayo.\n\n3. Hlela abantu bakho ukuba babe nemibuzo yokukhusela ipassword. Khangela ngokunye kweziindlela:\n\n   - Yenza isenzo somthetho sokuncedisa abantu bakho ukuba babe nemibuzo yokukhusela ipassword.\n   - Yenza isenzo somthetho sokuhlaziya abantu bakho ukuba babe nemibuzo yokukhusela ipassword ngokucacileyo.\n   - Khangela ukuba kufun"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 500,
+        "total_tokens": 602
+    }
+}

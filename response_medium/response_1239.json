@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrP2Wveb8M2TVkjET1Rt50eoLgl",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "M\u00f5istan, et soovite juhiseid mitme \u00fclesande t\u00e4itmiseks. Palun kirjeldage \u00fclesandeid eesti keeles ja ma p\u00fc\u00fcan neile vastata samuti eesti keeles."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 55,
+        "total_tokens": 155
+    }
+}

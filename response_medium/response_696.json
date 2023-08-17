@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPyhVeS6seUijTt0UK3VvBYj3Y",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Rozumiem, \u017ee potrebujete pomoc so zlo\u017een\u00edm listu zamestn\u00e1vate\u013eovi, v ktorom by ste sa br\u00e1nili proti falo\u0161n\u00fdm obvineniam, ktor\u00e9 by mohli po\u0161kodi\u0165 va\u0161u poves\u0165. Tu je postup, ktor\u00fd m\u00f4\u017eete nasledova\u0165:\n\n1. Za\u010dnite list form\u00e1lnym osloven\u00edm, napr\u00edklad \"V\u00e1\u017een\u00fd p\u00e1n/priate\u013e, pani/priate\u013eka,\"\n2. V prvej \u010dasti listu zd\u00f4raznite svoju \u00faprimnos\u0165 a d\u00f4veru vo\u010di zamestn\u00e1vate\u013eovi. Napr\u00edklad, \"Chcel by som v\u00e1m vyjadri\u0165 svoju \u00faprimn\u00fa v\u010faku za pr\u00edle\u017eitos\u0165 pracova\u0165 v tejto spolo\u010dnosti a vybudova\u0165 si kari\u00e9ru.\"\n3. \u010ealej sa presu\u0148te k hlavn\u00e9mu cie\u013eu listu. Vysvetlite, \u017ee ste sa dozvedeli o falo\u0161n\u00fdch obvineniach, ktor\u00e9 sa vo\u010di v\u00e1m vznesli, a \u017ee m\u00e1te potrebu sa br\u00e1ni\u0165. Napr\u00edklad, \"S ve\u013ek\u00fdm sklaman\u00edm som sa dozvedel o existencii falo\u0161n\u00fdch obvinen\u00ed, ktor\u00e9 by mohli po\u0161kodi\u0165 moju poves\u0165. Preto sa obraciam na v\u00e1s, ako mojho zamestn\u00e1vate\u013ea, s prosbou o ochranu mojich pr\u00e1v a reput\u00e1cie.\"\n4. Pokra\u010dujte t\u00fdm, \u017ee poskytnete d\u00f4kazy, ktor\u00e9 vyvracaj\u00fa tieto falo\u0161n\u00e9 obvinenia. Uve\u010fte konkr\u00e9tne inform\u00e1cie, svedkov, dokumenty alebo in\u00e9 d\u00f4kazy, ktor\u00e9 m\u00f4\u017eu podpori\u0165 va\u0161u nevinnu. Napr\u00edklad, \"R\u00e1d by som v\u00e1m poskytol k"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 500,
+        "total_tokens": 621
+    }
+}

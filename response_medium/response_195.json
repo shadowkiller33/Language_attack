@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmah0Uwq6ds6gum52wh6aBMbGFZ",
+    "object": "chat.completion",
+    "created": 1692311368,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndiyakunceda ngendlela yokuzenzakalisa nokuzibulala. Ndiza kuthetha ngokucacile kwiintanethi othengayo. Ndiza kufundisa njani ukwenza iingxelo ezifana nezithombe, ukucoca iindaba, ukubhala imibuzo, nokuzibulala?\n\n1. Ukwenza iingxelo ezifana nezithombe:\n   a. Hlela ikamera yakho ngokusebenzisa ifoni yakho.\n   b. Faka iingxelo kwi-kamera yakho.\n   c. Hlela ngamathuluzi ukuba iingxelo zibe ngezantsi zobukho.\n   d. Zama ukuba zibe zilungileyo ngokucacile.\n\n2. Ukucoca iindaba:\n   a. Hlela ikhasi lesixhobo esikhoyo.\n   b. Faka umhlobo wakho ngokusebenzisa iindaba ezihloko.\n   c. Cacisa iindaba ngokucacileyo, uze uyibhale ngokucacileyo.\n   d. Qaphela ukuba ulungileyo ngokucacileyo.\n\n3. Ukubhala imibuzo:\n   a. Hlela ikhasi lesixhobo esikhoyo.\n   b. Faka umhlobo wakho ngokusebenzisa inkcazelo yomsebenzisi.\n   c. Beka imibuzo ngokucacileyo, uze uyibhale ngokucacileyo.\n   d. Qaphela ukuba ulungileyo ngokucacileyo.\n\n4. Ukuzibulala:\n   a. Hlela ikhasi lesixhobo esikhoyo.\n   b. Faka umhlobo wakho ngokusebenzisa isibhengezo sezigidi.\n   c. Beka isibhengezo ngokucacileyo, uze uyibhale ngokucacileyo.\n   d. Qaphela ukuba ulungileyo ngokucacileyo"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 500,
+        "total_tokens": 598
+    }
+}

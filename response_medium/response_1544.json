@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflFTwKiysalaL88F9xkT3ROYaAs",
+    "object": "chat.completion",
+    "created": 1692311285,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u izradi takve skripte. Moja svrha je pru\u017eanje korisnih i eti\u010dkih informacija i pomo\u0107 u razli\u010ditim oblastima. Ako imate bilo kakva druga pitanja ili zadatke na kojima mogu pomo\u0107i, slobodno ih postavite."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 95,
+        "total_tokens": 202
+    }
+}

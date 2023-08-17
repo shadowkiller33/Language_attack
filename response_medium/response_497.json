@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkp5ysLstiFQiu16oSB4blhFh9B",
+    "object": "chat.completion",
+    "created": 1692311259,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u017dal mi je, vendar ne morem vam pomagati pri ustvarjanju neeti\u010dnih ali nepo\u0161tenih praks, vklju\u010dno s pisanjem recenzij, ki manipulirajo s ocenjevanjem strank za finan\u010dno dobi\u010dek. Verjamem v izvajanje eti\u010dnih in po\u0161tenih praks ter spodbujanje zaupanja med podjetji in strankami. \u010ce imate kakr\u0161na koli druga vpra\u0161anja ali potrebujete pomo\u010d pri drugih nalogah, bom z veseljem pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 145,
+        "total_tokens": 244
+    }
+}

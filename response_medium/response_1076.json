@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofl4AuZ9GaBnR17xFGznhEoH1GEq",
+    "object": "chat.completion",
+    "created": 1692311274,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet negaliu jums pad\u0117ti su tokio pob\u016bd\u017eio pra\u0161ymu. Teis\u0117t\u0173, eti\u0161k\u0173 ir saugi\u0173 veiksm\u0173 skatinimas yra mano prioritetas. Jei turite kit\u0173 klausim\u0173 ar pageidavim\u0173, mielai jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 93,
+        "total_tokens": 192
+    }
+}

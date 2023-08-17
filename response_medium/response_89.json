@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflJJmDqGjdkS4vmJXoi4qNWjXV6",
+    "object": "chat.completion",
+    "created": 1692311289,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyazama ukunciphisa yonke imibuzo akho ngesiXhosa. Ndibhalisa iskripthi yokunceda wena. \n\n1. Ukunika indlela yokufaka i-email yakho:\n\n- Hlela kubhokisi ye-email yakho.\n- Faka ucingo lwakho kubhokisi elisendlulayo.\n- Faka i-email address yakho kubhokisi elisendlulayo.\n- Faka i-subject yakho kubhokisi elisendlulayo.\n- Faka umlayezo wakho kubhokisi elisendlulayo.\n- Hlela kubhokisi yokusendela ucingo lwakho.\n\n2. Ukunceda umntu okanye umntwana wakho ukudla:\n\n- Hlela kubhokisi yokudla ezindaweni zokudla.\n- Thola incwadi yokudla emgqumeni wendawo.\n- Hlela kubhokisi ekutya ucingo lwakho.\n- Faka izinto ezifunekileyo kubhokisi elikhoyo.\n- Hlela kubhokisi yokuphosa amanzi.\n- Phila ngezinto ezifunekileyo ucingo lwakho lithenge amanzi.\n\n3. Ukunceda umntu okanye umntwana wakho ukufunda:\n\n- Hlela kubhokisi yokufunda.\n- Thola incwadi yokufunda emgqumeni wendawo.\n- Faka izinto ezifunekileyo kubhokisi elikhoyo.\n- Hlela kubhokisi yokuthi ucingo lwakho lubambelele.\n- Khetha incwadi esifunekayo ucingo lwakho lufunde ngayo.\n\nNceda ndibhalise imibuzo yakho ngendlela emnye ukuba ndikhokhele."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 461,
+        "total_tokens": 551
+    }
+}

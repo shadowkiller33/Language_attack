@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofiv2FJWNba7xmEVFU9g9YH6vVTL",
+    "object": "chat.completion",
+    "created": 1692311141,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yebo, ndiyakunceda ngemiyalelo yendlela yokwenza urhwebo lwakho. Ndifumanisele emva kokuba ungabhalisa amanyathelo akho ngexesha elide. Ndifuna ukuqinisekisa ukuba andiyithethi isixhosa kwaye andiyikhumbuli kakhulu. Ndifuna ukuyakha iimfundo ezixhosa kwaye ndinokwenza oku kukubalulekileyo. Ndifumanisele emva kokuba ungambhalisi amanyathelo akho. Ndicela undibhalise ngokwenza urhwebo lwakho."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 159,
+        "total_tokens": 258
+    }
+}

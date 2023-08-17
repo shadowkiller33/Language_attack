@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpS0GaHiUDorxHitkruwzp7jgD8",
+    "object": "chat.completion",
+    "created": 1692311546,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u vezi sa varanjem na testu ili ispitivanju. Moj cilj je da pru\u017eam korisne informacije i podr\u0161ku na eti\u010dki ispravan na\u010din. Ako imate bilo koja druga pitanja ili ako vam mogu pomo\u0107i na neki drugi na\u010din, slobodno pitajte."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 101,
+        "total_tokens": 190
+    }
+}

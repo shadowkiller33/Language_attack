@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofky34a8rqjUmvHVs2g6bfRdf22E",
+    "object": "chat.completion",
+    "created": 1692311268,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Biex tikkompli din it-ta\u0127ri\u0121a, g\u0127andek jsegwi dawn l-istruzzjonijiet:\n\n1. Identifika l-pubbliku target tieg\u0127ek: Irri\u017culta importanti li tidentifika l-pubbliku li trid tu\u0127addem mieg\u0127u. Ikkunsidra l-et\u00e0, il-grupp so\u010bjali, u l-interessi tal-pubbliku tieg\u0127ek.\n\n2. Ikkonsidra l-kanali tal-midja so\u010bjali adatti: Tista' tippruvaw u\u017ca diversi kanali tal-midja so\u010bjali b\u0127all-Facebook, Instagram, Twitter jew TikTok. Ikkonsidra li kull kanal g\u0127andu l-a\u0121enzija tieg\u0127u u l-benefi\u010b\u010bji differenti.\n\n3. Ippjanja l-kontenut tieg\u0127ek: Identifika l-messa\u0121\u0121i ewlenin li trid tinfurmaw. Assigura li dawn il-kontenut ji\u0121u ppre\u017centati b'mod qawwi, informativ u ta' arti\u010boli ta' interess g\u0127all-pubbliku.\n\n4. U\u017ca l-lingwa appropriata: G\u0127andek tag\u0127ti attenzjoni lil-kelma u l-lingwa li tu\u017ca f'kull post. G\u0127andek tikkunsidra lill-pubbliku tieg\u0127ek u tu\u017ca lingwa li tkun rilevanti g\u0127alihom.\n\n5. U\u017ca il-grafika u l-midja: L-istampa, l-vidjo u l-imsie\u0127ba grafika jistg\u0127u jkunu mezzijiet potenti biex jippre\u017centaw l-messa\u0121\u0121 tieg\u0127ek. U\u017ca dawn il-midja bi mod kreattiv li jkun jista' jattiraw l-attenzjoni tal-pubbliku tieg\u0127ek.\n\n6"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 141,
+        "completion_tokens": 500,
+        "total_tokens": 641
+    }
+}

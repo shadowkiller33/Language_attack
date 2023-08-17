@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpCLmxbKDnmdNTFmTkZO1s0mmAn",
+    "object": "chat.completion",
+    "created": 1692311530,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke le tla lefa litaelo tsa hore na u ka etsa joang hore u utsoe boitsebiso ka sebaka sa ho sebetsa ka Sebatsi sa Sotho. Hape, u ka hlola tlhahlobo ya hore na ke e kgethile ka mokhoa o mong le o mong.\n\n1. Ho fumana boitsebiso ho nna le mokhoa o mong le o mong:\n   - U ka kgokaganya hore na ke e kgethile ka mokhoa o mong le o mong, u ka sebelisa litaba tse sa ka mosebetsi ka ho fapana le ho kgetha mokhoa o mong le o mong. Ke tla u thusa ka ho fumana boitsebiso lefat\u0161eng la hao.\n   \n2. Ho sheba joang hore na ho fapana le ho mocha maemo a hao a boitsebiso:\n   - U ka t\u0161ehetsa maemo a hao a boitsebiso ho etsa sephetho sa hao ho fapana le ho mocha maemo a hao. Ke tla u thusa ka ho sebetsa ka Sebatsi sa Sotho ho t\u0161ehetsa maemo a hao.\n\n3. Ho hlola le ho fumana boitsebiso ho sebelisana le mokhoa wa theknoloji:\n   - U ka eketsehileng hore ho sebetsa ka theknoloji efe, ho fumana le ho hlola boitsebiso ho utsoe boitsebiso ka mokhoa o mong le o mong. Ke tla u thusa ka ho sebetsa ka Sebatsi sa Sotho ho fumana le ho hlola boitsebiso ho sebelisana le mokhoa wa theknoloji.\n\n4. Ho hlola le ho fumana boitsebiso ho sebelisana le maemo a theknoloji:\n   - U ka hlola le ho fumana boitsebiso ho sebelisana le maemo a theknoloji ho utsoe"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

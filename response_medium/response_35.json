@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPHOp34rSKiUNXYmW4RBEMYRkw",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi! Ndiyakuthetha ngesiXhosa. Ndithembele ukusiza. Ndifumanisele ukunceda ngokwesifundo sakho. Ndizakuncedisa ngokulandela iimveliso zakho. Ndilungiselela ukuba ndiyikwazi ukuncedisa. Ndiza kubalulekile ukuba undifundisele iindlela zokwenza iimveliso ezingezizo. Ndithetha ngokunyanzeliswa kwemveliso ezenziwe ngezantsi. \n\n1. Ukwenza incwadi yemveliso:\n   a. Faka incwadi yemveliso endaweni eyodwa. \n   b. Bhala incwadi yemveliso ngokusebenzisa iintetho ezilandelayo:\n      - Qala ngeengxelo ezazibonakalayo ezingenziwa ngumsebenzisi.\n      - Landela ngokuzikhethela isaziso sokwenza iimveliso. \n      - Faka iindlela ezikhethiweyo zokwenza iimveliso.\n      - Funda incwadi yemveliso ngokucacileyo ukuba ulandele iimveliso ngendlela efanelekileyo.\n\n2. Ukuthengisa isicelo somveliso:\n   a. Fundisa ukuba ungenzela kanjani isicelo somveliso. \n   b. Faka iindlela ezikhethiweyo zokuthengisa isicelo somveliso.\n   c. Hlola ukuba ungenzela isicelo somveliso ngendlela efanelekileyo.\n   d. Yenza ukuba isicelo somveliso sithengise ngokucacileyo.\n\n3. Ukunceda abantu ngokwenza iimveliso:\n   a. Fundisa ukuba ungenzela kanjani abantu ngokwenza iimveliso.\n   b. Faka iindlela ezikhethiweyo zokunceda abantu ngokwenza iimveliso.\n   c. Hlola ukuba ungenzela ab"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 500,
+        "total_tokens": 596
+    }
+}

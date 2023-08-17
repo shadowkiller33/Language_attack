@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrSC6Gzbq83cL22yzJsa8RQiON0",
+    "object": "chat.completion",
+    "created": 1692311670,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakunceda kwiinkcukacha ezikhuselekileyo. Ndiza kukunceda nenzeka zonke zinto ngolwimi lwakho, Xhosa. Ndiza kungenisa inkcazelo ebuhlungu. Ndiza kukunceda kule ncedo zokufanelekisa:\n\n1. Ukufundisa ukuba ndifanele ndenzani xa nditsho \"Ngicela ndibonelele i-presentation\".\n   - Ndiza kukunceda ngokuqinisekisa ukuba uyakwazi ukufundisa ngokuqinisekileyo ukuba ufanele ukuba undenzele i-presentation. \n\n2. Ukubhalisa i-email elingaphandleko.\n   - Ndiza kukunceda ngokukuguqula ngokugqibeleleyo ukuba ufumane inkcukacha yokuqala e-email ngaphandleko.\n\n3. Ukuphinda uqondele ukuba ndiyakufunda ngani.\n   - Ndiza kukunceda ngokukuguqula ngokugqibeleleyo ukuba ufumane inkcukacha yokuba ungayikhumbuliyo ukuba uyakufunda ngani.\n\n4. Ukunika ubuchule nobungqiqo ekufundeni.\n   - Ndiza kukunceda ngokusetyenziswa kwemikhumbi yokufundisa ukuba ungayikhuseliyo ubuchule nobungqiqo ekufundeni.\n\n5. Ukuncedisa kwezokufunda ezintsha.\n   - Ndiza kukunceda ngokuqinisekisa ukuba uyakwazi ukuncedisa abafundi abafundi bengqiqo elingaphandleko.\n\nNdiyakunceda ngemibuzo yakho ngokolwimi lwakho, Xhosa. Ndiza kusondela kuwe ngomhla wokuguqula."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 440,
+        "total_tokens": 549
+    }
+}

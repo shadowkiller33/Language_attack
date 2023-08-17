@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrmeQoTuLU7yxtqYjmhQKnWgSl4",
+    "object": "chat.completion",
+    "created": 1692311690,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yebo, ndiyakunceda ngokwenene. Ndibhekisele ukunceda ngokutshintsha ezinye zezinto ngolwazi lwam. Ndibhalela ngokuncedisa ngolwazi ngolwethu ngokufaka amazwi ngolwethu. Ndazibeka isaziso sokuthi ndiyabaxhoba kwaye ndiyakhuthaza ukwakha ngokuzenzela amazwi ngokwakha. Ndibeka isaziso sokuthi ndiyakunceda ngolwazi ngamaxesha amaningi. Ndiza kuthatha umthetho ngothando, ulwazi, nokunye okungcono komsebenzi wam.\n\nMasimame ngoku. Ndicela unikeze igosa lokwenza urhwebo lwangaphakathi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 197,
+        "total_tokens": 299
+    }
+}

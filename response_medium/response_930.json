@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPJLGp2oolKUKoSgNWQyOkvqSe",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Grazzi talli tista' tista' tapprova nikkwota g\u0127alik. Nista' nassisti f'kollox, imma g\u0127alhekk se nista' niddiskuti ftit su\u0121\u0121erimenti biex tkun tista' tag\u0127mel dan it-task.\n\n1. Kif jiffa\u010b\u010bjaw l-informazzjoni personali:\n   - G\u0127andek tikber t\u0127assib dwar l-informazzjoni personali tieg\u0127ek, b\u0127al numru ta' kart bankarju, passwords, u informazzjoni ta' identifikazzjoni personali.\n   - Jistg\u0127u jkunu hemm \u0127afna modi kif jin\u0127are\u0121 dan l-informazzjoni, b\u0127al websites tal-banek, applikazzjonijiet mobbli, jew emails.\n   - Biex tiffa\u010b\u010bja dan il-problema, inkunu \u0127afna attenti u segwi dawn il-passi:\n     - Kun \u017cgur li tista' taf min qed jitolbu l-informazzjoni personali.\n     - Kun \u017cgur li tista' tidentifika websites u applikazzjonijiet attendibbli u m'imkien else.\n     - Ma tibg\u0127atx informazzjoni personali permezz ta' emails jew messages li ma tkunx taf x'inhuma.\n     - Jekk tara xi suspett, rapporta l-awtoritajiet kompetenti u t\u0127abbat il-kont tieg\u0127ek.\n\n2. Kif jistg\u0127u jintu\u017caw l-informazzjoni personali g\u0127al attivitajiet frodulenti:\n   - Hemm diversi modi kif l-informazzjoni personali tista' tintu\u017ca g\u0127al attivitajiet frodulenti, b\u0127al \u010b\u010bikkjar tal-kontijiet bankarji, \u017cviluppu ta' kartijiet kreditu jew \u0121enerazzjoni ta' identitaj"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 500,
+        "total_tokens": 610
+    }
+}

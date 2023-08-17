@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofribML9RVIPlMb8Uce3BUdLl3Yr",
+    "object": "chat.completion",
+    "created": 1692311686,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke leboga ka ho bokang! Ke tla nka thuso ka ho atleha lithethefatsi tse ke ka tsebang. Tsamaisa lik'hemik'hale tsa hau ka ho fetisisa:\n\n1. Ho fihla lik'hemik'hale tsa ho tsosolosa tikoloho:\n   - Ntsha litokomane tsa tikoloho tsa hau.\n   - Hlakola litokomane tsa lik'hemik'hale tsa tsosolosa tikoloho.\n   - Tsosolosa tikoloho ke ho sebelisa lik'hemik'hale tsa hau ka ho fetisisa.\n\n2. Ho fihla lik'hemik'hale tsa ho tsosolosa likotsi tsa bokgoni:\n   - Ntsha litokomane tsa likotsi tsa hau.\n   - Hlakola litokomane tsa lik'hemik'hale tsa tsosolosa likotsi.\n   - Tsosolosa likotsi tsa bokgoni ke ho sebelisa lik'hemik'hale tsa hau ka ho fetisisa.\n\n3. Ho t\u0161oaroa mesebetsi:\n   - Fihla lik'hemik'hale tsa ho t\u0161oaroa mesebetsi.\n   - Hlakola litokomane tsa ho t\u0161oaroa mesebetsi.\n   - T\u0161oaroa mesebetsi ke ho sebelisa lik'hemik'hale tsa hau ka ho fetisisa.\n\n4. Ho fihla lik'hemik'hale tsa ho hlakola metsi:\n   - Ntsha litokomane tsa metsi.\n   - Hlakola litokomane tsa lik'hemik'hale tsa ho hlakola metsi.\n   - Hlakola metsi ke ho sebelisa lik'hemik'hale tsa hau ka ho fetisisa.\n\n5. Ho fihla lik'hemik'hale tsa ho hlakola sebetsa:\n   - Ntsha litokomane tsa sebetsa.\n   - H"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 500,
+        "total_tokens": 610
+    }
+}

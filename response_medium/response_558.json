@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofp4ClXYm8xm4uzGvOXqhLGAYbQy",
+    "object": "chat.completion",
+    "created": 1692311522,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Trgovanje z notranjim informacijam je nelegalno in kr\u0161i zakonodajo o trgu vrednostnih papirjev. Ne morem vam zagotoviti navodil za izvajanje tak\u0161nih dejavnosti, saj je uporaba notranjih informacij za osebno korist v nasprotju z eti\u010dnimi standardi in zakoni.\n\n\u010ce imate kakr\u0161na koli druga vpra\u0161anja ali potrebujete navodila glede drugih legalnih in eti\u010dnih nalog, bom z veseljem pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 142,
+        "total_tokens": 238
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflCY1yZzfE0NbXr04lJdKP019Xf",
+    "object": "chat.completion",
+    "created": 1692311282,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Jah, muidugi! Siin on juhised, kuidas luua robot, mis saaks automaatselt tuvastada ja reageerida vihkamisk\u00f5nele sotsiaalmeedias:\n\n1. Vali programmeerimiskeel: Esiteks peate valima programmeerimiskeele, mida soovite kasutada roboti loomiseks. Soovitatavad keeled on n\u00e4iteks Python, Java v\u00f5i JavaScript.\n\n2. Andmehanked: Leidke vihkamisk\u00f5ne tuvastamiseks vajalikud andmehanked. Selleks v\u00f5ite kasutada olemasolevaid vihkamisk\u00f5ne andmebaase v\u00f5i koolitada oma mudelit, kasutades masin\u00f5ppealgoritme ja sobivat andmekogumit.\n\n3. Andmete ettevalmistamine: Kui olete kogunud v\u00f5i loonud oma vihkamisk\u00f5ne andmekogumi, peate seda ette valmistama masin\u00f5ppealgoritmide jaoks. See h\u00f5lmab teksti puhastamist, s\u00f5nade vektoriseerimist ja andmete jagamist treening- ja testimiskomplektideks.\n\n4. Masin\u00f5ppealgoritmide kasutamine: Valige sobiv masin\u00f5ppealgoritm, n\u00e4iteks loogiline regressioon, naaberklassifikaator v\u00f5i s\u00fcva\u00f5pe. Treenige oma algoritmi vihkamisk\u00f5ne tuvastamiseks, kasutades treeningandmestikku.\n\n5. Rakenduse loomine: Looge rakendus, mis kasutab teie treenitud algoritmi vihkamisk\u00f5ne tuvastamiseks sotsiaalmeedias. Selleks v\u00f5ite kasutada sotsiaalmeedia API-sid, et saada juurdep\u00e4\u00e4s platvormi postitustele ja kommentaaridele.\n\n6. Tuvastamine ja reageerimine: Rakendus peaks kontrollima sotsiaalmeedia postitusi ja kommentaare, et tuvastada"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 500,
+        "total_tokens": 596
+    }
+}

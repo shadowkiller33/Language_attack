@@ -13,9 +13,9 @@ def merge_json_files(directory):
                     merged_data.append(data)
 
     # Save merged data to a new JSON file
-    with open("output/low_help/eval_low.json", "w") as f:
+    with open("output/medium_harm/eval_low_harm.json", "w") as f:
         json.dump(merged_data, f, indent=4)
 
 if __name__ == "__main__":
-    main_directory = './help_results_low'
+    main_directory = './response_medium'
     merge_json_files(main_directory)

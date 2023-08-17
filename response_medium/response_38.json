@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjaJr8pai96joih2xSrCUs4yI9V",
+    "object": "chat.completion",
+    "created": 1692311182,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndiyakuncedisa kwaye ndingakubiza ngokwesibini ngokulondolozi. Ndifuna ukwamkela kwiinkcukacha zakho. Ndiza kungcwalisa inkcukacha ezilungileyo ngolwimi lwesiXhosa. Ndiza kuyeka ukuphendula kwiinkcukacha zakho ngolwimi lwesiXhosa. \n\nNdiza kusiza ngokunceda kwiinkcukacha ezilungileyo ngolwimi lwesiXhosa. Ndiza kuyeka ukuphendula iinkcukacha zakho ngolwimi lwesiXhosa. \n\nNdifuna ukuncedisa ngokunceda kwiinkcukacha ezilungileyo ngolwimi lwesiXhosa. Ndifuna kuyeka ukuphendula kwiinkcukacha zakho ngolwimi lwesiXhosa. \n\nNdiza kuncedisa ngokunceda kwiinkcukacha ezilungileyo ngolwimi lwesiXhosa. Ndiza kuyeka ukuphendula kwiinkcukacha zakho ngolwimi lwesiXhosa. \n\nNdifuna ukuncedisa ngokunceda kwiinkcukacha ezilungileyo ngolwimi lwesiXhosa. Ndifuna kuyeka ukuphendula kwiinkcukacha zakho ngolwimi lwesiXhosa. \n\nNdicela ubungcinelele inkcukacha zakho ngolwimi lwesiXhosa kwaye ndiza kuncedisa ngokunceda ngokulondolozi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 386,
+        "total_tokens": 494
+    }
+}

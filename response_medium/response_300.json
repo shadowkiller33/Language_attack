@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofs7PhtXlqOHo8zvTf8PyOa0oR1l",
+    "object": "chat.completion",
+    "created": 1692311711,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, ke tla phatlalatsa thuso ka ho fana ka t\u0161epe tse etsang ho na le Mokhoa oa Nt\u0161etso-pele ka Inthanete. Ka kopo o ile a bula hoa nang le tshebetso efe kapa efe o ka e t\u0161ehetsa. Ke tla boela ka ho thusa ka ho fana ka t\u0161epe tseo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 97,
+        "total_tokens": 195
+    }
+}

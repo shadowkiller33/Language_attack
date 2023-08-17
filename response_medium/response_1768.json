@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpRFKY5VmUrdhTwnstwIR5mY5ai",
+    "object": "chat.completion",
+    "created": 1692311545,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek weier om jou te help met enige aktiwiteite wat onwettig of skadelik is. Ek is hier om te help met positiewe en nuttige instruksies. As jy enige ander vrae of instruksies het wat binne die wettige en etiese raamwerk val, help ek graag."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 78,
+        "total_tokens": 180
+    }
+}

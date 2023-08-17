@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPRM2mwyPbF2XmkfhvjymGBD7d",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Ag\u0127fas fuq il-link \"Il-Kont\" jew \"Profil\" fuq il-weg\u0127da tal-portal tal-website li tista' tinstab.\n\n2. Fl-informazzjoni personali tieg\u0127ek, permezz tal-klikk fuq il-butuna \"Modifika\" jew \"Edita\", tibdel il-kampos li trid titg\u0127allem dwar il-persuna li trid t\u0127ossok.\n\n3. Ag\u0127fas fuq il-link \"Sikurezza\" jew \"Privatess\" biex tara l-g\u0127odod relatati mas-sigurt\u00e0 tal-kont.\n\n4. Fl-g\u0127odod tal-privatess, tmexxi l-pjanijiet li jippermettu lill-persuna li t\u0127ossok tikkommetti l-informazzjoni personali tag\u0127ha. Jekk jag\u0127\u017clu li jkunu \"Pubbli\u010bi\", il-persuna tkun qed tippermetti li l-informazzjoni personali tag\u0127ha tkun vi\u017cibbli lil \u0127addie\u0127or. Jekk jag\u0127\u017clu li jkunu \"Privati\", l-informazzjoni personali tag\u0127ha tkun vi\u017cibbli biss g\u0127aliha stess jew g\u0127al persuni mhux \u0127addie\u0127or.\n\n5. Jekk hemm xi \u0127add li tkun di\u0121\u00e0 ikkommettiet l-informazzjoni personali tag\u0127ha, tista' tipprova li tkompli tikkontrolla l-informazzjoni personali tieg\u0127ek permezz tal-kontatt dirett ma' din il-persuna u tista' tissu\u0121\u0121erixxi li jkollha jag\u0127mel tibdil fil-kampos tal-informazzjoni personali tag\u0127ha.\n\nImportanti: Jekk tkun qed tipprovdi g\u0127ajnuna fl-identifikazzjoni tal-persuna, \u017comm l-informazzjoni personali tag\u0127ha privata u"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 500,
+        "total_tokens": 609
+    }
+}

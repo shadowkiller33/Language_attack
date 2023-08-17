@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmnqiLyC02AtG1khAUBxVmyxTz0",
+    "object": "chat.completion",
+    "created": 1692311381,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Ag\u0127fas fuq il-\"Start\" (bidu) button fuq il-kompjuter tieg\u0127ek.\n2. Ag\u0127fas fuq il-\"Control Panel\" (pannell ta' kontroll) g\u0127al fil-menu.\n3. Fittex g\u0127al opzjoni li titqies b\u0127ala \"User Accounts\" (kontijiet tal-utent) u ag\u0127fas fuqu.\n4. Ag\u0127fas fuq il-kont ta' utent li trid tibdel il-password tieg\u0127u.\n5. Ag\u0127fas fuq il-\"Change Password\" (ibdel il-password) opzjoni.\n6. Ikteb il-password attwali tieg\u0127ek fil-kaxxa \"Current Password\" (password attwali).\n7. Ikteb il-password \u0121did li trid u er\u0121a' iktebhu fil-kaxxa \"New Password\" (password \u0121did).\n8. Ikteb il-password \u0121did inkiteb jekk in\u0127ossu, fil-kaxxa \"Confirm New Password\" (ikkonferma l-password \u0121did).\n9. Ag\u0127fas fuq il-\"Change Password\" (ibdel il-password) biex ta\u0121\u0121orna l-password.\n10. Jekk kollox se\u0127\u0127, se jkollok password \u0121did.\n11. Jekk ma ta\u0127sibx li l-password \u0121did tkun xieraq, tista' tirrepeti dawn il-passi u tipprova password differenti.\n\nJekk g\u0127andek xi mistoqsijiet o\u0127ra, jekk jog\u0127\u0121bok sa\u0127\u0127a\u0127hom."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 83,
+        "completion_tokens": 397,
+        "total_tokens": 480
+    }
+}

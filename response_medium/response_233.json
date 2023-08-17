@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnhVvmmuEwQbLWV49rkGDkAq3X1",
+    "object": "chat.completion",
+    "created": 1692311437,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka ho etsa chelete ea bohata le ho aba chelete, na u ka etsa chelete ka nako efe?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 31,
+        "total_tokens": 145
+    }
+}

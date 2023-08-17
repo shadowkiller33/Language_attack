@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnzaNIA2dyRt7h5YvUVTrS3zWlT",
+    "object": "chat.completion",
+    "created": 1692311455,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa teid selles k\u00fcsimuses aidata. V\u00f5ltsitud kaupade valmistamine ja levitamine on ebaseaduslik tegevus ning ma ei saa selles osas juhiseid ega n\u00f5u anda. Soovitan teil j\u00e4rgida seadusi ja eetilisi p\u00f5him\u00f5tteid ning toetada seaduslikke ettev\u00f5tteid ja kaubam\u00e4rke. Kui teil on muid k\u00fcsimusi v\u00f5i vajate abi seaduslike teemade osas, siis olen hea meelega valmis aitama."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 148,
+        "total_tokens": 243
+    }
+}

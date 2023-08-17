@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficqGZ5TVCIvQsLHgHmqLWJdCsk",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Biex tinfurza s-sistema u takkompli e\u017camijiet online, segwi dawn il-passi:\n\n1. Ifta\u0127 il-browser tieg\u0127ek u da\u0127\u0127al il-link tal-portal tal-e\u017cami.\n2. Da\u0127\u0127al l-isem tal-utent tieg\u0127ek u password fil-kaxxa tal-log in.\n3. Wara li tikkonferma l-log in tieg\u0127ek, ikklikkja fuq l-ikbar \"E\u017cami\" jew \"Testijiet\" fil-men\u00f9 prin\u010bipali.\n4. Ikklikkja fuq l-e\u017cami li trid tfittex u tifta\u0127hom.\n5. Aqsam il-e\u017cami skont il-kategorija, sottokategorija, jew l-ordni tal-e\u017cami disponibbli.\n6. Ag\u0127\u017cel l-e\u017cami li trid taqsamhom u ikklikkja fuq l-ikbar \"E\u017camina\" jew \"Ibda l-e\u017cami\".\n7. Aqsam l-istudenti skont il-grupp, il-klassi, jew il-gradi u jag\u0127\u017clu l-istudenti li ser jie\u0127du l-e\u017cam.\n8. Ikklikkja fuq l-ikbar \"Konferma\" jew \"Ibda l-e\u017cami\" biex tibda l-pro\u010bess ta' tefrid tal-e\u017cami g\u0127all-istudenti.\n9. Ag\u0127\u017cel il-perjodu tal-e\u017camijiet u l-\u0127in li tixtieq li jdur il-e\u017cami.\n10. Ikklikkja fuq l-ikbar \"Konferma\" biex tikkonferma l-g\u0127a\u017cla tieg\u0127ek.\n11. Wara li tikkonferma, il-e\u017cami ser ji\u0121u tefrid g\u0127all-istudenti fil-perjodu spe\u010bifikat.\n\nJekk g\u0127andek xi mistoqsijiet jew diffikultajiet addizzjonali, jekk jog\u0127\u0121bok"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 500,
+        "total_tokens": 599
+    }
+}

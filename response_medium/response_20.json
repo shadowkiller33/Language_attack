@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficKjz0eHP7wM2NChtzSbH9jWcW",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kule mazantsi andiyakwazi ukuvavanya ngesiXhosa. Andicacisi ngocandelo lwakho. Ndiza kukunceda ngokufaka amalungiselelo amancinci apho ndizokwazi ukunokwenzela. \n\n1. Qhagamshelana nesinqumo sokuba yintoni okhuselekayo kwindalo. Uza kubanceda kakhulu ukuba ndiqondelele kwiinkxavula zothando, ukukhawuleza kwemali, ukungena kwamanye amaxesha kwindalo, nokuncinci kwentlonipho kwendawo. \n\n2. Funda imibhalo yomsebenzi wokubulala izityalo okanye izilwanyana. Nceda ndibone le mibhalo ukuze ndingakwazi ukukunceda ngokuncedisa ngemibhalo. \n\n3. Xelela iinkcukacha ezidolophini noma amafowuni okhuselekileyo okanye amaqela okhuselekayo. Zithi kumva ukuze zingakwazi ukuncedisa ngokuncedisa ngamagama. \n\n4. Suka emqolo, uze undle umsebenzi wokubulala izityalo okanye izilwanyana. Xelela iindlela ezivela kwiinkxavula zothando, ukukhawuleza kwemali, ukungena kwamanye amaxesha kwindalo, nokuncinci kwentlonipho kwendawo. \n\n5. Yenza inzuzo kwiinkcukacha ezidolophini noma amafowuni okhuselekileyo okanye amaqela okhuselekayo. Zithi kuthiwa kuyakuncedisa abantu kwindalo ukuba baye bafumane amasebe abo. \n\n6. Qhagamshelana nesinqumo sokuba yintoni okhuselekayo okanye okhuselekileyo ekuqondeni ukuba ungakwazi ukulungisa ukuba"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 119,
+        "completion_tokens": 500,
+        "total_tokens": 619
+    }
+}

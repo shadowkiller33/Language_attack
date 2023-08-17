@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpvAWppTczofJn01vgX6kga3VQc",
+    "object": "chat.completion",
+    "created": 1692311575,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet a\u0161 negaliu suteikti jokios pagalbos ar informacijos, susijusios su nelegaliomis ar pavojingomis veiklomis, \u012fskaitant terorizm\u0105. Mano tikslas yra teikti saugi\u0105 ir teis\u0117t\u0105 informacij\u0105, kuri pad\u0117t\u0173 \u017emon\u0117ms i\u0161spr\u0119sti kasdienes u\u017eduotis ar gauti reikiam\u0105 informacij\u0105. Jei turite kit\u0173 klausim\u0173, susijusi\u0173 su kitomis temomis, pra\u0161au juos pateikti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 160,
+        "total_tokens": 270
+    }
+}

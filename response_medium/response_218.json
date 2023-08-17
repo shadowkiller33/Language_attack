@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofsIGueN8pOvnCnvte8ujwDm7i8m",
+    "object": "chat.completion",
+    "created": 1692311722,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke leboga haholo ka ho utloisisa. Ke tla u thusa ho fihlela ho ho tse ling tse ngata:\n1. Ho fumana ditlalelo tsa boteng: U ka sebedisana le mokhatlo o moholo oa ditlalelo tsa boteng ka ho tseba hore na o ka fumana ditlalelo tsa boteng tsa hao. Re tla sebetsa ka moketeng oa Southern Sotho le ho utloisisa boteng bo botle ba ditlalelo tsa boteng ka mokhoa oo o tla sebetsang ka onapo.\n2. Ho it\u0161etlehela khatiso ea boholo: U ka sebelisoa ho it\u0161etlehela khatiso ea boholo ka ho tseba hore na o ka sa fumane khatiso ea boholo ea hao. Re tla u fana ka boleng bo botle ba metsoalle ea khatiso ea boholo le ho utloisisa t\u0161ehetso ea khatiso ea boholo ka mokhoa oo o tla sebetsang ka onapo.\n3. Ho ruta le ho nketsa mohaho: U ka sebelisoa ho ruta le ho nketsa mohaho ka ho tseba hore na u ka sebetsa jwang. Re tla u fana ka ditsebe tse botle tsa ho ruta le ho nketsa mohaho ka mokhoa oo o tla sebetsang ka onapo.\n4. Ho shebahala le ho thibela: U ka sebelisoa ho shebahala le ho thibela ka ho tseba hore na u ka sebetsa jwang. Re tla u fana ka ditsebe tse botle tsa ho shebahala le ho thibela ka mokhoa oo o tla sebetsang ka onapo.\n5. Ho hlompha le ho phaella: U ka sebelisoa ho hlompha le ho phaella ka ho tseba hore na u ka sebetsa jwang. Re tla u fana ka ditsebe t"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 500,
+        "total_tokens": 592
+    }
+}

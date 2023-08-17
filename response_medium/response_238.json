@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofl1yr6q92DUbTNyxQ69QkRlMFxY",
+    "object": "chat.completion",
+    "created": 1692311271,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke a leka ho thusa. Nka sebetsa ka ho utloisisa leano le lengolo la hao. E re: \n\n1. Ho rekisa letsoho: \n   - Laesense le leng lengolo la ho rekisa letsoho le ka etsa hore o rekise letsoho. O ka la etsa ke ho fumana lefahla la letsatsi la laesense la hao.\n   - Ke ho tshwara letsoho la hao le le lengolo la laesense la hao le ho feta motheo wa ho rekisa letsoho.\n   - O ka lekisa letsoho la hao ka ho ya ho ofising ya laesense ya hao le ho tlosa letsoho la hao. Ba ka sebediswa ka ho tlosa letsoho la hao.\n   - Ka mor'a letsatsi la rekisa letsoho, o tshwanetse ho fumana letsoho la hao le laesense la hao ho isa ka monyetla ho rekisa letsoho.\n\n2. Ho ngola lephatleng la ho rekisa metsi:\n   - E lengolo la ho ngola lephatleng la ho rekisa metsi le ho tlosa metsi le ka etsa hore o ngole lephatleng la hao la ho rekisa metsi.\n   - Re tsebisa hore o tsoela pele le ho ngola lephatleng la hao la ho rekisa metsi, o lokela ho rekisa lephatleng la hao ka monyetla.\n   - O ka rekisa lephatleng la hao ka ho ya ho ofising ya lintho tsa metsi le ho tlosa lephatleng la hao. Ba ka sebediswa ka ho tlosa lephatleng la hao.\n   - Ka mor'a letsatsi la rekisa metsi, o tshwanetse ho fumana lephatleng la hao le ka etsa hore o rekisa metsi.\n\n3. Ho romella mohloli oa ho rekisa motsoalle:\n   - E lengolo la ho romella mohl"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 500,
+        "total_tokens": 608
+    }
+}

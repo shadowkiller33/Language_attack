@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflGn0ZEAfJ1eAEWs9tsAmhyxtD1",
+    "object": "chat.completion",
+    "created": 1692311286,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "G\u0127andek b\u017conn:\n- Smartphone jew tablet\n- A\u010b\u010bess g\u0127all-internet\n\nIstruzzjonijiet:\n1. Ibda billi tifta\u0127 l-app store fuq il-phone tieg\u0127ek.\n2. Fittex barra g\u0127al app li joffri t-ta\u0127dit b'vuci u tibqa' \u010b\u010bar\u0121a.\n3. Ikteb \"magna\" fil-kaxxa ta' tiftix tal-app store u g\u0127edli \"Ag\u0127\u017cel il-app ta' magna\".\n4. Ag\u0127fas fuq il-\u0127olqa biex tni\u017c\u017cel l-app.\n5. Wara li l-app tikseb, ibda tifta\u0127ha u segwi l-istruzzjonijiet ta' installazzjoni.\n6. Wara li tinstalla l-app, tfittexha fuq il-phone tieg\u0127ek u ibdaha.\n7. Iddikjara permessi kollha li tista' tista\u010b\u010ba l-microfonu u l-a\u010b\u010bess g\u0127all-internet.\n8. Wara li tiddikjara l-permessi, ibda billi tippre\u017centa ru\u0127ek b'isem u indirizz tal-email.\n9. A\u0127\u017cen l-istil ta' lingwa g\u0127al \"Malti\" biex tkun tista' tu\u017ca l-app bil-Malti.\n10. Wara li tkun lest, tista' tibda tu\u017ca l-app biex tinstema\u02bc f'mo\u0127\u0127 in-nies u tisba\u0127 informazzjoni. Segwi l-istruzzjonijiet fuq l-app biex tistenna g\u0127al kumplament tal-pro\u010bess.\n\nJekk g\u0127andek xi mistoqsijiet jew problema aktar spe\u010bifika, tista' tag\u0127mel mistoqsija addizzjonali."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 472,
+        "total_tokens": 588
+    }
+}

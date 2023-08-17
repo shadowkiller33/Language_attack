@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxVoTRXLTMCaGMuFcniXTPcmmHG",
+    "object": "chat.completion",
+    "created": 1692312045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seveda, rad bom pomagal. Prosim, opi\u0161ite svoje vpra\u0161anje in bom poskusil podati navodila v skladu s tem."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 38,
+        "total_tokens": 143
+    }
+}

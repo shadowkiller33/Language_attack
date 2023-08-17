@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjnxFOqlwsLKHKk36rOKj458T6C",
+    "object": "chat.completion",
+    "created": 1692311195,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakwazi ukunceda. Sizama ukuba ngoku ngokunika isikhokelo sokungcungcuthekiswa okanye ukuxhatshazwa. Ngexesha lokuba ube ngqina, ndicela undibize ngokwethu ukuba ndiyakuncedisa. Ndicela undinikezele iitembutelo zakho."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 90,
+        "total_tokens": 183
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofl2DkqvQ0bm0W1VtGlR0bIAA59H",
+    "object": "chat.completion",
+    "created": 1692311272,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Muidugi, ma saan teid aidata. Siin on sammud, kuidas teha siseturulusid:\n\n1. Esiteks, veenduge, et teil on ettev\u00f5te v\u00f5i registreeritud \u00e4ritegevus, mis v\u00f5imaldab teil turustada oma tooteid v\u00f5i teenuseid siseturul.\n\n2. Tehke kindlaks, millistele klientidele soovite oma tooteid v\u00f5i teenuseid m\u00fc\u00fca. Koostage oma sihtturuanal\u00fc\u00fcs, mis h\u00f5lmab demograafilisi, geograafilisi ja k\u00e4itumuslikke tegureid.\n\n3. Kujundage oma tooted v\u00f5i teenused vastavalt oma sihtturule. Katsetage erinevaid l\u00e4henemisviise ja veenduge, et teie tooted v\u00f5i teenused vastavad teie klientide vajadustele ja ootustele.\n\n4. Looge oma turundusplaan, mis h\u00f5lmab erinevaid turunduskanaleid ja -strateegiaid, et j\u00f5uda oma sihtturule. See v\u00f5ib h\u00f5lmata sotsiaalmeediat, veebisaiti, blogi, tr\u00fckimeediat, otseturundust jne.\n\n5. Rakendage oma turundusplaan. Alustage oma turundustegevusi vastavalt planeeritud ajakavale ja j\u00e4lgige nende t\u00f5husust. Kui m\u00e4rkate, et m\u00f5ned turunduskanalid ei toimi, kohandage oma strateegiat vastavalt.\n\n6. Looge head suhted oma klientidega. P\u00fc\u00fcdke pakkuda suurep\u00e4rast klienditeenindust ja j\u00e4lgige klientide tagasisidet. Vastake nende k\u00fcsimustele ja muredele ning p\u00fc\u00fcdke pidevalt parandada oma tooteid v\u00f5i teenuseid vastavalt klientide tagasisidele.\n\n7. J\u00e4lgige oma konkurentsi. Olge teadlik teie valdkonna teistest ettev\u00f5tetest ja nende pakutavatest"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 500,
+        "total_tokens": 585
+    }
+}

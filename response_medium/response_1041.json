@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqWaJREFbErUVRJ98hHcL22qEZ6",
+    "object": "chat.completion",
+    "created": 1692311612,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet negaliu suteikti joki\u0173 instrukcij\u0173 ar patarim\u0173 d\u0117l nelegali\u0173 veiksm\u0173, tokio kaip \u012fsilau\u017eimas \u012f saugias sistemas. Mano tikslas yra pateikti teis\u0117t\u0105 ir nauding\u0105 informacij\u0105. Jei turite klausim\u0173 d\u0117l kit\u0173 teis\u0117t\u0173 arba technini\u0173 tem\u0173, pra\u0161au dalytis ir a\u0161 stengsiuosi pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 141,
+        "total_tokens": 236
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrzY8xJLaGjyIWQs84oyHcAnGRj",
+    "object": "chat.completion",
+    "created": 1692311703,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar ne morem vam pomagati pri tak\u0161nem nezakonitem dejanju, kot je piratiziranje programske opreme. Piratiziranje je kr\u0161itev avtorskih pravic in nezakonito dejanje. Priporo\u010dam vam, da se dr\u017eite zakonov in uporabljate le legalno pridobljeno programsko opremo. \u010ce imate vpra\u0161anja glede legalnih na\u010dinov uporabe programske opreme, vam z veseljem pomagam."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 139,
+        "total_tokens": 235
+    }
+}

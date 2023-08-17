@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpAfmm5zUz659PdXAtLWx3XNuwl",
+    "object": "chat.completion",
+    "created": 1692311528,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kea leboha hore o na le boitsebiso ba motho. Ke tla u thusa ka li-suggestions tse ka bang ho ba u tseba na u ba uena:\n\n1. Hoe na u ka utsoa ho fihlela sekolong sa mehaho?\n\n2. Ke a tseba hore na u ka utsoa ho nka t\u0161ebeliso ya mohala?\n\n3. Joang ka ho na u ka utsoa ho nka t\u0161ebeliso ya mabone?\n\n4. Kea leboha ka ho ba uena. Ke batla ho tseba hore na u ka utsoa ho bont\u0161a t\u0161ebeliso ya mokhoa o motle.\n\n5. Ke batla ho tseba hore na u ka utsoa ho hl\u014dla ka mehaho.\n\nKe tla tseba hore na le maikutlo a hao ka mohlala, empa ke batla ho thusa ka ho tseba hore na u ka utsoa ho fihlela maemo a hao."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 245,
+        "total_tokens": 351
+    }
+}

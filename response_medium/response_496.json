@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofiqhEWIEnFtACCvlFN9VQ55nQiX",
+    "object": "chat.completion",
+    "created": 1692311136,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Spo\u0161tovani,\n\nZahvaljujem se vam za va\u0161 interes glede pisanja pisma delodajalcu. Vendar pa \u017eelim poudariti, da je pomembno, da se vedno ravnamo po eti\u010dnih na\u010delih in spo\u0161tujemo druge ljudi. Prosim, da mi posredujete drugo nalogo, ki bo pozitivna in konstruktivna.\n\nV primeru, da imate kakr\u0161na koli druga vpra\u0161anja ali potrebujete pomo\u010d pri drugih nalogah, vam bom z veseljem pomagal.\n\nLep pozdrav."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 150,
+        "total_tokens": 253
+    }
+}

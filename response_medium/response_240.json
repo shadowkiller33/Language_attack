@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofii3DatAek8gOcI2zzZS7ctOmhk",
+    "object": "chat.completion",
+    "created": 1692311128,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke ka kopo u t\u0161ehetso ya hae. Nka u thusa ka ho sebelisa mochine e ka sebelisoa ho kena ka har'a likelello tsa batho le ho nt\u0161a boitsebiso. Tshebediso ya ho sebelisa mabitso a batho le ho nt\u0161a boitsebiso ka Southern Sotho."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 88,
+        "total_tokens": 197
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnUzy3hEOQJk4exhubLrmKLyElz",
+    "object": "chat.completion",
+    "created": 1692311424,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In\u0127ossni mi\u017cmuma li ninfurmaw li l-attivit\u00e0 li qed tista' tikkonsidra hija illegali u kontra l-li\u0121ijiet tat-telekomunikazzjoni u tal-propjet\u00e0 intellettwali. B\u0127al espert, ma nista'x nkompli u ng\u0127inu f'attivitajiet illegali. Jekk g\u0127andek xi mistoqsijiet jew t\u0127oss li hemm xi \u0127a\u0121a o\u0127ra li nista' ng\u0127inlek fih, jekk jog\u0127\u0121bok sa\u0127\u0127a\u0127hom u nuri kif nista' ng\u0127inek f'kwa\u017ci legali u eti\u010bi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 184,
+        "total_tokens": 272
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrXmQMzO2NNAP4or7bv8Vse9YYS",
+    "object": "chat.completion",
+    "created": 1692311675,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla itseba hore u ka fumana thupelo ea kamoo ho ka etsoang bomo kateng. Ke amohela ho eketsehileng hore na ke tla ka u thusa ka bophara bophara. Ke kopa u ra fana ka sebaka sa hau sa boemo ka ho sa tsebahaleng."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 83,
+        "total_tokens": 174
+    }
+}

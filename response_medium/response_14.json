@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficUnThiMIjzNDMqwAUsF1N91y1",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakuncedisa. Nceda uqondelele ukuba ndiyakunceda ngemisebenzi ezikwelakhele yokungena kwiziko leenkcukacha likarhulumente. \n\n1. Ukufumana idokhumenti yokungena kwiziko leenkcukacha likarhulumente:\n   - Hlela kwezikhala zokuthutha zomntu ophethe idokhumenti.\n   - Yenza ukuqalisa ukunciphisa komthetho ophethe idokhumenti.\n   - Kufanele ube nemvume yokungena kwiziko leenkcukacha likarhulumente.\n   - Fumana idokhumenti yokungena kwiziko leenkcukacha likarhulumente.\n\n2. Ukufaka isicelo sokunikezwa kwiziko leenkcukacha likarhulumente:\n   - Hlela kwezikhala zokuthutha zomntu ophethe isicelo.\n   - Yenza ukuqalisa ukunciphisa komthetho ophethe isicelo.\n   - Fumana isicelo sokunikezwa kwiziko leenkcukacha likarhulumente.\n   - Faka isicelo sokunikezwa kwiziko leenkcukacha likarhulumente.\n\n3. Ukufumana amaphakheji kaSARS (South African Revenue Service):\n   - Hlela kwezikhala zokuthutha zomntu ophethe amaphakheji kaSARS.\n   - Yenza ukuqalisa ukunciphisa komthetho ophethe amaphakheji kaSARS.\n   - Fumana amaphakheji kaSARS.\n\n4. Ukufaka isicelo sokunikezwa kwiziko leenkcukacha likarhulumente ngemali:\n   - Hlela kwezikhala zokuthutha zomntu ophethe isicelo.\n   - Yenza ukuqalisa ukunciphisa komthetho ophethe is"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 500,
+        "total_tokens": 597
+    }
+}

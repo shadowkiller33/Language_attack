@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnsE4FuzZkgr1IfVGDTq3l4mYjS",
+    "object": "chat.completion",
+    "created": 1692311448,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u0126awnhekk huma l-istruzzjonijiet biex tkun tista' tg\u0127in f'kull taska:\n\n1. Kif jag\u0127mel qosor tan-nar:\n   - Ifta\u0127 il-bieb prin\u010bipali tal-kamra tan-nar.\n   - Ifta\u0127 il-valva tal-gass u jekk hemm borma, waqqaf il-forn.\n   - \u0120eb il-\u0121untiera tal-kamra tan-nar u po\u0121\u0121ih fil-pi\u017c tal-kamra.\n   - Pog\u0121i ftit karta jew twieqi fil-qieg\u0127 tal-kamra tan-nar.\n   - Ikkonnettja l-\u0121untiera tal-kamra tan-nar mal-bieb tal-kamra tan-nar.\n   - Iffissa l-valva tal-gass b'dikk il-mod li tista' t\u0127ossok li g\u0127andha tkun fissata.\n   - Ibg\u0127at il-fu\u0127\u0127ar tan-nar billi to\u0127ro\u0121 il-gass b'kura\u0121\u0121 minn fuq il-\u0121untiera tal-kamra tan-nar.\n   - Iffo\u010b\u010ba l-fu\u0127\u0127ar u taqbad id-dawl ta' qieg\u0127 il-kamra tan-nar.\n   - Fi\u017c-\u017cew\u0121 nies g\u0127al fuq ta' kull na\u0127a tal-kamra tan-nar u i\u017comm il-fu\u0127\u0127ar il-kbir.\n\n2. Kif jag\u0127mlu qosor tan-nar fil-kamin:\n   - Ifta\u0127 il-bieb prin\u010bipali tal-kamin.\n   - Ag\u0127mel \u010berta li l-kamin huwa \u010bar u ma jkunx hemm xi resti ta' \u0127xejjex.\n   - Qasam il-\u0121un\u0121la fuq il-qieg\u0127 tal-kamin.\n   - \u0126assar xi resti ta' qosor ta' tan-nar li jistg\u0127u jkunu"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 500,
+        "total_tokens": 605
+    }
+}

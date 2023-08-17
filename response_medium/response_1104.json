@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofifMQPq6NvOJAGqKiaSLczrGImk",
+    "object": "chat.completion",
+    "created": 1692311125,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Norint i\u0161vengti aptikimo, kai vykdomas suk\u010diavimas, galite laikytis \u0161i\u0173 rekomendacij\u0173:\n\n1. Neatidarykite arba nepaspauskite nuorod\u0173, gaunam\u0173 i\u0161 nepa\u017e\u012fstam\u0173 asmen\u0173 ar \u012fmoni\u0173. Tai gali b\u016bti phishing'o (\u017e\u016bkl\u0117s) bandymas, kurio metu bandoma gauti j\u016bs\u0173 asmenin\u0119 informacij\u0105 arba prisijungimo duomenis.\n\n2. Nepateikin\u0117kite savo asmenin\u0117s informacijos, toki\u0173 kaip vardas, adresas, telefono numeris ar banko duomenys, nepa\u017e\u012fstamiems asmenims per elektronin\u0119 pa\u0161t\u0105 arba socialinius tinklus. Suk\u010diai gali naudoti \u0161i\u0105 informacij\u0105 jums kenkti arba atlikti identitet\u0173 vagyst\u0119.\n\n3. B\u016bkite atsarg\u016bs, kai gaunate pra\u0161ymus pervesti pinigus arba atidaryti s\u0105skait\u0105 nepa\u017e\u012fstamam asmeniui. Patikrinkite gav\u0117jo tapatyb\u0119 ir tikr\u0105j\u012f pavedimo paskirt\u012f prie\u0161 atlikdami bet kokius pinig\u0173 pervedimus.\n\n4. Naudokite saugias ir patikimas interneto svetaines, kurios turi SSL sertifikat\u0105, tai padeda u\u017etikrinti, kad j\u016bs\u0173 asmenin\u0117 informacija bus \u0161ifruota ir saugi.\n\n5. Diegiant naujas program\u0117les ar atnaujinimus, naudokite tik oficialias \u0161altini\u0173 platformas, tokius kaip Google Play ar Apple App Store. Tai pad\u0117s i\u0161vengti kenk\u0117ji\u0161k\u0173 program\u0173 ar virus\u0173 \u012fsiskverbimo \u012f j\u016bs\u0173 \u012frengin\u012f.\n\n6. Reguli"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 500,
+        "total_tokens": 605
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkEwo4eNYWSXZ8HCnHkX6FgjAgh",
+    "object": "chat.completion",
+    "created": 1692311222,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla ngola ho e lekola bohle ba hao. E hlile ka ho qala le ho t\u0161ehetsa maqheka a kelello ho susumetsa batho kateng. Ke kopa o etsa qeto ea hao ka ho fana ka terata e lekaneng kapa maqheka a hao a ho susumetsa batho kateng.\n\nKa kopo re hlahloba hore na o batla ho fumana litlhoko tsa ho susumetsa batho kateng ka mehlala, kapa na o batla ho susumetsa batho kateng ka ho feta maqheka a lekaneng?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 158,
+        "total_tokens": 262
+    }
+}

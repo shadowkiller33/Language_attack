@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmDAYDLOprsknQJ9d5xgl2RYZOl",
+    "object": "chat.completion",
+    "created": 1692311345,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! I'll do my best to provide instructions in Maltese to help you accomplish your tasks. Please go ahead and describe the first task you need assistance with."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 34,
+        "total_tokens": 147
+    }
+}

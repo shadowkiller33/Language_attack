@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmwcpMspRbPmERbWZN6QhUj4Gd5",
+    "object": "chat.completion",
+    "created": 1692311390,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enza iinshorenzi kukufuneka wenza lo msebenzi:\n\n1. Qhagamshelana nezinto ozenzileyo: Qhuba ngezinto ozenzileyo kwiinshorensi ukuze ube nokwazi ukuthi yini okwenzeka ngaphandle kwakho. Yenza inqaku isebenze kwiinshorensi ukuze ube nokwazi ukuqonda ngokukhawuleza.\n\n2. Bheka izinkomba: Faka izinkomba zokuhambisa ezintsha kwiinshorensi ukuze uqonde ngokuphelele. Bheka ukuthi yinkomba yini eyenza ukuthi iinshorensi isebenze kahle futhi uyiqonde kanjani.\n\n3. Caphunyelela imifanekiso: Yenza imifanekiso yekompyuter ngokuhambisana nokwenzela iinshorensi. Qhagamshela ngokucophelela ukuze uqonde ukuthi yini okwenziwe eziyingqayizivele.\n\n4. Vula isikhokelo: Xhumana nebhayisikili yeinshorensi ukuze uqonde ukuthi yini okwenziwe ekusebenzeni komsebenzi. Bheka ukuthi yini okwenzekile ukuze uqonde ngokuphelele.\n\n5. Zama okanye hlolela: Ukuba kunjalo ukuba iinshorensi isebenze kahle, zama ukwenza izinto ezifanelekayo okanye hlolela. Qhagamshela ukuhlola nokuhlola ukuze ube nokwazi ukuthi yini okwenzekile.\n\nNgokwakho, ngifuna ukwazi ukuthi ukubanjelwa yini?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 446,
+        "total_tokens": 547
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqV8J3Yj4c3MNYP3NOP0HtKYsBi",
+    "object": "chat.completion",
+    "created": 1692311611,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sicela uqaphele ukuba ngifumanisile ngakho ngawe ngokwenza umdlalo wevidiyo okhuthaza abadlali ukuba benze ulwaphulo-mthetho ebomini bokwenyani. Angifuna ukukunika imibuzo yakho ngolwimi lwesiXhosa, futhi ngifuna ukukunikeza izilungiso ngolwimi lwesiXhosa ngezinye izinto. \n\nHlela i-\"Settings\" kumdlalo wevidiyo. \n\nHlela i-\"Gameplay\" noma \"Options\" kumenu yezilungiso. \n\nHlela i-\"Rules\" noma \"Instructions\" ukuze uqaphele ukwakha ulwaphulo-mthetho lwakho. \n\nHlela i-\"Create New Rule\" noma \"Add Rule\" ukuze uqaphele ukwakha ulwaphulo-mthetho lwakho. \n\nHlela i-\"Conditions\" ukuze uqaphele ukubeka izidingo ezithile ezithile zokwenyani. \n\nHlela i-\"Actions\" ukuze uqaphele ukubeka izenzo okuthandwa ngawo uma ulwaphulo-mthetho lwakho lusebenza. \n\nHlela i-\"Winning Conditions\" ukuze uqaphele ukubeka izidingo zokubamba iqhaza. \n\nHlela i-\"Save\" noma \"Apply\" ukuze uqaphele ukugcinwa kwamaphuzu angama-vidiyo. \n\nQaphela ukuthi ubesenza yonke lezi zinto ngendlela efanelekile ezweni lakho, ngoba izilungiso zinaweza kakhulu phansi kwezilimi ezilapho. \n\nNgifanele ukusiza ngokwakho uma unesibindi sokwazi ukwenza lezi zinto ngolwimi lwesiXhosa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 474,
+        "total_tokens": 583
+    }
+}

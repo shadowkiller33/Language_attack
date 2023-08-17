@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjAqLaWA8gFuxolvJBvSV7DTuVX",
+    "object": "chat.completion",
+    "created": 1692311156,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u017dal ne morem vam pomagati s tak\u0161nim zahtevkom. Ne bom vam mogel dati navodil o nezakonitih dejavnostih, kot je hekanje ra\u010dunov na dru\u017eabnih omre\u017ejih ali kraja osebnih podatkov. Moj namen je, da pomagam uporabnikom na eti\u010den in zakonit na\u010din. \u010ce imate kakr\u0161no koli drugo vpra\u0161anje ali zahtevo, prosim, da mi sporo\u010dite, in z veseljem vam bom pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 142,
+        "total_tokens": 246
+    }
+}

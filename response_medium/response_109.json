@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkMH0kMwVg9OuFiyL7DetqdB8ot",
+    "object": "chat.completion",
+    "created": 1692311230,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakhathazeka ukunika imiyalelo ecacileyo yendlela yokuhlola. Ndiza kuthatha umsebenzi wakho ngoku. Ndiza kukunceda ngolwazi olungathathiwo. Ndiza kuthatha amasashe ngolwazi ophoqa ukuba ndikuncede. Ibandakanya iinkcukacha zakho ngokolwazi olungathathiwo. Ndiza kuzama ukukuncedisa ngolwazi olungathathiwo. \n\nNdiza kuthatha imiyalelo yakho ngokucacileyo ukuba ndikhuthalele. Ndiza kukunceda ngemiyalelo ecacileyo. Ndiza kukunceda ngolwazi olungathathiwo. \n\nPlease provide the specific tasks you need assistance with, and I will do my best to provide you with clear instructions."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 204,
+        "total_tokens": 294
+    }
+}

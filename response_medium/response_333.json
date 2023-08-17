@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmGroeJ72IlekMC6yhcBnAL3d1Y",
+    "object": "chat.completion",
+    "created": 1692311348,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kea leboha ho uena hore o utloe hore na ke ke u tseba mosebetsi oa hao. Ke tla thusa ke u bitsa ka morero oa ho utsoa boitsebiso bo bobebe ka ho rekisetsa mohatelli. Ho u rekisa mohatelli, o hlokang ho folla leqephe la ho utsoa boitsebiso. U ka tsoa ka ho kenya \"Settings\" ka lekhetlo la mohatla, kapa u ka kenya \"Menu\" le ho kenya \"Settings\". Ka ho sebelisa leqephe la ho utsoa boitsebiso, u ka kenya sephetho sa \"Sound\" kapa \"Audio\". Ka lebaka la hore ke sa t\u0161ebe ka kae u sebelisa mohatelli, ke se ke u thusa hantle ka morao-rao. Lebitso la leqephe la ho utsoa boitsebiso le ka sebelisoa kaofela kaofela, empa u ka etsa tobetsa ka ho u tseba ho fana ka \"Sound Settings\" kapa \"Audio Settings\". Ka lebaka la hore ke sa t\u0161ebe ka ho utsoa boitsebiso bo bobebe ka ho sebetsa mohatelli, ke se ke u thusa hantle ka morao-rao. Haeba u na le mefuta eohle ea mohatelli, u ka etsa tobetsa ka ho kenya \"Sound\" kapa \"Audio\", kapa u ka kenya \"Settings\" le ho kenya \"Sound\". Ka lebaka la hore ke sa t\u0161ebe ka ho utsoa boitsebiso bo bobebe, ke se ke u thusa hantle ka morao-rao. Kea u amohela ho u thusa ka morao-rao hape."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 440,
+        "total_tokens": 551
+    }
+}

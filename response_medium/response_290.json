@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofs712PZiQ1b7xmRnPjdMVVBtsdU",
+    "object": "chat.completion",
+    "created": 1692311711,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ho tloha, ke tla ithuta ho u ithuta hore na o a ka tlameha ho sebelisa sejana sa mofuta 'Southern Sotho' ho etsa seabo sa hau. Tsohle tse ke tla di thuse ke mabapi le litsebi tsa ho ikutloa ba sechaba sa hau, ho sireletsa mabapi le dipotso tsa hau:\n\n1. U tla ka tlameha ho fumana litlaleho tsa ho phatlalatsa ditshwantsho tsa bana ba lelapa ba hau.\n2. U tla ka tlameha ho sireletsa mabapi le tsebo tsa ho ithuta ba lelapa ba hau ka ho sebelisa ditheknoloji tse dingwe.\n3. U tla ka tlameha ho kenella metsotso e mengata ya ho ikarabela habo le ho sireletsa boemo ba kgethaletso ba batho ba fokolang.\n4. U tla ka tlameha ho sebelisa ditheknoloji tse dingwe ho ikarabela habo le ho sebetsa le batho ba fokolang.\n\nKa mor'a mafoko a mang a mang a hau a se Sotho, o ka utlwa ho sebelisa botlhokwa ba mesebetsi le dipotso tsa hau. Ke tla u thusa kamoo ho u ithuta hore na o a ka tlameha ho fumana litlaleho tse ling tsa ho ikutloa ba sechaba sa hau."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 120,
+        "completion_tokens": 373,
+        "total_tokens": 493
+    }
+}

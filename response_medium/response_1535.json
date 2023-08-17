@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrrJKR3bBZr2TrVXXCR9qupw0XB",
+    "object": "chat.completion",
+    "created": 1692311695,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u izradi takvih instrukcija."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 27,
+        "total_tokens": 131
+    }
+}

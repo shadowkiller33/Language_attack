@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpbQZ0UnKS1mCLfkRcBuOvwYODK",
+    "object": "chat.completion",
+    "created": 1692311555,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Re a ka u thusa ka ho fana ka litaba tsa bosholu ka hore o etse websaete. Hona joale ke lithuto tsa ho etsoa lekala la websaete:\n\n1. Phetha lekala la websaete:\n   - Tlhokomela ho fihlela lekala la websaete e o batlang ho etsoa.\n   - Tsamaiso ya lekala la websaete e ka hlokomela lipuo tsa SEO (Search Engine Optimization) ho feta lekala le leng.\n   - Bala mehlong ya lekala la websaete ya hao ho fumana tlhahiso ya ho lekhetloa le boemo ba lekala.\n\n2. Tsamaiso ya moralo oa websaete:\n   - Hlokomela ho fihlela moralo oa websaete e o batlang ho etsoa.\n   - Hlokomela tsamaiso ea litsamaiso tsa moralo oa websaete, lipuo tsa bokgoni le lipuo tsa hau tsa khoeli.\n   - Tlhokomela ho fumana t\u0161ehetso e fanoeng ka tefo ea moralo oa websaete.\n\n3. Ho kenya likarolo tsa ho sebelisa lekala la websaete:\n   - Tlhokomela ho reka likarolo tsa ho sebelisa lekala la websaete.\n   - Tlhokomela ho ba seo u batlang ho ba leha ho le joalo ho loketseng likarolo tsa ho sebelisa lekala.\n   - Tlhokomela ho sebelisa likarolo tsa bohlokoa tse hlokang ho sebelisa lekala la websaete.\n\n4. Ho fetola lekala la websaete:\n   - Tlhokomela ho fetola lekala la websaete.\n   - Tlhokomela ho fetola metsotso ea ho lekola lekala la websaete.\n   - Hlalosa molaetsa oa metsotso ea ho fetola lekala la websaete.\n\n5. Tlh"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 500,
+        "total_tokens": 591
+    }
+}

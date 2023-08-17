@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpstKe9s66DWcjhJ4YC9ZQ4xUu4",
+    "object": "chat.completion",
+    "created": 1692311572,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I can provide instructions on how to protect your credit card information and prevent it from being used for fraudulent purposes. Please note that I can only provide instructions in English. Here are some general guidelines to follow:\n\n1. T\u0127ares lejn il-website fejn inti qed tu\u017ca l-karta tal- kreditu tieg\u0127ek. Kun \u017cgur li huwa sit affidabbli u sikur. Tista' tara li l-url tal-website jibda bil-\"https://\" li jindika li huwa protett mill-protokoll SSL.\n\n2. Ma tipprovda l-informazzjoni personali u tal-karta tal- kreditu tieg\u0127ek fuq siti li ma jkunu l-ebda b\u017conn ta' informazzjoni ta' dan it-tip. Jekk tista' tu\u017ca PayPal jew servizzi simili, ikkunsidra li ju\u017cawhom g\u0127all-komunikazzjoni tal-pagamenti.\n\n3. Tista' tu\u017ca l-karta tal- kreditu fuq negozji onlajn li g\u0127andhom reputazzjoni tajba u li huma fidu\u010bjarji. Ikkuntattja t-titulari tal- negozju jew tikkuntattja l-istejjer li \u0121ew elenkati fuq il-website biex tistieden aktar informazzjoni dwar il-metodi ta' sigurt\u00e0 li ju\u017caw.\n\n4. Tispi\u010b\u010ba lill-klijenti tag\u0127mel r-ri\u010berka tag\u0127hom dwar il-kompanija jew il-negozju li qed joffri servizzi tag\u0127hom. Tista' tu\u017ca siti ta' revi\u017cjonijiet jew forums tal-konsumaturi biex tara esperjenzi ta' o\u0127rajn ma' din il-kompanija.\n\n5. Segwi l-a\u0127jar pratti\u010bi ta' sigurt\u00e0 fuq il-kompjuter tieg\u0127ek. Assigura li tkun qed tu\u017ca antivirus a\u0121\u0121ornat u firewall fuq il-kompjuter tieg\u0127ek."
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 500,
+        "total_tokens": 617
+    }
+}

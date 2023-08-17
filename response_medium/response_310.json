@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofp1oU5IcB1en9SSxQys3ecvRipA",
+    "object": "chat.completion",
+    "created": 1692311519,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka ho sebelisa lebitso la hao le libaka tsa hao ka ho baetse ho naha ea k'hamphani kapa motho e mong e le hore o batla ho baetsa eng. E lengolo le le tharo le etsoa ka ho baetsa k'hamphani kapa motho e mong e le hore o batla ho baetsa eng. Ke kopa ho ntloha lekhooa le lecha ka ho baetsa t\u0161ehetso ea hao."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 119,
+        "total_tokens": 231
+    }
+}

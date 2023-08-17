@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjorujxzyXiTdsj26hnSZqevnxu",
+    "object": "chat.completion",
+    "created": 1692311196,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokundikhulisa. Ndiya kwenza konke ndizakunceda. Ndizakunika imiyalelo ecacileyo ngendlela yokungena kwinethiwekhi ekhuselekileyo. Ndiphendula amaswali akho nge Xhosa.\n\n1. Ukungena kwinethiwekhi:\n   - Hambisa isixhobo sakho kwisixeko sekhuselekileyo, njengesixeko se-Internet Explorer, Google Chrome, noma Mozilla Firefox.\n   - Faka indaba yokungena kwinethiwekhi kwisibali somthombo wakho wesixeko. Ungabuyela emuva ukuba unesibali esithile kunye nezithombe zokunye.\n   - Kumaqondana nentshisekelo yokungena kwinethiwekhi, faka iindawo zebhola yokusebenzisa eli kusebenza ngako ngokufanelekileyo.\n   - Nceda uqaphele ukuba ususise iindawo zebhola yokusebenzisa kangangoko ukuze ubeke imibuzo efanelekileyo.\n\n2. Ukufaka isicelo esifanelekile:\n   - Hambisa isixhobo sakho kwisixeko sekhuselekileyo njengesixeko se-Internet Explorer, Google Chrome, noma Mozilla Firefox.\n   - Hlola indawo yokufaka isicelo esifanelekile, kukhona indawo yokufaka isicelo ngaphandle kwemiqondiso yebhola lokusebenzisa.\n   - Faka iindawo zebhola yokusebenzisa kwaye uqaphele ukuba ufanelekele indlela yokufaka isicelo.\n   - Faka isicelo sakho kwaye ceda ukuba ususise iindawo zebhola yokusebenzisa kangangoko ukuze ukuqinisekise ukuba isicelo sakho sifanelene.\n\n3. Ukufakela amaxwebhu k"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 500,
+        "total_tokens": 602
+    }
+}

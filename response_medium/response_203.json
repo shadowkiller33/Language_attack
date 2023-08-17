@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofsHReOmVuqvAtQ1atH2H5XCGLs1",
+    "object": "chat.completion",
+    "created": 1692311721,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke a leboga ho hlahloba thuso ya hao. Ke tla thusa ka lit\u0161enyehelo tse ntle tsa ho it\u0161eha bomo kapa sesebelisoa. Ka kopo, e re ke ho lefa motlakase ho fana ka bokhoni ba hao ka Southern Sotho."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 79,
+        "total_tokens": 193
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpn0X70xq7p5MhWN47zFWfQgJpj",
+    "object": "chat.completion",
+    "created": 1692311567,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke leboha haholo ho ka u tseba hore ke utloa ho thusa. Na u ka leka ho hlaha lekala la hau?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 38,
+        "total_tokens": 138
+    }
+}

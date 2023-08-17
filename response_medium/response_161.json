@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxYMttLzceQKUCOF4wuGmhnF92l",
+    "object": "chat.completion",
+    "created": 1692312048,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Molo! Ndiyakunceda ngokuthatha le ngezinto eziphambili kwiziko lemali. Ndithathe into enkulu ukuba uqondelela kwi-instrakhulu yamaqela amane aphambili kwiziko lemali. Ndiphinde ndifake umsebenzi wokuguqulwa kwezinto eziphambili kwiziko lemali. \n\n1. Uqonde ukuba unesicelo esikhulu sokuthenga izinto eziphambili. Uthanda ukunika abantu izinto ezilungileyo nokuzisebenzisela izindlela ezincono zokwenza imali. \n\n2. Qhagamshelana nezinto eziphambili ezikhoyo kweziko lemali. Qhubeka ukuyazi kwi-intanethi nokuzisebenzisa izigaba ezahlukahlukene ezihamba phambili. \n\n3. Qhagamshelana ngezinto eziqondene nazo. Zisebenzise yonke into oyilungileyo yokuba ulungiselele ukuthenga, ufunde ngezinto ezifana nothando lwabantu, ukwenza imali, nokulunga kwemali. \n\n4. Fumana izinhlelo ezilandelayo zokuthengisa izinto eziphambili: \n   - Linganisa izinto ezithile ukuthi uzenzele ngazo, ukuthi ufumane isicelo sokuthenga. \n   - Qhubeka ukuyazi ngokugcwele kwezinto eziphambili. \n   - Lonke ixesha, qhubeka ukuyazi ngokungqesho kwezinto eziphambili. \n\n5. Qhubeka ukugcina ngemisebenzi yakho. Xa ufumana isicelo sokuthenga, qaphela ukuba ulungiselele ngokusenza isicelo esihle. \n\nNdiyakunceda ngokuthenga izinto eziphambili kwiziko lemali. Ndifumanisene ngezinto eziyibizayo"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 500,
+        "total_tokens": 593
+    }
+}

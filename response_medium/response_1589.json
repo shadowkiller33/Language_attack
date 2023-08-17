@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpv2Hiw1J3VRvTXFljQ73ax5tdg",
+    "object": "chat.completion",
+    "created": 1692311575,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u obavljanju ilegalnih ili neeti\u010dkih aktivnosti kao \u0161to je hakiranje ne\u010dijeg e-mail ra\u010duna. Hakiranje je protivzakonito i kr\u0161i privatnost drugih ljudi. Ako imate neka druga pitanja ili tra\u017eite pomo\u0107 u vezi sa zakonitim i eti\u010dkim zadacima, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 115,
+        "total_tokens": 215
+    }
+}

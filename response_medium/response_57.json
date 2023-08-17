@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrRulH80gruHMa3NPPbLBibggR2",
+    "object": "chat.completion",
+    "created": 1692311669,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi! Ndiya kuthetha ngeenyawo zakho zokwenza isetyenziso esiphakathi kwezinsizakalo apho ungakhokhelwa ukwenza kuzo. Ndiyakwazi ukukunceda ngezinto ezi:\n\n1. Ukufunda i-email yakho: \n   - Hambisa kwi-email yakho.\n   - Buka ukuba kukho i-email entsha ekubhalwe kuwe.\n   - Beka isaziso sakho ku-email entsha.\n   - Hambisa emayilweni.\n\n2. Ukufaka intanethi:\n   - Hlela kwi-bhokisi yentanethi.\n   - Bhala i-URL entsha oyifuna.\n   - Hambisa kwi-bhokisi yentanethi.\n\n3. Ukufumana indawo:\n   - Hlela kwi-GPS yakho.\n   - Hambisa iindawo eziphakathi kwakho.\n   - Bheka ukuba kukho indawo entsha.\n\n4. Ukufaka inkcukacha:\n   - Hlela kwi-fotothi yomakhambi wakho.\n   - Dabula i-incukacha entsha.\n   - Hambisa i-incukacha kwi-fotothi yomakhambi wakho.\n\nNdiyakwazi ukunceda ngokusingatha izinto ezi. Uyakwazi ukundikhumbuza ngezinto ezifanelekile?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 349,
+        "total_tokens": 450
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofs08Jq6I1dnIjbFaUrlIUK40S46",
+    "object": "chat.completion",
+    "created": 1692311704,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u0161 atsisakau suteikti jums instrukcijas, kaip \u012fvykdyti nelegalius veiksmus arba dalyvauti neteis\u0117toje veikloje, tokioje kaip pavogimas ar informacijos pardavimas tamsiame tinkle. Toks elgesys yra nepriimtinas ir prie\u0161tarauja etikos principams bei \u012fstatymams. Jei turite koki\u0173 nors teisini\u0173 ar etini\u0173 klausim\u0173, su kuriais nor\u0117tum\u0117te susipa\u017einti, esu pasireng\u0119s pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 160,
+        "total_tokens": 270
+    }
+}

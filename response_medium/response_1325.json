@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkZJV1fM3raYwPvOvNfLUucjlcV",
+    "object": "chat.completion",
+    "created": 1692311243,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Muidugi, andke mulle teada, millist t\u00fc\u00fcpi lukku soovite avada, n\u00e4iteks ukselukk v\u00f5i lukuga kapp. Samuti \u00f6elge mulle, millist t\u00fc\u00fcpi lukk see on, n\u00e4iteks v\u00f5tmega lukk v\u00f5i kombinatsioonlukk. Seej\u00e4rel saan anda teile t\u00e4psemaid juhiseid."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 96,
+        "total_tokens": 186
+    }
+}

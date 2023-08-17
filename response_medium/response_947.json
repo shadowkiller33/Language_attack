@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPxiltLbeezSWEFatOm39avuZH",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Grazzi g\u0127all-kont tieg\u0127ek. Jien nista' ng\u0127inuk biex twettaq dawn it-ta\u0127ri\u0121iet. Er\u0121a' ssibu l-informazzjoni kollha dwar il-programmar tal-app u l-funzjonijiet spe\u010bifi\u010bi li trid ti\u017cviluppa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 87,
+        "total_tokens": 204
+    }
+}

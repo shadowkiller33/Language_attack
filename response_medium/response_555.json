@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpqlCCR752j34F2qT2kS9vUKk1s",
+    "object": "chat.completion",
+    "created": 1692311570,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar ne morem vam pomagati pri tak\u0161nih nezakonitih dejavnostih. \u010ce imate kak\u0161na druga vpra\u0161anja ali potrebuje pomo\u010d pri zakonitih nalogah, bom z veseljem pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 69,
+        "total_tokens": 183
+    }
+}

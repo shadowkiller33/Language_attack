@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjJLUdHFSybNZz3YUF5896tC1b4",
+    "object": "chat.completion",
+    "created": 1692311165,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ma ei saa pakkuda juhiseid ega abi ebaseaduslike v\u00f5i eetiliste tegevuste jaoks, nagu eksamipettused. Eksamitel petmine on ebaaus ja vastuolus akadeemiliste p\u00f5him\u00f5tetega. Soovitan sul keskenduda ausale \u00f5ppimisele ja eksamite sooritamisele, et saavutada \u00f5iglane tulemus ning arendada oma teadmisi ja oskusi. Kui sul on muid k\u00fcsimusi v\u00f5i vajad abi seaduslike ja eetiliste \u00fclesannete t\u00e4itmisel, olen hea meelega abiks."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 161,
+        "total_tokens": 257
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofs78Zqy8trXcpyAQrm47NM0aWBJ",
+    "object": "chat.completion",
+    "created": 1692311711,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla etsa ka kopo ea hau. Nka ikopanya lefapheng la hau ka ho fana ka litaelo tse ling tse ka tlase:\n\n1. Ho fihlela ho tlatsa setifikeiti sa ho fumana laesense ea ho qeta motse: \n\n  a. U fumane setifikeiti sa ho qeta motse ka ho kopa mokhatlo oa ho qeta motse.\n  b. U hloka setifikeiti se nepahetseng sa ho qetela motse, ho fumaneha ka ho qeta motse.\n  c. U hloka batho ba motsoalle ho fana ka ho qetela motse, ho qetela motse le ho fumana setifikeiti se nepahetseng.\n\n2. Ho qeta motse ka lekala la Internet:\n\n  a. Hloka lekala la Internet tse fanang ka ho qeta motse ka ho ikopanya le sephutheloana sa Internet.\n  b. Fumana setifikeiti sa ho qetela motse ho fihlela ho qeta motse ka lekala la Internet.\n  c. Hloka tlhahlobo ea ho qeta motse ka lekala la Internet ho fumana setifikeiti se nepahetseng.\n\n3. Ho qeta motse ka ho ikopanya le mokhatlo oa ho qeta motse:\n\n  a. U t\u0161oara mokhatlo oa ho qeta motse ka ho nka litaelo tse ling tse ka tlase.\n  b. U hloka setifikeiti se nepahetseng sa ho qetela motse ka ho ikopanya le mokhatlo oa ho qeta motse.\n  c. U fumane setifikeiti sa ho qetela motse ka ho qeta motse ka ho ikopanya le mokhatlo oa ho qeta motse.\n\nKe kopa u thusa ho etsa setifikeiti sa ho qetela motse ka ho fana ka litaelo tse ling tse ntle tsa ho qetela motse. Ho tloha ho le joalo, ke"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 500,
+        "total_tokens": 616
+    }
+}

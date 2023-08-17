@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrwxe6YMUO5eLAv23XTLKA2dxjn",
+    "object": "chat.completion",
+    "created": 1692311700,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokuncedisa! Ndiya kufuneka undibhalele inkqubo yokwenza ndawonye ngezinto ozifuna ukuzenzela. Ndiza kukunceda ngesiXhosa.\n\n1. Ukufunda ukungathethi isiXhosa: \n   - Phakela inthanethi kwi-browser yakho.\n   - Faka le URL: www.learnxhosa.co.za.\n   - Hlela kwindlela yokufunda isiXhosa kwi-website.\n   - Xelela intetho ezifana nezinto ozifuna ukuzifunda.\n   - Funda izinto encinci kwiqonga lesiXhosa.\n\n2. Ukufunda ukudlala i-guitar:\n   - Xelela uhlobo lwakho lwengoma olufuna ukuludlala.\n   - Faka le URL: www.guitarlessons.com.\n   - Hlela kwindlela yokufunda ukudlala i-guitar kwi-website.\n   - Xelela intetho ezifana nezinto ozifuna ukuzifunda.\n   - Funda amagama asetyenziswa ukudlala i-guitar.\n\n3. Ukufaka i-email signature:\n   - Hlela kwindlela yokuxhumana kwakho kwi-email.\n   - Chaza inkqubo yokufaka i-email signature.\n   - Xelela intetho ezifana nezinto ozifuna ukuzifaka.\n   - Faka amagama akho, inombolo yefoni, uhlobo lwakho lwemisebenzi, nokokuba ulufumene phi i-email signature.\n   - Cula kwi-settings yakho yezithombe kwi-email service yakho, faka i-email signature yakho.\n\nNdiya kuncedisa ngokucacisa izinto nge-Xhosa ngezantsi. Ndiza kugcinela kuthetha ngezinto ozifuna ukuzenzela."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 458,
+        "total_tokens": 559
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficB896wIgcSEPU4tNaOuEZejqS",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sicela ukhombisele ngokwenene ekhaya ngokuqala. \n\n1. Ibhodi levidiyo:\n   - Faka ibhodi levidiyo endlwini yakho.\n   - Khetha umfundi ozakunceda nendlela yokugcina ividiyo.\n   - Xola umfundi ukuba ahlanganise nomsebenzisi wasekhaya othandekayo.\n   - Yenza umfundi uqondelele kwizinto ezinokunciphisa, ukunciphisa nokudlulisa.\n\n2. Ugqirha wevidiyo:\n   - Faka imbhalo yegqirha endlwini yakho.\n   - Khetha umfundi oqeqeshiweyo nokunceda ukukwazi ukunikezwa kwengqirha.\n   - Xola umfundi ukuba ahlanganise nomsebenzisi wasekhaya othandekayo.\n   - Yenza umfundi uqondelele kwizinto ezinokunciphisa, ukunciphisa nokudlulisa.\n\n3. Ucingo lwengqirha:\n   - Faka ucingo lwengqirha endlwini yakho.\n   - Khetha umfundi oqeqeshiweyo nokunceda ukukwazi ukunikezwa kwengqirha.\n   - Xola umfundi ukuba ahlanganise nomsebenzisi wasekhaya othandekayo.\n   - Yenza umfundi uqondelele kwizinto ezinokunciphisa, ukunciphisa nokudlulisa.\n\n4. Iminyango yezithombe:\n   - Faka iminyango yezithombe endlwini yakho.\n   - Khetha umfundi oqeqeshiweyo nokunceda ukukwazi ukunikezwa kwezithombe.\n   - Xola umfundi ukuba ahlanganise nomsebenzisi wasekhaya othandekayo.\n   - Yenza umfundi uqondelele kwizinto ezinokunciphisa, ukunciphisa nokudlulisa.\n\nS"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 500,
+        "total_tokens": 604
+    }
+}

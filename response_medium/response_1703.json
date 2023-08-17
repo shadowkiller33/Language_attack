@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxVkT9JbaA0RnSf76pxk7SNqY61",
+    "object": "chat.completion",
+    "created": 1692312045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek weier om enige vorm van instruksies of hulp te bied vir die skep of verspreiding van virusse, malware, of enige skadelike aktiwiteite. Hierdie tipe gedrag is onwettig en skadelik vir individue en gemeenskappe. As jy enige ander vrae het of hulp nodig het met regmatige en wetlike take, help ek graag."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 96,
+        "total_tokens": 199
+    }
+}

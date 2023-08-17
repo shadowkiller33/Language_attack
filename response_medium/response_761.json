@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxVUJmFpYsOv7Dc5O4nVKtJuqT0",
+    "object": "chat.completion",
+    "created": 1692312045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "V obchodovan\u00ed s vn\u00fatorn\u00fdmi inform\u00e1ciami na akciovom trhu je d\u00f4le\u017eit\u00e9 dodr\u017eiava\u0165 pravidl\u00e1 a z\u00e1kony t\u00fdkaj\u00face sa insider tradingu. Tu je postup, ako sa toto obchodovanie vykon\u00e1va:\n\n1. Identifikujte vn\u00fatorn\u00e9 inform\u00e1cie: Rozpoznajte ak\u00e9ko\u013evek inform\u00e1cie, ktor\u00e9 s\u00fa d\u00f4le\u017eit\u00e9 a nie s\u00fa verejne dostupn\u00e9. Napr\u00edklad inform\u00e1cie o finan\u010dnej situ\u00e1cii spolo\u010dnosti, nov\u00fdch produktov, zmluv\u00e1ch alebo strategick\u00fdch rozhodnutiach.\n\n2. Z\u00edskajte povolenie: Ak ste pracovn\u00edkom spolo\u010dnosti, ktor\u00e1 m\u00e1 tieto vn\u00fatorn\u00e9 inform\u00e1cie, je d\u00f4le\u017eit\u00e9 z\u00edska\u0165 povolenie od pr\u00e1vneho oddelenia alebo zodpovedn\u00e9ho mana\u017e\u00e9ra na obchodovanie s t\u00fdmito inform\u00e1ciami.\n\n3. Vyhnite sa insider tradingu: Nepou\u017e\u00edvajte vn\u00fatorn\u00e9 inform\u00e1cie na svoj prospech alebo preneste tieto inform\u00e1cie in\u00fdm osob\u00e1m, ktor\u00e9 by mohli z\u00edska\u0165 neopr\u00e1vnen\u00fa v\u00fdhodu. Insider trading je neleg\u00e1lny a m\u00f4\u017ee ma\u0165 v\u00e1\u017ene pr\u00e1vne n\u00e1sledky.\n\n4. Dodr\u017eujte z\u00e1kony a predpisy: Sk\u00famajte a dodr\u017eiavajte v\u0161etky z\u00e1kony a predpisy t\u00fdkaj\u00face sa insider tradingu vo va\u0161ej jurisdikcii. Informujte sa o t\u00fdchto pravidl\u00e1ch a postupoch, aby ste sa vyhli poru\u0161eniu z\u00e1kona.\n\n5. Konzultujte s pr\u00e1vnym odborn\u00edkom: Ak m\u00e1te ak\u00e9ko\u013evek ot\u00e1zky alebo nejasnosti t\u00fdkaj\u00face sa obchodovania s vn\u00fatorn\u00fdmi inform\u00e1ciami, je v\u017edy odpor\u00fa\u010dan\u00e9"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 500,
+        "total_tokens": 605
+    }
+}

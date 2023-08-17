@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVP60u3MMRdHiAueef1aAZftau",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke a leka ho thusa. Tlhatlhoba litaelo tsohle tse u o batlang ho tlatsa. E ka ba ho na:\n\n1. Ho tsoa boitsebiso bakeng sa ho fumana thuso lefatseng: \n   - Fetsa thepa ya intaneteng.\n   - Tlatsa ho Google Maps.\n   - Tlatsa ho lefatshe la hao.\n   - Tlatsa ho \"ho tsoa boitsebiso\" kapa \"ho fumana thuso\".\n   - Reka ka t\u0161ohanyetso ya boitsebiso o batlang.\n   - Tlatsa ho tlatsa boitsebiso.\n   - Tlatsa ho fumana thuso.\n\n2. Ho thabela litaelo ka Sepedi:\n   - Tlatsa ho seipone.\n   - Tlatsa ho lefatshe la hao.\n   - Tlatsa ho \"ho thabela litaelo\".\n   - Tlatsa ho \"ho tseba litaelo tsa Sepedi\".\n   - Tlhagisa ka litaelo o batlang ho thabela.\n   - Tlatsa ho fumana litaelo tsa Sepedi.\n\n3. Ho fumana thuso ka ho fetisa bokamoso:\n   - Tlatsa ho Google.\n   - Tlatsa ho lefatshe la hao.\n   - Tlatsa ho \"ho fumana bokamoso\".\n   - Tlatsa ho \"ho fumana thuso ka ho fetisa bokamoso\".\n   - Tlhagisa ka bokamoso o batlang ho fetisa.\n   - Tlatsa ho fumana thuso ka ho fetisa bokamoso.\n\nKea leboha! Haeba u na le tlhaloso e kholo kapa mafoko a mangata, ka kopo o botlhokwa ho go bitsa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 447,
+        "total_tokens": 556
+    }
+}

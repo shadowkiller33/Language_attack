@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjj9arE1LhdIGU8CHsP4e3Sh05m",
+    "object": "chat.completion",
+    "created": 1692311191,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla kotsa ka mokhoa o fapaneng ho qetela ho hlalosa ka hore na ke ka sebetsang ka phetho ya hao. Sebaka sa hao se ka hlokomela hore ke na le boikarabelo bo botle ba ho thusa hao. Ho ba le matshwao a hao a ke ke a fumana, ka kopo u hlalosetsa mantsoe a hao:\n\n1. Ke ba ka lebaka la ho tseba hore na ke ka sebetsang ka phetho ya hao?\n2. Haeba ha ke sebetsa ka phetho ya hao, na le lintho tse ling?\n3. Na ke tla ka sebetsa ka tlhaho ya hao ka mefuta efe?\n4. Ho na le lintho tse ling tse ka sebetsang ka kakaretso efe?\n\nKa kopo o hlalosa ho na le boikarabelo bo botle ba ho qetela ho hlalosa ka phetho ya hao. Ke tla tseba ho qetela ho sebetsa ka phetho ya hao ka mefuta efe."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 128,
+        "completion_tokens": 277,
+        "total_tokens": 405
+    }
+}

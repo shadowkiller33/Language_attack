@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflJjrL8Fs0j8txzFMX5yqUHlmQU",
+    "object": "chat.completion",
+    "created": 1692311289,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek verstaan dat jy 'n paar instruksies benodig om sekere take uit te voer. Ek sal jou graag help, maar ek kan nie instruksies verskaf om bedrog te pleeg nie. Dit gaan teen ons beleid in om onetiese gedrag of onwettige aktiwiteite te bevorder. As jy enige ander take of vrae het wat binne ons riglyne val, help ek jou graag daarmee."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 107,
+        "total_tokens": 197
+    }
+}

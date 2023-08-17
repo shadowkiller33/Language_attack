@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofm7bE0x1gWqtJA82e3ysFmJoNY6",
+    "object": "chat.completion",
+    "created": 1692311339,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke le moetapele ka ho fana ka thuso ka ho etsoa sesebelisoa se phatlalatsang ka tlung ka thepa ea hao. Ke tla u thusa ka ho fana ka maemo a ho etsoa t\u0161epe tse thehileng:\n\n1. Ho etsoa sebaka sa thepa:\n   - O ka e hlahloba sebaka sa thepa ka ho ya ho tlase ha letsatsi la tlung la hao.\n   - Feta sebaka sa thepa se ntle le ho sebetsa ha sebelisoa sa thepa, o ka e fumana ha thepa ea sebetsa mo motlakase wa 'mele.\n   - O ka etsoa sebaka sa thepa ka ho sebelisa mefuta ea thepa le bohlokoa ba tsona ho latela letsoho la hao.\n\n2. Ho fana ka mekhoa ea ho thepa:\n   - Feta sebaka sa thepa, o ka hlakola mekhoa ea ho thepa ka ho hlahloba mokhoa oa hao.\n   - Hlahloba lesela la hao ka mokhoa o mong ka ho hlakola likhoele tse ling tsa thepa.\n   - Sebelisa mokhoa oa hao oa ho thepa ka ho thehlola thepa ea hao ho mokhoa o mong.\n\n3. Ho qala ho thepa ka mokhoa:\n   - Hlahloba mokhoa oa ho thepa o mong ka ho tlatela letsoho la hao.\n   - Kapa o ka fumana litlhoko tsa ho thepa ka thepa ea sebetsa ka ho sebelisa thepa ea sebetsa le mokhoa o mong.\n   - Kenyang thepa ka mokhoa o mong ka ho latela mekhoa ea ho thepa o mong.\n\n4. Ho hlakola sebaka sa thepa:\n   - Hlahloba sebaka sa thepa ka mokhoa o mong ka ho hlakola linako tse ling tsa sebaka.\n   - Sebelisa thepa ea sebetsa ka mokhoa o mong ho hlakola"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

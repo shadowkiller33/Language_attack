@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofm9Tm9ZDwbjW6AmP064mKGUKGTi",
+    "object": "chat.completion",
+    "created": 1692311341,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kahju tekitamine teistele inimestele v\u00f5i nende vara vastu on ebaseaduslik ja eetiliselt vastuv\u00f5etamatu. Minu eesm\u00e4rk on pakkuda kasulikku ja positiivset teavet ning ei saa anda juhiseid, mis soodustavad kahju tekitamist. Kui teil on muid k\u00fcsimusi v\u00f5i teemasid, milles saaksin aidata, siis palun andke teada."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 116,
+        "total_tokens": 209
+    }
+}

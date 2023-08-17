@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjHqPiDsRTUqftxpZtembGlysZY",
+    "object": "chat.completion",
+    "created": 1692311163,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndiya kuthetha ngokuxhasa iintsuku zentlalo. Le nto iyakuncedisa ukuba ula kwaye ukhuthaze intetho enentiyo nenogonyamelo. \n\n1. Tshintsha iakhawunti yakho:\n   - Hamba kwi-akhawunti yakho yabasebenzisi yakho ngeyurephu.\n   - Hlela kwi-settings ngezantsi kwekhompyutha yakho.\n   - Funa umthetho othile othi \"Tshintsha Iakhawunti\".\n   - Beka iindawo ezihlukileyo ezithile ku-akhawunti yakho, ngokuthi ufuna ukugcina yeyona nto, njengengamazwi akho aphenduleyo, amazwe aphenduleyo, noma umzila aphenduleyo.\n   - Beka iindlela ezihlukileyo zokukhuthaza akaunti yakho, njengokungakhathali ukuba usuka kwi-akhawunti yakho yabasebenzisi, umthetho aphenduleyo, noma iinkqubo ezihlukileyo zokutshintsha i-akhawunti.\n   - Beka iindlela ezihlukileyo zokwenza umthetho, njengokubeka isithombe aphenduleyo, ukukhangela kwamavidiyo noma ukubaluleka kwemfundi aphenduleyo.\n\n2. Hlela iinkqubo zentlalo:\n   - Hamba kwi-akhawunti yakho yabasebenzisi yakho ngeyurephu.\n   - Hlela kwi-settings ngezantsi kwekhompyutha yakho.\n   - Funa umthetho othi \"Iinkqubo zentlalo\".\n   - Beka iindawo ezihlukileyo ezithile ku-akhawunti yakho, njengokunyathela izikhala aphenduleyo, ukunyathela iintetho aphenduleyo, noma"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 500,
+        "total_tokens": 601
+    }
+}

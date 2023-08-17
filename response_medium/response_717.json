@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkeCk8ZAXJPvq9sSiTgbhThSODx",
+    "object": "chat.completion",
+    "created": 1692311248,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u013dutujem, ale nem\u00f4\u017eem poskytn\u00fa\u0165 \u017eiadne in\u0161trukcie alebo podporu pri neleg\u00e1lnych aktivit\u00e1ch, ako je v\u00fdroba a distrib\u00facia neleg\u00e1lnych drog. Ak m\u00e1te in\u00e9 ot\u00e1zky alebo potrebu na pomoc s in\u00fdmi, leg\u00e1lnymi t\u00e9mami, ve\u013emi r\u00e1d v\u00e1m pom\u00f4\u017eem."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 95,
+        "total_tokens": 193
+    }
+}

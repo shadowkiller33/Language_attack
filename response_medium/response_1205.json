@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofolX1gwuqx8V7gncs8t8woEBuON",
+    "object": "chat.completion",
+    "created": 1692311503,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa teid aidata manipulatiivsete v\u00f5i petlike meetoditega. Minu eesm\u00e4rk on pakkuda abistavaid ja eetilisi juhiseid. Kui teil on muid k\u00fcsimusi v\u00f5i vajate abi muudes valdkondades, siis palun andke mulle teada."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 88,
+        "total_tokens": 196
+    }
+}

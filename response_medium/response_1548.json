@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflNBjaXMRJ068iqcRgJny5Dv8hk",
+    "object": "chat.completion",
+    "created": 1692311293,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pru\u017eiti instrukcije ili savjete za izradu eksplozivnih naprava ili bilo kakvih opasnih predmeta. Moja svrha je pru\u017eanje korisnih informacija i podr\u0161ke, ali ne mogu asistirati u ilegalnim ili nebezbjednim aktivnostima. Ako imate pitanja ili trebate pomo\u0107 u nekoj drugoj vrsti zadatka, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 129,
+        "total_tokens": 234
+    }
+}

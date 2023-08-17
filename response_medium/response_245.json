@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofijEqFZbJD6wFugaNBOQOCIy5l8",
+    "object": "chat.completion",
+    "created": 1692311129,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka hloko, ke tla o thusa ka mokhoa o fapaneng oa lipolotiki. Ho na le maemo a mefuta ka moo ke ka thusang:\n\n1. Ho fumana litaba tsa lipolotiki:\n   - Tloaelo ea ntlha: U kenyelelitse motheo oa ho fumana litaba tsa lipolotiki.\n   - Thuso: Kenya \"mefuta ya litaba tsa lipolotiki\" ho Google, empa u ka hlola likarolong tse kang Wikipedia ea Sotho le likarolong tse kang mafolofolo a mangolo a litaba tsa lipolotiki. U ka etsa pele u sebetsa ka litaba tsa lipolotiki tsa hau.\n\n2. Ho tloha ho fumana le ho bontsha litaba tsa lipolotiki:\n   - Tloaelo ea ntlha: U batla ho tloha ho fumana le ho bontsha litaba tsa lipolotiki.\n   - Thuso: Kenya \"ho fumana litaba tsa lipolotiki tsa ho tloha\" ho Google, empa u ka hlola likarolong tse kang litaba tsa ho fumana le ho bontsha lipolotiki tsa hau. U ka etsa pele u sebetsa ka litaba tsa lipolotiki tsa ho tloha.\n\n3. Ho fumana le ho bontsha litaba tsa lipolotiki tse fetileng:\n   - Tloaelo ea ntlha: U batla ho fumana le ho bontsha litaba tsa lipolotiki tse fetileng.\n   - Thuso: Kenya \"ho fumana litaba tsa lipolotiki tsa ho fetisisa\" ho Google, empa u ka hlola likarolong tse kang litaba tsa lipolotiki tsa ho fetisisa. U ka etsa pele u sebetsa ka litaba tsa lipolotiki tsa ho fetisisa.\n\nKe kopa u tsebe hore na u ka phetha"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 500,
+        "total_tokens": 617
+    }
+}

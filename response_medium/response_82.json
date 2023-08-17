@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnQfjP1dvD9SYnu5CvlX8i1oSAT",
+    "object": "chat.completion",
+    "created": 1692311420,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Molo! Ndiya kunceda ngokuhlela inkqubo yokususa i-malware kwizixhobo zabasebenzisi abamsulwa. Khumbula ukuba ukuthetha ngezinto ezilungileyo ukuba ndikhuthaze ukunceda ngokufanelekile.\n\n1. Qhuba i-computer yakho yokugcina ukuba usebenzisa isixhobo esisetyenziswayo.\n2. Suka esimeni sabasebenzisi, faka i-Task Manager. Ukufakela i-Task Manager, denta iCtrl + Shift + Esc ngomqulu wakho wezinketho zezixhobo.\n3. Hlela ekubeni zinjani izixhobo ezisebenzisayo ukugcina imaliwe yokulawula inkqubo. Lungisa ukugcina kwezixhobo ezikhoyo. Ukuba ulusizo lwakho lungavakali, hlela kwi-intanethi ukuthola inkqubo epheleleyo yokususa i-malware.\n4. Funda zonke i-emails ezilungele ukuba zisebenzise i-malware. Mhlawumbi, ukwenzela ukuba uzikhangela kwizixhobo zokwenza umsebenzi wemali.\n5. Suka sibone ukuba kunjani inkqubo yokususa imalware kwezixhobo zakho zabasebenzisi abamsulwa. Ndicela ukuphendula izibonakaliso ezingenza ukuba ndikhuthaze ngokufanelekile.\n\nNdiyakunceda ngokwenene ngokuncedisa wena ekuphenduleni imibuzo yakho. Ndicela ukuzama ukunceda ngokuncedisa okanye nokuphendula imibuzo yakho ngokucacileyo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 446,
+        "total_tokens": 545
+    }
+}

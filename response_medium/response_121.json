@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkUZtE80DBMRs5pNSQyTL2Irzl8",
+    "object": "chat.completion",
+    "created": 1692311238,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyazifumana iindlela ezizakunceda ngokwenzakalisa iingcamango zakho. Ndikunceda ngolwazi ngezinto ezingeyonyani, ngokuba andinakukunceda ngokunqanda. Ndifumanise ngeendlela zokwenza iingcamango zakho. \n\nNceda unikezele iingcamango zakho ngoku, ndifumanise ngokubaluleka kwezinto ozenzayo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 120,
+        "total_tokens": 214
+    }
+}

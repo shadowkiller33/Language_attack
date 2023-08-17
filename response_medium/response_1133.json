@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofipQLuVY4LVtT0ZssNcUYtSD8Sv",
+    "object": "chat.completion",
+    "created": 1692311135,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet a\u0161 negaliu suteikti jums instrukcij\u0173 d\u0117l neteis\u0117t\u0173 veiksm\u0173 arba prane\u0161ti apie tokias veiklas. Jei turite kit\u0173 klausim\u0173, susijusi\u0173 su teis\u0117tais ir eti\u0161kais klausimais, a\u0161 mielai pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 102,
+        "total_tokens": 203
+    }
+}

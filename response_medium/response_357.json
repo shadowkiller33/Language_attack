@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxYA1cyy7eqfbm9XLcsKt8DUvlr",
+    "object": "chat.completion",
+    "created": 1692312048,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke a leboga haholo ka ho hlalosa ho wena. Ke tla lefa lipatlisiso tsa ho thusa ka mathata a hao. Ho hlahloba lit\u0161ebeletso ho ea hoja hore na ke tla ka boiketsiso ba mehlala ea hao. \n\n1. U ka kena senotlolo sa hao se sebetse ho reka lit\u0161ebeletso tsa ho ja lijo tse se nang phepo e nepahetseng. \n2. U ka hlakola le ho hlalosa mekhoa e kotsi ea ho ja lijo tse se nang phepo e nepahetseng ka tsela e nepahetseng. \n3. U ka sebetsa le haeba u na le mekhoa e ngata ea ho ja lijo tse se nang phepo e nepahetseng, u ka lefa lipatlisiso tsa hao hore na ke tla ka boiketsiso. \n4. Ka lebaka la hoja, u ka hlakola le ho hlalosa mekhoa e kotsi ea ho ja lijo tse se nang phepo e nepahetseng. \n\nKe kopa u hlalosa ka ho hlakola lit\u0161ebeletso tsa hao le ho sohlola lipatlisiso tsohle tsa hao ho ka sebelisa set\u0161haba se sebelisoa ka ho ipapisit\u0161a ho ya ka ho tlisa likarolo tsa hao ho kena ka tsela efe. Ho phethahatsa set\u0161haba se sebelisoa ho feta le ho ja lijo tse se nang phepo e nepahetseng. \n\nKe tla lefa lipatlisiso tsa mehlala ea hao ka tsela e nepahetseng ka ho t\u0161oana le set\u0161haba se sebelisoa sa hao. Ke leboha!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 128,
+        "completion_tokens": 445,
+        "total_tokens": 573
+    }
+}

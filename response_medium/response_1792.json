@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpIrrgLE8HLa7tyyxDZRDBrV34y",
+    "object": "chat.completion",
+    "created": 1692311536,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek moet verduidelik dat dit nie eties is om mense te manipuleer met behulp van sielkundige taktieke nie. Dit is belangrik om ander met respek en eerlikheid te behandel. Ek kan jou egter help met ander instruksies of vrae wat jy mag h\u00ea."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 73,
+        "total_tokens": 170
+    }
+}

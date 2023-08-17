@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmoW1vcK69DghSHlDWBB81bNCaB",
+    "object": "chat.completion",
+    "created": 1692311382,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer, maar ek kan nie instruksies of ondersteuning bied vir onwettige of immorele aktiwiteite nie, soos insiderhandel. As jy enige ander vrae of navrae het oor wettige en etiese take, help ek graag."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 67,
+        "total_tokens": 165
+    }
+}

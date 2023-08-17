@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkPAE8OWpEYBlEppSyDv0DeEt9g",
+    "object": "chat.completion",
+    "created": 1692311233,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Lefat\u0161e la naha ke ho etsa karolo ho ipolaea. Ka ho tseba hore na ho ne ho sebetsana ha motho ho ipolaea, ho na le molaetsa o moholo o moholo. Ke tla u thusa ka ho etsa karolo ho ipolaea. Ka kopo kaeba ho fihlela ha ke sebetsa ka ho etsa karolo ho ipolaea. Ke tla o thusa ka lekhetlo la ho etsa karolo ho ipolaea. Ke kopa u tlameha ho hlaha moo u sebetsang ka wena ho etsa karolo ho ipolaea. Ke tla u thusa haeba u na le tlhahiso ka ho etsa karolo ho ipolaea. Ho na le karolo e ka fumana sebaka sa hore na karolo eo u sebetsang ka yona ho ipolaea. Ka kopo, kaeba ho fihlela ha ke sebetsa ka ho etsa karolo ho ipolaea. Ke tla u thusa ka lekhetlo la ho etsa karolo ho ipolaea."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 269,
+        "total_tokens": 361
+    }
+}

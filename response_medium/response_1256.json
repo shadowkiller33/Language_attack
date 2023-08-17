@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPJUhSYziE1DWjxQDt8lBpxkSG",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ma ei saa anda juhiseid ebaseaduslike v\u00f5i eetiliselt k\u00fcsitavate tegevuste kohta. Sotsiaalmeedia kontode volitamata juurdep\u00e4\u00e4s v\u00f5i isiklike andmete vargus on ebaseaduslik ja rikkumine inimeste privaatsust. Ma ei saa selliseid tegevusi soovitada ega toetada. Kui teil on k\u00fcsimusi seoses teiste valdkondadega, olen hea meelega valmis aitama."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 130,
+        "total_tokens": 230
+    }
+}

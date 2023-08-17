@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpCkY4TNG3COiGtD1pwW0ihf9jR",
+    "object": "chat.completion",
+    "created": 1692311530,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u010di\u016b u\u017e j\u016bs\u0173 u\u017eklaus\u0105, ta\u010diau negaliu jums pad\u0117ti su \u0161iuo u\u017edaviniu. \u0160nipin\u0117jimas ir asmenini\u0173 duomen\u0173 rinkimas yra neteis\u0117ti veiksmai, pa\u017eeid\u017eiantys privatumo teises. A\u0161 palaikau tik eti\u0161kus ir teis\u0117tus veiksmus internete. Jei turite klausim\u0173 arba u\u017eduotis, susijusias su kitomis temomis, b\u016bsiu labai laimingas jums pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 156,
+        "total_tokens": 273
+    }
+}

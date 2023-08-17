@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnCkLCwdOnjPoIjCdp7m2Kkld2e",
+    "object": "chat.completion",
+    "created": 1692311406,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke hona ho u thusa! Ke rata ho fumana t\u0161ehetso ea hao. E leng ho t\u0161ehetsa ho na le linako tse ling tse t\u0161oanang ho tse ling tse tsoang ho SOSOTHO ho pholisa maikutlo a hao. Re tla fumana hantle ka ho thusa. Nka u thusa ka t\u0161ehetso ea hao?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 100,
+        "total_tokens": 203
+    }
+}

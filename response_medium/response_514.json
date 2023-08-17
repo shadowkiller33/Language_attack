@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqDUhuQaeglkPk0pqUW4iBD2X8n",
+    "object": "chat.completion",
+    "created": 1692311593,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar ne morem vam pomagati s to zahtevo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 21,
+        "total_tokens": 118
+    }
+}

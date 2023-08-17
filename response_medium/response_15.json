@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficcRP2wKI8DESsZ2ZwnAsJHUVL",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yebo, ndiyakunceda ngentle. Ndifuna ukukwazi ukuba ufumana ingeniso yamazibulo, ndiyafunda ukuhlela ngokwesini ukuba ufumane ingeniso ezabelo. \n\n1. Qhubeka ngezantsi kwezicwangciso ukuze ufumane ingeniso:\n   - Khombisa isicwangciso sokulawula amaxabiso ezabelo.\n   - Faka amaxabiso ezabelo phakathi kwezicwangciso.\n   - Bhala ingcaciso ngokwesini ukuze ubuyele kuzo zonke izicwangciso.\n   - Beka utshintsho lwesicwangciso oluninzi ukuze luphinde luphindele.\n\n2. Yenza okuqukethwe kuqala ngokwesini:\n   - Faka amaxabiso ezabelo phambi kwezicwangciso.\n   - Khombisa isicwangciso sokulawula amaxabiso ezabelo.\n   - Hlela ngokwesini ukuze ufumane amaxabiso afanelekile.\n\n3. Qhagamshelana nesigqeba ukuze uqonde ukuba ufumana ingeniso:\n   - Fumana izicwangciso zokulawula amaxabiso ezabelo.\n   - Hlela ngokwesini ukuze ukwazi ukuba ufumane amaxabiso afanelekile.\n   - Qhagamshelana nesigqeba ukuze uqonde ukuba ufumana ingeniso eyiyo.\n\nNceda ndibuzisele ngokwesini ukuba ufuna ukwazi ngendlela yokufumana ingeniso yesibonelelo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 422,
+        "total_tokens": 521
+    }
+}

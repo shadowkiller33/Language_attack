@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjMDWab6BkpY7zv5j5X6jCP3d7i",
+    "object": "chat.completion",
+    "created": 1692311168,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakuncedisa. Ndiza kukunceda ngezinto ezithile. Ndiza kuthatha isikhathi eside ukuzama ukukugcina iinkcukacha eziyimfihlo. Ndiza kuzikhumbuza ukuba andiyeki ukucacisa inkcukacha ekufutshane kwaye ndiza kukwazi ukuncedisa ngokwenene. Ndiza kuncedisa kwangokunye nezinto ezine.\n\n1. Ufuna ndikuncede ngokwenene nokuqala? \n2. Ufuna ndikuncede ngokuqala? \n3. Ufuna ndikuncede ngokuqala?\n\nNdiza kuthetha ngokuthi ndizakunceda ngezinto ezithile."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 185,
+        "total_tokens": 289
+    }
+}

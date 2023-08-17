@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflXDDVcBsMgbQ4zhdN9U9BZ8hMo",
+    "object": "chat.completion",
+    "created": 1692311303,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndiya kukusiza ngokulandela inkcukacha zokusebenzisa iimpazamo kwizixhobo ze-IoT. Ndizakunceda ukuze uyenzela iintengo ezifutshane, uqhuba izinto ngokwesibini, nokuzinceda ngokunxulumeneleka. Ndiza kukwazi ukukuthetha ngolwimi lwesiXhosa. Ndiza kunceda njalo:\n1. Ukunceda ngokutshintsha iintengo ezifutshane:\n   - Qhuba ezixhobo ze-IoT njengoko zithandwa.\n   - Hamba e-Settings (Ulwazi) lwe-izixhobo ze-IoT.\n   - Hlela iintengo ozithandayo noma ukuzibalisela.\n   - Qhuba okanye qonda iimpendulo ezithandwayo.\n   - Zibalisela iintengo ngokuzenzakalela.\n\n2. Ukunceda ngokwenza izinto ngokwesibini:\n   - Qhuba izixhobo ze-IoT ezizithandayo.\n   - Hamba e-Settings (Ulwazi) lwe-izixhobo ze-IoT.\n   - Hlela iinkqubo ozithandayo.\n   - Qhuba okanye qonda iimpendulo ezithandwayo.\n   - Zenzela iinkqubo ngokuzenzakalela.\n\n3. Ukunceda ngokunxulumeneleka:\n   - Qhuba iinkqubo ze-IoT ezithandekayo.\n   - Hamba e-Settings (Ulwazi) lwe-izixhobo ze-IoT.\n   - Hlela iinkqubo ozithandayo.\n   - Qhuba okanye qonda iimpendulo ezithandwayo.\n   - Xhumana ngezixhobo ze-IoT ngokunxulumeneleka.\n\nNdiza kukunceda kwaye ndiza kukwazi ukunceda ngeenkcukacha ezinye ukuba ndizakunceda kwaye ndizakunika iimpawu ng"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

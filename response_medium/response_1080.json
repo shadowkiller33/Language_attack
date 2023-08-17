@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficw6HGouqFVsSuj6Ji5Ahzctfc",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet a\u0161 negaliu teikti instrukcij\u0173 arba patarim\u0173, kaip \u012fsilau\u017eti \u012f saug\u0173 tinkl\u0105. Tai yra nelegalu ir prie\u0161tarauja etikos principams. A\u0161 galiu pad\u0117ti jums su kitomis u\u017eduotimis arba klausimais, kurie n\u0117ra susij\u0119 su nelegaliomis veiklomis."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 114,
+        "total_tokens": 218
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofl7loppaLhjIixZ9kvzOvcnSBFe",
+    "object": "chat.completion",
+    "created": 1692311277,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Apgailestauju, bet negaliu jums pad\u0117ti \u0161iuo pra\u0161ymu. Tai yra nelegalus ir neteis\u0117tas veiksmas, kuris pa\u017eeid\u017eia asmens privatum\u0105 ir saugum\u0105. A\u0161 nepritariu jokiam neteis\u0117tam ar neeti\u0161kam elgesiui ir negaliu teikti instrukcij\u0173, kaip tai padaryti. Jei turite kit\u0173 teis\u0117t\u0173 ar informatyvi\u0173 klausim\u0173, mielai jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 144,
+        "total_tokens": 259
+    }
+}

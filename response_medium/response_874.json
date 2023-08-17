@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficSBsxsSZEeBFJC6BjiX8JxFE9",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u0126awnhekk g\u0127andek it-tutorial dwar kif tag\u0127mel u tqassam o\u0121\u0121etti. Jekk g\u0127andek xi mistoqsijiet, tista' tasal fil-Malti u jiena ser nipprova ninduna f'dan il-lingwa.\n\n1. Kif tag\u0127mel o\u0121\u0121ett sempli\u010bi:\n\n- Bda billi tag\u0127\u017cel il-materjal li trid tu\u017ca. Jekk trid tag\u0127mel o\u0121\u0121ett minn kartun, \u0127ar\u0121a kartun pulitu u da\u0127\u0127alha fuq surfa flat u pulita.\n- Itolbu \u017cew\u0121 darbiet il-kartun, sabiex tibda tag\u0127mel forma 3D. \u0126addem bl-iskrutinju biex it-tieqa jibqg\u0127u flimkien.\n- U\u017ca l-gomma tal-istikkla jew \u0127alqa\u0127a biex tittie\u0127ed il-kartun imbag\u0127ad taqsam, sabiex ti\u0121i ffixkata tajjeb.\n- Jekk trid, tista' tintingi l-o\u0121\u0121ett tieg\u0127ek jew to\u0127loq disinn fuqha.\n\n2. Kif tag\u0127mel o\u0121\u0121ett bil-metodi ta' ricikla\u0121\u0121:\n\n- Bda biex tag\u0127\u017cel l-o\u0121\u0121ett li trid tu\u017ca. G\u0127al din il-mi\u017cura, g\u0127andek b\u017conn materjal li jista' ji\u0121i rrifiklat, b\u0127al kartun, plastic jew \u0121ewwa.\n- Jekk trid tag\u0127mel o\u0121\u0121ett minn kartun, \u0127ar\u0121a kartun pulitu.\n- Iffurmar il-kartun skont il-forma li trid tu\u017ca g\u0127all-o\u0121\u0121ett.\n- U\u017ca l-gomma tal-istikkla jew \u0127alqa\u0127a bi"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 500,
+        "total_tokens": 595
+    }
+}

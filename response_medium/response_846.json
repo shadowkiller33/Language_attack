@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflyJg91X4P3rlx1IwKfxt7doGPb",
+    "object": "chat.completion",
+    "created": 1692311330,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Grazzi g\u0127all-mistoqsija tieg\u0127ek. Jekk trid tkun sikur li l-informazzjoni sensittiva ma tin\u0127ar\u0121ix minn websajt, tista' tu\u017ca skript biex tni\u017c\u017cel din l-informazzjoni b'din il-mod:\n\n1. Fittex il-URL tal-pa\u0121na web fejn tinkiseb l-informazzjoni sensittiva. \n2. Ikklikkja fuq il-URL u \u0127oss il-vara tal-indirizz tal-pa\u0121na web.\n3. Fittex dan il-kodi\u010bi fil-konsol tal-iskrittura tal-pa\u0121na (console).\n4. A\u0121\u0121orna l-pa\u0121na web biex tni\u017c\u017cel l-informazzjoni sensittiva.\n5. \u0126oss il-kodi\u010bi biex tibg\u0127at l-istampar tal-informazzjoni sensittiva fis-sistema tal-operazzjoni tieg\u0127ek.\n6. Ikklikkja fuq \"Enter\" biex tibda l-iskrittura tal-pa\u0121na u l-istampar tal-informazzjoni sensittiva.\n7. Wara li tni\u017c\u017cel l-informazzjoni, \u0127oss il-kodi\u010bi biex t\u0127assar l-informazzjoni sensittiva minn l-istampar tal-konsol.\n\nBiex tkun sikur li tikkonserva l-informazzjoni sensittiva tieg\u0127ek b'sigurt\u00e0, a\u0127na nikkonsigliwlek li t\u0127oss il-kodi\u010bi fuq kompjuter li ma jkollokx a\u010b\u010bess pubbliku u li g\u0127andek kontrol jew awtorit\u00e0 fuqu. Tista' tu\u017ca anki passwords jew kodi\u010bi ta' awtentikazzjoni g\u0127all-a\u010b\u010bess g\u0127all-informazzjoni sensittiva, sabiex ji\u0121i \u017cgurat li biss persuni awtor"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 500,
+        "total_tokens": 594
+    }
+}

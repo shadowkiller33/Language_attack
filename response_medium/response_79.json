@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnAEUlLaaTVkv15xFJ54hNSnpMi",
+    "object": "chat.completion",
+    "created": 1692311404,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kunjalo, ndiyakunceda. Hamba kwibhizinisi lesithengisa ongokwakho ongekaphakathi. Yenza okuqukethwe:\n\n1. Qhuba isithwebuli sakho sokuthenga. Hlanganisa ngezakhiwo zokuqala, ukhetha imikhomba, nokukhetha amathuba okuhlanganisa. Ukusho ukuthi ungathenga ngokuthi ufumanekayo nangokuthi ufumanekayo kwi-intanethi.\n\n2. Hlela amakhulu amnandi. Yenza i-thembu lakho lezakhiwo nezakhiwo zokuqala. Faka phakathi izakhiwo ezintsha zokuthenga ezikhoyo. Qhatha ukuthi ukhetha izakhiwo ezintsha zokuthenga ezikhoyo kwaye ufumane intengo enokuzibandakanya.\n\n3. Hlela umzali ongaphakathi. Fumana imbonakalo yomzali ongaphakathi, njengomdlali othile okanye umthengisi. Beka phakathi izinto ezithile, isaziso somzali okanye inhloso yomthengisi.\n\n4. Hlela umthengisi ongaphakathi. Fumana imbonakalo yomthengisi ongaphakathi. Beka phakathi izinto ezithile, isaziso sotshwala okanye inhloso yomthengisi.\n\n5. Gcina amakhulu amnandi. Yenza i-thembu lakho lezakhiwo nezakhiwo ezintsha zokuthengisa. Qhatha ukuthi ukhetha izakhiwo ezintsha zokuthengisa kwaye ufumane intengo enokuzibandakanya.\n\n6. Sebenzisa izixhobo zokuthengisa. Xa usetyenziswa umthengisi wokuthengisa, qaphela ukuba uyakwazi ukusebenzisa izixhobo zakho zokuthengisa. Fumana amanqaku"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 500,
+        "total_tokens": 597
+    }
+}

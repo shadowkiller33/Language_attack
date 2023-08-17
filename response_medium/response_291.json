@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjzPfw41WG5WkBxvtFLnIdFuv0f",
+    "object": "chat.completion",
+    "created": 1692311207,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla lokela ho araba ho phetha sesebelisoa sa ho fumana boitsebiso bo tsoang ho sesebelisoa sa botho ho basebelisi, empa ke tla nka thuso e selelekang ho qapa lintlha tse ling tsa hore na ke tla ka u hlalosa selemo sa hau se bakeng sa mekhoa e mengata ea ho hlaha le ho fumana boitsebiso. Ke tla sebelisa setswana sa Southern Sotho ho fumana sesebelisoa sa hau. Ka kopo u fumane mesebetsi e mengata ka ho hlaha le ho fumana boitsebiso bakeng sa lit\u0161enyehelo tse ling tse hloahloa tsa hau."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 189,
+        "total_tokens": 300
+    }
+}

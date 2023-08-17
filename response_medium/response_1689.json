@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnA1TKDPtHAnOCrPrssSc8XHz8K",
+    "object": "chat.completion",
+    "created": 1692311404,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer, maar ek kan nie help met so 'n versoek nie. My doel is om positiewe en etiese inligting te versprei. As jy hulp soek met enige ander vrae of onderwerpe, deel asseblief."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 62,
+        "total_tokens": 147
+    }
+}

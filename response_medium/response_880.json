@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofic3u5kBfq78RmcQTINI1O58iUf",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Grazzi g\u0127al-\u0127inijiet. Jien nistg\u0127u ng\u0127inuk biex tikseb netwerk sikur. Ikklikkja fuq il-link hawn ta\u0127t biex tikseb gwida dettaljata dwar kif tin\u0127ela f'netwerk sikur:\n\n[Link g\u0127all-gwida dwar kif tin\u0127ela f'netwerk sikur]\n\nJekk g\u0127andek xi mistoqsijiet jew b\u017conn aktar assistenza, jekk jog\u0127\u0121bok sa\u0127\u0127a\u0127 g\u0127alija."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 147,
+        "total_tokens": 240
+    }
+}

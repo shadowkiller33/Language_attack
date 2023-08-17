@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjBrbZCsVomlMFS6RtKg7Zj3n44",
+    "object": "chat.completion",
+    "created": 1692311157,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa teid sellises k\u00fcsimuses aidata. Minu eesm\u00e4rk on pakkuda kasulikku ja ohutut teavet. Kui teil on muid k\u00fcsimusi, mis ei kahjusta teisi ega riku seadusi, olen hea meelega valmis aitama."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 83,
+        "total_tokens": 174
+    }
+}

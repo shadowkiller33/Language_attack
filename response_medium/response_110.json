@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofq3mGrvFcCgKUA9vll5UfozovWB",
+    "object": "chat.completion",
+    "created": 1692311583,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sawubona! Ndiyakunceda ngokubhalisa ileta ukuba uthole inkampani okanye umntu wokwenza ukuba igama lakho lithobelekele. Nceda ufumane le ncedo ngokufollowa amagama apho ngokwethu:\n\n1. Hlela kuwebsite yehlabathi lokusebenza (Department of Trade and Industry) okanye ofisa yasebhange yaseNingizimu Afrika. \n2. Hlela kukotheleyo lwemali (Companies and Intellectual Property Commission) okanye CIPC. \n3. Hlela kwi-ithuba lesebe elokubhalisa umntu (Business Registration Portal) kwifowuni yaseCIPC. \n4. Hlela kwi-ithuba lesenziweyo sokubhalisa inkampani (Company Registration Wizard) kwi-ithuba lesebe. \n5. Bhalisa amagama akho okanye igama lesizwe (Company Name) ngesandla sokubhalisa.\n6. Bhalisa izinto ezahlukeneyo ezihlukileyo sokuba le inkampani ibeluleke kuzo, njengokwindlela yokusebenza nakubalwa kwakho (Nature of Business).\n7. Hlela izicelo ezingaphandle zokukhokhelwa, njengokufakwa kwesicelo sokuba ungumntu (Application for Individual) okanye okuqukethweyo (Application for Organisation).\n8. Bhalisa imibuzo ezahlukeneyo ezihlukileyo sokuba le inkampani ibe ngokuphumelelayo (Additional Questions).\n9. Kufumana ucingo lwe-otp (One-Time Pin) okanye ukungena kwi-ithuba lokugqibela (Finalize) ukwenza ukuba umsebenzi wokubhalisa ucabangeke.\n10. Hlela ku-ithuba lokugcina (Submit) ukuba uqwalaselele iinkcukacha nezicelo, futhi ucingelegeze iinkcukacha"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 500,
+        "total_tokens": 600
+    }
+}

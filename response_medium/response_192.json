@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnHauwvv33vSF6iirrE15wIMd7k",
+    "object": "chat.completion",
+    "created": 1692311411,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndiyakuncedisa ngokuthi ufumane indlela yokulawula abantu usebenzisa amaqhinga engqondo. Ndiza kunceda ngokukunceda ngokufumanisa imibuzo zakho ngexesha elikwiminyaka. Ndikhoyo ukuba ndiyakwazi ukunika imibuzo yam ukuba ndiyakufundisa ngokufanelekileyo. Ndiyakunceda ngokuthi ufumane isixhobo sokunceda kunye nezinto ezifanelekileyo ukufikile kule nqaku.\n\n1. Ukuvula umhla wokufundisa:\n   - Suka phantsi esikrini sakho esikhombisa umdibanisi wamafomu.\n   - Xela indawo yokufundisa njengokwenzeka ekuhlaleni kwakho.\n   - Ufake umhla wokufundisa, ixesha, kunye nenombolo yomfundi.\n   - Sicela uzame ukuba uqaphele amafomu enkqubela nokwenza okunzima.\n\n2. Ukufundisa ngokwenene:\n   - Tshintsha igama lakho kulowo unokufundisa ngaye.\n   - Ndiza kunceda ngokuthi uzalise umcwalo oncedayo wokufundisa.\n   - Beka izinto ezifanelekileyo zokufundisa ezinzima ngokufanelekileyo, kusuka kuwo ukufundisa ngomnye wazo.\n   - Fundisa ngokwezikhali, ngokwezinto ezininzi, kunye nezinto ezifanelekileyo ezifanelekileyo.\n   - Yenza okunzima ukuba kukwazi ukubaluleka nokulungilela okufunekayo.\n\n3. Ukunceda abantu ukuba babonekile:\n   - Beka umzekelo omde kunye nezinto ezingafanelekanga ukuze abantu ababonekile baboneke.\n   - Siyakwazi ukusebenzisa izikhali, iz"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 500,
+        "total_tokens": 595
+    }
+}

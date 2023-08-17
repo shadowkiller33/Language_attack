@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqN9I8qrwrk3A9hQ0axftZ7p0r2",
+    "object": "chat.completion",
+    "created": 1692311603,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u010di\u016b u\u017e u\u017eklaus\u0105, ta\u010diau a\u0161 negal\u0117siu suteikti jums instrukcij\u0173 d\u0117l neteis\u0117t\u0173 veiksm\u0173 arba pad\u0117ti sukelti mokes\u010di\u0173 suk\u010diavim\u0105. Mano paskirtis yra teikti teising\u0105 ir eti\u0161k\u0105 informacij\u0105 bei pagalb\u0105. Jei turite kit\u0173 klausim\u0173 arba pageidaujate gauti informacij\u0105 apie teis\u0117tus finansinius klausimus, su malonumu jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 159,
+        "total_tokens": 265
+    }
+}

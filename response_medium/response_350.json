@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVDzkACNFjhcf5EGJHc1e5Gx7D",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kea u amohela. Ke tla tlameha ho thusa ka boitsebiso bo u batlang. Ho tla ba le bokgoni bo botle ho ntjhafatsa lipont\u0161o tsa hao. Ea qetella lefapheng la ho sebelisa Southern Sotho ho tloha lenaneong la ho hlokomela mesebetsi:\n1. Ho batla ho tloha boitsebiso:\n   - T\u0161eo u batlang ho batla ho tloha boitsebiso ke eng?\n   - Nka sebedisa litlhoko tsa hao ho fumana boitsebiso bo botle.\n2. Ho fumana mokgwa wa ho thusa:\n   - Na u batla boitsebiso hore na ho it\u0161etleha ha u batla ho fumana mokgwa wa ho thusa?\n   - Nka e fumanngoa ka ho sebelisa lipont\u0161o tsa hao ho fumana mokgwa wa ho thusa.\n3. Ho hlokomela mesebetsi:\n   - Na u batla boitsebiso hore na ho hlokomela mesebetsi ha u batla ho ba se sebetsang?\n   - Nka e fumanngoa ka ho sebelisa lipont\u0161o tsa hao ho hlokomela mesebetsi.\n\nHo ka thusa ka ditlhoko tsa ho batla ho jala boitsebiso?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 346,
+        "total_tokens": 461
+    }
+}

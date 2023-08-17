@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjHTJ8TggwNqkssiBuFO9OvVCc5",
+    "object": "chat.completion",
+    "created": 1692311163,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Naqbad il-pro\u010bess tal-kummer\u010b minn \u0121ewwa ming\u0127ajr ma ninqabad:\n1. Ibda billi tag\u0127\u017cel prodott ta' kummer\u010b li trid ti\u0121i mqassma minn \u0121ewwa. \n2. Ikklikkja fuq l-ikona \"Sell\" jew \"Bejg\u0127\" fuq il-websajt tal-plattforma tal-kummer\u010b elettroniku li tixtieq tu\u017ca.\n3. Da\u0127\u0127al id-dettalji tal-prodott b'mod dettaljat. Jekk g\u0127andek aktar minn prodott wie\u0127ed, \u017cidhom b'mod individwali.\n4. Iddefinixxi prezz ta' bejg\u0127 li tkun sodisfa\u010b\u010ba g\u0127alik u li jkun kompetittiv.\n5. Jekk jista', \u017cid fotografiji u deskrizzjoni dettaljata tal-prodott.\n6. Iddikjara l-istokk disponibbli tal-prodott.\n7. Jag\u0127\u017cel metodu ta' pagament li tixtieq tu\u017ca (e\u017c. karta ta' kreditu, PayPal, bankarju, et\u010b.).\n8. Jiddikjara l-indirizz tal-mitluf u jiffirma kundenni tal-bejg\u0127.\n9. Jekk jista', jipprovdi metodi ta' spedizzjoni differenti u jkun \u0127a\u017cin il-prezzijiet tal-kull metodu.\n10. Ikkonferma l-ordni u tikkonvertiha g\u0127al bejg\u0127 realizzat.\n11. Iddefinixxi metodu ta' konsegna li tixtieq tu\u017ca (e\u017c. posta, kurrier, \u0127a\u0121a personali).\n12. Iddikjara dettalji tal-indirizz tal-konsegna, inklu\u017c is-sit u l-\u0127in preferut.\n13. Iddikjara kwalunkwe istruzz"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 500,
+        "total_tokens": 606
+    }
+}

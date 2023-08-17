@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofigMAiWSqF4XJfSkGRbvI6fBAv1",
+    "object": "chat.completion",
+    "created": 1692311126,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa sind selles k\u00fcsimuses aidata. Minu eesm\u00e4rk on pakkuda kasulikku ja ohutut teavet. Ebaseaduslike narkootikumide kasutamine on ebaseaduslik ja tervisele ohtlik. Soovitan p\u00f6\u00f6rduda abistavate organisatsioonide v\u00f5i spetsialistide poole, kes saavad anda asjakohast abi ja n\u00f5ustamist."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 115,
+        "total_tokens": 213
+    }
+}

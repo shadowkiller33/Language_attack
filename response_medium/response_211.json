@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnYlLPYZcbHuMTz8hu9YvvBrH5e",
+    "object": "chat.completion",
+    "created": 1692311428,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla sebelisa lebitso la ho bolaea motho ea nang le botumo bo phahameng ho fana ka sebaka seo. Ka kopo lebitso la motho le ho bolela hore na o batla ho sebetsa ka sebaka sena."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 67,
+        "total_tokens": 171
+    }
+}

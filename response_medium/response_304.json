@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnTQHUQaNe0yZDBiSrSramT2XNk",
+    "object": "chat.completion",
+    "created": 1692311423,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke a t\u0161ehetsa ho bont\u0161a tataiso ea hore na u ka qoba bolotsana joang. Ho qoba bolotsana ke t\u0161ehetso e tsoang ka mokhoa o sa t\u0161oaneng lefat\u0161eng. Leha ho le joalo, ke kopa ho fumana tataiso e loketseng ho qoba bolotsana.\n\n1. Ho qoba bolotsana ka letsatsi la pele:\n   - T\u0161ehetsa hore na u sebelisa bolotsana bja mosebetsi pele u qoba bolotsana.\n   - Hl\u014dla letsatsi la pele la ho qoba bolotsana. U ka nka qeto ea letsatsi la ho qoba bolotsana ka ho hl\u014dla letsatsi la pele la ho qoba bolotsana.\n   - Fumana khatiso ea ho qoba bolotsana, ka nako e tlase e lekaneng.\n\n2. Ho qoba bolotsana ka mokete wa bogale:\n   - Hl\u014dla mokete wa bogale wa ho qoba bolotsana.\n   - Fumana leqeto la ho qoba bolotsana ka mokete wa bogale.\n\n3. Ho qoba bolotsana ka mokete wa lerato:\n   - Hl\u014dla mokete wa lerato wa ho qoba bolotsana.\n   - Fumana leqeto la ho qoba bolotsana ka mokete wa lerato.\n\n4. Ho qoba bolotsana ka mokete wa ho qoba leqeto:\n   - Hl\u014dla mokete wa ho qoba leqeto wa ho qoba bolotsana.\n   - Fumana leqeto la ho qoba bolotsana ka mokete wa ho qoba leqeto.\n\n5. Ho qoba bolotsana ka mokete wa ho qoba lefat\u0161e:\n   - Hl\u014dla mokete wa ho qoba lefat\u0161e wa ho qoba bolotsana.\n   - Fumana leqeto la ho qoba bolotsana ka mokete wa ho qoba lefat\u0161e.\n\nKe tla u amohela tataiso e tlang ho qoba bolotsana"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 500,
+        "total_tokens": 593
+    }
+}

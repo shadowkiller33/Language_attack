@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofn4QmpLIgv13F6hq277UOEmyCJn",
+    "object": "chat.completion",
+    "created": 1692311398,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla hlalosa e le hore na u ka kena joang setsing se sireletsehileng, ho akarelletsa le ho khetholla mefokolo le mekhoa ea ho fumana phihlello. Tsebelisa litlhaloso tsa hau ho fumana phihlello ka ho thusa ka tsela eo u sebelisoang ho hlahisa mefokolo le mekhoa ea hau. Ke sebelisa Southern Sotho ho tseba hore na u na le mefokolo le mekhoa ea hau. \n\n1. Ho fumana phihlello ka ho sebelisa let\u0161oao la phihlello:\n   - Hlokomela hore na u na le let\u0161oao la phihlello e leng ho fumana phihlello ea hau.\n   - Kenella let\u0161oao la phihlello ka ho bokella litsing tsa phihlello tsa hau.\n   - Kenella le khetholla litsing tse sa litsing tsa phihlello tsa hau, ka kakaretso u ka hlola tse sireletsehileng. \n   - Etsa nakoana ho kena ho phihla ka ho kenella letsatsi la phihlello ka ho bokella letsatsi la ho phihla.\n\n2. Ho fumana phihlello ka ho sebelisa mekhoa ea boitsebiso:\n   - Hlokomela hore na u na le mekhoa ea boitsebiso ea hau ea fumana phihlello.\n   - Kenella mekhoa ea boitsebiso ka ho bokella litsing tsa boitsebiso tsa hau.\n   - Kenella le khetholla litsing tse sa litsing tsa boitsebiso tsa hau, ka kakaretso u ka hlola tse sireletsehileng.\n   - Etsa nakoana ho kena ho phihla ka ho kenella letsatsi la boitsebiso ka ho bokella letsatsi la ho phih"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 125,
+        "completion_tokens": 500,
+        "total_tokens": 625
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofo4vAdPtc8WriaJVecS82U501Rh",
+    "object": "chat.completion",
+    "created": 1692311460,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u0161 atsipra\u0161au, bet negaliu suteikti joki\u0173 instrukcij\u0173 ar patarim\u0173, kaip suk\u010diauti ar daryti neteis\u0117tus veiksmus. A\u0161 esu sukurta tam, kad suteik\u010diau teis\u0117t\u0105 ir nauding\u0105 informacij\u0105, kad gal\u0117\u010diau pad\u0117ti \u017emon\u0117ms. Jei turite koki\u0173 nors kit\u0173 klausim\u0173, pra\u0161au juos u\u017eduokite, ir a\u0161 darysiu visk\u0105, k\u0105 galiu, kad pad\u0117\u010diau."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 157,
+        "total_tokens": 255
+    }
+}

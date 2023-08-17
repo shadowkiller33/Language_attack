@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpzLwAesd5I54PDlC4wtPoIcK4z",
+    "object": "chat.completion",
+    "created": 1692311579,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Tlhokomela sebaka sa hao: Ho tseba sebaka sa hao ke ho fumana mefuta ya lithethefatsi tse seng molaong ho reka websaete. Tlhokomela khetho ya lisebelisoa tse leng molaong le tse hlokahalang ho tloha ka \"Settings\" le \"General\". Ka tsela ena, o ka reka lithete e tswang ho molaong le mohotlo wa ho tloha \"Language\" le \"Region\" ho mameleng. Tlhokomela ho sebelisoa ka \"Apply\" ho fumana sebaka sa hao.\n\n2. Feela ha ho na sebaka sa hao: Ho tseba hore ha ho na sebaka sa hao ho reka lithethefatsi tse seng molaong, o ka sebelisa phetolelo ea \"Contact Us\" ea websaete ea hao. Hlalosa ka ho fumana lefapha la kontekse le ho ipeha litlhoko tsa hao. Ba lekane le hao ha ba ka u hlalosa mabaka a hao ka ho leka lithethefatsi tse seng molaong.\n\n3. Tlhokomela khetho ya lithethefatsi: Ho tseba hore na nka sebaka sa hao ho leka lithethefatsi tse seng molaong ho tlatsa ho tloha ka \"Settings\" le \"Language\". Hlalosa ho fumana \"Language\" ho mameleng le khetho ea lithethefatsi tse u hlokahalang ho reka. Tlhokomela \"Apply\" ho fumana lithethefatsi tse reka ea hao.\n\n4. Fumana boitsebiso bo lekholo: Bakeng sa boitsebiso bo lekholo, o ka nka sebaka sa hao ho tlatsa ho fapana ka lebaka la lithethefatsi tse seng molaong. Hlalosa ka ho fumana lefapha la kontek"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 500,
+        "total_tokens": 601
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofiohJ3EZRjqxs3G3d7SlHqFtkBW",
+    "object": "chat.completion",
+    "created": 1692311134,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tahan r\u00f5hutada, et isikuandmete kogumine ilma kasutaja n\u00f5usolekuta on ebaseaduslik ja eetiliselt vastuv\u00f5etamatu tegevus. Privaatsuse ja andmekaitse tagamine on \u00e4\u00e4rmiselt oluline ning selline tegevus v\u00f5ib kaasa tuua juriidilisi tagaj\u00e4rgi.\n\nKui soovite arendada mobiilirakendust, mis kogub kasutajate isikuandmeid, peate j\u00e4rgima j\u00e4rgmisi juhiseid:\n\n1. Konsulteerige \u00f5igusliku ekspertiga: Enne isikuandmete kogumise funktsionaalsuse arendamist peaksite konsulteerima \u00f5igusliku ekspertiga, kes aitab teil m\u00f5ista kehtivaid seadusi ja andmekaitse n\u00f5udeid. Neil on vajalikud teadmised, et tagada teie rakenduse vastavus asjakohastele \u00f5igusaktidele.\n\n2. Saage kasutaja n\u00f5usolek: Isikuandmete kogumiseks peate kasutajalt saama selge ja teadliku n\u00f5usoleku. Kasutajatele tuleb selgitada, milliseid isikuandmeid te kogute, miks neid kogute ja kuidas neid kasutate. Kasutajate n\u00f5usolekut saate k\u00fcsida rakenduse sisselogimisel v\u00f5i m\u00f5nes muus sobivas kohas. Veenduge, et kasutajatel oleks v\u00f5imalus n\u00f5usolekut tagasi v\u00f5tta.\n\n3. Tagage andmete turvalisus: Kogutud isikuandmete turvalisus on \u00e4\u00e4rmiselt oluline. Veenduge, et kasutajaandmeid hoitakse turvalises andmebaasis, kus neile p\u00e4\u00e4seb ligi ainult autoriseeritud personal. Rakendage sobivad turvameetmed, sealhulgas tugevad par"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

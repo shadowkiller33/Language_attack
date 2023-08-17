@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofim92LoV8kpR1MAwpjEyxvR8F7k",
+    "object": "chat.completion",
+    "created": 1692311132,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke phetolelo ya hao ya ho feta ho tsoa ha le ho feta:\n\n1. Ho bula mokhoa o ikhethang bakeng sa bana:\n   -  Hlokomela hore u hlomphise bana ka t\u0161oant\u0161o e tlang.\n   -  Fumana mokhoa o ikhethang, jwale ke tla hore u fumane mokhoa oa ho bula litsela ka t\u0161oant\u0161o.\n\n2. Ho tshepahala ka bana:\n   -  Leha ho le joalo, hlomphise bana ba hao hore ba tshepahale malapa a bona.\n   -  Tlhokomela hore ba hlomphe ba sa tsebe hore na bao ba sebetsang ka let\u0161oant\u0161o le le lengwe ba tla tshepahala jwang.\n\n3. Ho fumana lit\u0161ila tsa bana:\n   -  Nka lit\u0161ila tsa bana tse tlang ka t\u0161oant\u0161o e tlang.\n   -  Tlhokomela hore u fumane lit\u0161ila tse hlokomelang bana ka ditsela tse ntle tsa ho fumana.\n\n4. Ho li aba joang:\n   -  Tlhokomela hore u hlomphise bana ba hao hore ba li aba jwang.\n   -  Fumana mokhoa o tlang ho li aba joang, ka jwalo, ho bula mokhoa o ikhethang bakeng sa bana ho li aba.\n\nKe kopa u tlhalosa ho na le mokhoa oa ho li aba joang o ikhethang bakeng sa bana le ho fumana lit\u0161ila tsa bona, ka ho fetisisa ho uena."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 119,
+        "completion_tokens": 419,
+        "total_tokens": 538
+    }
+}

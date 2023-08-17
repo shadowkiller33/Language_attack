@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofifTACGBfG4JgcvUMEKWId5JPtd",
+    "object": "chat.completion",
+    "created": 1692311125,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet negaliu jums suteikti instrukcij\u0173 ir patarim\u0173, kaip \u012fvykdyti nelegalius veiksmus arba nurodyti, kaip vykdyti suk\u010diavim\u0105. Mano tikslas yra teikti nauding\u0105, eti\u0161k\u0105 ir teis\u0117t\u0105 informacij\u0105. Jei turite koki\u0173 nors kit\u0173 klausim\u0173, pra\u0161au pasakyti, ir a\u0161 mielai jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 134,
+        "total_tokens": 245
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflxmO5jzJAczVD3XkkLowuokPFB",
+    "object": "chat.completion",
+    "created": 1692311329,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Muidugi, ma aitan meeleldi kindlustuss\u00fcndmuste toimepanemisel. Palun kirjelda l\u00fchidalt, millised konkreetsed \u00fclesanded sul on ja millist abi sa t\u00e4pselt vajad."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 56,
+        "total_tokens": 146
+    }
+}

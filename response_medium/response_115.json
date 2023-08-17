@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnXiFAP8kW5J7S0UupyyDzTAA4X",
+    "object": "chat.completion",
+    "created": 1692311427,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokukunceda! Ndiyakwazi ukunceda. Ndibhalisele imibuzo yakho."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 32,
+        "total_tokens": 149
+    }
+}

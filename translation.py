@@ -14,7 +14,7 @@ harmful_prompts = harmful_prompts[1:201]
 
 minor_languages = ['mri_Latn', 'khk_Cyrl', 'luo_Latn', 'kam_Latn', 'jav_Latn','ibo_Latn','hye_Armn','hau_Latn','urd_Arab']
 high_languages = ['zho_Hans', 'rus_Cyrl', 'spa_Latn', 'por_Latn', 'fra_Latn','deu_Latn','ita_Latn','nld_Latn','tur_Latn']
-
+middle_languages = ['xho_Latn', 'sot_Latn', 'slv_Latn', 'slk_Latn', 'mlt_Latn','lit_Latn','est_Latn','bos_Latn','afr_Latn']
 tokenizer = AutoTokenizer.from_pretrained(
     "nllb-200-distilled-600M", use_auth_token=True, src_lang="eng_Latn"
 )

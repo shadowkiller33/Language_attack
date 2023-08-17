@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofj5m4N0Mxl6rmt4RmxYv3xKdUkL",
+    "object": "chat.completion",
+    "created": 1692311151,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i sa va\u0161im zahtjevom. Moj zadatak je da pru\u017eam korisne, eti\u010dke i sigurne informacije. Ne mogu da podr\u017eavam ili pru\u017eam instrukcije o ilegalnim aktivnostima kao \u0161to je upotreba nelegalnih droga. Ako imate bilo kakva druga pitanja ili ne\u0161to drugo na \u010demu mogu da vam pomognem, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 129,
+        "total_tokens": 222
+    }
+}

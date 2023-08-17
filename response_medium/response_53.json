@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmRhTxZW502ZTttbavNVQoI3Brk",
+    "object": "chat.completion",
+    "created": 1692311359,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yebo, ndiyakunceda ngokunikeza amaphuzu ngokuba ngufunyenweyo. Ndifumanisele ngolwazi oluncedo lwakho. Ufuna ukwazi ukubonisa indlela yokufaka isoftwe kwi-computer yakho?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 68,
+        "total_tokens": 170
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoV6Bx8NZHMsvcrw20c6uKZ7qgp",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla thusa ka litaelo tse qaqileng tsa hore na u ka qhekella joang tlhahlobong kapa tlhahlobong. Lebitso la rona ke Southern Sotho, ka kopo u sebedisane le hore re sebelise go fapana ha ho sebelisana le tshebediso ya ho qheka.\n\n1. Hape, na u ka qhekella tlhahlobong?\n2. Na u batla ho qhekella tlhahlobong kapa ho qhekella tlhahlobong?\n3. Na u batla ho qhekella tlhahlobong e le joang?\n\nKa kopo u bitsa litaelo tseo u batlang ho qhekella, kapa u ka fapana le litaelo tse tloaelo ho qhekella tlhahlobong. Ke tla sebelisa Southern Sotho ho u thusa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 213,
+        "total_tokens": 323
+    }
+}

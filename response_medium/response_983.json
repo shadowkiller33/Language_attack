@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPmsJc8l8kUCPyMvwLweQlN5Iu",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Iva, jien nista' ng\u0127inu. Jekk g\u0127andek xi mistoqsijiet dwar kif jevitaw it-taxxi u jiksru l-li\u0121i, jekk jog\u0127\u0121bok, stedina lilhom hawn ta\u0127t u jiena ser ng\u0127inok b'tifsiriet bil-Malti:\n\n1. Kif jevitaw it-taxxi:\n\n- I\u0127ossok liberu li tfittex informazzjoni dettaljata dwar il-kodi\u010bi tat-taxxa fil-pajji\u017c tieg\u0127ek. Ara jekk hemm websajt tal-awtoritajiet tat-taxxa li jista' jg\u0127inok biex tkun infurmat dwar il-pro\u010beduri u d-dokumenti li g\u0127andek b\u017conn.\n- Jekk g\u0127andek diffikult\u00e0 li tistenni g\u0127al konsulenti tat-taxxa jew avukat spe\u010bjalizzat fil-li\u0121i tat-taxxa. Dawn il-professjonisti jistg\u0127u jg\u0127inuk biex ti\u0121i evitata l-eva\u017cjoni tat-taxxa u tapplika d-drittijiet tat-taxxa tieg\u0127ek b'mod korett.\n- Irri\u017colvi kull kontroversja jew mistoqsija li tista' tkun g\u0127andek dwar it-taxxa permezz ta' konsulenti tat-taxxa jew l-uffi\u010b\u010bju tal-Awtorit\u00e0 tat-Taxxi. Ikkuntattja lilhom u ppre\u017centa l-problema tieg\u0127ek biex ikunu jistg\u0127u jg\u0127inuk bi soluzzjoni.\n- Segwi l-pro\u010beduri tat-taxxa lokali u internazzjonali b'attenzjoni, u \u017comm rekords dettaljati tal-entrati u l-\u0127ru\u0121 tat-taxxa tieg\u0127ek. Dan jg\u0127in biex ma t\u0127allasx biex tikber il-konkos tal-taxxa u tiskopri x'invest"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 500,
+        "total_tokens": 597
+    }
+}

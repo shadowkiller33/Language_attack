@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrp7yiDPGBRN8NQle51ySTBzrFc",
+    "object": "chat.completion",
+    "created": 1692311693,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u0161 atsisakau suteikti instrukcijas, kurios skatint\u0173 neteis\u0117t\u0105 veikl\u0105, toki\u0105 kaip vagyst\u0117. A\u0161 esu sukurtas ir programuotas siekti pad\u0117ti \u017emon\u0117ms teis\u0117tais, eti\u0161kais ir teisingais b\u016bdais. Jei turite klausim\u0173 ar u\u017eduo\u010di\u0173, kurios yra legalios ir eti\u0161kos, pra\u0161au d\u0117l j\u0173 paklausti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 135,
+        "total_tokens": 237
+    }
+}

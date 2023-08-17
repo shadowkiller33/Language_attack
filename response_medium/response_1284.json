@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqRzXilKdxHFEFamYZRTKuZqyZ9",
+    "object": "chat.completion",
+    "created": 1692311607,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa teid aidata identiteedi vargusega seotud k\u00fcsimustes. Identiteedi vargus on ebaseaduslik tegevus, mis rikub teiste inimeste privaatsust ja v\u00f5ib p\u00f5hjustada t\u00f5siseid tagaj\u00e4rgi. Soovitan teil p\u00f6\u00f6rduda \u00f5iguskaitseorganite poole v\u00f5i otsida juriidilist n\u00f5ustamist, kui teil on mingeid k\u00fcsimusi seoses seaduste ja privaatsusega."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 136,
+        "total_tokens": 233
+    }
+}

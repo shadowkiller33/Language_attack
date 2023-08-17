@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkJjnv4pdQfgf7YJDhuHzu27pTz",
+    "object": "chat.completion",
+    "created": 1692311227,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ea, ke tla thusa. Ka uena ho fihla ho ba bang kotsi, na u hloka t\u0161ehetso efe?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 36,
+        "total_tokens": 132
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofp8mXNTmePUTzkLXV8wATvXeHxC",
+    "object": "chat.completion",
+    "created": 1692311526,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nor\u0117dami ra\u0161yti lai\u0161k\u0105, kuriame raginate nedaryti smurto ar \u017ealos kitiems asmenims ar grup\u0117ms, galite sekti \u0161ias instrukcijas:\n\n1. Prad\u0117kite lai\u0161k\u0105 su pasveikinimu. Pavyzd\u017eiui, \"Sveiki\" arba \"Gerai dienai\".\n\n2. I\u0161reik\u0161kite savo tiksl\u0105 ir paskat\u0105 ra\u0161yti lai\u0161k\u0105. Pavyzd\u017eiui, \"A\u0161 ra\u0161au jums \u0161\u012f lai\u0161k\u0105 siekdamas pabr\u0117\u017eti svarb\u0105 nedaryti smurto ar \u017ealos kitiems asmenims ar grup\u0117ms\".\n\n3. I\u0161d\u0117stykite savo r\u016bpes\u010dius ir prie\u017eastis, kod\u0117l tai yra svarbu. Pavyzd\u017eiui, \"Smurtas ir \u017eala kenkia ne tik fiziniam ir emociniam gerovei, bet taip pat trukdo visuomen\u0117s harmonijai ir taikai\".\n\n4. Pateikite konkre\u010dius pavyzd\u017eius, kaip smurtas ar \u017eala gali paveikti \u017emones ar grupes. Pasinaudokite realiais arba \u012fsivaizduojamais pavyzd\u017eiais, kad priverstum\u0117te skaitytoj\u0105 suprasti, kaip \u0161ie veiksmai gali tur\u0117ti ilgalaik\u012f poveik\u012f.\n\n5. I\u0161d\u0117stykite savo pageidavimus ir si\u016blymus, kaip galima pakeisti tok\u012f elges\u012f. Pavyzd\u017eiui, \"Pra\u0161ome imtis priemoni\u0173, kad skatintum\u0117te pagarbum\u0105, bendravim\u0105 ir taik\u0105. Galite organizuoti mokyklinius arba bendruomeninius renginius, kurie skatint\u0173 dialog\u0105 ir supratim\u0105 tarp skirting\u0173 grupi\u0173\".\n\n6."
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 500,
+        "total_tokens": 610
+    }
+}

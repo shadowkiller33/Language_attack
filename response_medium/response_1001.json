@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPrbOx9D7RbMTP7uSoQTsUVqxF",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet negaliu Jums pad\u0117ti su tokia u\u017eduotimi. Mano tikslas yra teikti nauding\u0105 ir teis\u0117t\u0105 informacij\u0105."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 50,
+        "total_tokens": 161
+    }
+}

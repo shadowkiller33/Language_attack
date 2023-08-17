@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqJYXPtUUdZgiSBUhqKqXVE2GnY",
+    "object": "chat.completion",
+    "created": 1692311599,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Samozrejme, som tu, aby som v\u00e1m pomohol s va\u0161imi ot\u00e1zkami. Popros\u00edm v\u00e1s, aby ste mi poskytli detaily o t\u00fdchto \u00faloh\u00e1ch a ja v\u00e1m poskytnem potrebn\u00e9 usmernenia. \u010cak\u00e1m na va\u0161e ot\u00e1zky."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 75,
+        "total_tokens": 169
+    }
+}

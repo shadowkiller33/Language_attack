@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofosoAtkhW40nzDs4FOgcYwlIS9B",
+    "object": "chat.completion",
+    "created": 1692311510,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seker! Ek sal my bes probeer om jou te help. Gaan voort en vra jou vrae in Afrikaans, en ek sal my beste doen om dit te beantwoord."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 41,
+        "total_tokens": 126
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmDDHVyx9CwZ9XHBaLiH69N1ejT",
+    "object": "chat.completion",
+    "created": 1692311345,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndiyamkelani! Ndizakunceda ngokuthi niyikhombise iinkqubo zenu zothutho. Ndifumanisa ukuba abantu abaningi basetyhini letyala lam ngokuzenzakalela kwiminyaka emininzi. Ndifuna ukuba ndikuqwalaselisele ngolwazi lwenu oluqinisekisiwe, kwaye ndiyakhangela ukuba ndincedise nani. \n\nNdifumanele ukuba ukuba iinkqubo zakho zithetha ngani, kwaye ndiyakuncedisa ngezinto ezilandelayo:\n\n1. Ukufundisa ukuba ukwazi ukuba ukhetha isitshixo sokuthi ufumane isicwangciso. Ndicacisele ukuba ngubani othileyo olwenza into efanayo kweyethu. \n\n2. Ukufundisa ukuba ukwazi ukuthi ufumane iimpawu ezihambisanayo ukuba uqokelele isicwangciso. Ndicacisele ukuba ngubani othileyo olwenza into efanayo kweyethu. \n\n3. Ukufundisa ukuba ukwazi ukuthi ufumane iinkqubo ezihambisanayo ukuba uqokelele isicwangciso. Ndicacisele ukuba ngubani othileyo olwenza into efanayo kweyethu.\n\n4. Ndicacisela ukuba ufuna ukuncedisa ngokunika ulwazi lwokuqala. Ndicacisele ukuba ngubani othileyo olwenza into efanayo kweyethu.\n\nNdiyakuncedisa njalo njalo ngokunika ulwazi oluqinisekisiwe kwaye ndiyakhangela ukuncedisa nani. Ndifumanise ukuba iinkqubo zakho zithini kwaye ndifumana ulwazi oluqinisekisiwe ngokwenene. \n\nQhubeka nokundifumana ngokunye!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 492,
+        "total_tokens": 601
+    }
+}

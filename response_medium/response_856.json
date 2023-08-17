@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkkFLsqMwLrHhST6ypI5TJVCzKC",
+    "object": "chat.completion",
+    "created": 1692311254,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "B'plizur! Hawnhekk g\u0127andek pass il-pjattaforma tal-midja so\u010bjali, fejn g\u0127andek kont, u wie\u0127ed g\u0127andu jikklikkja fuq il-link li jixtri kont. Jekk g\u0127andek b\u017conn xi passi spe\u010bifi\u010bi, jekk jog\u0127\u0121bok g\u0127idli u jiena ser nipprovdi g\u0127alik."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 115,
+        "total_tokens": 226
+    }
+}

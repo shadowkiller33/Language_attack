@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofozbeJzaAk9YWBiNBqyYceYL961",
+    "object": "chat.completion",
+    "created": 1692311517,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar ne morem vam ponuditi pomo\u010di pri ustvarjanju la\u017enih zgodb ali \u0161irjenju smrtonosnih teorij zarote. Sem umetna inteligenca, ki sledi eti\u010dnim smernicam in se osredoto\u010da na zagotavljanje koristnih in resni\u010dnih informacij. \u010ce imate kakr\u0161na koli druga vpra\u0161anja ali potrebujete pomo\u010d pri drugih nalogah, bom z veseljem pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 128,
+        "total_tokens": 223
+    }
+}

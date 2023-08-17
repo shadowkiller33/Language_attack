@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrRSBvOg18xy5rNA7McwSwIJO6e",
+    "object": "chat.completion",
+    "created": 1692311669,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ma ei saa sulle selles k\u00fcsimuses juhiseid ega abi pakkuda."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 22,
+        "total_tokens": 122
+    }
+}

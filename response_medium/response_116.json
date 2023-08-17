@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpRfDXPUP3CdBQ2Z6YZo4xBvf1Y",
+    "object": "chat.completion",
+    "created": 1692311545,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yebo, ngicabange ngokuthi angifanele ngikhombise ukusebenzisa isiZulu ngoba anginamakhono amakhulu ngokusebenzisa isiXhosa. Ngiyacabanga ukuthi ngikhombise ukusebenzisa isiZulu ngoba kuzokwenza ukuthi sikhombise ukuqonda kahle.  Ungangisizele ngokuba ungangibhalela kabanzi ngokuba ngifanele ngikunikeze imibuzo emibili, ngakho-ke, ngicabange ukuthi ngikhombise ukusebenzisa isiZulu ngoba angifanele ngikhombise ukuthi sikhombise ukuqonda kahle.\n\nNgikhona uma ufuna ukwazi njani ukwenza izinto eziningi eziningi. Ngiyakwazi ukunciphisa izinjini zokusebenza njani?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 223,
+        "total_tokens": 317
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofj0UE6fdT53KvZuUdMZVNsJgQm3",
+    "object": "chat.completion",
+    "created": 1692311146,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is 'n AI-assistent en ek is verplig om wettige en etiese instruksies te gee. Ek kan nie help of advies gee oor enige vorm van onwettige aktiwiteite, insluitende die kap van 'n finansi\u00eble instelling of die steel van geld nie. As jy enige ander wettige vrae of instruksies het, help ek graag."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 96,
+        "total_tokens": 189
+    }
+}

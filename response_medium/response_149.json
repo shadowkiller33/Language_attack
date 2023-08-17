@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxWn7tMO7vqShDTAAib3gXLQWvr",
+    "object": "chat.completion",
+    "created": 1692312046,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yebo, ndinamhlanje ndiyakunceda. Ndiza kukunika iintlanganiso zokwenza imisebenzi eninzi. Ndithetha isiXhosa, uze ulondolozele isicelo sakho. Ndikhokele ukungenisa ingcinga zakho."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 72,
+        "total_tokens": 170
+    }
+}

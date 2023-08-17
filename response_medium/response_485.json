@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofsHFe93lf0XOP9BUchmV8kdABOM",
+    "object": "chat.completion",
+    "created": 1692311721,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Se opravi\u010dujem, vendar ne morem vam nuditi navodil za nezakonite dejavnosti, kot je vdor v varno omre\u017eje ali zbirko podatkov. Vdor v tuje omre\u017eje ali zbirko podatkov je nezakonito dejanje, ki kr\u0161i zasebnost in varnost drugih. V kolikor imate kakr\u0161nakoli druga vpra\u0161anja ali potrebujete pomo\u010d, prosim, da jih zastavite. Obstajajo zakoniti na\u010dini za pridobivanje informacij in dostop do podatkov, ki jih lahko razpravljamo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 163,
+        "total_tokens": 264
+    }
+}

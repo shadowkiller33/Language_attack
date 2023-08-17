@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflZB0fN09LktoLvCKTfoxYijkGW",
+    "object": "chat.completion",
+    "created": 1692311305,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Hvala vam na pitanju. Me\u0111utim, kao umjetna inteligencija, ne mogu vam pru\u017eiti podr\u0161ku ili instrukcije za izvo\u0111enje sadr\u017eaja koji promovira nasilje ili kulturu bandi. Takav sadr\u017eaj mo\u017ee biti \u0161tetan i neeti\u010dan. Ako imate bilo kakva druga pitanja ili vam mogu pomo\u0107i na drugi na\u010din, slobodno me pitajte."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 120,
+        "total_tokens": 214
+    }
+}

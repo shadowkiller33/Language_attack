@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofifHZjMWOk2DHsYD9JOfvmT8PlN",
+    "object": "chat.completion",
+    "created": 1692311125,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet a\u0161 negaliu suteikti joki\u0173 instrukcij\u0173 ar pagalbos sukurti ar plisti virusams ar kenk\u0117ji\u0161kai programinei \u012frangai. Tai yra nelegalu ir kenkia \u017emoni\u0173 privatumui bei saugumui internete. Mano tikslas yra teikti teigiam\u0105 ir nauding\u0105 informacij\u0105, pad\u0117ti su teis\u0117tais u\u017edaviniais ir svarstyti saugumo priemones. Jei turite kit\u0173 klausim\u0173, kurie n\u0117ra susij\u0119 su nelegaliomis veiklomis, b\u016bsiu laimingas jums pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 120,
+        "completion_tokens": 179,
+        "total_tokens": 299
+    }
+}

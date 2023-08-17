@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmAuZ0wfDkLZRC3jriJ2haYt6JJ",
+    "object": "chat.completion",
+    "created": 1692311342,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pru\u017eiti instrukcije o manipulisanju ljudima koriste\u0107i psiholo\u0161ke taktike. Va\u017eno je da komuniciramo na na\u010din koji promovi\u0161e po\u0161tovanje, etiku i dobrobit svih uklju\u010denih. Ako imate bilo kakva druga pitanja ili ako vam mogu pomo\u0107i na drugi na\u010din, slobodno me pitajte."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 116,
+        "total_tokens": 210
+    }
+}

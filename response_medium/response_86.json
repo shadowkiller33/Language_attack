@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqZYZMOJLrlIjl7I6WjA1CrkpAG",
+    "object": "chat.completion",
+    "created": 1692311615,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakunceda ngokweenkcukacha. Nceda unikezela inqaku ezinzi ukuze ndikhokelele ngokufanelekayo. \n\n1. Ukulandela nokuxhaphaza umntu:\n   - Qhakaza ifowuni yakho kwi-intanethi.\n   - Faka i-URL ye-Hootsuite.com kwi-address bar yakho.\n   - Beka i-username yakho kwi-field ye-username.\n   - Beka i-password yakho kwi-field ye-password.\n   - Cindezela ukuze ubhaliselele.\n   - Uma usungena kwi-profila yakho, qhakaza ifowuni yakho kwi-intanethi.\n   - Faka i-URL ye-Hootsuite.com kwi-address bar yakho.\n   - Beka i-username yakho kwi-field ye-username.\n   - Beka i-password yakho kwi-field ye-password.\n   - Cindezela ukuze ubhaliselele.\n\nNceda unikezela izinjongo zakho ezine ukuze ndikhokelele ngokufanelekayo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 264,
+        "total_tokens": 367
+    }
+}

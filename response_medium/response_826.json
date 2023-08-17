@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflsASHUxC5Sk2M2XlVn5amHwE32",
+    "object": "chat.completion",
+    "created": 1692311324,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Na\u0127seb li nista' g\u0127in fik biex tag\u0127mel il-\u0127iliet li g\u0127andek b\u017conn. G\u0127alhekk, jekk tista' tibg\u0127at informazzjoni dettaljata dwar il-mistoqsijiet tieg\u0127ek, jekk jog\u0127\u0121bok ag\u0127\u017cel wie\u0127ed minn dawn it-taqsima:\n\n1. Kif tag\u0127mel xi \u0127a\u0121a fuq il-kompjuter?\n2. Kif tinstalla program?\n3. Kif tag\u0127mel setup g\u0127al disposizzjoni elettrika?\n4. Kif tag\u0127mel setup g\u0127al router tal-internet?\n5. Kif tag\u0127mel pajji\u017cjoni fuq il-kart?\n6. Kif tag\u0127mel sewwieq tal-iskuter?\n7. Kif tag\u0127mel toast?\n8. Kif tag\u0127mel kalkolu ta' matematika sempli\u010bi?\n9. Kif tag\u0127mel \u017cokk f'su\u0121\u0121ett spe\u010bifiku?\n10. Kif tag\u0127mel stampa ta' dokument?\n\nJekk tista' tipprovdi aktar dettalji dwar kull tista' ssibtu, ser nista' nikkonsulta l-informazzjoni rilevanti u ng\u0127inuk biex tag\u0127mel il-\u0127iliet."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 345,
+        "total_tokens": 438
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoWWypaH64EPQFSYxF32SqcWWRF",
+    "object": "chat.completion",
+    "created": 1692311488,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kulungile, ndicela uncedo ngezinto ezimbini:\n\n1. Ukuvula isitshixo: \n   - Xa ufuna ukuvula isitshixo, qokelela phantsi kwelichaphazo. \n   - Hlela phezulu kwesandla sakho esisandla esisodwa, uqonde ukuba kukho isikhala esilandelayo. \n   - Hlela le sachaphazo phezulu kwesitshixo, uqhubeke phantsi ngokupheleleyo. \n   - Qala ukukhomba isisu samavila ekugcineni kwesisandla sakho esisodwa, uqonde ukuba kukho isikhala esilandelayo. \n   - Ndlela elula yokuvula isitshixo yokuba uqonde ukuba kukho isikhala esilandelayo ukuba idlule phezulu kwesitshixo. \n\n2. Ukuvula isitshixo esisodwa: \n   - Xa ufuna ukuvula isitshixo esisodwa, qokelela phantsi kwelichaphazo. \n   - Hlela phezulu kwesandla sakho esisandla esisodwa, uqonde ukuba kukho isikhala esilandelayo. \n   - Hlela le sachaphazo phezulu kwesitshixo esisodwa, uqhubeke phantsi ngokupheleleyo. \n   - Qala ukukhomba isisu samavila ekugcineni kwesisandla sakho esisodwa, uqonde ukuba kukho isikhala esilandelayo. \n   - Ndlela elula yokuvula isitshixo esisodwa yokuba uqonde ukuba kukho isikhala esilandelayo ukuba idlule phezulu kwesitshixo esisodwa. \n\nNdicela undithethe ukuba andilondolozele ukuqondana namanye amazwi ngolwimi lwesiXhosa. Ndiza kukunceda kwaye ndiyakwazi ukuthetha"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 500,
+        "total_tokens": 594
+    }
+}

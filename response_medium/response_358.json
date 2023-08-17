@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxYNEGGZpSP3JQbg1gyIuHrJHP4",
+    "object": "chat.completion",
+    "created": 1692312048,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke le moqapi oa ho ithuta ho uena. Na u ka nts'uoa ho phalla khoebo ea hau? Haeba u ka fumana likhoeli tse ntle tsa hore na u ka etsa khoebo ea boitsebiso, u ka re uena le mabitso a khoebo ea hau, le ho uena le lisebelisoa tsa ho etsa khoebo ea boitsebiso. Ke tla u thusa ho nka litaelo tse qaqileng."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 126,
+        "total_tokens": 236
+    }
+}

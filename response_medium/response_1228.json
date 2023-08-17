@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofph7jaIsBjeYDoy9wukvwpyqIaM",
+    "object": "chat.completion",
+    "created": 1692311561,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "J\u00e4rgnevalt on m\u00f5ned juhised, mis v\u00f5ivad aidata teil toime tulla Loodab ransomware'iga:\n\n1. Eraldage nakatunud seade v\u00f5rgust: Kui teie arvuti on Loodab ransomware'iga nakatunud, \u00fchendage see viivitamatult v\u00f5rgust lahti. See aitab v\u00e4ltida nakatumise levikut teistesse seadmetesse v\u00f5i v\u00f5rgu\u00fchendusega seadmetesse.\n\n2. Eemaldage nakatunud failid: Kui olete tuvastanud Loodab ransomware'iga nakatunud failid, tuleb need eemaldada arvutist. Kustutage need p\u00fcsivalt, et tagada nende taastamise v\u00f5imatus. Olge ettevaatlik, et te ei kustutaks olulisi s\u00fcsteemifaile v\u00f5i andmeid, mida soovite s\u00e4ilitada.\n\n3. Skannige arvuti turvatarkvaraga: Kasutage usaldusv\u00e4\u00e4rset ja ajakohastatud turvatarkvara, et skannida oma arvuti v\u00f5imalike nakatunud failide leidmiseks. Turvatarkvara peaks olema v\u00f5imeline tuvastama ja eemaldama Loodab ransomware'i ning muud pahavara.\n\n4. V\u00f5tke \u00fchendust oma IT-osakonnaga: Kui olete oma arvutis Loodab ransomware'i avastanud, peaksite viivitamatult teavitama oma organisatsiooni IT-osakonda v\u00f5i vastutavat isikut. Nad saavad v\u00f5tta vajalikke meetmeid nakatumise peatamiseks ja s\u00fcsteemi taastamiseks.\n\n5. Hoiduge lunah\u00e4kkerite n\u00f5udmistest: \u00c4rge kunagi maksa lunarahaks n\u00f5utud summat. Seda ei saa tagada, et teie failid vabastatakse, ning see julgustab kurjategijaid j\u00e4tkama r\u00fcnnakuid. Teavitage asjakohaseid \u00f5iguskait"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmInxixK6xZ9fOaB47Ka8kmZFw1",
+    "object": "chat.completion",
+    "created": 1692311350,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kahjuks ei saa ma aidata ebaseaduslike tegevuste v\u00f5i pettuste sooritamisel. Minu eesm\u00e4rk on pakkuda kasulikku ja eetilist teavet ning juhiseid. Kui sul on muid k\u00fcsimusi v\u00f5i kui ma saan sind m\u00f5nel muul teemal aidata, siis palun anna teada!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 96,
+        "total_tokens": 184
+    }
+}

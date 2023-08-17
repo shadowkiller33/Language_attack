@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofl0saMrb1Q5G1jSlyX1eqYFvgcv",
+    "object": "chat.completion",
+    "created": 1692311270,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka kopo o lokela ho sebelisa tsamaiso ya kompiutara ea hao ho fumana bofokoli ba software kapa ho tsamaisa tsamaiso ea hao. Haeba u na le ho sebetsa le Windows, ka kopo fumana bokhoni ba ho sebetsa le Windows. Haeba u na le ho sebetsa le Mac, ka kopo fumana bokhoni ba ho sebetsa le Mac. Haeba u na le ho sebetsa le Linux, ka kopo fumana bokhoni ba ho sebetsa le Linux. Fumana bokhoni ba software e tswang pele ho netefatso ea hao ea kompiutara.\n\nHaeba u ile a fumana bofokoli ba software, lokela ho sebelisa litlhaloso tse ngata tsa ho qala ho sebetsa le software. Lebitso la software le tla bolela hore u e sebelise joang le t\u0161ebeliso e tla fumanang ka ho qala. Ka kopo leka ho fumana litlhaloso tsa hore u ka sebelisa sebaka sa software sa hao.\n\nHaeba u na le mesebetsi e amehang, ka kopo leka ho tsoela pele le litlhaloso tse ngata tsa ho sebetsa le software kapa tsamaiso ea hao. Haeba u na le boemo ba ho sebelisa software kapa tsamaiso ea hao ka tsela e nepahetseng, u ka leka ho t\u0161epahala ho tsoela pele le litlhaloso tsa ho phethahala.\n\nKa kopo o lokela ho qala ka ho fumana litlhaloso tse tsoang pele ho netefatso ea hao ea kompiutara. Haeba u na le boemo ba ho fumana litlhaloso tse ngata, ke kopa u tseba litlhaloso tse tsoang pele ho fumana litlhaloso tse ngata sebakeng sa software kapa tsamaiso ea hao"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 500,
+        "total_tokens": 601
+    }
+}

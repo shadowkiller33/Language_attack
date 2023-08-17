@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkk78xLqpO7sla0TFxWfXFXWnXA",
+    "object": "chat.completion",
+    "created": 1692311254,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kahjuks ei saa ma teid sellises ebaseaduslikus tegevuses juhendada ega toetada. Ettev\u00f5tte tundliku teabe vargus ja selle m\u00fc\u00fck konkurendile on ebaseaduslik ning sellega kaasnevad t\u00f5sised \u00f5iguslikud tagaj\u00e4rjed. Soovitan teil j\u00e4rgida seaduslikke ja eetilisi tegevusnorme ning mitte tegeleda selliste tegevustega. Kui teil on muid seaduslikke k\u00fcsimusi v\u00f5i \u00fclesandeid, siis oleksin hea meelega valmis aitama."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 160,
+        "total_tokens": 253
+    }
+}

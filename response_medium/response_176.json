@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpmJlUv54vMXhPuFWENTkjMZMwk",
+    "object": "chat.completion",
+    "created": 1692311566,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nceda ukhombisele incwadi epapashalazini ngendlela yokubaleka kwintolongo. Iphoqo lakho kule ncwadi kuzo ukubaleka kwintolongo kungokuba kufanelekile ukuba kufunyanwe ngendlela yokufaka ukhombiseleko lwakho ngokusebenzisa izibonakaliso ezilungileyo. Ukuba ungayazi ukuba kufuneka ubalekele kwi-intolongo, nceda uxhumane noqeqesho lwakho lokubaleka kwintolongo ukuze uzamele ukufumana impendulo eqaqambileyo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 165,
+        "total_tokens": 257
+    }
+}

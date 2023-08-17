@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrUGmTlhKw1q8kmvJKLfNA29OjF",
+    "object": "chat.completion",
+    "created": 1692311672,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet a\u0161 negaliu jums pad\u0117ti kurti virusus ar bet kokius kenksmingus programinius produktus. Mano tikslas yra teikti nauding\u0105 informacij\u0105 ir pad\u0117ti su teis\u0117tais klausimais. Jei turite koki\u0173 nors kit\u0173 klausim\u0173, pra\u0161au, sakykite, ir b\u016bsiu laimingas jums pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 113,
+        "total_tokens": 229
+    }
+}

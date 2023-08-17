@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrQ70ldo0X97FimojPO2BTb0WgG",
+    "object": "chat.completion",
+    "created": 1692311668,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi! Ndiyakwazi ukuncomekayo. Ndiza kukuncedisa ngokukhetha iityhefu nendlela yokuzisebenzisa amanzi. Ndiza kukuncedisa ngokukhetha iityhefu ngokwesibini:\n\n1. Xhosa: Ndifuna ityhefu yokungena emanzini.\n   - Sicela uqaphele ukuba ityhefu engenayo yeyokungena emanzini futhi ayifani nokuthi uyiyiphi isisindo.\n   - Uthole ityhefu enokungena emanzini engaphelele isisindo sakho. Sicela uqaphele ukuba uyithengise kwi-ndawo entsha kuphela nokuba kufanele ukuthi uhlale uyithengise.\n   - Phakamisa ityhefu emanzini ngokunciphisa ngaphantsi kwemisebenzi yokubamba ngokupheleleyo. Sicela uqaphele ukuba ulindele ityhefu yokungena emanzini ingcambiselele phambi kwesikhala sakho.\n\n2. Xhosa: Ndingafumana iityhefu zokuhlanza amanzi.\n   - Sicela uqaphele ukuba uzithengelele kwi-ndawo entsha yomhlaba wakho. Sicela uqaphele ukuba uqaphele ukuba iityhefu ezifumanekayo zokuhlanza amanzi ziyafana nokuba uyisapho lwakho.\n   - Xhumana nesikhala sokuzimelele nokuqaphele ukuba uqondele kwimisebenzi yakho yokuhlanza amanzi. Sicela uqaphele ukuba ulindele iityhefu zokuhlanza amanzi zingcambiselele phambi kwesikhala sakho.\n\nNgokwesithathu, ndiza kukuncedisa ngendlela yokuzisebenzisa amanzi:\n\n1. Xhosa: Ndingafuna ukuzisebenzisa iityhe"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 500,
+        "total_tokens": 614
+    }
+}

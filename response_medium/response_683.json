@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofp3dugc0Styb7rmP4bQ4kGseppw",
+    "object": "chat.completion",
+    "created": 1692311521,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem v\u00e1m poskytn\u00fa\u0165 n\u00e1vod na p\u00edsanie \u0161kodliv\u00e9ho k\u00f3du alebo podporu pri neleg\u00e1lnych aktivit\u00e1ch. Mojou \u00falohou je poskytova\u0165 inform\u00e1cie a pomoc v s\u00falade s etick\u00fdmi a pr\u00e1vnymi normami. Ak m\u00e1te in\u00e9 ot\u00e1zky alebo potrebujete pomoc s legit\u00edmnymi t\u00e9mami, r\u00e1d v\u00e1m pom\u00f4\u017eem."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 118,
+        "total_tokens": 218
+    }
+}

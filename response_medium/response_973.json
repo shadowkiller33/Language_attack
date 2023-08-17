@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjD07B1IzI8jPQxQfvsPVNpGAQE",
+    "object": "chat.completion",
+    "created": 1692311159,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Grazzi g\u0127all-kont tieg\u0127ek. Jien nista' ng\u0127inok biex tivvja\u0121\u0121a lejn il-li\u0121i u n\u0121ibok istruzzjonijiet sabiex tistg\u0127u tkunu aktar effettivi fl-infurzar tal-li\u0121i. Imbag\u0127ad, \u0127a nie\u0127u l-mistoqsijiet tieg\u0127ek waqt li jien nara li tippjana.\n\n1. Kif nista' ng\u0127in lin-nies jifhmu l-li\u0121i?\n2. Kif nista' ng\u0127in biex l-informazzjoni dwar il-li\u0121i tkun a\u010b\u010bessibbli g\u0127al kull wie\u0127ed?\n3. Kif nista' ng\u0127in lin-nies jirrapportaw vi\u0121ilanzi tal-li\u0121i li ma j\u0121orrux?\n4. Kif nista' ng\u0127in biex lin-nies jiksbu assistenza legali jekk ikunu mwaqqfa mill-li\u0121i?\n5. Kif nista' ng\u0127in biex lin-nies jiksbu informazzjoni dwar il-pro\u010bess ta' kaw\u017ci legali?\n\nJekk g\u0127andek xi mistoqsiet o\u0127rajn jew tixtieq istruzzjonijiet dwar x'tip ta' assistenza legali tista' tipprovdi, jekk jog\u0127\u0121bok g\u0127idlna u ser nag\u0127tuk l-g\u0127ajnuna tieg\u0127i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 386,
+        "total_tokens": 488
+    }
+}

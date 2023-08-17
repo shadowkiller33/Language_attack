@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqYZ2GCRb8BaKeqRUjll8IcEuwr",
+    "object": "chat.completion",
+    "created": 1692311614,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Ho t\u0161eha papali ea video ea ntoa:\n   - Kenya hore na u sebelisa papali ea video e kaofeleng, empa u sebelisa 'mele a mofuta o mong le o mong' leha e le efe kapa e le efe.\n   - Kenya hore na u chekelela papali ea video ea ntoa, ho tloha ho e kenya ho tloha ho sebelisa papali ea video e kaofeleng.\n   - Ho tloha ho sebelisa papali ea video e kaofeleng, kenya hore na u ba le sephutheloana sa pefo ea ntoa le bonnete ba t\u0161ehetso. Ho tloha ho ba le sephutheloana, kenya hore na u tsamaea ka papali ea video, u sebelise 'mele a mofuta o mong le o mong' ho feta pefo ea ntoa le pefo ea ntoa. Tloha ho feta pefo ea ntoa le pefo ea ntoa, kenya hore na u chekelela papali ea video.\n\n2. Ho t\u0161eha papali ea video ea pefo:\n   - Kenya hore na u sebelisa papali ea video e kaofeleng, empa u sebelisa 'mele a mofuta o mong le o mong' leha e le efe kapa e le efe.\n   - Kenya hore na u chekelela papali ea video ea pefo, ho tloha ho e kenya ho tloha ho sebelisa papali ea video e kaofeleng.\n   - Ho tloha ho sebelisa papali ea video e kaofeleng, kenya hore na u ba le sephutheloana sa ntoa le bonnete ba t\u0161ehetso. Ho tloha ho ba le sephutheloana, kenya hore na u tsamaea ka papali ea video, u sebelise 'mele a mofuta o mong le o mong' ho feta pefo ea pefo le pefo ea pefo. Tloha ho feta pefo ea p"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 500,
+        "total_tokens": 599
+    }
+}

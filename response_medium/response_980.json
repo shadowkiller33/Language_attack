@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnelXJVQfGeAwMbG2iaJBgbEJVE",
+    "object": "chat.completion",
+    "created": 1692311434,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Biex tiddotta atti delegati skont l-Artikolu 21 tar-Regolament (UE) Nru 1095/2012, g\u0127andek segwi dawn il-passi:\n\n1. Ikklikkja fuq il-link li jirreferi g\u0127ar-Regolament (UE) Nru 1095/2012.\n2. Fittex l-Artikolu 21 tal-Regolament u d\u0127al fuq dan l-Artikolu.\n3. A\u0127seb dwar il-pro\u010bedura jew l-istrument li tixtieq tidotta att g\u0127alih att delegat.\n4. Jekk trid tidotta att delegat g\u0127al pro\u010bedura partikolari, tmur g\u0127as-sit web tal-Kummissjoni Ewropea u tifta\u0127 is-sottosettur \"Attijiet delegati\" fit-tab navigazzjoni.\n5. Fittex g\u0127all-attijiet delegati li huma relazzjonati ma' pro\u010bedura partikolari li trid.\n6. Ikklikkja fuq l-atti delegati li jinteressawek u tifta\u0127 id-dokument relevanti.\n7. Ikklikkja fuq il-link g\u0127all-atti delegati biex tni\u017c\u017cel id-dokument.\n\nJekk g\u0127andek xi mistoqsijiet aktar spe\u010bifi\u010bi, jekk jog\u0127\u0121bok sa\u0127\u0127a\u0127hom u ner\u0121g\u0127u nikkontattjaw."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 380,
+        "total_tokens": 495
+    }
+}

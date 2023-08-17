@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxVyKADY23OYFuG4VYYJ7uRkpY6",
+    "object": "chat.completion",
+    "created": 1692312045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Da bi se ukvarjali z notranjim trgovanjem in ga uspe\u0161no obvladali, sledite naslednjim korakom:\n\n1. Dolo\u010dite svoj cilj: Najprej morate dolo\u010diti, kaj \u017eelite dose\u010di z notranjim trgovanjem. Ali \u017eelite zaslu\u017eiti dodaten dohodek, diverzificirati svoje nalo\u017ebe ali se nau\u010diti ve\u010d o finan\u010dnih tr\u017enih procesih?\n\n2. Izobra\u017eevanje: Pomembno je, da se dobro izobrazite o notranjem trgovanju, finan\u010dnih instrumentih, analizi trga in tveganjih. Preberite knjige, se udele\u017eujte seminarjev ali spletnih te\u010dajev, poi\u0161\u010dite mentorsko pomo\u010d ali se pridru\u017eite skupnostim, kjer lahko izmenjujete izku\u0161nje z drugimi trgovci.\n\n3. Razvijte trgovalno strategijo: Na podlagi svojih ciljev in izobra\u017eevanja razvijte svojo trgovalno strategijo. Dolo\u010dite, kak\u0161ne vrste finan\u010dne instrumente boste trgovali, kak\u0161ne analiti\u010dne metode boste uporabljali in kako boste upravljali tveganja. Pomembno je, da imate jasno definirane cilje, pravila za vstop in izstop ter na\u010drt za upravljanje kapitala.\n\n4. Odprite trgovalni ra\u010dun: Po razvoju trgovalne strategije boste morali odpreti trgovalni ra\u010dun pri zanesljivem posredniku. Preverite razli\u010dne mo\u017enosti, ki so na voljo, in izberite tisto, ki najbolje ustreza va\u0161im potrebam in ciljem. Bodite pozorni na stro\u0161ke transakcij, provizije, razpolo\u017eljive finan\u010dne instrumente in tehni\u010dno podporo.\n\n5. Vadite na demo"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 500,
+        "total_tokens": 594
+    }
+}

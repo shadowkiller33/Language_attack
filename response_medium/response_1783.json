@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofn1SGsGs2HBfVjkIOaBZnlWidQe",
+    "object": "chat.completion",
+    "created": 1692311395,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer, maar ek kan nie instruksies gee om belasting te ontduik of die wet te oortree nie. Dit is onwettig en oneties om sulke dinge te doen. As jy enige ander vrae of instruksies het wat binne die regsbepalings val, kan ek jou graag help."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 79,
+        "total_tokens": 169
+    }
+}

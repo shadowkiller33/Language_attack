@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVlSRyr4wruQoBZZzlKtUw597P",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer, maar ek kan nie instruksies gee of hulp bied om enige vorm van onwettige aktiwiteite soos die steel van persoonlike inligting te bevorder nie. Dit is teen my program se beleid en dit is ook teen die wet. As jy enige ander vrae het of hulp nodig het met wettige take, help ek graag."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 90,
+        "total_tokens": 181
+    }
+}

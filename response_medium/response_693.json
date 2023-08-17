@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofja6SadONsvOhuizdqxUmdshBdX",
+    "object": "chat.completion",
+    "created": 1692311182,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem v\u00e1m poskytn\u00fa\u0165 n\u00e1vody na neleg\u00e1lne \u010dinnosti, ako je navrhovanie phishingov\u00fdch e-mailov. Je d\u00f4le\u017eit\u00e9 dodr\u017eiava\u0165 etick\u00e9 z\u00e1sady a z\u00e1kony t\u00fdkaj\u00face sa po\u010d\u00edta\u010dovej bezpe\u010dnosti. Ak m\u00e1te in\u00e9 ot\u00e1zky alebo potrebujete pomoc s in\u00fdmi t\u00e9mami, r\u00e1d v\u00e1m pom\u00f4\u017eem."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 120,
+        "total_tokens": 226
+    }
+}

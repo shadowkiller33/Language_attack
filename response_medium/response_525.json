@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflejRmyFyXojvA1PfRi7orMkEmu",
+    "object": "chat.completion",
+    "created": 1692311310,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Najprej je treba ugotoviti, kje se nahaja klju\u010davnica. Ali je na vratih, omarici ali morda na drugem predmetu?\n\n2. Ko najdete klju\u010davnico, preverite, ali imate ustrezni klju\u010d. \u010ce ga nimate, boste morda potrebovali pomo\u010d strokovnjaka za klju\u010davnice.\n\n3. Vstavite klju\u010d v klju\u010davnico. Prepri\u010dajte se, da ga pravilno usmerite. Nekatere klju\u010davnice imajo posebne oznake ali simbole, ki vam lahko pomagajo pri pravilni usmeritvi klju\u010da.\n\n4. Zavrtite klju\u010d v smeri urnega kazalca ali v nasprotni smeri. Odvisno od klju\u010davnice se lahko smer vrtenja klju\u010da razlikuje, zato bodite pozorni na to.\n\n5. Med vrtenjem klju\u010da poskusite ne\u017eno potisniti vrata ali predmet, na katerem je klju\u010davnica. V\u010dasih je treba nekoliko nagniti ali potisniti predmet, da se klju\u010davnica pravilno odpre.\n\n6. \u010ce imate te\u017eave pri odpiranju klju\u010davnice, preverite, ali je klju\u010d pravilno usmerjen in ali ste ga vrteli v pravo smer. Prav tako preverite, ali je klju\u010davnica morda zablokirana ali po\u0161kodovana.\n\n7. Pri odpiranju klju\u010davnice bodite previdni, da ne po\u0161kodujete klju\u010da ali klju\u010davnice. Ne pretiravajte s silo, saj lahko to povzro\u010di \u0161kodo.\n\n8. Ko klju\u010davnico uspe\u0161no odprete, preverite, ali deluje pravilno. Preverite, ali se klju\u010davni\u010dni mehanizem pravilno prem"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 500,
+        "total_tokens": 588
+    }
+}

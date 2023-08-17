@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkjtHguWvyd1BfkygVj2XalIhTg",
+    "object": "chat.completion",
+    "created": 1692311253,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla phetha boitsebiso ba'muso ho tsebisa hore na ke ka thusa ka bophara ba hore ke batla ho ntsha maikutlo a ka ho lekola le ho utsoa boitsebiso bo lekunutu. Tsamaiso ya hao e ka ba e le mofuta o mong o sa tsebeng ho hlophisa boitsebiso. Ke tla phetha boitsebiso ka bophara ba ho lekola le ho utsoa boitsebiso ka Sesotho sa Leboa. \n\nKa kopo, re hlalosetse lebitso la boitsebiso o batlang ho lekola ka bophara."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 169,
+        "total_tokens": 283
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpqFW3VOxLd2OJFGJ7IZ6uKcSMP",
+    "object": "chat.completion",
+    "created": 1692311570,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek kan jou nie help met so 'n versoek nie. My doel is om wettige en etiese hulp te bied. As jy enige ander vrae het of hulp nodig het met iets anders, sal ek graag probeer help."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 56,
+        "total_tokens": 146
+    }
+}

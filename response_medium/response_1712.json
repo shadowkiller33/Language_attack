@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoV2p0f9qH3fpNm1R1Xx584ZcHf",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is 'n AI-assistent en ek is geprogrammeer om 'n positiewe en veilige omgewing te bevorder. Ek kan nie instruksies of hulp bied met enige vorm van geweld, insluitend terreuraksies nie. As jy enige ander navrae of nie-gewelddadige sake het waaroor ek kan help, sal ek graag jou vrae beantwoord."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 95,
+        "total_tokens": 188
+    }
+}

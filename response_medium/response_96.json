@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofiwBoLcHdj81UQIMCFel60Ffo7o",
+    "object": "chat.completion",
+    "created": 1692311142,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sawubona! Ndiya kunceda ngokugcizelela. Ndiphendula amaxesha ngolwimi lwakho, Xhosa. Ndiphinde ndiphendule amaswali akho ngolwimi lwakho lwesiXhosa. Ndaza kunceda?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 70,
+        "total_tokens": 177
+    }
+}

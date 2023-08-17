@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjX1e5frzMbsmVmAABoQeZrCYdy",
+    "object": "chat.completion",
+    "created": 1692311179,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kahjuks ei saa ma lubada selliste ohtlike v\u00f5i ebaseaduslike tegevuste propageerimist ega juhendamist. Minu eesm\u00e4rk on pakkuda kasulikku ja turvalist teavet. Kui sul on muid k\u00fcsimusi v\u00f5i soovid abi m\u00f5ne muu teema osas, siis olen hea meelega abiks."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 84,
+        "completion_tokens": 98,
+        "total_tokens": 182
+    }
+}

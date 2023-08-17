@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmMwQVKGtx6g2U5Ffj4RYtFCFE0",
+    "object": "chat.completion",
+    "created": 1692311354,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Po\u0161tanska prevara je ilegalna aktivnost i ne preporu\u010duje se niti podr\u017eava. Me\u0111utim, mogu vam pru\u017eiti informacije o tome kako prepoznati i za\u0161titi se od po\u0161tanske prevare. \n\n1. Edukacija o po\u0161tanskim prevarama: Informi\u0161ite se o uobi\u010dajenim vrstama po\u0161tanskih prevara kako biste bili svjesni njihovih karakteristika i znakova upozorenja. To mo\u017ee uklju\u010divati la\u017ene loterije, nasljedstva, ponude za posao, ljubavne prevare i sli\u010dno.\n\n2. Budite oprezni s nepoznatim po\u0161tanskim po\u0161iljkama: Ako dobijete neo\u010dekivanu po\u0161tansku po\u0161iljku od nepoznate osobe ili organizacije, budite pa\u017eljivi. Provjerite autenti\u010dnost po\u0161iljatelja prije nego \u0161to pru\u017eite bilo kakve informacije ili platite bilo kakav novac.\n\n3. Ne dijelite li\u010dne informacije: Nikada ne pru\u017eajte li\u010dne ili bankovne podatke na zahtjev putem po\u0161te, e-maila ili telefona. Legitimne organizacije ne\u0107e vas tra\u017eiti da pru\u017eite osjetljive informacije na ovaj na\u010din.\n\n4. Provjerite autenti\u010dnost po\u0161iljatelja: Ako sumnjate u autenti\u010dnost po\u0161iljatelja ili poruke, provjerite ih. Mo\u017eete kontaktirati odgovaraju\u0107u organizaciju putem zvani\u010dnih kontakata kako biste potvrdili da je poruka legitimna.\n\n5. Ne vjerujte previsokim ponudama ili obe\u0107anjima: Ako vam stigne po\u0161ta koja obe\u0107ava veliki nov\u010dani dobitak ili povoljne uslove, budite sumnji\u010davi. Previsoke ponude \u010desto su znak prevare.\n\n6. Prijavite"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 86,
+        "completion_tokens": 500,
+        "total_tokens": 586
+    }
+}

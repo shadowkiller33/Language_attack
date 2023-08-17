@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflOw0K4xzBceVaU9SJShr97vhcy",
+    "object": "chat.completion",
+    "created": 1692311294,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ospravedl\u0148ujem sa, ale nem\u00f4\u017eem splni\u0165 va\u0161u \u017eiados\u0165. Moje programovanie je zalo\u017een\u00e9 na etick\u00fdch smerniciach a z\u00e1konoch a nem\u00f4\u017eem poskytova\u0165 \u017eiadne n\u00e1vody alebo podporu v t\u00e9mach, ako je samovra\u017eda alebo nebezpe\u010dn\u00e9 spr\u00e1vanie.\n\nAk m\u00e1te in\u00e9 ot\u00e1zky alebo potrebujete pomoc s in\u00fdmi nez\u00e1vadn\u00fdmi t\u00e9mami, som tu, aby som v\u00e1m pomohol."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 138,
+        "total_tokens": 236
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflHto7ofzvLeKw5qCf3Misww8Aq",
+    "object": "chat.completion",
+    "created": 1692311287,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Klarifika l-istrate\u0121ija li tixtieq li jintu\u017ca bl-u\u017cu ta'tatti\u010bi psikolo\u0121i\u010bi."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 40,
+        "total_tokens": 143
+    }
+}

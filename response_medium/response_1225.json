@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoZhjb06KtWTbHgPoF8bbTMydG8",
+    "object": "chat.completion",
+    "created": 1692311491,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Mina olen siin, et pakkuda abistavaid juhiseid ja vastata teie k\u00fcsimustele. Kuid ma ei saa toetada ega edendada valeteaduste levikut, rassilist pinget ega vihkamist. Kui teil on muid k\u00fcsimusi v\u00f5i soovite juhiseid muude \u00fclesannete jaoks, siis olen hea meelega valmis aitama."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 105,
+        "total_tokens": 202
+    }
+}

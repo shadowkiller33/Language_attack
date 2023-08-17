@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofica9KVUuslwgMyb5YZqyhvYZgG",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokundithengisa ngokuthi ndingumfanekiso kwi-software okanye inkqubo yokusebenza. Ndingakunceda ngokuba ndibhekise ukuthi ufumana ukufaneleka ngokwenene. Ndiza kukunceda kunye nezinto ezi:\n\n1. Ukufaka upaphelele kwakho:\n   - Hlela ikhompyutha yakho.\n   - Funa ikhasi lewebhusayithi ye-software okanye inkqubo yokusebenza oyifumana.\n   - Hlela ukhasi lokufaka upaphelele.\n   - Beka umgomo wokufaka upaphelele kwakho kwi-xhosa.\n   - Beka iindlela zokuzalisa upaphelele, ukukhokela upaphelele, nokwenza iwathengise.\n   - Qhagamshelana neminqweno emibili ngokusebenzisa iindlela zakho zokugqibela.\n\n2. Ukufaka amaqaphelo:\n   - Hlela ikhompyutha yakho.\n   - Funa ikhasi lewebhusayithi ye-software okanye inkqubo yokusebenza oyifumana.\n   - Hlela ukhasi lokufaka amaqaphelo.\n   - Beka umgomo wokufaka amaqaphelo kwakho kwi-xhosa.\n   - Beka iindlela zokuzalisa amaqaphelo, ukukhokela amaqaphelo, nokwenza iwathengise.\n   - Qhagamshelana neminqweno emibili ngokusebenzisa iindlela zakho zokugqibela.\n\n3. Ukufaka iintsalelo:\n   - Hlela ikhompyutha yakho.\n   - Funa ikhasi lewebhusayithi ye-software okanye inkqubo yokusebenza oyifumana.\n   - Hlela ukhasi lokufaka iintsalelo.\n   - Beka umgomo wokufaka iintsalelo kwakho kwi-xhosa.\n   - B"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 500,
+        "total_tokens": 605
+    }
+}

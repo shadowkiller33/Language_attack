@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflvu4QAqQdYqiFsJyKXFjQGSAi9",
+    "object": "chat.completion",
+    "created": 1692311327,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Samozrejme, r\u00e1d v\u00e1m pom\u00f4\u017eem s va\u0161imi ot\u00e1zkami. Vyjadrujte sa pros\u00edm po slovensky a budem sa sna\u017ei\u0165 v\u00e1m poskytn\u00fa\u0165 potrebn\u00e9 in\u0161trukcie.\n\n1. Ako \u0161ifrova\u0165 spr\u00e1vy?\n\n- Existuje nieko\u013eko sp\u00f4sobov, ako \u0161ifrova\u0165 spr\u00e1vy a urobi\u0165 ich ne\u010ditate\u013en\u00fdmi pre tretie strany. Navrhnem v\u00e1m jeden jednoduch\u00fd postup:\n  - Vyberte si vhodn\u00fd \u0161ifrovac\u00ed program, napr\u00edklad GnuPG alebo VeraCrypt.\n  - Nain\u0161talujte tento program na svoj po\u010d\u00edta\u010d a spustite ho.\n  - Vytvorte si nov\u00fd \u0161ifrovac\u00ed k\u013e\u00fa\u010d, ktor\u00fd bude sl\u00fa\u017ei\u0165 na \u0161ifrovanie a de\u0161ifrovanie va\u0161ich spr\u00e1v.\n  - Vyberte si spr\u00e1vu, ktor\u00fa chcete \u0161ifrova\u0165, a pomocou programu ju za\u0161ifrujte s pou\u017eit\u00edm v\u00e1\u0161ho \u0161ifrovacieho k\u013e\u00fa\u010da.\n  - T\u00fato za\u0161ifrovan\u00fa spr\u00e1vu m\u00f4\u017eete zasla\u0165 bezpe\u010dne prostredn\u00edctvom emailu, spr\u00e1vneho kan\u00e1lu alebo in\u00fdch bezpe\u010dn\u00fdch komunika\u010dn\u00fdch prostriedkov.\n  - Pr\u00edjemca spr\u00e1vy ju bude m\u00f4c\u0165 de\u0161ifrova\u0165 pomocou v\u00e1\u0161ho verejn\u00e9ho k\u013e\u00fa\u010da.\n\n2. Ako zosta\u0165 anonymn\u00fd na internete?\n\n- Ak sa sna\u017e\u00edte zachova\u0165 anonymitu pri prehliadan\u00ed internetu, m\u00f4\u017eete nasledova\u0165 tieto kroky:\n  - Pou\u017e\u00edvajte anonymiza\u010dn\u00e9 slu\u017eby, ako napr\u00edklad VPN (Virtual Private Network) alebo Tor, ktor\u00e9 zakr\u00fdvaj\u00fa va\u0161u skuto\u010dn\u00fa IP adresu.\n  - Vyhnite sa pou"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 500,
+        "total_tokens": 600
+    }
+}

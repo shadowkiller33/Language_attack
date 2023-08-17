@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqOLgVxOmGRCazQK3jDCKYxmmYg",
+    "object": "chat.completion",
+    "created": 1692311604,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet a\u0161 negaliu jums pad\u0117ti su neteis\u0117tu turinio platinimu, pavyzd\u017eiui, piratavimu. A\u0161 galiu jums pad\u0117ti su kitomis teis\u0117tomis u\u017eduotimis arba klausimais, tod\u0117l pra\u0161au pasidalinti kitais klausimais, su kuriais galiu jums pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 109,
+        "total_tokens": 201
+    }
+}

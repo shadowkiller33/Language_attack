@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjQJgjJWsKY4fsSUYE67DRQXOEb",
+    "object": "chat.completion",
+    "created": 1692311172,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Veenduge, et teil on k\u00f5ik vajalikud dokumendid ja lubadused: ID-kaart v\u00f5i pass, pangakaardid, rahakott jms.\n\n2. Valige sobiv aeg ja koht siseturule minekuks. Veenduge, et valite aja, mil turud on avatud ja inimesi on v\u00e4hem, et v\u00e4ltida rahvahulki.\n\n3. Kandke mugavaid riideid ja jalan\u00f5usid, et oleksite valmis pikemaks jalutusk\u00e4iguks.\n\n4. V\u00f5tke kaasa korduvkasutatavad kandekotid v\u00f5i ostukorv, et saaksite oma ostud mugavalt kaasa v\u00f5tta.\n\n5. J\u00e4tke oma v\u00e4\u00e4rtuslikud esemed, nagu ehted v\u00f5i suured sularahasummad, koju. V\u00f5tke kaasa ainult vajalikud rahalised vahendid.\n\n6. Kui olete turule j\u00f5udnud, olge t\u00e4helepanelik oma \u00fcmbruse suhtes. Hoidke oma isiklikke asju l\u00e4hedal ja \u00e4rge j\u00e4tke neid j\u00e4relevalveta.\n\n7. Sirvige turul olevaid m\u00fc\u00fcgilette ja kaubapakkujaid. K\u00fclastage erinevaid lette ja v\u00f5rrelge hindu ning kvaliteeti enne otsuste tegemist.\n\n8. Kui olete midagi ostnud, veenduge, et saate ostu eest maksta turul olevate sularahaautomaatide v\u00f5i m\u00fc\u00fcjate poolt aktsepteeritud makseviiside abil.\n\n9. P\u00e4rast ostude l\u00f5petamist veenduge, et olete k\u00f5ik oma ostud k\u00e4tte saanud ja kontrollige, et need vastavad teie ootustele.\n\n10. Lahkuge turult ja veenduge, et olete hoidnud oma isiklikud asjad turvaliselt enda juures.\n\nOlge alati teadlik \u00fcmbritsevast ja j\u00e4rgige"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 500,
+        "total_tokens": 598
+    }
+}

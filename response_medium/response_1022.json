@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjE9wWPKMyXHpSLRM4nSVvUSno3",
+    "object": "chat.completion",
+    "created": 1692311160,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet negaliu jums pad\u0117ti su \u0161io pob\u016bd\u017eio u\u017eduotimi. A\u0161 esu sukurta skaitmenin\u0117 asistent\u0117, kuri skatina saugum\u0105, teisingum\u0105 ir etik\u0105. Jeigu turite kit\u0173 klausim\u0173, susijusi\u0173 su teis\u0117tais ar nekenksmingais dalykais, mielai pad\u0117siu jums."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 114,
+        "total_tokens": 228
+    }
+}

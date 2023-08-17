@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkfTBszBSJLAURhXVaI7m7Pemgk",
+    "object": "chat.completion",
+    "created": 1692311249,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ukuba ndifunde ukubhala ngesiXhosa, ndifuna ukugqitha ukuba ukwenze iinkxaso ezilandelayo:\n\n1. Ukuba ungayenza kanjani ukufaka i-email:\n   a. Yenza isahluko se-siyahambe kwi-intanethi.\n   b. Faka iindawo zokuqala zokungena ezifanayo kwi-intanethi.\n   c. Faka iindawo zokuqala zokungena ezifanayo kwi-intanethi.\n   d. Faka iindawo zokuqala zokungena ezifanayo kwi-intanethi.\n   e. Faka ibhokisi lokungena le-email.\n   f. Faka i-email address yakho.\n   g. Faka ikhodi yakho yokuqala.\n   h. Xelela i-email address yakho kwaye ulindele i-email yokuxhumana.\n\n2. Ukuba ungayenza kanjani ukufumana indawo:\n   a. Hleze ulindele, ubhale indawo ephumayo kwi-GPS, ngokungqusha iimpendulo ezifanayo: \"Ndiza kwi-Indawo\" kwi-Hlela.\n   b. Phakamisa i-aplekeishini lokukhetha indawo.\n   c. Xelela iindawo ezizakuncedisa ukufumana indawo, ngokungqusha iimpendulo ezifanayo.\n   d. Hamba kwi-indawo ekhethiweyo.\n\n3. Ukuba ungayenza kanjani ukufaka isicelo sezakhiwo:\n   a. Hleze ulindele, ubhale isicelo sezakhiwo, ngokungqusha iimpendulo ezifanayo: \"Ndiza kwi-Isicelo sezakhiwo\" kwi-Hlela.\n   b. Phakamisa i-aplekeishini lokukhetha isicelo sezakhiwo.\n   c. Xelela iindawo ezizakuncedisa ukufaka is"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 500,
+        "total_tokens": 594
+    }
+}

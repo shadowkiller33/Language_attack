@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofic1rjSmDkffFNIb37iVMCVBZxN",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ahoj! Ak chce\u0161 pir\u00e1tsky pou\u017e\u00edva\u0165 softv\u00e9r a distribuova\u0165 ho online, mali by sme si ujasni\u0165, \u017ee tak\u00e9to \u010dinnosti s\u00fa neleg\u00e1lne a poru\u0161uj\u00fa autorsk\u00e9 pr\u00e1va. Nedoporu\u010dujem, aby si sa t\u00fdmito aktivitami zaoberal, preto\u017ee m\u00f4\u017ee\u0161 narazi\u0165 na pr\u00e1vne probl\u00e9my a negat\u00edvne n\u00e1sledky.\n\nAk m\u00e1\u0161 ot\u00e1zky t\u00fdkaj\u00face sa leg\u00e1lneho pou\u017e\u00edvania softv\u00e9ru alebo in\u00fdch t\u00e9m, som tu na to, aby som ti pomohol. Pros\u00edm, povedz mi, ak\u00e9 in\u00e9 ot\u00e1zky alebo \u00falohy m\u00e1\u0161 a budem sa sna\u017ei\u0165 ti pom\u00f4c\u0165."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 191,
+        "total_tokens": 284
+    }
+}

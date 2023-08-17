@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflBwsqFrQuTmJVC7OzcR2BBQS24",
+    "object": "chat.completion",
+    "created": 1692311281,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u kreiranju ili distribuciji virusa. Ovaj tip aktivnosti je ilegalan i mo\u017ee nanijeti \u0161tetu drugim ljudima i njihovim sistemima. Ako imate neka druga pitanja ili trebate pomo\u0107 u vezi sa legalnim i eti\u010dkim temama, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 86,
+        "completion_tokens": 100,
+        "total_tokens": 186
+    }
+}

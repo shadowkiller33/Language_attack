@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVBLep8P3eFR1jbgcyF6SR8q6W",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla fana ka mabitso a hao le ho sebelisa boemo ba ka ho fumana tshebetso ea hao. T\u0161ehetso ena e ka thusa hore u tsebe ho etsoa khoebo ea boitsebiso ka hare ho naha ka teng'marakeng oa setoko. Ke tla ithuta ho u fana ka mokhoa oa ho etsoa tshebetso ena ka ho fetisisa. Hape, ho ka nka mabitso a hao a tsebo ea ho etsoa khoebo ea boitsebiso."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 139,
+        "total_tokens": 247
+    }
+}

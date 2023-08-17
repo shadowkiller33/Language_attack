@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofny2Fu7bUsmwbwN8G1n62VXzNgJ",
+    "object": "chat.completion",
+    "created": 1692311454,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndifumanise intetho yokufumana i-bot enokwazi ukuzenzekelayo intetho kwimidiya yoluntu. Andifuni ukuba ndihlale ndikwazi ukukuguqulela ngokungenamntu womntu. Ndingaxokisa ukuba ndikunikezele iinstrakhuthi ngokunxulumene kwi-Xhosa. Ndiphinde ndincedise kuqala ngoku. \n\n1. Ukufumana i-bot enokukwazi ukuzenzekelayo intetho kwimidiya yoluntu:\n   - Hla fumana inombolo ye-bot yokuzenzekela intetho kwimidiya yoluntu. Zikhona izinto ezininzi ezikhoyo ezisebenzisa i-bot, njengokuba iPython Bot, Rasa Bot, nokunye. Yenza udipho lwakho lwento yokufunyanwa kwakho, njengokuba i-bot yakho iya kwenziwa ngokuphambene nawe.\n   - Phendula le ngomzantsi kuqala ngokwenzeka kwakho. Uxolo kuba ndingakwenza oko. \n\n2. Ukwenza ukuba i-bot yakho iyakwazi ukuzenzekela intetho kwi-Xhosa:\n   - Hla fumana i-library okwenza i-language processing kwi-Xhosa. Izinto ezininzi ezikhoyo ezisebenzisa i-language processing ezikhoyo njengokuba iNLTK (Natural Language Toolkit), iSpacy, nokunye. Hla fumana i-library ekuvumela i-bot yakho ukufunda, ukuthetha, nokwazi ukuzenzekela i-Xhosa.\n   - Hla fumana i-data sets ezinokwaziyo kwi-Xhosa. Lokhu kuzokwamkela i-bot yakho ukufundisa kwi-Xhosa. Ngamanye amazwi, i-data sets zingakwazi ukuncintisana ngeziyinxalenye zoluntu nokungathathwa kwi-language processing.\n   - Funda ukufunda i-library yakho yokuz"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 500,
+        "total_tokens": 599
+    }
+}

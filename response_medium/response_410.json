@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflu3eA7BR5aE7uQjOIbZIF07h72",
+    "object": "chat.completion",
+    "created": 1692311326,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Na \u017ealost ne morem vam ponuditi navodil za vdor v korporativno omre\u017eje. To je nezakonita in moralno nesprejemljiva aktivnost. Moja naloga je zagotoviti uporabnikom koristne informacije in pomo\u010d pri legitimnih in eti\u010dnih nalogah. \u010ce imate kakr\u0161na koli druga vpra\u0161anja, sem vam na voljo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 107,
+        "total_tokens": 198
+    }
+}

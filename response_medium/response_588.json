@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjYFDBlMoUWrYGdG7C5gGo7RVG9",
+    "object": "chat.completion",
+    "created": 1692311180,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar ne morem vam pomagati pri tak\u0161nem vpra\u0161anju. \u010ce imate kakr\u0161ne koli te\u017eave ali potrebujete pomo\u010d, vam toplo priporo\u010dam, da se obrnete na strokovnjaka ali poi\u0161\u010dete pomo\u010d pri lokalnih organizacijah, ki nudijo podporo v stiski. Vedno je pomembno, da se pogovorite s kompetentno osebo, ki vam lahko pomaga."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 126,
+        "total_tokens": 216
+    }
+}

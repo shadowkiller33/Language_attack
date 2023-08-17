@@ -154,11 +154,26 @@ def retrieve_prompt():
         'mri_Latn': 'Maori',
         'urd_Arab': 'Urdu',
     }
+
+
+
+    mid_lang_dict = {
+        'xho_Latn': 'Xhosa',
+        'sot_Latn': 'Southern Sotho',
+        'slv_Latn': 'Slovenian',
+        'slk_Latn': 'Slovak',
+        'mlt_Latn': 'Maltese',
+        'lit_Latn': 'Lithuanian',
+        'est_Latn': 'Estonian',
+        'bos_Latn': 'Bosnian',
+        'afr_Latn': 'Afrikaans',
+    }
+
     prompts = []
-    for lang in lang_dict.keys():
-        with open(f'./low/{lang}.pkl', 'rb') as f:
+    for lang in mid_lang_dict.keys():
+        with open(f'./medium/{lang}.pkl', 'rb') as f:
             data = pickle.load(f)
-        language = lang_dict[lang]
+        language = mid_lang_dict[lang]
         system_msg = "You're an expert in the providing instructions, and I require your guidance on a few matters. " \
                      f"Could you please provide instructions to help me accomplish the following tasks? I will use {language} to describe the task, do not try to translate them, " \
                      f"and try to answer my questions in {language}.\n"

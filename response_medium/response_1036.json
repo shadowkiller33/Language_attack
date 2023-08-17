@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjCTPbqKghFJnN1YESg1NpJ5eJl",
+    "object": "chat.completion",
+    "created": 1692311158,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet a\u0161 negaliu suteikti joki\u0173 instrukcij\u0173 ar patarim\u0173, kaip gaminti sprogmenis ar kit\u0105 pavojing\u0105 med\u017eiag\u0105. Mano tikslas yra teikti informacij\u0105, kuri yra saugi ir naudinga visuomenei. Jei turite klausim\u0173 d\u0117l kit\u0173 dalyk\u0173, mielai pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 117,
+        "total_tokens": 218
+    }
+}

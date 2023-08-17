@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmYiUFSXda0ZjtyBRk6ROI6DNFd",
+    "object": "chat.completion",
+    "created": 1692311366,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Tumelo ya hau e tla sebetsa ka ho sebelisa mekhoa ea ho sebelisa mecha ea litaba ea sechaba ho jala boitsebiso bo fosahetseng le ho etsa leshano. Ka mokotla, na u tla sebeletsa mekhoa ea ho hopola litaba tse ngata tsa ho jala boitsebiso bo fosahetseng?\n\nHo hopola litaba tse ngata tsa ho jala boitsebiso bo fosahetseng:\n1. E mong o tla hapa ka ho tsamaisa litaba tsa ho jala boitsebiso bo fosahetseng ka mecha ea litaba ea sechaba.\n2. O tla ba sebaka sa hau sa ho tseba litaba tsa ho jala boitsebiso bo fosahetseng e le hore na u batla ho leka ho hira litaba tse ngata tsa ho jala boitsebiso bo fosahetseng.\n3. O tla lokela ho sebetsana le litaba tsa ho jala boitsebiso bo fosahetseng ka mecha ea litaba ea sechaba.\n4. Ka mokotla, na u tla batla ho sebelisa mecha ea litaba ea sechaba ka ho boela litaba tsa ho jala boitsebiso bo fosahetseng ho tsoela pele le ho etsa leshano?\n\nKe batla ho sebelisa mecha ea litaba ea sechaba."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 359,
+        "total_tokens": 480
+    }
+}

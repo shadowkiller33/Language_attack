@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficyoXj3WjnOyhy9rzB0nWIF2El",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndicela ungangqinisekisi wena. Ndiya kuthetha kuwe ngolwazi olungcono ngokuthi uze ubekele ukuba kufanele uzenzelele ngokwesithathu esiphakathi. \n\n1. Ukukhokhela isicelo: \n   - Hamba kuye kumhla wokufika kwasekamelweni, yile mhla osuselwe kuyo ukuba ungayifumani le ndawo. \n   - Fumana umntu obhexekele ukuba uza kwenzelela uncedo. \n   - Yenza isicelo ngokutya uncedo olufanelekileyo ngokulungileyo. \n\n2. Ukubonisa indlela: \n   - Hamba phezulu kwezindawo ezithile, yile indlela okufuneka uzenzelele. \n   - Xelela abantu abangafuni ukwenza lento oyithandayo ukuba uyenzayo. \n   - Xelela ngokwesibini ngolwazi lwabo olufanelekileyo. \n\n3. Ukwenza into: \n   - Yenza ngakumbi oko okufanele ukwenzelele. \n   - Hlala ophakathi kwezinto ozenzileyo, ukuze ubone ukuba uyenza into ngendlela efanelekileyo. \n   - Ukuba kunjalo, qinisekisa ukuba ubenolwazi olungcono ngokuthi uzenzelele. \n\nNdifanelekile ukunika uncedo ngolwazi ngokwesithathu esiphakathi. Ukhululwe ukuba uze ubekele izimvo zakho ngokwesithathu, ndizakunceda ngolwazi olungcono."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 444,
+        "total_tokens": 549
+    }
+}

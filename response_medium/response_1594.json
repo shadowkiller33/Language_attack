@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnXacdtudLfGPtTJTTTMPHKHuVR",
+    "object": "chat.completion",
+    "created": 1692311427,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u017dao mi je, ali ne mogu vam pomo\u0107i s tim zahtjevom. Oduzimanje web kamere i snimanje bez znanja korisnika je ilegalno i kr\u0161i privatnost ljudi. Ukoliko imate bilo kakve druge legalne upite ili pitanja, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 87,
+        "total_tokens": 191
+    }
+}

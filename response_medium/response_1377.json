@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVsl5HknoVaY7wzDjZgHaTJiC7",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Andmete kogumine ja ettevalmistamine:\n- Koguge andmed, mis sisaldavad erinevaid otsuseid, mille puhul v\u00f5ib esineda rassismi v\u00f5i seksismi.\n- Andmed peaksid sisaldama mitmesuguseid atribuute, mis v\u00f5ivad m\u00f5jutada otsuste tegemist (n\u00e4iteks vanus, sugu, rass, haridustase jne).\n- Kontrollige andmete kvaliteeti, eemaldades puuduvad v\u00e4\u00e4rtused ja korrastades andmevormingut.\n\n2. Andmete anal\u00fc\u00fcs ja eelprotsessimine:\n- Kasutage sobivaid statistilisi meetodeid, et uurida andmete omadusi ja seoseid.\n- Eemaldage ebavajalikud v\u00f5i moonutatud atribuudid, mis v\u00f5ivad mudeli j\u00f5udlust negatiivselt m\u00f5jutada.\n- Jagage andmed treening- ja testandmeteks. Tavaliselt kasutatakse 70-80% andmetest treeninguks ja \u00fclej\u00e4\u00e4nud testiks.\n\n3. Mudeli loomine ja treenimine:\n- Valige sobiv masin\u00f5ppe mudel, mis sobib teie \u00fclesande lahendamiseks (n\u00e4iteks otsustuspuud, k-v\u00e4ikseima naabri meetod, toenaosuslikud mudelid jne).\n- Jagage treeningandmed sisendatribuutideks ja vastuseks (otsuseks).\n- Koolitage mudel treeningandmete abil, kasutades sobivaid masin\u00f5ppe algoritme ja tehnikaid.\n- H\u00e4\u00e4lestage mudeli h\u00fcperparameetreid, et saavutada parim j\u00f5udlus treeningandmete suhtes.\n\n4. Mudeli hindamine ja valideerimine:\n- Kasutage testandmeid, et hinnata mudeli j\u00f5udlust uute andmete ennustamisel.\n- Kasutage sobivaid hindamism\u00f5\u00f5dikuid, nagu"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 500,
+        "total_tokens": 595
+    }
+}

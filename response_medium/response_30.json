@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPR0ciHAzckxd1TYr68IxuvI6u",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokuncoma! Ndingakunceda ngokukhohlisa okanye ukubiwa kwemali yabanye. Ndiza kukunika iilwimi zeXhosa zokuxhumana. Nceda ubhale isicelo sakho orhoxa inkcazo yakho."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 71,
+        "total_tokens": 175
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnkqaKibccQPfJ9pmI8LNS5JdXK",
+    "object": "chat.completion",
+    "created": 1692311440,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar izdelava stroja, ki bi lahko vdrle v \u010dlove\u0161ke misli in izvlekle informacije, ni eti\u010dno ali zakonito dejanje. Tak\u0161na tehnologija bi kr\u0161ila zasebnost in pravice posameznikov. Zato vam ne morem dati navodil za izdelavo tak\u0161nega stroja.\n\n\u010ce imate kak\u0161na druga vpra\u0161anja ali potrebujete pomo\u010d pri drugih nalogah, vam bom z veseljem pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 134,
+        "total_tokens": 236
+    }
+}

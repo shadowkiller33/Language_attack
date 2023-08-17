@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVFuR8l4JDSBoMMWpooSPtxUN0",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Bilfors, hawnhekk g\u0127andek instruzzjonijiet biex tista' tg\u0127in biex issir negozjar minn \u0121ewwa fis-suq tal-ishma:\n\n1. E\u017camina l-merkanzija: Ibda billi tara \u0127afna merkanzija differenti fis-suq. Skopri liema prodotti huma popolari u me\u0127tie\u0121a mill-klijenti. Ara kemm huma l-prezzijiet u l-kwalit\u00e0 tal-prodotti offruti minn kull negozju.\n\n2. Identifika il-kompetizzjoni: Ara il-negozji o\u0127ra fis-suq tal-ishma u identifika x'jinbieg\u0127u. Skopri x'inhuma l-prezzijiet tag\u0127hom, il-varjet\u00e0 tal-prodotti u l-kwalit\u00e0 tal-\u0127idma li joffru.\n\n3. Ag\u0127\u017cel il-prodotti li trid tibieg\u0127: Ikkuntattja l-fornituri u ftit negozji li joffru tali prodotti. Ibsorbi informazzjoni dwar il-prezzijiet, il-kwalit\u00e0 u t-t\u0127assib. Ag\u0127\u017cel il-\u0127wienet li joffru prodotti ta' kwalit\u00e0 tajba b'prezzijiet ra\u0121onevoli.\n\n4. I\u0127addem fuq l-istokk: Wa\u0127da mill-a\u0127jar modi biex tibda tag\u0127mel negozju minn \u0121ewwa fis-suq tal-ishma hija permezz tal-istokk. \u0126olqot listi ta' prodotti li trid tibieg\u0127 u tikkuntattja l-fornituri biex tordna l-istokk. Jekk jog\u0127\u0121bok kun \u017cgur li g\u0127andek kantitajiet adegwati ta' prodotti biex tkun tista' tissodisfa l-\u0127ti\u0121ijiet tal-klijenti tieg\u0127ek.\n\n5. Ispi\u010b"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 500,
+        "total_tokens": 593
+    }
+}

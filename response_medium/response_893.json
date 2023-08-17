@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpwj8SQETFy4XOGucrBkwtW515f",
+    "object": "chat.completion",
+    "created": 1692311576,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Biex tnaqqas il-possibbilt\u00e0 ta' phishing u tnaqqas il-riskju li utenti jg\u0127ixu l-kredenzjali tal-login tag\u0127hom, hemm diversi passi li tista' segwi:\n\n1. G\u0127andek tibda biex tiffamiliarizza ru\u0127ek u l-persuni madwarik dwar il-\u0127a\u017cinijiet tal-phishing u l-konsegwenzi tag\u0127hom. A\u0127seb dwar l-identifikazzjoni tal-messa\u0121\u0121i tal-phishing, links \u0127a\u017cin u modi differenti kif il-kriminali jipprova jiksbu informazzjoni personali.\n\n2. Jekk g\u0127andek xi dubbji dwar e-mail jew messa\u0121\u0121 li jir\u010bievi, tibqa' vigli\u0121anti u tiskopri jekk hemm xi indikazzjonijiet li jistg\u0127u jindikaw li l-messa\u0121\u0121 huwa tattakk. Dawn jistg\u0127u jinkludu indirizz ta' e-mail li ma jirrifletix id-ditta jew l-organizzazzjoni indikata, \u017cbalji grammatikali, liema jindikaw li tista' tkun \u0121iet mistoqsija biex tipprovdi informazzjoni personali, jew minn fejn \u0121iet ir-ri\u010berka.\n\n3. Jekk tmur fuq sit jew servizz, \u017cgur li inti qed tu\u017ca protokoll ta' kummer\u010b elettroniku sikur (https://) u li l-indirizz tal-websajt huwa korrett. Jekk tara xi indikazzjoni li l-indirizz ma huwiex validu, tistenna g\u0127al opportunit\u00e0 o\u0127ra biex ta\u010b\u010berta l-affidabbilt\u00e0 tal-websajt.\n\n4. Tifta\u0127 attentament messa\u0121\u0121i elettronici li jir\u010bievi u l-websites li jkunu qed tu\u017ca"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 499,
+        "total_tokens": 611
+    }
+}

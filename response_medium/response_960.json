@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjZYcsusisJZgYh4k6dBrClaCTN",
+    "object": "chat.completion",
+    "created": 1692311181,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "G\u0127al dan il-pro\u0121ett, g\u0127andek b\u017conn din il-materjal:\n\n- Komputer bil-programmazzjoni installata\n- Sensori ta' moviment\n- Kamera jew sensuri o\u0127ra li jistg\u0127u jirrikonoxxu karozzi u passi\u0121\u0121ieri\n- Konezzjoni ta' Internet\n\nPass 1: Setup tal-sensori u tal-kamera\n1. Pjugga l-kamera jew sensuri ta' moviment fejn jistg\u0127u jirrikonoxxu l-karozzi u passi\u0121\u0121ieri.\n2. Jekk ikun hemm b\u017conn, segwi l-istruzzjonijiet tal-prodott biex issa\u0127\u0127a\u0127 il-kamera jew sensuri.\n\nPass 2: Programmazzjoni tal-kodi\u010bi\n1. Fittex programmazzjoni tal-kodi\u010bi fuq il-komputer tieg\u0127ek.\n2. U\u017ca l-lingwa tal-programmazzjoni li t\u0127ossok komdu.\n3. Ikkopja u pastahat il-kodi\u010bi li jistg\u0127u jg\u0127inuk jinstalla u jikkontrolla karozzi.\n4. Twa\u0127\u0127al il-kodi\u010bi biex jirrikonoxxu karozzi u passi\u0121\u0121ieri permezz tal-kamera jew sensuri.\n\nPass 3: Test u tis\u0127i\u0127\n1. Ikkonnettja s-semafori tal-passi\u0121\u0121ieri u l-\u0127inijiet tal-bidu u tmiem tal-\u0127inijiet tal-karozzi mal-kodi\u010bi li \u0121ie programmjat.\n2. Ikkonnettja s-sensori u l-kamera mal-kodi\u010bi.\n3. Iwie\u0121eb il-programm u ttestja lilu nnifsu biex tara jekk jirrikonoxxi l-karozzi u passi\u0121\u0121ieri kif trid.\n4. Ikkonnettja l"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 500,
+        "total_tokens": 639
+    }
+}

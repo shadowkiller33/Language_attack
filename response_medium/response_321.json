@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofn8ukPbWgK3cEohxrLcoiqwg3Aj",
+    "object": "chat.completion",
+    "created": 1692311402,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "E ea, ke tla ithuta ho u thusa. Ntse ke e amohela ho u sebelisa puo ea Sesotho. Nka u thusa ka ho etsa moo u se u batlang. Sehlooho sa hore ke sebetsa ka Sesotho se seholo se sa ho fapana le mantsoe a Setswana. Ke tla u thusa ka hare ho ts'ebetso ea hau."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 103,
+        "total_tokens": 209
+    }
+}

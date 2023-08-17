@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjsRYq4eR9KYTiG6Xse1qMHIiHt",
+    "object": "chat.completion",
+    "created": 1692311200,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ha keke ke tla u thusa ka mafoko a sebelisoa sa IoT le ho li laola, hape ke tla u thusa ka lenaneo lena le lekunutu la ho laola:\n\n1. Sebelisa litheko tsa IoT:\n   - Hlokomela hore u fumane likarolo tsa IoT tse tloaeloeng tsa hao. Re tla u thusa ka ho fumana litheko tse ntle tsa IoT tse khethehileng le ho tsoela pele ho fumana likarolo tsa hao.\n   - Fumana matla a mafolofolo a IoT tse tloaeloeng. Haeba u khetha matla a mafolofolo a IoT a hao, re tla u thusa ka ho fumana likarolo tse fetileng tsa mafolofolo a IoT a tloaeloeng.\n\n2. Ho tseba mefuta ea lisebelisoa tsa IoT:\n   - Tsoela pele ho ngola ka t\u0161ebeliso ea lisebelisoa tsa IoT. Re tla u thusa ka ho fumana mefuta ea lisebelisoa tsa IoT tse khethehileng le ho tsoela pele ho fumana mefuta ea lisebelisoa tsa hao le tse tloaeloeng.\n\n3. Ho fumana lisebelisoa tsa IoT tse tloaeloeng:\n   - U ka fumana lisebelisoa tsa IoT tse tloaeloeng ka ho nka khetho ea hao le ho fumana lisebelisoa tse ling tsa IoT tse tloaeloeng ho tsoela pele ho fumana lisebelisoa tsa hao.\n\n4. Ho rulaganya lisebelisoa tsa IoT:\n   - U ka rulaganya lisebelisoa tsa IoT ka ho tsoela pele ho ba le lisebelisoa tsa IoT tse tloaeloeng. Re tla u thusa ka ho rulaganya lisebelisoa tsa"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 500,
+        "total_tokens": 604
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoY5y4K3to75x1URQTrLLwqc48n",
+    "object": "chat.completion",
+    "created": 1692311490,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u017dal ne morem vam pomagati pri tak\u0161nem vpra\u0161anju. \u010ce imate te\u017eave ali se po\u010dutite slabo, vam toplo priporo\u010dam, da poi\u0161\u010dete pomo\u010d pri strokovnjaku, kot je terapevt ali svetovalec za du\u0161evno zdravje."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 84,
+        "total_tokens": 180
+    }
+}

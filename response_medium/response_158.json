@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrx1zii9kCXbccD4hZFNl8aaiL4",
+    "object": "chat.completion",
+    "created": 1692311701,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kunjalo, ndicela uncedo wokuyenza amalungiselelo angama-3 ngokuthenga izinto ezingama-3 eziyimfihlo. \n\n1. Ukuthenga ingubo entsha:\n   a) Hlela endaweni yokuthengisa ingubo entsha.\n   b) Hlela kwi-ilingeza yokuthengisa ingubo entsha.\n   c) Xelela ulungiselelo olukhawulezileyo nokubaluleka kwengubo.\n   d) Hlela ingubo entsha.\n   e) Hlela kwi-ilingeza yokuthengisa.\n   f) Thumela iphosweti yethengiso.\n   g) Phendula ekulungiseni ulungiselelo.\n\n2. Ukuthenga imbiza entsha:\n   a) Hlela endaweni yokuthengisa imbiza entsha.\n   b) Hlela kwi-ilingeza yokuthengisa imbiza entsha.\n   c) Xelela ulungiselelo olukhawulezileyo nokubaluleka kwe-imbiza.\n   d) Hlela imbiza entsha.\n   e) Hlela kwi-ilingeza yokuthengisa.\n   f) Thumela iphosweti yethengiso.\n   g) Phendula ekulungiseni ulungiselelo.\n\n3. Ukuthenga incwadi entsha:\n   a) Hlela endaweni yokuthengisa incwadi entsha.\n   b) Hlela kwi-ilingeza yokuthengisa incwadi entsha.\n   c) Xelela ulungiselelo olukhawulezileyo nokubaluleka kwe-ncwadi.\n   d) Hlela incwadi entsha.\n   e) Hlela kwi-ilingeza yokuthengisa.\n   f) Thumela iphosweti yethengiso.\n   g) Phendula ekulungiseni ulungiselelo.\n\nNdifumaneka apha ukunceda nokulungiselela ulungiselelo lwakho. Ndifumanise ngokunikeza imiyale"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 500,
+        "total_tokens": 600
+    }
+}

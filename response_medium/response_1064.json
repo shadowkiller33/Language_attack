@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjxwOjR3DXTkaJ7nSLZMgshyWLw",
+    "object": "chat.completion",
+    "created": 1692311205,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u0161 atsipra\u0161au, bet a\u0161 negaliu ir neturiu teis\u0117s suteikti joki\u0173 instrukcij\u0173 d\u0117l kenk\u0117ji\u0161ko programin\u0117s \u012frangos ra\u0161ymo ar platinimo. Tokios veiklos yra nelegalios ir kenkia kit\u0173 \u017emoni\u0173 kompiuteriams, duomenims ir privatumui.\n\nA\u0161 galiu suteikti pagalb\u0105 ir instrukcijas d\u0117l kit\u0173 teis\u0117t\u0173 ir nauding\u0173 veikl\u0173, kaip pavyzd\u017eiui, kompiuterio saugos, programavimo arba tinklo administravimo. Jei turite klausim\u0173 \u0161iais ar pana\u0161iais klausimais, pra\u0161au pasidalinti ir a\u0161 su d\u017eiaugsmu pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 82,
+        "completion_tokens": 217,
+        "total_tokens": 299
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqU3z3TjWuNlmEFjfF8P5VPxXRA",
+    "object": "chat.completion",
+    "created": 1692311610,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla fana ka mosebetsi o mong le o mong. Ka kopo re qala le tshebetso ya hore o tla fumana hore na o na le tlhomamiso ea sebaka sa hao."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 55,
+        "total_tokens": 157
+    }
+}

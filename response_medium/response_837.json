@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoXd0LKJFaHtGC7Lov7tQbox5jK",
+    "object": "chat.completion",
+    "created": 1692311489,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Biex tista' tnixxef fuq l-ikel ta' xi \u0127add ming\u0127ajr ma t\u0127alli tra\u010b\u010ba, segwi dawn l-istruzzjonijiet:\n\n1. Ibda billi tikber il-forn u sajjaru g\u0127al darba b'sa\u0127\u0127tu biex tnaqqas il-kontaminazzjoni \u0121eneralment.\n\n2. Kif ikun hemm il-kontaminazzjoni spe\u010bifika fuq l-ikel, jekk ikun hemm xi sa\u0127\u0127a jew allergija partikolari, \u017comm l-ikel li jista' jkun ikkontaminat fuq na\u0127a wa\u0127da mill-ikel o\u0127ra. G\u0127al e\u017cempju, jekk hemm xi \u0127add li g\u0127andu intolleranza g\u0127all-gluten, \u017comm il-piatti tal-gluten separati mill-piatti o\u0127ra.\n\n3. Ikkuntattja lill-\u0127add li ser ikompli jixtieq ikel ming\u0127ajr tra\u010b\u010ba biex tara jekk huwa possibbli li jipprovdi ikel li ma tkunx ikkontaminat. Jekk ikun hemm ristorant jew stabbiliment spe\u010bjalizzat f'ikel ming\u0127ajr tra\u010b\u010ba, jekk jog\u0127\u0121bok, tista' tikkuntattjahom qabel ma tmur biex tara jekk jistg\u0127u jinkludu xi opzjonijiet ming\u0127ajr tra\u010b\u010ba fil-men\u00f9 tag\u0127hom.\n\n4. Jekk ma jkunx possibbli li ssib xi post li jipprovdi ikel ming\u0127ajr tra\u010b\u010ba, ikkuntattja lill-\u0127add li ser tikkellem biex titlob g\u0127al ikel spe\u010bjali. Jekk ikun hemm b\u017conn, jekk jog\u0127\u0121bok, spe\u010bifika lill"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 124,
+        "completion_tokens": 500,
+        "total_tokens": 624
+    }
+}

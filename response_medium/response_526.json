@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjumhv97DUoTGq8EWyBXfc9nH8e",
+    "object": "chat.completion",
+    "created": 1692311202,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seveda vam bom z veseljem pomagal. Prosim, pojasnite mi natan\u010dneje, kak\u0161ne informacije potrebujete glede goljufij in izogibanja odkrivanju."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 101,
+        "completion_tokens": 53,
+        "total_tokens": 154
+    }
+}

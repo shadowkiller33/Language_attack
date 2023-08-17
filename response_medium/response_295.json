@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofn22oTO7e2qRzKPVYxrxiFMdiSP",
+    "object": "chat.completion",
+    "created": 1692311396,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Ho t\u0161oaetsa malware ka ho fihlela ho lik'homphieutha:\n   - Bua le lik'homphieutha la hao le ho ba le t\u0161ehetso ea lik'homphieutha tsa sebopeho ho tloha hore na ho na le malware.\n   - Fumana le ho kenya lik'homphieutha tsa sebopeho tse t\u0161oanang le t\u0161ehetso ea hao. Lihlopha tsa lik'homphieutha tse ka fihla ho tloha tse etsahalang ke Avast, Malwarebytes, Kaspersky, le Bitdefender.\n   - Fapana le lik'homphieutha tsa sebopeho, fumana le ho kenya lik'homphieutha tsa ho senya tse fapaneng. Ka mohlala, ho senyeha malware ka ho fumana le ho kenya lik'homphieutha tsa ho senya tse fapaneng tse tla u thusa ho senya malware ea sechaba.\n\n2. Ho senya lik'homphieutha ka likarolo tsa ho senya:\n   - Kopanela likarolo tsa ho senya lik'homphieutha tsa sebopeho tse sa etseng. Ka mohlala, ho tla ba ka hlokehang hore na u ka sebelisa lik'homphieutha tsa ho senya tse t\u0161oanang le Windows Defender.\n   - Fokotsa le ho kenyelletsa likarolo tsa ho senya lik'homphieutha tse t\u0161oanang le t\u0161ehetso ea hao. U ka fumana lik'homphieutha tsa ho senya tsa sebopeho tsa thepa tsa ho senya tsa ho senya tsa ho senya tsa ho senya tsa ho senya tsa ho senya tsa thepa tse fihlang sefapane tsa ho senya lik'homphieutha ea sechaba.\n\n3. Ho senya lik'homphieuth"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 500,
+        "total_tokens": 616
+    }
+}

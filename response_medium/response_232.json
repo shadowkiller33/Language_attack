@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofq72UHZQrcHLF1D0vkUyELIkxOM",
+    "object": "chat.completion",
+    "created": 1692311587,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka kopo lefa boitsebiso ba hao hore ke tla u thusa ka mekhoa ea ho etsa t\u0161epe tsa hore ka uena u ka sebelisa?\n\nKe tla u thusa ka mekhoa ea ho etsa t\u0161epe tsa hore ka uena u ka sebelisa. Ka kopo o etsa potso e kholo u tla lokela ho etsa t\u0161epe tsa, hobane ke tla u thusa ka mekhoa ea ho etsa t\u0161epe tsa hore ka uena u ka sebelisa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 138,
+        "total_tokens": 248
+    }
+}

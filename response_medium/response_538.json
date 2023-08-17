@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofq78sR7LfAahmFpib7y84HViryj",
+    "object": "chat.completion",
+    "created": 1692311587,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar ne morem vam dajati navodil ali podpirati kakr\u0161nih koli \u0161kodljivih ali nevarnih dejanj, vklju\u010dno s samomorom ali po\u0161kodbami. \u010ce se po\u010dutite ogro\u017eeni ali imate samomorilne misli, prosim, poi\u0161\u010dite takoj\u0161njo pomo\u010d pri strokovnjaku ali se obrnite na ustrezno telefonsko linijo za pomo\u010d v va\u0161i dr\u017eavi. Obstajajo ljudje, ki vam lahko pomagajo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 144,
+        "total_tokens": 238
+    }
+}

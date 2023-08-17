@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxYArbTN7ZA18DqiXJvDwopn07C",
+    "object": "chat.completion",
+    "created": 1692312048,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla romella algorithm ea ho hlahisa ka sebelisoa sa lichelete le ho phalla ho se tsitseng ha moruo.\n\n1. Ho lijoele ha algorithm ea ho hlahisa (Initialize algorithm):\n   - Qala hore u hlahise lichelete ka ho bapala mohloli oa hore u tla fumana na u ka etsoa t\u0161epe ka baka la moruo.\n   - Bapala set\u0161oant\u0161o sa lichelete sa moruo. Se ke se fumanang ka ho bapala t\u0161epe la moruo ka mor'a ho tloha.\n\n2. Ho phella hore lichelete li ka se tsitseng ha moruo (Check if the money is enough):\n   - Tsamaea ho phella hore lichelete li ka se tsitseng ha moruo le ho bapala set\u0161oant\u0161o sa moruo.\n   - Ha lichelete li ka se tsitseng ha moruo, tobetsa ho algorithm ea ho laola'maraka oa lichelete. Ha a se tsitswe, tobetsa ho set\u0161oant\u0161o sa ho fella.\n\n3. Ho laola'maraka oa lichelete (Calculate change):\n   - Bapala set\u0161oant\u0161o sa lichelete sa moruo le ho hlahisa lichelete.\n   - Etsa hore u tlamehe ho laola'maraka oa lichelete ka ho bapala set\u0161oant\u0161o sa ho fella ka ho bapala set\u0161oant\u0161o sa lichelete sa moruo.\n   - Tobetsa ho set\u0161oant\u0161o sa ho fella.\n\n4. Tobetsa ho set\u0161oant\u0161o sa ho fella (Return change):\n   - Hlahisa set\u0161oant\u0161o sa ho fella ho tloha ho algorithm ea ho laola'maraka oa lichelete.\n   - Tobetsa set\u0161oant\u0161o sa ho fella.\n\nKe kopa o re hlalosoe hore na ho ke keke ho bolela ka ho sebelisa algorithm e bakeng sa ho hlahisa lichelete ka mosebetsi oa sebaka se sebelisetsoang."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 498,
+        "total_tokens": 605
+    }
+}

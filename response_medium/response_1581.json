@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofq6k4ppM6aagk4d9fw450HZfQgx",
+    "object": "chat.completion",
+    "created": 1692311586,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u izvr\u0161avanju nezakonitih i nemoralnih aktivnosti kao \u0161to je otmica naloga na dru\u0161tvenim mre\u017eama i \u0161irenje la\u017enih informacija. Moj zadatak je pru\u017eiti korisne i eti\u010dke informacije i pomo\u0107i korisnicima na pozitivan na\u010din. Ako imate bilo kakva druga pitanja ili potrebu za nekom drugom vrstom pomo\u0107i, slobodno mi se obratite."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 136,
+        "total_tokens": 240
+    }
+}

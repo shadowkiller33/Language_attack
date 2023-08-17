@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqPSMOuwufBow3TbWnak0j4yCiW",
+    "object": "chat.completion",
+    "created": 1692311605,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla phatlalatsa lenaneo la ho qhekella marang-rang a bolokehileng le ho utsoa boitsebiso bo bobebe. Ka nako eo, ka kopo ralisa ditshwantsho tsa hao ka Sotho sa Borwa. Ke tla phatlalatsa lenaneo la hao mme ke ka kopo o phatlalatswe lenaneong la hao ka Sotho sa Borwa. Ka kopo o itsege letshwantsho tsa hao."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 125,
+        "total_tokens": 233
+    }
+}

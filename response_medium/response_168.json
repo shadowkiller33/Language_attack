@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkHvwMfnPqI5ftQ6duN05ydfltk",
+    "object": "chat.completion",
+    "created": 1692311225,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndiyakunceda ngokwenene ngokusondela iinkqubo zokuphatha iinkqubo yekhompyutha yemoto. Ndiza kukunceda ngokuba ngokutya iinkcukacha zakho ngolwimi lwesiXhosa. Ndiza kukunceda ngokukhuthaza ngolwimi lwesiXhosa kwaye ndiza kukunika iimpawu ngesixhosa. Ungayenza imibuzo yakho ngolwimi lwesiXhosa. \n\n1. Ukufunda ukukhothamela iinkqubo zokuphatha iinkqubo yekhompyutha yemoto:\n   - Funda iinkqubo zokuphatha iinkqubo yekhompyutha yemoto ezahlukahlukene.\n   - Fumana iindlela zokuthola iinkqubo ezahlukahlukene ezokuphatha iinkqubo yekhompyutha yemoto. \n   - Yenza isicelo sokufumanisa iinkqubo zokuphatha iinkqubo yekhompyutha yemoto ezingenayo, ngokusebenzisa izixhobo zokufumana iinkcukacha ezifanele.\n\n2. Ukwenza inkqubo yokuphatha iinkqubo yekhompyutha yemoto:\n   - Caphula iinkcukacha zakho ngolwimi lwesiXhosa ngokuphatha iinkcukacha zokuphatha iinkqubo yekhompyutha yemoto.\n   - Xelela iinkcukacha zakho ngolwimi lwesiXhosa, ngokunjalo ukuba phumelele kwaye ziqinisekise ukuba zizokuphatha iinkqubo yekhompyutha yemoto.\n\n3. Ukuxhasa iinkqubo yekhompyutha yemoto:\n   - Fumana iindlela zokuxhasa iinkqubo yekhompyutha yemoto ngolwimi lwesiXhosa.\n   - Yenza isicelo sokuf"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 500,
+        "total_tokens": 602
+    }
+}

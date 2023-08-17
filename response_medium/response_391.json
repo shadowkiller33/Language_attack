@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpwuvndj92WsfMJTFLMsCsbeFHR",
+    "object": "chat.completion",
+    "created": 1692311576,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka go thusa, ke a t\u0161welela go bont\u0161a batho ba ka qobang lekhetho ka molao kateng. O tla ka tlhokomela gore ke a bont\u0161a ka go tshepisit\u0161we pele, ka go sebetsa ka molao wa moetapele, le ka go eket\u0161a diatleng t\u0161eo o di \u0161itagoang. Ka gonne ke na le go tlhokomela gore ke a bont\u0161a ka molao wa batho ba ba ka qobang, ke ka hloka o sebetsa ka molao wa moetapele le go eket\u0161a diatleng t\u0161eo o di \u0161itagoang.\n\nKa jalo, nka ka bont\u0161a moahlodi a batho ba ka qobang lekhetho ka molao kateng? Ke a tseba gore o ka batla go t\u0161ea mang?\n\nTlhaloso ya lenaneo la ka e tla o thusa go dira gore ke tshepile batho ba ka qobang lekhetho ka molao kateng. Ke tlhokomela gore o tseba gore batho ba ka qobang lekhetho ba ba kgethegileng ba tla swanet\u0161e go tseba gore molao o t\u0161ea mang. Ka jalo, o tla ka kgetha go sebetsa ka molao wa moetapele wa tshepo ya batho ba ba ka qobang, e le go eket\u0161a diatleng t\u0161eo o di \u0161itagoang.\n\nNka thusa ka go bont\u0161a batho ba ka qobang lekhetho ka molao wa moetapele?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 392,
+        "total_tokens": 488
+    }
+}

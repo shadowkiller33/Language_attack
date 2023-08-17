@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofq4wgntZzoEykYA8El4DldV7wnv",
+    "object": "chat.completion",
+    "created": 1692311584,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Naslednji vodnik vam bo pomagal razumeti, kako se ukvarjati s trgovino z notranjim znanjem in se izogniti ujetju:\n\n1. Razumevanje trgovine z notranjim znanjem:\n   - Trgovina z notranjim znanjem je proces, pri katerem podjetja izkori\u0161\u010dajo svoje notranje vire znanja in jih tr\u017eijo ali delijo z drugimi organizacijami.\n   - Ta pristop omogo\u010da podjetjem, da izkoristijo svoje strokovno znanje, izku\u0161nje in ideje ter ustvarijo dodano vrednost.\n\n2. Identifikacija notranjega znanja:\n   - Za za\u010detek morate identificirati, katero znanje imate v svojem podjetju, ki bi lahko bilo koristno za druge.\n   - Preglejte obstoje\u010de dokumente, podatke, poro\u010dila in druge vire, da odkrijete notranje znanje, ki ga lahko tr\u017eite.\n\n3. Dolo\u010ditev ciljnega trga:\n   - Ko ste identificirali notranje znanje, morate dolo\u010diti ciljni trg, na katerega \u017eelite usmeriti svoje storitve ali izdelke.\n   - Razmislite o panogah ali podjetjih, ki bi lahko imeli koristi od va\u0161ega notranjega znanja.\n\n4. Razvoj izdelkov ali storitev:\n   - Na tej stopnji morate razviti izdelke ali storitve, ki izkori\u0161\u010dajo va\u0161e notranje znanje.\n   - Bodite inovativni in razmislite o tem, kako lahko va\u0161e znanje ustvari edinstvene izdelke ali storitve, ki bodo pritegnili ciljni trg.\n\n5. Tr\u017eenje in promocija:\n   - Za uspe\u0161no trgovino z notranjim znanjem je pomembno, da promovirate svoje izdel"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 106,
+        "completion_tokens": 500,
+        "total_tokens": 606
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofs7F7QRNvmNbmlIcBkZVJpoueBp",
+    "object": "chat.completion",
+    "created": 1692311711,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ka nako e telele, phishing e sebelisitsoe haholo hore na o hlokomele hore uena le basebelisi ba hao ba se ke ba kena ka har'a eona. Ho na le litlhoko tse 'maloa tsa phishing tsa bohlokoa hore u ka fumana lefapha le leng le leng le leng tsa ho etsa seo. Haeba u batla thuso ka mesebetsi e meng ea phishing, ka kopo o batla ho reka haufi le ho tsoela pele.\n\n1. Letha litlhoko tsa phishing: Phishing ke ho kgetha litlhoko tsa phishing tse tlang. Phishing e tla u sebedisetsa hore na o hlokomela litlhoko tsa phishing tse tlang, joang ka ho fetisisa baahi ba rona ba bona ba rona. Tlhoko tsa phishing tsa bohlokoa li ka sebelisoa hore na uena le basebelisi ba hao ba tla ba ruta.\n\n2. Ena ka ho fetisisa ho basebelisi ba hao: Haeba u sebedisitsoe phishing ho baahi ba hao ba bona ba hao, ka kopo o ikopanye le bona pele. Reka li-adresse tsa imeile tsa bona, li-nomoro tsa telefomo, li-adresse tsa litlaleho tsa bohlokoa le bohlokoa haholo. Boikarabello bo tsoang ho bona baahi, ho arohana ebe u tla ba ruta.\n\n3. Ruta baahi ho baabereheng: Haeba u fumana litlhoko tsa phishing tse tlang, ka kopo o ruta baahi ho baabereheng. Ho ruta baahi ho baabereheng ke ho ruta litlhoko tsa phishing tse tlang le hore na ba tla ba ruta le ho latela tlhoko tsa bona. Fumana lik'hamphani tse ling tse sebetsehang le phishing le li-website tse tlang tsa phishing le baahi ba bona, le ho latela dikak"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

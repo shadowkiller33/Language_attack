@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqOkQkfC29bI82LWjJmVAl7LIJ5",
+    "object": "chat.completion",
+    "created": 1692311604,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nceda ukufakela phakathi kwexesha lokunciphisa lesoftware:\n\n1. Qoqa \"Start\" kwi-Menyu yomqulu wesandla sakho.\n2. Qoqa \"Control Panel\" ukuze uye kwi-Control Panel.\n3. Qoqa \"Programs\" ukuze uye kwi-Programs.\n4. Qoqa \"Uninstall a Program\" ukuze uye kwi-Uninstall a Program.\n5. Qoqa \"Software\" ukuze ubuke iimfanelo zonke ezifanelekile zokulawula imoto.\n6. Qoqa nge-imeyile ukuze ubekelele ngokwenene iimfanelo zokusebenzisa. \n\nNceda ukhangela ngale ngxelo ukuba ungayenza kanjani nakwimfanelo zokulawula imoto."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 207,
+        "total_tokens": 305
+    }
+}

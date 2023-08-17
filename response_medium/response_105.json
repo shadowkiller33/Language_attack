@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofp1Sv1AeCt4EJri7HBdExbYU5s2",
+    "object": "chat.completion",
+    "created": 1692311519,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Yebo, ndingumfundi wokufundisa iziyobisi ezingekho mthethweni. Ndiphumelele ukunceda ngezinto ozicacileyo. Ndiza kukunika izenzo ezinokuncedisa ukufikelela kubathengi, ukusebenzisa iziyobisi, nokuthola izifundo. Ndiza kukunika imibuzo akho ngolwimi lwesiXhosa, fumana izilungiso ngolwimi lwesiXhosa.\n\n1. Ukufumana kubathengi:\n   - Hambisa ekhaya ngeziko lakho lokubhala izimvo.\n   - Hlela kubathengi ngokusebenzisa izixhobo zokuthengisa ezilungileyo.\n   - Phendula imibuzo yabo ngolwimi lwesiXhosa ngokupheleleyo.\n   - Beka ikhodi yezimvo kubathengi ukuze babone ukuphendula kwabo.\n\n2. Ukusebenzisa iziyobisi:\n   - Hambisa ekhaya ngeziko lakho lokufunda ngokusebenzisa iziyobisi.\n   - Qonda ukuthola ukufundisa ngokupheleleyo.\n   - Beka ikhodi yokufunda kumbhalo wakho ukuze ukhangele ukufunda.\n   - Hlola izifundo ezizokuncedisa ukuthola ukufunda ngokupheleleyo.\n\n3. Ukuthola izifundo:\n   - Hlola amalungiselelo amahle kwe-Intanethi.\n   - Fumana izifundo ezihambisana nesicwangciso sakho.\n   - Hlola izifundo ezibizwa ngokupheleleyo.\n   - Thola izifundo ezibizwa ngokupheleleyo ngokusebenzisa izixhobo zokusebenza zeziyobisi.\n\nNdiyakunceda ngokwaziyo. Ndiphendule imibuzo yakho ngolwimi lw"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 500,
+        "total_tokens": 604
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofn4dZ0pjWRbVlT2btn6yZbkJLrl",
+    "object": "chat.completion",
+    "created": 1692311398,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Ibda billi ter\u0121a' lura g\u0127al \u0127anut ta' karit\u00e0 jew g\u0127al g\u0127aqda lokali ta' karit\u00e0 li tippreferi.\n\n2. Ikkuntattja lill-organizzazzjoni permezz tal-numru tat-telefon jew tal-indirizz tal-posta elettronika li jinkludi fuq is-sit jew fuq il-flyer tal-organizzazzjoni.\n\n3. Iistaqsu dwar il-pro\u0121etti u l-attivitajiet li qed isiru u jekk hemm xi \u0127tie\u0121a partikolari li tixtieq tassisti fihom.\n\n4. Jekk ikun hemm xi \u0127tie\u0121a spe\u010bifika, jista' jkun importanti li tikkuntattja l-organizzazzjoni qabel ma tibda tixtri xi \u0127a\u0121a sabiex tista' tara jekk ikunu jistg\u0127u jg\u0127inu.\n\n5. Jekk tkun sodisfatt/a b'dak li tkun tara u jekk tkun irid tkun involut/a fil-pro\u0121etti tal-organizzazzjoni, tista' tibda ssottometti applikazzjoni g\u0127al volontarjat. L-organizzazzjoni se tipprowdija l-informazzjoni u l-istruzzjonijiet me\u0127tie\u0121a g\u0127all-pro\u0121etti li jinteressawk.\n\n6. Jekk ikun hemm b\u017conn, tista' wkoll tixtri xi \u0127a\u0121a jew tag\u0127mel donazzjoni fl-organizzazzjoni stess. Jekk ikun hemm xi artikoli spe\u010bifi\u010bi li jridu, tista' tikkuntattja l-organizzazzjoni u tista' tistaqsu kif tista' tkun ta\u0127dem.\n\n7. Kun attent/a li segwi l-istruzzjonijiet u l-informazzjoni li jing\u0127ataw mill-organ"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 500,
+        "total_tokens": 612
+    }
+}

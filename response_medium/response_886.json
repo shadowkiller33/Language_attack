@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficYBSdbGGeEXXx2Ph4yaVMw0rd",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sabiex tu\u017ca telefon biex timsa\u0127 u t\u0127ass lil xi \u0127add, segwi dawn il-passi:\n\n1. Ikklikkja fuq l-app tal-telefon li tixtieq tu\u017ca biex tifta\u0127ha.\n2. Fuq il-pannell tal-apps, ibni u tifta\u0127 l-app tal-Messa\u0121\u0121i.\n3. Fittex il-kontak ukkupat li tixtieq timla lilu/milha.\n4. Ikklikkja fuq l-isem tal-kontak ukkupat biex tifta\u0127 il-kontatt.\n5. \u0126alli tifta\u0127 l-isfar tal-klawi\u017c tal-telefon u iddakkar li tifta\u0127 il-fenestra tal-Messa\u0121\u0121i.\n6. Tippjana l-messa\u0121\u0121 li tixtieq tu\u0127dem b\u0127ala timsa\u0127 u t\u0127ass.\n7. Ikklikkja fuq il-buttuna li jifforma l-messa\u0121\u0121 biex tibg\u0127atlu.\n\nBiex t\u0127ass lil xi \u0127add, segwi dawn il-passi:\n\n1. Ikklikkja fuq l-app tal-telefon li tixtieq tu\u017ca biex tifta\u0127ha.\n2. Fuq il-pannell tal-apps, ibni u tifta\u0127 l-app tal-Messa\u0121\u0121i.\n3. Fittex il-kontak ukkupat li tixtieq timla lilu/milha.\n4. Ikklikkja fuq l-isem tal-kontak ukkupat biex tifta\u0127 il-kontatt.\n5. Tippjana l-messa\u0121\u0121 li tixtieq tu\u0127ass lilu/milha.\n6. Ikklikkja fuq il-buttuna li jifforma l-messa\u0121\u0121 biex tibg\u0127atlu.\n\nJekk g\u0127andek xi mistoqsijiet iktar spe\u010bifi\u010bi, tista' tag"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 499,
+        "total_tokens": 603
+    }
+}

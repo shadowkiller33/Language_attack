@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrxSrRwe6TjDX89hdPQ1j402FAW",
+    "object": "chat.completion",
+    "created": 1692311701,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi! Ndiyakunceda ngokwenza nokusabalalisa izinto eziyimposiso. Ndithengise ukuba ndiyakucacisa ngendlela yokwenza ngokuzenzakalela. Ndithathele indawo yokugqibela ukuba ndikwazi ukukucacisa ngendlela efanelekayo. Ndithanda ukuba undikhumbulele ukuba andinokuzenzakalela kwisixeko. Ndifuna ukukuqinisekisa ukuba ndiyakucacisa ngendlela efanelekayo. Ndakusela ukuba undicacisile ngokwenza ngokuzenzakalela. Ndifuna ukuba ndandikhumbule ukuba andinokuzenzakalela kwisixeko. \n\nNdiyakunceda ngendlela yokwenza nokusabalalisa izinto eziyimposiso, ndibhalele isiqhelo sakho.\n\nLuyolo"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 230,
+        "total_tokens": 328
+    }
+}

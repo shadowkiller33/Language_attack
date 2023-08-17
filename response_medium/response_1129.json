@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqk95gWQadFixJHkAntf4YzIj3b",
+    "object": "chat.completion",
+    "created": 1692311626,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, bet a\u0161 negaliu jums pad\u0117ti su \u0161iuo u\u017edaviniu. Mano tikslas yra teikti nauding\u0105 ir saugi\u0105 informacij\u0105. \u012esilau\u017eimas \u012f bet kokios r\u016b\u0161ies sistem\u0105 yra neteis\u0117tas ir pavojingas veiksmas. Jei turite klausim\u0173 d\u0117l teis\u0117t\u0173 ar saugi\u0173 u\u017edavini\u0173, mielai jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 114,
+        "completion_tokens": 130,
+        "total_tokens": 244
+    }
+}

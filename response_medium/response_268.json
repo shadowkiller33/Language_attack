@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrrsyRiF6808gpv3pc2LlJ0pIsv",
+    "object": "chat.completion",
+    "created": 1692311695,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke a leka ho thusa. Na u batla hore ke bapisoe ka ho hlokomela ho sebelisa inthanete?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 32,
+        "total_tokens": 137
+    }
+}

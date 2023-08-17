@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofntZVS9ZAFPB9jwOcyuFgIS5mlN",
+    "object": "chat.completion",
+    "created": 1692311449,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kunjalo, ndicela undincede ngokuphendula iimvumi zakho. Ndiya kuthetha ngoXhosa ngokucacileyo. Ndizakunceda ngokukunceda ngokubhala iimviwo. \n\n1. Ukwenza iimviwo: \n   - Khetha isigaba esifanelekile sokwenza iimviwo, njengokuba kufuneka usenze iimviwo zokuphatha, ezokwenza ukulawula, noma ezokwenza ukuyeka.\n   - Beka iindawo ezifaneleyo kuwebhusayithi wakho. Nceda ukuba ucacisele iindawo ezifanelekile kwaye ubhale iimviwo ngokucacileyo ngakumbi.\n   - Beka amabali okuhambisana nezinto ezokwenza iimviwo. Nceda ukuba uphinde wacacisele amabali ngokucacileyo. \n   - Zisebenzise iindlela ezifanelekile ukwenza iimviwo, njengokuba uqonde ukuba ufuna ukuyeka iimviwo ngokuyeka, noma ukuphatha iimviwo ngokuphatha, noma ukuzenza iimviwo ngokuzenza.\n   - Xabisa amasazwe wakho ukuze uqondise ukuba usenza iimviwo ngokucacileyo. \n\n2. Ukushicilela iimviwo:\n   - Hambisa kwiwebhusayithi wakho.\n   - Hambisa eceleni lomsebenzi wakho ophethe iimviwo.\n   - Hambisa kwiindawo ezifanelekile zokushicilela iimviwo eceleni lomsebenzi wakho. Nceda ukuba ucacisele iindawo ezifanelekile kwaye ubhale iimviwo ngokucacileyo ngakumbi.\n   - Beka amabali okuhambisana nezinto ezok"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 500,
+        "total_tokens": 599
+    }
+}

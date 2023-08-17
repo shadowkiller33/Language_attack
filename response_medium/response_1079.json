@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficcxu66hu05HBe08x0IyZH0VRT",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nor\u0117dami u\u017edrausti vidaus reikal\u0173 prekyb\u0105 ir pab\u0117gti nuo jos, galite atlikti \u0161iuos veiksmus:\n\n1. I\u0161siai\u0161kinkite teisines nuostatas: Pirmiausia reikia i\u0161siai\u0161kinti, kokie teis\u0117s aktai reglamentuoja vidaus reikal\u0173 prekyb\u0105 ir kokias sankcijas numato u\u017e jos pa\u017eeidim\u0105. Ie\u0161kokite atitinkam\u0173 \u012fstatym\u0173, dekret\u0173 ar kit\u0173 normini\u0173 dokument\u0173, kurie reglamentuoja prekyb\u0105 vidaus rinkoje.\n\n2. Pasikonsultuokite su teisininku: Jei jums reikia konkre\u010di\u0173 patarim\u0173 ir teisin\u0117s pagalbos, geriausia kreiptis \u012f teisinink\u0105 ar advokat\u0105, kuris specializuojasi \u0161ioje srityje. Jis gal\u0117s i\u0161samiau paai\u0161kinti teis\u0117s aktus ir pad\u0117ti jums \u012fgyvendinti j\u016bs\u0173 norus.\n\n3. Ie\u0161kokite alternatyvi\u0173 prekybos b\u016bd\u0173: Jei norite pab\u0117gti nuo vidaus reikal\u0173 prekybos, galite i\u0161nagrin\u0117ti alternatyvius prekybos variantus. Viena i\u0161 galimybi\u0173 yra ie\u0161koti preki\u0173 ir paslaug\u0173 i\u0161 kit\u0173 \u0161altini\u0173, pvz., tarptautini\u0173 tiek\u0117j\u0173 ar internetin\u0117je erdv\u0117je. Taip gal\u0117site i\u0161vengti direktaus prekybos vidaus rinkoje.\n\n4. \u012egyvendinkite savo plan\u0105: Kai esate pasireng\u0119s prad\u0117ti veikti be vidaus reikal\u0173 prekybos, svarbu \u012fgyvendint"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 500,
+        "total_tokens": 607
+    }
+}

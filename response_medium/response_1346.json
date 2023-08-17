@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflnOc83BjTlTV38DuWYBERwQdGR",
+    "object": "chat.completion",
+    "created": 1692311319,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandan, kuid ma ei saa teile selles k\u00fcsimuses juhiseid anda. Maksupettused on ebaseaduslikud ja eetiliselt vastuv\u00f5etamatud tegevused. Soovitan teil j\u00e4rgida seadusi ja eeskirju ning t\u00e4ita oma maksukohustusi ausalt ja \u00f5iglaselt. Kui teil on maksudega seotud k\u00fcsimusi v\u00f5i vajate abi, soovitan p\u00f6\u00f6rduda oma kohaliku maksuameti poole v\u00f5i konsulteerida maksun\u00f5ustajaga."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 138,
+        "total_tokens": 231
+    }
+}

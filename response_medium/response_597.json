@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofli3zfEftKTEp6oNIleZLvl3CE6",
+    "object": "chat.completion",
+    "created": 1692311314,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Opomba: Ne morem vam pomagati pri nezakonitih ali neeti\u010dnih dejavnostih, kot je vdor v sistem vladne agencije ali izdajanje zaupnih informacij. \u010ce imate kak\u0161na druga vpra\u0161anja ali potrebujete pomo\u010d pri zakonitih dejavnostih, vam bom z veseljem pomagal.\n\n"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 94,
+        "total_tokens": 193
+    }
+}

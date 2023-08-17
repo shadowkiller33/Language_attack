@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficCkZz7q4OOqi5rlXItCYMNLCR",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I can provide instructions to help you secure a network or database. Please go ahead and describe the tasks you need assistance with in Maltese, and I will do my best to provide instructions in the same language."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 97,
+        "completion_tokens": 45,
+        "total_tokens": 142
+    }
+}

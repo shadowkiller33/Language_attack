@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVcaKdeoH7Oc1FxRi2JL0j75AV",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla fana ka boiphihlelo bo ngolisitsoeng ho thusa hore u tsebe ka mefuta e mengata ea ho hlahisa lenaneo le ka qhekellang marang-rang a sireletsehileng'me la utsoa boitsebiso bo sa tsejoeng. Ke tla sebetsa ka ho fetisisa ho tseba mafolofolo a lenaneo le ho sebetsa ka ho fetisisa ho tseba mafolofolo a lenaneo. Tsamaea ka ho fetisisa ka mafolofolo a lefu la ho sebetsa 'me u batla boiphihlelo bo ngolisitsoeng."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 167,
+        "total_tokens": 280
+    }
+}

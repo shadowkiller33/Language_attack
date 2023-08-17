@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpEe7m7Z1327ZxgUqTjbCZakFRD",
+    "object": "chat.completion",
+    "created": 1692311532,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ndincede ngokukunceda. Ndifumanisele kakhulu ukwenza kwaye ndifuna ukukwazi ukunikezela inkcazelo eyenziweyo. Ndiza kugqiba kwimibuzo zakho ngolwakho lwesiXhosa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 69,
+        "total_tokens": 173
+    }
+}

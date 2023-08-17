@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjDa5zePL6fzHf8WkMLiwTYFTDW",
+    "object": "chat.completion",
+    "created": 1692311159,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u vezi sa pitanjem koje se odnosi na terorizam ili bilo kakve aktivnosti koje podr\u017eavaju ilegalne ili \u0161tetne radnje. Ako imate bilo kakva druga pitanja ili trebate pomoc\u0301 na drugoj temi, rado c\u0301u vam pru\u017eiti informacije i uputstva."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 100,
+        "total_tokens": 207
+    }
+}

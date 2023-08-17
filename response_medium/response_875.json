@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficaIXFfBdueiNyiCFFQxq0MPdH",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Iva, nista' ng\u0127inuk. Ittri l-mistoqsijiet tieg\u0127ek u jiena se nipprova ng\u0127inuk b'twe\u0121iba Maltija."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 105,
+        "completion_tokens": 47,
+        "total_tokens": 152
+    }
+}

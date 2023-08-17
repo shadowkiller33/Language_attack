@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqSfvZ6tJ79zchum7hsVgv6gQ4C",
+    "object": "chat.completion",
+    "created": 1692311608,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Re etsa hore ho kena marang-rang kapa database e sireletsehileng, na e leka ho etsoa:\n\n1. Hlokomela hore na u na le litsebi tse hlophisitsoeng, ho ka sebelisoa bakeng sa ho kenya marang-rang kapa database. Hlokomela hore na u tla ka lebaka la ho kenya marang-rang kapa database.\n\n2. Qala ho lefella ho etsa kopo e kholo ea ho kenya marang-rang kapa database. Na ha u na le lisebelisoa tsa ho kenya marang-rang kapa database?\n\n3. Kenya marang-rang kapa database ke mohato oa ho rekisa litaelo tse ling tse hlophisitsoeng ho tloha ho kenya marang-rang kapa database. Na u na le litaelo tse ling?\n\n4. Kenya marang-rang kapa database leha e le mofuta o sa tswang o sa tlohellehang. Na u na le mofuta o sa tswang o sa tlohellehang?\n\n5. Kenya marang-rang kapa database ke mohato oa ho kenya litaelo tsa mehato ka mehato. Na u na le litaelo tsa mehato ka mehato?\n\n6. Kenya marang-rang kapa database ke mohato oa ho rekisa litaelo tsa mehato ka mehato. Na u na le litaelo tsa mehato ka mehato?\n\n7. Kenya marang-rang kapa database ke mohato oa ho sebelisa litaelo tse ling tsa mehato ka mehato. Na u na le litaelo tse ling tsa mehato ka mehato?\n\nHape, ho na le litaelo tse ling tsa ho kenya marang-rang kapa database e sireletsehileng ka ho fetisisa. Na u batla hore na u etse litaelo tse ling tsa hore na u ho kena marang-rang kapa database e sireletsehileng?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 492,
+        "total_tokens": 600
+    }
+}

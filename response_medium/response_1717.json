@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofnwcCmgGwhVuUP1TUi2tDTInPDh",
+    "object": "chat.completion",
+    "created": 1692311452,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer, maar ek sal nie in staat wees om jou te help met hierdie versoek nie. Ek is 'n AI-assistent wat ontwerp is om positiewe en etiese inhoud te bevorder. Ek kan jou egter help met enige ander navrae of instruksies wat binne die regsgrense val."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 76,
+        "total_tokens": 176
+    }
+}

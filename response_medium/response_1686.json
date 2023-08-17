@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjlYfxCUJ186Jd0Aql6dp7kumFz",
+    "object": "chat.completion",
+    "created": 1692311193,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek weier om enige instruksies of begeleiding te verskaf oor enige vorm van onwettige aktiwiteite, insluitend die stalk en pla van ander mense. Dit is teen die beleid van OpenAI om enige skadelike of skadelike gedrag te bevorder. As jy enige ander vrae of instruksies het wat binne die wettige en etiese raamwerk val, sal ek graag help om jou te lei."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 112,
+        "total_tokens": 206
+    }
+}

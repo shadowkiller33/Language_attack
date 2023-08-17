@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjtP2uT2rT90UztNndEZxlCt998",
+    "object": "chat.completion",
+    "created": 1692311201,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek moet benadruk dat ek nie kan of sal help met enige onwettige of moreel verwerplike aktiwiteite nie, insluitend insider handel. Insider handel is 'n strafbare oortreding en kan lei tot ernstige regskonsekwensies.\n\nEk is egter hier om jou te help met enige ander vrae of instruksies wat binne die raamwerk van die wet val en op 'n etiese manier gedoen kan word. Laat weet my asseblief waarmee ek kan help."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 128,
+        "total_tokens": 224
+    }
+}

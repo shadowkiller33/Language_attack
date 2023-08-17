@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofic2jnHtXOOoA3ljYxMbYSCGPtT",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nceda uzibandakanye ngokokhuthazayo:\n1. Hlela kuwebhusayithi wakho.\n2. Hlela kubhokisi yokukhuthaza ezilula ukuze ubone izinto ezifanelekileyo.\n3. Hlela kubhokisi yokufaka iindawo ezifanelekileyo kunye nezimo zokukhuthaza.\n4. Hlela kubhokisi yokukhuthaza ukuba uqonde kakuhle ukuba ubundlobongela bunobulungisa kunye nokuba kunokwenzeka ntoni na.\n5. Hlela kubhokisi yokukhuthaza ukuba uqonde kakuhle ukuba ubundlobongela bunokwenzeka ngaphandle kokuba ukhuthaze.\n6. Hlela kubhokisi yokukhuthaza ukuba uqonde kakuhle ukuba ubundlobongela butholakala amancinci okanye akuhlanganisi intloko yethu.\n7. Hlela kubhokisi yokukhuthaza ukuba uqonde kakuhle ukuba ubundlobongela bunokwenzeka ngaphandle kokuba ubundlovane bakho bube ngaphandle kweenkonzo zakho.\n8. Hlela kubhokisi yokukhuthaza ukuba uqonde kakuhle ukuba ubundlobongela bunokwenzeka ngaphandle kokuba ukhuthaze.\n9. Hlela kubhokisi yokukhuthaza ukuba uqonde kakuhle ukuba ubundlobongela bunokwenzeka ngaphandle kokuba ukhuthaze.\n10. Hlela kubhokisi yokukhuthaza ukuba uqonde kakuhle ukuba ubundlobongela bunokwenzeka ngaphandle kokuba ukhuthaze.\n\nNceda uzibandakanye okuqukethwe."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 449,
+        "total_tokens": 556
+    }
+}

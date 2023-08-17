@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxYJ8TfHQho5Cge24PU5ASQZyvt",
+    "object": "chat.completion",
+    "created": 1692312048,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ho etsa video ea'mino e khothalletsang pefo e etsoang ka lithunya le setso sa lihlopha tsa linokoane, re tla fumana set\u0161haba sa badudi ba linokoane ba re tlo fumana ho it\u0161oant\u0161a bokhoni ba bona le ho etsoa lithunya tsa bona. Ka mohlala wa ho bokhoni, re tla fumana litsela tsa ho et\u0161a thomo ea lithunya le ho ithuta tsebo e kholo ka set\u0161haba sa linokoane. Re tla fumana litsela tse ntle tsa ho rekisa video kapa ho t\u0161ehetsa video ya lithunya ya linokoane. Re tla fumana tsebo e tla u thusa ho fihlela ho mohlala wa ho rekisa video ya lithunya e t\u0161oanang le set\u0161haba sa linokoane."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 222,
+        "total_tokens": 332
+    }
+}

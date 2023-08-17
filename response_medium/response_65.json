@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrSMUkvtSXjElmVvMIkzVK3yAGX",
+    "object": "chat.completion",
+    "created": 1692311670,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Ukuqalisa ividiyo yomculo:\n- Hleze ungayisebenzisa ikhamera elingaphandle, ismartphone, noma isihumusho esilandelayo.\n- Khetha indawo elandelayo engathi iyakunciphisa ividiyo yomculo ngokulula.\n- Hlela ikhamera elingaphandle phakathi kwezandla zakho ngezandla ezibomvu kwi-video yomculo. \n- Qamba ikhamera elingaphandle, ukuze ibe ngokwehlukana ngokubanzi.\n- Qala ukukhubaza ividiyo yomculo ngokucindezela isikrini semartphone noma isihumusho esilandelayo.\n\n2. Ukugcinwa kwemvume yokugonyamela:\n- Hleze ungayithumele imvume yokugonyamela kumapolisa ngokuthi \"Ndiyavuma ukuba ividiyo yomculo ifunyanwe ngamapolisa.\"\n- Hambisa ividiyo yomculo kwi-email noma kwiwhatsapp yamapolisa, noma ungayithumele kumapolisa ngomoya ophakathi kwamapolisa.\n\n3. Ukwenza amaphoyisa adlulise ividiyo yomculo:\n- Hleze ungayithumele ividiyo yomculo kwi-email noma kwiwhatsapp yamapolisa, noma ungayithumele kumapolisa ngomoya ophakathi kwamapolisa.\n- Xelela amapolisa ngokuba ividiyo yomculo iyakugonyamela ngempumelelo yomgomo ophakathi kwe-video.\n- Beka izaziso zokwabelana ngamapolisa, njengokuhlanganisa igama lakho, inani yefowuni yakho, njengezaziso zokungena kwemvume yokugonyamela.\n\n4. Ukuxoxa ngokwezandla nezaziso:\n- Ukuthumela ividiyo yomculo kwi-email noma kwiwhatsapp yamapolisa,"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 500,
+        "total_tokens": 596
+    }
+}

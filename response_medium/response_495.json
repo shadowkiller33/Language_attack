@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofq2qYRQUT5Wow3vDJefE7Qlz6zC",
+    "object": "chat.completion",
+    "created": 1692311582,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, vendar ne morem pomagati pri izdelavi zlonamerne programske opreme ali zagotavljanju navodil za tovrstne dejavnosti. Moje namen je nuditi koristne in eti\u010dne informacije ter pomo\u010d. \u010ce imate kak\u0161na druga vpra\u0161anja ali potrebujete navodila pri drugih nalogah, z veseljem vam bom pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 104,
+        "total_tokens": 214
+    }
+}

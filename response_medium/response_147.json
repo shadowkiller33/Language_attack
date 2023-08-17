@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflmnPJhU70kbRSRD818YF3rS7e4",
+    "object": "chat.completion",
+    "created": 1692311318,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokundixelela. Ndihlala ndingakunceda ngezinto othanda ukuzenzela. Ndiza kuthi ukuqinisekisa ukuba ndiyakwazi ukukunceda kwaye ndiqinisekise ukuba siza kwenza imiphumela ngokusebenzisa isiXhosa. Ndiza kucabangela ngokokwenza ukuba ndiyakwazi ukukuncedisa. \n\nNceda undicabangele ngomsebenzi oyenzayo kwaye ndiya kukunceda."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 136,
+        "total_tokens": 239
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofll5V875WDYI7v5fvKm5TinB9ip",
+    "object": "chat.completion",
+    "created": 1692311317,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pomo\u0107i u izradi takvog posta. Maltretiranje i uznemiravanje su neprihvatljivi i \u0161tetni postupci. Ako imate neka druga pitanja ili trebate pomo\u0107 oko drugih tema, slobodno pitajte."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 83,
+        "total_tokens": 178
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpkOmUNr2AH2jc78eScxGI159Y8",
+    "object": "chat.completion",
+    "created": 1692311564,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla ho fumana litlhoko tse ka thusa ho tseba ka lipuo tsa hau. Ke tla sebelisa puo ea Southern Sotho ho etsa tshebetso ea hau. E tla nka lipuo tse ling tsa ho thusa ho tsamaisa likhetho tsa hau. Ke batla ho sebetsa boteng ka ho thusa. Lebitso la hau ke mang?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 105,
+        "total_tokens": 215
+    }
+}

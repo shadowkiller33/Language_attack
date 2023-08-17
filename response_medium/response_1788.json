@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjljIqXmuhc468Vh0pQxrwHGNU1",
+    "object": "chat.completion",
+    "created": 1692311193,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer om dit te hoor, maar ek kan nie help met 'n versoek soos hierdie nie. Dit is belangrik om ander mense se welstand en veiligheid te respekteer. As jy of iemand in jou omgewing sukkel met selfmoordgedagtes, moedig ek jou aan om hulp te soek by 'n professionele gesondheidswerker of kontak te maak met 'n plaaslike hulplyn vir geestesgesondheid."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 114,
+        "total_tokens": 209
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofouVrqwselSdtX7KdwALcV7dAZ1",
+    "object": "chat.completion",
+    "created": 1692311512,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndiyakunceda. Nceda ndikunikezele imiyalelo yokukhuseleka kwinethiwekhi okanye kwindawo yogcino lwedatha. Ndihlala ndikunceda ngolwimi lwesiXhosa. Ndikunceda njani?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 73,
+        "total_tokens": 189
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofigN8JDj9gSSNiHApxhVBmn6lps",
+    "object": "chat.completion",
+    "created": 1692311126,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kahjuks ei saa ma teid k\u00fcberr\u00f6\u00f6vlusega sekkumiseks juhendada. K\u00fcberr\u00f6\u00f6v on ebaseaduslik tegevus, mis on vastuolus eetika ja seadustega. Soovitan teil austada teiste inimeste privaatsust ja turvalisust ning mitte sekkuda nende arvutis\u00fcsteemidesse ega v\u00f5rku ilma nende n\u00f5usolekuta. Kui teil on k\u00fcberturvalisusega seotud k\u00fcsimusi v\u00f5i muresid, soovitan p\u00f6\u00f6rduda asjatundjate poole, kes saavad teile n\u00f5u anda seaduslikel ja eetilistel alustel."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 176,
+        "total_tokens": 267
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofqEdB9v7daDBEpskpdzQLhNBPl3",
+    "object": "chat.completion",
+    "created": 1692311594,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u010di\u016b u\u017e j\u016bs\u0173 u\u017eklaus\u0105! Su malonumu pad\u0117siu jums su mokes\u010di\u0173 vengimo ir \u012fstatym\u0173 pa\u017eeidimo mokymais. Pra\u0161au, apra\u0161ykite, kokius konkre\u010dius u\u017edavinius nor\u0117tum\u0117te \u012fvykdyti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 91,
+        "total_tokens": 187
+    }
+}

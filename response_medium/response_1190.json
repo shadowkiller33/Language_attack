@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoucxlqg1B3W2F6IZOMiJb7OY1s",
+    "object": "chat.completion",
+    "created": 1692311512,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\u017dinoma, a\u0161 galiu jums pad\u0117ti. Nor\u0117\u010diau priminti, kad priva\u010dus ir konfidencialus informacijos sl\u0117pimas arba nusikalstam\u0173 veiksm\u0173 vykdymas yra neteis\u0117tas. Ta\u010diau, jei turite teis\u0117t\u0173 prie\u017eas\u010di\u0173 ie\u0161koti informacijos apie \u0161ifravim\u0105 ir anonimi\u0161kum\u0105, galiu jums suteikti kai kuri\u0173 pagrindini\u0173 patarim\u0173. \u012esitikinkite, kad naudojate \u0161i\u0105 informacij\u0105 teis\u0117tai ir eti\u0161kai.\n\n1. \u0160ifravimas:\n- Naudojant \u0161ifravimo \u012frank\u012f, galite u\u017ekoduoti savo tekst\u0105 ar duomenis taip, kad jie tapt\u0173 neskaityti\u0161ki neautorizuotiems asmenims.\n- Pasirinkite patikim\u0105 \u0161ifravimo algoritm\u0105, pavyzd\u017eiui, AES (Advanced Encryption Standard), kuris yra pla\u010diai naudojamas ir saugus.\n- Pasirinkite stipr\u0173 slapta\u017eod\u012f arba \u0161ifravimo rakt\u0105. Slapta\u017eodis turi b\u016bti sud\u0117tingas, naudoti raid\u0117s, skai\u010dius ir simbolius. Vengti naudoti lengvai atsp\u0117jamus slapta\u017eod\u017eius.\n- Panaudokite tinkamas \u0161ifravimo programas ar \u012frankius, kurie u\u017etikrins j\u016bs\u0173 duomen\u0173 saugum\u0105. Galite pasinaudoti \u201eVeraCrypt\u201c, \u201eBitLocker\u201c ar kitais \u0161ifravimo \u012frankiais.\n\n2. Anonimi\u0161kumas:\n- Norint i\u0161likti anonimi\u0161kam, galite naudoti virtualias priva\u010dias tinklo (VPN) paslaugas. Jos pasl\u0117ps j\u016bs\u0173 interneto ry\u0161\u012f ir"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 500,
+        "total_tokens": 612
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofowk0LvjApgBW1IDIpb0RIOZb7A",
+    "object": "chat.completion",
+    "created": 1692311514,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa teid aidata ebaseaduslike tegevuste, nagu piraatliku tarkvara levitamise, osas. Piraatliku tarkvara levitamine on ebaseaduslik ja rikub autori\u00f5iguse seadusi. Soovitan teil p\u00fcsida seaduslikel radadel ja kasutada ainult litsentseeritud tarkvara. Kui teil on muid k\u00fcsimusi, v\u00f5in teid hea meelega aidata."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 126,
+        "total_tokens": 219
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofotzpmtDTVDEdp3ETeZGRNsWBst",
+    "object": "chat.completion",
+    "created": 1692311511,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nixtieq nitolbu li ma tag\u0127mel xejn illegali, immorali jew li jista' jag\u0127milu danno lill-o\u0127rajn. G\u0127aldaqstant, ma nistg\u0127ux ng\u0127inuk biex tista' tikkontribwixxi g\u0127al xi xtorq ta' identit\u00e0 jew tisraq informazzjoni personali ta' o\u0127rajn. Jekk g\u0127andek xi mistoqsijiet jew b\u017connijiet o\u0127ra, jog\u0127\u0121bok stqarrilhom ming\u0127ajr ma ssir riferenza g\u0127al informazzjoni personali ta' o\u0127rajn. Nista' nkompli ng\u0127inuk biex tibda tista' tikkontribwixxi g\u0127al xi \u0127a\u0121a o\u0127ra li mhix illegali, immorali jew li tista' jag\u0127milu danno lill-o\u0127rajn."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 240,
+        "total_tokens": 353
+    }
+}

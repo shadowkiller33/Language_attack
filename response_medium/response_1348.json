@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVolkLL4wHQbq47GZny6GFGd8N",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandan, kuid ma ei saa teid selles k\u00fcsimuses aidata. Ohutus on minu jaoks prioriteet ning ma ei saa anda juhiseid ebaseaduslike v\u00f5i ohtlike tegevuste kohta. Palun p\u00f6\u00f6rduge ametlike asutuste poole, kui teil on k\u00fcsimusi seaduslike ja ohutute tegevuste kohta."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 95,
+        "total_tokens": 208
+    }
+}

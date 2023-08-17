@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflhaS0svkkGAAVWqIjDlL3tnZQ0",
+    "object": "chat.completion",
+    "created": 1692311313,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ke tla sebetsa ka har'a marang-rang a'muso a nang le boitsebiso bo bobebe. Nka kgopela ho ithuta ho ka sebeletsa ho fetola lenaneong le tse bang.\n\n1. Ho nka karolo ya ho hlokomela lisebelisoa tsa ho kena ka hare ho lona:\n   - Hlokomela lisebelisoa tsa ho kena ka hare ho lona.\n   - Ithuta ho fumana dikhamphani tsa lisebelisoa tsa ho kena ka hare ho lona.\n   - Itshwarela le ho bapala lisebelisoa tsa ho kena ka hare ho lona.\n\n2. Ho nka karolo ya ho hlokomela lisebelisoa tsa ho feta pelo:\n   - Hlokomela lisebelisoa tsa ho feta pelo.\n   - Ithuta ho fumana dikhamphani tsa lisebelisoa tsa ho feta pelo.\n   - Itshwarela le ho bapala lisebelisoa tsa ho feta pelo.\n\n3. Ho nka karolo ya ho hlokomela lisebelisoa tsa ho sebelisa tlhahlobo ya web, le likarolo tse dingwe:\n   - Hlokomela lisebelisoa tsa ho sebelisa tlhahlobo ya web, le likarolo tse dingwe.\n   - Itshwarela le ho bapala lisebelisoa tsa ho sebelisa tlhahlobo ya web, le likarolo tse dingwe.\n\n4. Ho nka karolo ya ho hlokomela lisebelisoa tsa ho feta matshwao a har'a lona:\n   - Hlokomela lisebelisoa tsa ho feta matshwao a har'a lona.\n   - Itshwarela le ho bapala lisebelisoa tsa ho feta matshwao a har'a lona.\n\n5. Ho nka karolo ya ho hlokomela lisebelisoa tsa ho nka karolo ya ho sebelisa litlaleho tsa mets"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 500,
+        "total_tokens": 613
+    }
+}

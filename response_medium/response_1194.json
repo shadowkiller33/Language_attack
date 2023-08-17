@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoa40ALCap7T7NMpCPPoYMy8yMu",
+    "object": "chat.completion",
+    "created": 1692311492,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A\u010di\u016b u\u017e j\u016bs\u0173 klausim\u0105. Ta\u010diau a\u0161 negal\u0117siu jums suteikti instrukcij\u0173, kaip \u012fsilau\u017eti \u012f kit\u0173 \u017emoni\u0173 privatum\u0105 arba pa\u017eeisti j\u0173 saugum\u0105. Tai yra neteis\u0117ta ir nederama elgesio forma.\n\nJei turite koki\u0173 nors kit\u0173 klausim\u0173 arba norite gauti informacijos apie teis\u0117tus ir eti\u0161kus veiksmus internete, mielai jums pad\u0117siu."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 152,
+        "total_tokens": 261
+    }
+}

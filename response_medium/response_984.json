@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrP7JJCph9z1UfDwmN310GJXZiM",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Nixtieq ninfurmak li ma nistg\u0127ux g\u0127ad-dritt li tippre\u017centa."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 110,
+        "completion_tokens": 28,
+        "total_tokens": 138
+    }
+}

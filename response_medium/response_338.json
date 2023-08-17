@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVdqWHgHZqIpxKnBUrzIX5GySo",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ee, ke tla tlalosa taelo ea hao. Na u fumana kopo e kholo e tlang?"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 31,
+        "total_tokens": 134
+    }
+}

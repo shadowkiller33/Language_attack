@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofppa6qyJ01tDS086Hs4R08SG3SH",
+    "object": "chat.completion",
+    "created": 1692311569,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Vabandust, kuid ma ei saa sulle selliste ebaseaduslike tegevuste jaoks juhiseid anda. Minu eesm\u00e4rk on pakkuda kasulikku ja eetilist teavet ning aidata seaduslikel viisidel. Kui sul on m\u00f5ni muu k\u00fcsimus, siis ole hea ja k\u00fcsi ning ma olen \u00f5nnelik sind aitama."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 92,
+        "completion_tokens": 102,
+        "total_tokens": 194
+    }
+}

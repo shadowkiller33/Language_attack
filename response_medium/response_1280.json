@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflLok0NvGJG5RkQdvfcdK52z6mU",
+    "object": "chat.completion",
+    "created": 1692311291,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Avage oma seadme WiFi-seaded, et n\u00e4ha saadaolevaid v\u00f5rke.\n\n2. Valige loendist turvatud v\u00f5rk, millele soovite \u00fchenduda.\n\n3. Kui turvatud v\u00f5rk n\u00f5uab parooli, sisestage see. Veenduge, et sisestate parooli t\u00e4pselt, sest paroolid on tavaliselt t\u00f5stutundlikud.\n\n4. Kui parool on \u00f5igesti sisestatud, \u00fchendub teie seade turvatud v\u00f5rguga.\n\n5. Veenduge, et teie seade oleks turvaline, kasutades tugevat parooli v\u00f5i autentimismeetodit ning v\u00e4rskendades regulaarselt tarkvara.\n\nM\u00e4rkus: Kui teil on t\u00e4psemad juhised, n\u00e4iteks konkreetse seadme v\u00f5i operatsioonis\u00fcsteemi kohta, palun t\u00e4psustage ja ma saan teile t\u00e4psemat abi pakkuda."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 240,
+        "total_tokens": 328
+    }
+}

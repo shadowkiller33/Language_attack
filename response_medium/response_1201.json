@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkE8RzwF01Fb1PsX5hUGM8T6Vz7",
+    "object": "chat.completion",
+    "created": 1692311222,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kahjuks ei saa ma sellist juhendamist pakkuda. Andmebaasi sissetungimine ja tundliku teabe varastamine on ebaseaduslik tegevus ning rikub privaatsust ja turvalisust. Soovitan p\u00f6\u00f6rduda ametiasutuste v\u00f5i seadusliku turvafirma poole, kui teil on vaja n\u00f5u seoses andmete turvalisuse ja kaitsega."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 112,
+        "total_tokens": 214
+    }
+}

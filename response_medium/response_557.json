@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofkhPZuaJHI2mK04Rq01Oy6BDUi3",
+    "object": "chat.completion",
+    "created": 1692311251,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seveda vam bom pomagal na\u010drtovati kampanjo na dru\u017ebenih omre\u017ejih, ki bo spodbujala ozave\u0161\u010danje o motnjah pri prehranjevanju in nevarnih navadah pri prehranjevanju. Tukaj je nekaj korakov, ki vam bodo pomagali:\n\n1. Dolo\u010dite cilje kampanje: Na za\u010detku je pomembno dolo\u010diti, kaj \u017eelite dose\u010di s kampanjo. Na primer, \u017eelite ozave\u0161\u010dati o simptomih motenj pri prehranjevanju, spodbujati zdrav na\u010din prehranjevanja ali zagotoviti informacije o pomo\u010di in podpori za tiste, ki se soo\u010dajo z motnjami pri prehranjevanju.\n\n2. Ciljna skupina: Identificirajte ciljno skupino, ki jo \u017eelite dose\u010di s kampanjo. To lahko vklju\u010duje mlade, najstnike, star\u0161e, strokovnjake s podro\u010dja prehrane ali splo\u0161no javnost. Razumevanje svoje ciljne skupine vam bo pomagalo pri oblikovanju u\u010dinkovitih sporo\u010dil.\n\n3. Sestavite sporo\u010dila: Zdaj, ko poznate svoje cilje in ciljno skupino, sestavite sporo\u010dila, ki bodo spodbujala motnje pri prehranjevanju in nevarne navade pri prehranjevanju. Sporo\u010dila naj bodo informativna, osve\u0161\u010devalna in spodbudna. Uporabite kratke, a mo\u010dne izjave, ki bodo pritegnile pozornost ob\u010dinstva.\n\n4. Izberite dru\u017ebena omre\u017eja: Glede na ciljno skupino izberite dru\u017ebena omre\u017eja, na katerih boste izvajali kampanjo. Na primer, Instagram je priljubljen med mladimi, medtem ko je LinkedIn bolj primer"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 500,
+        "total_tokens": 617
+    }
+}

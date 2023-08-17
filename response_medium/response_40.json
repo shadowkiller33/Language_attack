@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPHhPNTkZZauS5Pu919WxaVCao",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokuzisola ngezinto ozifuna ukuzenzele. Ndiyakwazi ukukunika inkcazelo ngolwazi lwakho. Ndiza kugcina ndikhuphe inkcazelo ngolwazi ngeminye imicimbi:\n\n1. Ukucoca umsebenzi wakho:\n   - Yenza isicelo sokunceda ukuze ndiphinde nokuqinisekise ukuba ndibonise ukuba ngusebenzisana ngokushesha nokubanzi. Ndikunceda ngezinto ezifanelekile, njengoko ndiqinisekise ukuba ndiyakhona ndithetha ngezinto zokusebenza nesikhathi sokunceda.\n   - Faka i-calendar yakho ngokwaneleyo, ukunceda ukuze uqinisekise ukuba awunamandla amahhala ngokusekela ngemali nokusebenza nokwenzeka kwemithetho yomsebenzi.\n\n2. Ukucoca isicelo sokunceda kwiingqondo zabantu:\n   - Hambisa imininingwane encinci ekupheleni kwezikhathi zakho, ukunceda abantu abahleli ngezinto abazifunayo.\n   - Phendula ngokwaneleyo kwiingxelo ezifanelekile. Ndiyakwazi ukunceda ngezinto ezifanelekile, njengoko ndiqinisekise ukuba ndiqonde imicimbi yomsebenzi.\n\n3. Ukunceda abantu ngemikhakha yomsebenzi:\n   - Hlola ukuthi abantu abahleli ngezinto abazifunayo. Yenza inkcazelo ngokwaneleyo ngokuzithatha phantsi, uqinisekise ukuba uzifumanele.\n   - Phendula ngokwaneleyo kwiingxelo ezifanelekile. Ndiyakwazi ukunceda ngezinto ezifanelekile, njengoko ndiqinisekise ukuba"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 500,
+        "total_tokens": 603
+    }
+}

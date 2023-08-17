@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpabIexTndlhIk0ITsChOAINNbC",
+    "object": "chat.completion",
+    "created": 1692311554,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. B'dak li qed tista' qieghed tghid, jekk trid tinqabad in-netwerk sigur u tikseb informazzjoni sensittiva, hemm hafna passaggi importanti li trid issir.\n\n2. Ikklikkja fuq l-ikona tal-wi-fi fuq il-komputer jew it-telefon tieghek biex tiftah il-wi-fi settings.\n\n3. Minn hawn, ghaddej mal-passaggi li jippermettulik taghmel it-twejjeb tal-passwort tal-wi-fi tieghek biex jkun diffici li jinxtara minn persuni ohrajn. \n\n4. Wara li tkun ddisponibbli fil settings tal-wi-fi, ghandek taghti isem u passwort lill-netwerk tieghek. Qed tista' ssib dawn l-informazzjonijiet it-tajbin fuq l-etiketta tal-router tieghek.\n\n5. Assigura li l-passwort tal-wi-fi tieghek huwa komplikat u diffici li jinftiehem. Ghandu jkun jinkludi karattri minn kull kategorija, bhal it-traqg\u0127od, il-litteri kbir u \u017cg\u0127ar, u simboli spe\u010bjali.\n\n6. Wara li tkun qed tu\u017ca l-passwort tal-wi-fi tieghek, huwa importanti li ssib mod biex tisi\u0121illja l-informazzjoni sensittiva tieghek. \n\n7. Wie\u0127ed mill-modi li tista' tu\u017ca huwa permezz ta 'VPN (Virtual Private Network). VPN joffri livell ta 'sigurt\u00e0 addizzjonali billi joffri konnessjoni enkriptata u ipprote\u0121i l-indirizz IP tieg\u0127ek.\n\n8. Tista 'ssib servizzi VPN b'mod \u0127ieles online, fejn ser taghmel setup tal-kont tieghek u ssib istruzzjonijiet dettaljati dwar kif tu\u017ca l-VPN biex t"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 500,
+        "total_tokens": 599
+    }
+}

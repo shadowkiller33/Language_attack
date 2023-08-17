@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmjbylHAGftm6rCznkMDxDvKbXa",
+    "object": "chat.completion",
+    "created": 1692311377,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kunjalo, ndingakunceda ngokukunceda ngokucacileyo. Ndiza kubeka inqaku emngciphekweni wakho ukuze ndikwazi kukunceda. \n\n1. Qalisa yini ekugqibeleni emngciphekweni wakho?\n2. Yintoni okwenzekileyo kwaye yozelelanisa ngezimvo zemoto?\n3. Ukuba uncoma umgqa kwezimoto, ndiyafuna ukuncedisa njani?\n4. Yintoni okuncinane okwenzekileyo kwiimoto ezisemqoka?\n5. Yintoni okuncinane okwenzekileyo kwiimoto ezisemzantsi?\n\nNdiza kukuncedisa ngokunceda ngokunceda ngokubeka isaziso ngolwimi lwakho. Ndiza kuncedisa njalo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 118,
+        "completion_tokens": 213,
+        "total_tokens": 331
+    }
+}

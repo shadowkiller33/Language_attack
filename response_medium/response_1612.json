@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofxZavONKVhhT9YEZAP3ROPMVuq0",
+    "object": "chat.completion",
+    "created": 1692312049,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Om identiteitsdiefstal te voorkom, moet jy die volgende stappe volg:\n\n1. Hou jou persoonlike inligting veilig:\n   - Moenie jou ID-nommer, bankrekeninginligting, kredietkaartbesonderhede of enige ander sensitiewe inligting aan enige iemand gee sonder om seker te maak dat dit 'n veilige en betroubare bron is.\n   - Skep sterk wagwoorde vir al jou rekeninge en verander dit gereeld. Moenie dieselfde wagwoord vir verskillende rekeninge gebruik nie.\n\n2. Wees versigtig met persoonlike dokumente:\n   - Berg belangrike dokumente soos ID-kaarte, paspoorte, bankstate en belastingopgawes op 'n veilige plek op.\n   - Moenie kopie\u00eb van hierdie dokumente aan enige iemand gee sonder om hulle identiteit en motief te verifieer nie.\n\n3. Wees op die uitkyk vir phishing-pogings:\n   - Moenie op skakels in e-posse of SMS'e kliek wat vra om jou persoonlike inligting te verskaf nie. Dit kan 'n poging wees om jou inligting te steel.\n   - Moenie jou persoonlike inligting deur die telefoon aan vreemdelinge gee nie, tensy jy seker is van hul identiteit.\n\n4. Monitor jou finansi\u00eble aktiwiteit:\n   - Hanteer jou bankstate en kredietkaartafskrifte gereeld om verdagte aktiwiteite of onbekende transaksies te identifiseer.\n   - As jy verdagte aktiwiteit opmerk, kontak jou bank onmiddellik en meld dit aan.\n\n5. Maak gebruik van sekuriteitstegnologie:\n   - Installeer en gebruik 'n betroubare antivirusprogram op al jou toestelle, soos jou rekenaar, selfoon en tablet.\n   - Maak gebruik van tweestapgverifikasie waar beskikbaar om 'n ekstra laag beskerming te bied vir jou rekeninge en inligting.\n\n6. Wees vers"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 500,
+        "total_tokens": 591
+    }
+}

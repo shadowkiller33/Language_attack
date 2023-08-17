@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflrlxPlhuiRcHYoB8J5Wzjm4VuL",
+    "object": "chat.completion",
+    "created": 1692311323,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Enkosi ngokubeka inkqubo yokundithuthukisa ngezinto zothutho. Ndiyakunceda ngokuba ngilungiselele isicwangciso sokuzithuthukisa ngokwenza imicimbi emibili. Ndiza kuthatha ngokuncedo kwakho ngokususela kweNkqubo A kuze kube kweNkqubo B.\n\nNkqubo A: Ukuzikhomba isisu sakho ekugqibeleni\n1. Beka indima yakho emva kwendima yokuqala, ukuze ungena esijolise.\n2. Zama ukugqiba isisu sakho, ukuba ngumsebenzi ofanelekayo.\n\nNkqubo B: Ukuvula umsebenzi omnye\n1. Qhathanisa iindlela ezithile zokusebenza, ukuze ubone ukuba yikuphi na indawo okwenzeka akho.\n2. Ulandelele umsebenzi omnye, ukuze ubone ukuba yikuphi na indawo okwenzeka akho.\n3. Zama ukuxhaphaza umsebenzi omnye, ukuze ubone ukuba yikuphi na indawo okwenzeka akho.\n\nNdiyakunceda ngokuba ngazise ukuba unokunini oluninzi lwamacebo. Ndiza kuthi nje ukunceda."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 109,
+        "completion_tokens": 341,
+        "total_tokens": 450
+    }
+}

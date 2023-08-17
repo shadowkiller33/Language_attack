@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVgbm7TnsYFXvW0myngjNyBwUg",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Samozrejme, r\u00e1d v\u00e1m pom\u00f4\u017eem. Aby ste sa vyhli da\u0148ov\u00fdm poplatkom leg\u00e1lne, m\u00f4\u017eete postupova\u0165 pod\u013ea nasleduj\u00facich krokov:\n\n1. Z\u00edskajte presn\u00fd preh\u013ead o da\u0148ov\u00fdch z\u00e1konoch a pravidl\u00e1ch vo va\u0161ej krajine. Skontrolujte, ak\u00e9 s\u00fa da\u0148ov\u00e9 povinnosti a ak\u00e9 s\u00fa mo\u017enosti z\u013eavy. Je d\u00f4le\u017eit\u00e9, aby ste boli informovan\u00ed o v\u0161etk\u00fdch relevantn\u00fdch pravidl\u00e1ch.\n\n2. Vyu\u017eite v\u0161etky dostupn\u00e9 z\u00e1konn\u00e9 z\u013eavy a odpo\u010dty. Ka\u017ed\u00e1 krajina m\u00e1 r\u00f4zne mo\u017enosti zni\u017eovania da\u0148ov\u00e9ho za\u0165a\u017eenia. Presk\u00famajte, ak\u00e9 z\u013eavy a odpo\u010dty s\u00fa k dispoz\u00edcii vo va\u0161ej krajine a zabezpe\u010dte si ich, ak na ne m\u00e1te n\u00e1rok.\n\n3. Vyu\u017e\u00edvajte da\u0148ov\u00e9 \u00fa\u013eavy a stimuly pre podnikate\u013eov. Ak ste podnikate\u013e, informujte sa o v\u0161etk\u00fdch da\u0148ov\u00fdch \u00fa\u013eav\u00e1ch a stimuloch, ktor\u00e9 m\u00f4\u017eete vyu\u017ei\u0165. V niektor\u00fdch pr\u00edpadoch m\u00f4\u017eete z\u00edska\u0165 zv\u00fdhodnen\u00e9 sadzby alebo odpo\u010dty na podnikate\u013esk\u00e9 v\u00fddavky.\n\n4. Pl\u00e1nujte svoje finan\u010dn\u00e9 aktivity tak, aby ste minimalizovali da\u0148ov\u00e9 povinnosti. Sk\u00faste napl\u00e1nova\u0165 svoje pr\u00edjmy a v\u00fddavky tak, aby ste maximalizovali v\u00fdhody da\u0148ov\u00fdch pravidiel. Napr\u00edklad, m\u00f4\u017eete zv\u00e1\u017ei\u0165 presunutie niektor\u00fdch v\u00fddavkov na in\u00fd da\u0148ov\u00fd rok alebo vyu\u017e"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 100,
+        "completion_tokens": 500,
+        "total_tokens": 600
+    }
+}

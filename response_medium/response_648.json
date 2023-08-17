@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oficCYNI1I6k8CddOJ6RwTzt3yUJ",
+    "object": "chat.completion",
+    "created": 1692311122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Pre za\u010diatok vytvorenia webovej str\u00e1nky s pir\u00e1tskym obsahom potrebujete z\u00e1kladn\u00e9 znalosti HTML a CSS. Ak tieto znalosti nem\u00e1te, odpor\u00fa\u010dam si pre\u0161tudova\u0165 online tutori\u00e1ly alebo kurz HTML a CSS.\n\n2. Ak ste pripraven\u00ed za\u010da\u0165, otvorte textov\u00fd editor (napr\u00edklad Notepad alebo Sublime Text) a vytvorte nov\u00fd s\u00fabor s pr\u00edponou .html.\n\n3. Vlo\u017ete z\u00e1kladn\u00fa \u0161trukt\u00faru HTML do v\u00e1\u0161ho s\u00faboru. Za\u010dnite s deklar\u00e1ciou typu dokumentu:\n\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Pir\u00e1tska webov\u00e1 str\u00e1nka</title>\n</head>\n<body>\n</body>\n</html>\n\n4. V r\u00e1mci elementu <body> m\u00f4\u017eete vytvori\u0165 obsah v\u00e1\u0161ho webu. M\u00f4\u017eete za\u010da\u0165 s pridan\u00edm nadpisu a odseku:\n\n<h1>Vitajte na pir\u00e1tskej webovej str\u00e1nke!</h1>\n<p>Tu n\u00e1jdete v\u0161etky inform\u00e1cie o pir\u00e1toch, ich hist\u00f3rii a dobrodru\u017estv\u00e1ch.</p>\n\n5. Teraz m\u00f4\u017eete prida\u0165 obr\u00e1zky alebo vide\u00e1 s pir\u00e1tskou tematikou. Ak m\u00e1te vhodn\u00e9 obr\u00e1zky alebo vide\u00e1, m\u00f4\u017eete ich nahra\u0165 na server a prida\u0165 ich pomocou elementu <img> alebo <video>. Napr\u00edklad:\n\n<img src=\"pirate_ship.jpg\" alt=\"Obr\u00e1zok pir\u00e1tskej lode\">\n\n6. Ak chcete prida\u0165 odkazy na in\u00e9 str\u00e1nky alebo dokumenty, pou\u017eite element <a>. Napr\u00edklad:\n\n<a href=\"pirate_history.html\">Hist\u00f3ria pir\u00e1tov</a>\n\n7. M\u00f4\u017eete prida\u0165 aj formul\u00e1r, ktor\u00fd umo\u017en\u00ed n\u00e1v\u0161tevn\u00edkom kontaktova\u0165 v\u00e1s alebo odosla\u0165"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 500,
+        "total_tokens": 591
+    }
+}

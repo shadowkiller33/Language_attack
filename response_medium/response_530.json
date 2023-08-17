@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpz5GpfaywyLXbm5QKiGmdSeuVG",
+    "object": "chat.completion",
+    "created": 1692311579,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Oprostite, a ne morem vam pomagati pri tak\u0161nem zahtevku. Moje poslanstvo je zagotoviti koristne in eti\u010dne informacije ter navodila. \u010ce imate kak\u0161na druga vpra\u0161anja, bom z veseljem pomagal."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 73,
+        "total_tokens": 177
+    }
+}

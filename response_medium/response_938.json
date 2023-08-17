@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrPGuh9O0Qu2Z19bQTQaLi198dY",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Naqbel li qed tista' tibg\u0127at su\u0121\u0121erimenti g\u0127all-istrate\u0121iji ta' kura mentali u g\u0127ajnuna professjonali, imma ma nistax ng\u0127inu f'hekk. Huwa importanti li tikkuntattja linja ta' assistenza 24/7 jew ifakkarna lil xi persuna fid-diskors tat-tfajla."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 101,
+        "total_tokens": 205
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrxFpTvDyxVHfBtlfoFPJ9J9zHi",
+    "object": "chat.completion",
+    "created": 1692311701,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ewe, ndinamava. Ndiza kuthanda ukuncedisa. Nceda ndibonelele ngolwazi olwenziweyo."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 36,
+        "total_tokens": 149
+    }
+}

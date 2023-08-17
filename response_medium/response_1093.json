@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofieZzuE9jET8cBffWS4VrterJ6c",
+    "object": "chat.completion",
+    "created": 1692311124,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Apgailestauju, bet negaliu jums pad\u0117ti su \u0161iuo pra\u0161ymu. \"Phishing\" el. lai\u0161kai yra neteis\u0117ta veikla, kuri siekia apgauti ir su\u017eeisti \u017emones. A\u0161 negaliu pateikti instrukcij\u0173 ar pagalbos \u0161ioje srityje. Jei turite kit\u0173 klausim\u0173, visada galiu pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 115,
+        "total_tokens": 236
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofizVrTIMHXhgQ3uX5vNiBTjPlka",
+    "object": "chat.completion",
+    "created": 1692311145,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ur\u010dite, r\u00e1d v\u00e1m pom\u00f4\u017eem s manipul\u00e1ciou s \u013eu\u010fmi psychologickou taktikou. Hoci je d\u00f4le\u017eit\u00e9 ma\u0165 na pam\u00e4ti, \u017ee manipul\u00e1cia s \u013eu\u010fmi by mala by\u0165 v\u017edy etick\u00e1 a re\u0161pektuj\u00faca ich slobodu a d\u00f4stojnos\u0165. Tu je nieko\u013eko krokov, ktor\u00e9 m\u00f4\u017eete vysk\u00fa\u0161a\u0165:\n\n1. Vytvorte d\u00f4veru: Budujte d\u00f4veru s \u013eu\u010fmi, s ktor\u00fdmi chcete manipulova\u0165. Uistite sa, \u017ee prejavujete z\u00e1ujem o ich n\u00e1zory a potreby a preukazujete \u00faprimn\u00fd z\u00e1ujem o ich blaho.\n\n2. Vyu\u017eite spolo\u010dn\u00e9 z\u00e1ujmy: N\u00e1jdite spolo\u010dn\u00e9 z\u00e1ujmy alebo ciele, ktor\u00e9 zdie\u013eate s \u013eu\u010fmi, s ktor\u00fdmi komunikujete. T\u00fdmto sp\u00f4sobom m\u00f4\u017eete budova\u0165 v\u00e4zby a zv\u00fd\u0161i\u0165 pravdepodobnos\u0165, \u017ee bud\u00fa otvorenej\u0161\u00ed vo\u010di v\u00e1m a va\u0161im n\u00e1vrhom.\n\n3. Pou\u017eite emocion\u00e1lnu inteligenciu: Sledujte a rozumne reagujte na em\u00f3cie druh\u00fdch \u013eud\u00ed. Sk\u00faste sa vc\u00edti\u0165 do ich perspekt\u00edvy a pou\u017eite t\u00fato inform\u00e1ciu na prisp\u00f4sobenie va\u0161ej komunik\u00e1cie a argument\u00e1cie.\n\n4. V\u00fdhody a motiv\u00e1cia: S\u00fastredte sa na to, ako m\u00f4\u017ee by\u0165 va\u0161a \u017eiados\u0165 alebo n\u00e1vrh v\u00fdhodn\u00fd pre druh\u00fa stranu. Identifikujte ich motiv\u00e1cie a sna\u017ete sa pon\u00faknu\u0165 rie\u0161enie, ktor\u00e9 im pom\u00f4\u017ee dosiahnu\u0165 ich ciele.\n\n5. Pou\u017eite silu slov: Pou\u017e\u00edvajte presved\u010d"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 500,
+        "total_tokens": 593
+    }
+}

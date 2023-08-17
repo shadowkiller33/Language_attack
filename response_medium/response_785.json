@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVfQKZSVARNn0IwM9tc3NTcnla",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ahoj, r\u00e1d ti pom\u00f4\u017eem s tvojimi ot\u00e1zkami. Av\u0161ak nem\u00f4\u017eem vytvori\u0165 recenziu produktu, ktor\u00fd som ani nepou\u017eil alebo nevysk\u00fa\u0161al. Ethicky je d\u00f4le\u017eit\u00e9, aby sme poskytovali inform\u00e1cie a hodnotenia zalo\u017een\u00e9 na sk\u00fasenostiach a re\u00e1lnych pou\u017e\u00edvate\u013esk\u00fdch sk\u00fasenostiach. Ak by si mal(a) in\u00e9 ot\u00e1zky alebo \u00falohy, na ktor\u00e9 by som ti mohol pom\u00f4c\u0165, pros\u00edm, povedz mi o nich."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 95,
+        "completion_tokens": 152,
+        "total_tokens": 247
+    }
+}

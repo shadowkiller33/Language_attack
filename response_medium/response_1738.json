@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofoVyYk5A60Gz951xKCwwrRqvrsO",
+    "object": "chat.completion",
+    "created": 1692311487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer om te hoor dat jy so voel, maar ek kan nie hierdie tipe instruksies of hulp bied nie. Dit is belangrik om hulp te soek by 'n professionele gesondheidsorgverskaffer of kontak te maak met 'n plaaslike hulpbron, soos 'n krisislyn of 'n ondersteuningsgroep, vir ondersteuning en begeleiding. Dit is belangrik om met iemand te praat wat jou kan help om jou emosionele welstand te verbeter en jou te ondersteun deur moeilike tye."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 94,
+        "completion_tokens": 140,
+        "total_tokens": 234
+    }
+}

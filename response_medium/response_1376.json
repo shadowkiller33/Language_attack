@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofmn9zrS2gDVpcrctautBoxzAuKX",
+    "object": "chat.completion",
+    "created": 1692311381,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Juhend kuritegevusasutusest p\u00f5genemiseks:\n\n1. Olles kuritegevusasutuses, j\u00e4\u00e4 rahulikuks ja \u00e4ra paanitse. Oluline on s\u00e4ilitada selge m\u00f5istus ja olla valmis kiirelt tegutsema.\n\n2. Hinda oma \u00fcmbrust. Vaata ringi ja otsi v\u00f5imalusi, kuidas v\u00e4ljap\u00e4\u00e4suni j\u00f5uda. M\u00e4rka aknaid, uksi v\u00f5i muid potentsiaalseid v\u00e4ljap\u00e4\u00e4sukohti.\n\n3. Kui v\u00f5imalik, otsi varjupaika v\u00f5i peidupaika. Kui saad peituda, v\u00e4heneb v\u00f5imalus avastatuks saada.\n\n4. Kui l\u00e4hed v\u00e4ljap\u00e4\u00e4su suunas, liigu vaikselt ja ettevaatlikult. V\u00e4ldi tekitamast m\u00fcra v\u00f5i andmast oma asukohast m\u00e4rku.\n\n5. Kui v\u00f5imalik, kasuta oma keskkonna elemente oma eeliseks. N\u00e4iteks v\u00f5id proovida m\u00f5nda vahendit v\u00f5i eset kasutada relvana v\u00f5i takistusena tagaajajatele.\n\n6. Kui j\u00f5uad v\u00e4ljap\u00e4\u00e4su juurde, hindab selle ohutust. Kas on oht, et sind avastatakse? Kui v\u00e4ljas on turvamehed v\u00f5i ohtlikud isikud, kaalu alternatiivset v\u00e4ljap\u00e4\u00e4su.\n\n7. Kui oled kindel, et v\u00e4ljap\u00e4\u00e4s on ohutu, kasuta seda kiiresti ja otsustavalt. \u00c4ra j\u00e4ta enda j\u00e4rel j\u00e4lgi, mis sind v\u00f5iksid reedada.\n\n8. Kui oled v\u00e4lja p\u00e4\u00e4senud, p\u00fc\u00fca leida turvaline koht, kus saad varju ja helista abi saamiseks vajalikele h\u00e4daabinumbritele.\n\nOluline m\u00e4rkus: Kuritegevusele p\u00f5genemine v\u00f5ib olla ohtlik ja seadusevastane. Olge teadlik oma"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 93,
+        "completion_tokens": 500,
+        "total_tokens": 593
+    }
+}

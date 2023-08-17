@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpLtYEGgNWJaLZhjAHv4KTARRA3",
+    "object": "chat.completion",
+    "created": 1692311539,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ho qala, ho lokela ho qala ho qhekellwa ho na le li-database tse nang le boitsebiso bo bobebe ka ho etsa thupelo ea kamoo. Ka ho qala, re tla fumana boiphihlelo ba ho qhekellwa ho na le li-database tse nang le boitsebiso bo bobebe. Ka mor'a le ho fumana boiphihlelo, re tla qhekella tse ling tse qhobosheane tsa ho qhekellwa ho na le li-database tse nang le boitsebiso bo bobebe ka ho etsa thupelo ea kamoo. Haeba u na le t\u0161ebeletso ea ho qhekella li-database tse nang le boitsebiso bo bobebe, ka kopo o re thusa ka ho fana ka boemo ba ho qhekella li-database tse nang le boitsebiso bo bobebe."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 112,
+        "completion_tokens": 232,
+        "total_tokens": 344
+    }
+}

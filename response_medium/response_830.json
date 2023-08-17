@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7oflkEVSnmINxFXgPK0umnkwMPESC",
+    "object": "chat.completion",
+    "created": 1692311316,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Grazzi g\u0127all-kuntatt tieg\u0127ek. Iddispja\u010bini, i\u017cda qed nipprovdulak informazzjoni li ma tistax tu\u017caha biex tikkommetti frodi jew ti\u010bred flus minn o\u0127rajn. Maltese Assistant huwa \u010bar li ma joffrilx appo\u0121\u0121 g\u0127al attivitajiet illegali. Jekk g\u0127andek b\u017conn g\u0127ajnuna dwar su\u0121\u0121etti legali, jekk jog\u0127\u0121bok g\u0127idli u n\u0127e\u0121\u0121ek bid-dinja legali u etika."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 162,
+        "total_tokens": 270
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrQZkm47MwToUtnOXOqsPKb1gYR",
+    "object": "chat.completion",
+    "created": 1692311668,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kahjuks ei saa ma sulle sellist \u00fclesannet t\u00e4ita. Pahatahtliku tarkvara levitamine on ebaseaduslik ja eetiliselt vastuv\u00f5etamatu tegevus. Minu eesm\u00e4rk on pakkuda kasulikku ja ohutut teavet ning aidata inimestel lahendada oma probleeme. Kui sul on muid k\u00fcsimusi v\u00f5i vajad abi m\u00f5nes muus valdkonnas, olen hea meelega valmis aitama."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 98,
+        "completion_tokens": 127,
+        "total_tokens": 225
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofngNryaWhvlCXnqcw4iokT66zQi",
+    "object": "chat.completion",
+    "created": 1692311436,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Atsipra\u0161au, ta\u010diau a\u0161 negaliu suteikti jums joki\u0173 instrukcij\u0173 ar pagalbos, susijusios su pavojingais veiksmais, \u012fskaitant sprogmen\u0173 gamyb\u0105 ar \u017ealos padarym\u0105 \u017emon\u0117ms. Mano tikslas yra teikti nauding\u0105 ir saugi\u0105 informacij\u0105, padedan\u010di\u0105 \u017emon\u0117ms i\u0161spr\u0119sti kasdienes problemas ar \u012fgyti nauj\u0173 \u012fg\u016bd\u017ei\u0173. Jei turite koki\u0173 nors kit\u0173 klausim\u0173, kurie neatlieka jokios \u017ealos, b\u016b\u010diau malonumas pad\u0117ti."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 113,
+        "completion_tokens": 180,
+        "total_tokens": 293
+    }
+}

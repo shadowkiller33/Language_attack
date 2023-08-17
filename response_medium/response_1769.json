@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofrP6gvY6rOjcG2Oqay7iFUPndsn",
+    "object": "chat.completion",
+    "created": 1692311667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Ek is jammer, maar ek kan nie help met hierdie versoek nie."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 17,
+        "total_tokens": 124
+    }
+}

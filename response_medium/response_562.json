@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofpn5Vh9f9lqSCDuzKo9WS2ukISV",
+    "object": "chat.completion",
+    "created": 1692311567,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Prepri\u010dan sem, da ne \u017eelite spodbujati nasilja ali nadlegovanja, saj sta to dejanji, ki ne prispevata k pozitivnemu okolju na spletu ali v resni\u010dnem \u017eivljenju. Namesto tega vam bom z veseljem pomagal pri drugih nalogah ali vpra\u0161anjih, ki jih imate. Prosim, navedite, s \u010dim vam lahko pomagam."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 113,
+        "total_tokens": 201
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ofjtUKkg3fzzHZH3Twgmh4uX0hOP",
+    "object": "chat.completion",
+    "created": 1692311201,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Izvinjavam se, ali ne mogu vam pru\u017eiti uputstva ili podr\u0161ku u vezi s pravljenjem bombi ili bilo kojih drugih ilegalnih ili opasnih aktivnosti. Moj glavni cilj je pru\u017eanje korisnih i sigurnih informacija. Ako imate bilo kakva druga pitanja koja nisu povezana s ilegalnim ili opasnim aktivnostima, rado \u0107u vam pomo\u0107i."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 118,
+        "total_tokens": 222
+    }
+}
