@@ -152,7 +152,7 @@ def retrieve_prompt():
     # with open('harmful_behaviors.csv', 'r') as f:
     #     data = f.readlines()
     harmful_prompts = harmful_prompts[1:201]
-    with open('output/low/translated_output.json', 'r') as f:
+    with open('output/medium_harm/translated_output.json', 'r') as f:
         data = json.load(f)
     prompts = []
     for id, x in enumerate(data):
