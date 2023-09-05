@@ -34,7 +34,7 @@ for minor_language in high_languages:
         translation = tokenizer.batch_decode(translated_tokens, skip_special_tokens=True)[0]
         translated_prompts.append(translation)
         print(translation)
-    with open(f'/apdcephfs_cq2/share_1603164/data/lingfengshen/trl/high/{minor_language}.pkl', "wb") as f:
+    with open(f'/scratch/lshen30/Language_attack/high/{minor_language}.pkl', "wb") as f:
         pickle.dump(translated_prompts, f)
     # with open(f'/apdcephfs_cq2/share_1603164/data/lingfengshen/trl/{minor_language}.pkl', 'rb') as f:
     #     data = pickle.load(f)
